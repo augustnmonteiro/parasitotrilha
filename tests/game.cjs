@@ -1,0 +1,14 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const elements=new Map();const el=id=>{if(!elements.has(id))elements.set(id,{innerHTML:'',textContent:'',hidden:false,open:false,style:{},dataset:{},classList:{toggle(){}},setAttribute(){},addEventListener(){},focus(){},scrollIntoView(){},querySelector(){return el('stub')},querySelectorAll(){return []},showModal(){this.open=true},close(){this.open=false}});return elements.get(id)};
+const registered=[];const ctx={document:{getElementById:el,querySelectorAll:()=>[],querySelector:()=>null,modelContext:{registerTool:t=>registered.push(t)}},localStorage:{getItem:()=>null,setItem(){}},matchMedia:()=>({matches:false}),window:{addEventListener(){}},AbortController,console};vm.createContext(ctx);vm.runInContext(fs.readFileSync('dist/questions.js','utf8')+'\n'+fs.readFileSync('dist/game.js','utf8'),ctx);
+const run=x=>vm.runInContext(x,ctx);
+assert.equal(run('QUESTIONS.length'),24);assert.equal(run('new Set(state.deck).size'),12);
+run('draw();for(let i=0;i<12;i++){selectAnswer(current().answer);submit();submit();next()}');assert.equal(run('state.coins'),410);assert.equal(run('state.correct'),12);assert.equal(run('state.phase'),'finished');assert(run('validState(state)'));
+run('reset();draw();for(let i=0;i<12;i++){selectAnswer((current().answer+1)%4);submit();next()}');assert.equal(run('state.coins'),10);assert.equal(run('state.errors.length'),12);
+run('reset();draw();hint();hint()');assert.equal(run('state.coins'),95);assert.equal(run('state.eliminated.length'),2);assert(!run('state.eliminated.includes(current().answer)'));run('selectAnswer(state.eliminated[0])');assert.equal(run('state.selected'),null);
+run('while(state.phase!=="finished"){selectAnswer([0,1,2,3].find(n=>n!==current().answer&&!state.eliminated.includes(n)));submit();next();if(state.phase==="question")hint()}');assert.equal(run('state.coins'),0);assert.equal(run('state.phase'),'finished');assert(run('validState(state)'));
+assert.equal(registered.length,4);assert.throws(()=>registered.find(t=>t.name==='responder_carta').execute({alternativa:9}));
+run('reset()');registered.find(t=>t.name==='comprar_primeira_carta').execute({});registered.find(t=>t.name==='responder_carta').execute({alternativa:run('current().answer')});assert.equal(run('state.coins'),120);assert.equal(run('state.phase'),'feedback');registered.find(t=>t.name==='avancar_apos_resposta').execute({});assert.equal(run('state.index'),1);
+for(const q of run('QUESTIONS')){assert.equal(q.options.length,4);assert(q.options[q.answer]);assert(q.explanation);}
+const html=fs.readFileSync('dist/index.html','utf8');for(const m of html.matchAll(/(?:src|href)="([^"#]+)"/g)){if(!m[1].includes(':')&&m[1]!=='./')assert(fs.existsSync('dist/'+m[1]),m[1])}
+console.log('OK: 24 cartas, baralho único, vitória, erros, bônus, dicas, saldo zero, validação de estado, ações estruturadas e recursos locais.');
