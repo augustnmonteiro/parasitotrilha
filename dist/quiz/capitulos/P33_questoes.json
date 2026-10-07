@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P33",
+    "name": "Farmacologia · 33 · Citopenias",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 33
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P33-0721",
+      "number": 721,
+      "topicId": "P33",
+      "text": "Vitamina B12 é necessária para metabolismo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bilirrubina exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Metilmalonil-CoA e homocisteína"
+        },
+        {
+          "id": "C",
+          "text": "Apenas glicose via GLUT4"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Vitamina B12 é necessária para metabolismo de:",
+      "explanations": {
+        "direct": "Metilmalonil-CoA e homocisteína. Deficiência pode elevar ácido metilmalônico e homocisteína; folato não explica ambos igualmente.",
+        "intuitive": "Participa de duas reações importantes para células e sistema nervoso.",
+        "technical": "Deficiência pode elevar ácido metilmalônico e homocisteína; folato não explica ambos igualmente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P33-0722",
+      "number": 722,
+      "topicId": "P33",
+      "text": "Filgrastim corresponde funcionalmente a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fator estimulador da linhagem eritroide"
+        },
+        {
+          "id": "B",
+          "text": "Fator estimulador de colônias granulocíticas"
+        },
+        {
+          "id": "C",
+          "text": "Agonista do receptor de trombopoietina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Filgrastim corresponde funcionalmente a:",
+      "explanations": {
+        "direct": "Fator estimulador de colônias granulocíticas. Não corrige todas as citopenias pelo mesmo mecanismo.",
+        "intuitive": "Estimula a linhagem de neutrófilos.",
+        "technical": "Não corrige todas as citopenias pelo mesmo mecanismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P33-0723",
+      "number": 723,
+      "topicId": "P33",
+      "text": "Epoetina estimula principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neutrófilos exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Plaquetas diretamente como único alvo"
+        },
+        {
+          "id": "C",
+          "text": "Progenitores eritroides"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Epoetina estimula principalmente:",
+      "explanations": {
+        "direct": "Progenitores eritroides. Resposta depende de disponibilidade de ferro e outras condições; não é G-CSF.",
+        "intuitive": "É um sinal para produzir hemácias.",
+        "technical": "Resposta depende de disponibilidade de ferro e outras condições; não é G-CSF."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P33-0724",
+      "number": 724,
+      "topicId": "P33",
+      "text": "Agonistas do receptor de trombopoietina estimulam principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Megacariócitos e produção plaquetária"
+        },
+        {
+          "id": "B",
+          "text": "Secreção de ácido gástrico"
+        },
+        {
+          "id": "C",
+          "text": "Conservação e produção de calor"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Agonistas do receptor de trombopoietina estimulam principalmente:",
+      "explanations": {
+        "direct": "Megacariócitos e produção plaquetária. Não são fatores de coagulação que formam fibrina diretamente.",
+        "intuitive": "Atuam na fábrica de plaquetas.",
+        "technical": "Não são fatores de coagulação que formam fibrina diretamente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P33-0725",
+      "number": 725,
+      "topicId": "P33",
+      "text": "Ferro oral pode causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Desconforto gastrointestinal e fezes escuras"
+        },
+        {
+          "id": "B",
+          "text": "Broncodilatação"
+        },
+        {
+          "id": "C",
+          "text": "Clareamento obrigatório das fezes"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Ferro oral pode causar:",
+      "explanations": {
+        "direct": "Desconforto gastrointestinal e fezes escuras. Fezes escuras por ferro não devem ser confundidas automaticamente com sangramento, mas contexto clínico importa.",
+        "intuitive": "Parte dos efeitos ocorre no próprio trato digestivo.",
+        "technical": "Fezes escuras por ferro não devem ser confundidas automaticamente com sangramento, mas contexto clínico importa."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P33-0726",
+      "number": 726,
+      "topicId": "P33",
+      "text": "Um paciente passa a tomar tetraciclina junto com um suplemento de ferro e apresenta menor exposição ao antibiótico. Qual interação na luz intestinal explica o resultado?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quelação"
+        },
+        {
+          "id": "B",
+          "text": "Indução de insulina"
+        },
+        {
+          "id": "C",
+          "text": "Agonismo H2"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente passa a tomar tetraciclina junto com um suplemento de ferro e apresenta menor exposição ao antibiótico. Qual interação na luz intestinal explica o resultado?",
+      "explanations": {
+        "direct": "Quelação. É interação na absorção, não necessariamente metabolismo hepático.",
+        "intuitive": "As moléculas formam um complexo menos absorvível.",
+        "technical": "É interação na absorção, não necessariamente metabolismo hepático."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P33-0727",
+      "number": 727,
+      "topicId": "P33",
+      "text": "Uma pessoa com anemia megaloblástica e alterações sensitivas recebe apenas ácido fólico. A anemia melhora, mas os sintomas neurológicos persistem. Qual interpretação é adequada?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Curar sempre neuropatia por B12"
+        },
+        {
+          "id": "B",
+          "text": "Impedir qualquer eritropoiese"
+        },
+        {
+          "id": "C",
+          "text": "Melhorar anemia sem corrigir lesão neurológica por B12"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Uma pessoa com anemia megaloblástica e alterações sensitivas recebe apenas ácido fólico. A anemia melhora, mas os sintomas neurológicos persistem. Qual interpretação é adequada?",
+      "explanations": {
+        "direct": "Melhorar anemia sem corrigir lesão neurológica por B12. A causa da deficiência deve ser avaliada; folato não substitui cobalamina.",
+        "intuitive": "O sangue pode melhorar enquanto o problema neurológico permanece.",
+        "technical": "A causa da deficiência deve ser avaliada; folato não substitui cobalamina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P33-0728",
+      "number": 728,
+      "topicId": "P33",
+      "text": "Um risco de agentes estimuladores da eritropoiese é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de qualquer risco vascular"
+        },
+        {
+          "id": "B",
+          "text": "Hipertensão e eventos trombóticos"
+        },
+        {
+          "id": "C",
+          "text": "Hemólise obrigatória"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Um risco de agentes estimuladores da eritropoiese é:",
+      "explanations": {
+        "direct": "Hipertensão e eventos trombóticos. Alvos e indicação dependem de contexto; não se busca normalização indiscriminada.",
+        "intuitive": "Aumentar produção não é automaticamente seguro em qualquer intensidade.",
+        "technical": "Alvos e indicação dependem de contexto; não se busca normalização indiscriminada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

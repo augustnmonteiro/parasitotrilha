@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P37",
+    "name": "Farmacologia · 37 · Hipotálamo e hipófise",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 37
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P37-0753",
+      "number": 753,
+      "topicId": "P37",
+      "text": "Octreotida é análoga de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "GnRH"
+        },
+        {
+          "id": "B",
+          "text": "Somatostatina"
+        },
+        {
+          "id": "C",
+          "text": "Ocitocina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Octreotida é análoga de:",
+      "explanations": {
+        "direct": "Somatostatina. Pode reduzir GH e secreções gastrointestinais; não é agonista do eixo gonadal.",
+        "intuitive": "Imita um sinal inibitório de várias secreções.",
+        "technical": "Pode reduzir GH e secreções gastrointestinais; não é agonista do eixo gonadal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P37-0754",
+      "number": 754,
+      "topicId": "P37",
+      "text": "Somatropina corresponde a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prolactina recombinante"
+        },
+        {
+          "id": "B",
+          "text": "GH recombinante"
+        },
+        {
+          "id": "C",
+          "text": "ACTH antagonista"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Somatropina corresponde a:",
+      "explanations": {
+        "direct": "GH recombinante. Não é suplemento universal nem equivalente a IGF-1.",
+        "intuitive": "Repõe ou oferece o sinal de crescimento em indicações específicas.",
+        "technical": "Não é suplemento universal nem equivalente a IGF-1."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P37-0755",
+      "number": 755,
+      "topicId": "P37",
+      "text": "Antagonistas de GnRH suprimem gonadotrofinas sem o mesmo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Efeito sobre LH"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio receptor"
+        },
+        {
+          "id": "C",
+          "text": "Estímulo inicial agonista"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Antagonistas de GnRH suprimem gonadotrofinas sem o mesmo:",
+      "explanations": {
+        "direct": "Estímulo inicial agonista. Isso distingue seu início de ação do de agonistas contínuos.",
+        "intuitive": "Bloqueiam diretamente o receptor em vez de primeiro ativá-lo.",
+        "technical": "Isso distingue seu início de ação do de agonistas contínuos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P37-0756",
+      "number": 756,
+      "topicId": "P37",
+      "text": "Cabergolina reduz prolactina por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonismo D2"
+        },
+        {
+          "id": "B",
+          "text": "Agonismo TSH"
+        },
+        {
+          "id": "C",
+          "text": "Antagonismo D2"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Cabergolina reduz prolactina por:",
+      "explanations": {
+        "direct": "Agonismo D2. Não estimula diretamente a tireoide; perfil de segurança e indicação precisam de avaliação.",
+        "intuitive": "Reforça o freio dopaminérgico.",
+        "technical": "Não estimula diretamente a tireoide; perfil de segurança e indicação precisam de avaliação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P37-0757",
+      "number": 757,
+      "topicId": "P37",
+      "text": "Pegvisomanto reduz efeitos do GH por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibir diretamente síntese de insulina"
+        },
+        {
+          "id": "B",
+          "text": "Estimular receptor de IGF-1"
+        },
+        {
+          "id": "C",
+          "text": "Antagonizar receptor de GH"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Pegvisomanto reduz efeitos do GH por:",
+      "explanations": {
+        "direct": "Antagonizar receptor de GH. IGF-1 é parâmetro relevante de resposta; GH circulante não reflete o bloqueio da mesma forma.",
+        "intuitive": "Bloqueia a chegada da mensagem de crescimento ao alvo.",
+        "technical": "IGF-1 é parâmetro relevante de resposta; GH circulante não reflete o bloqueio da mesma forma."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P37-0758",
+      "number": 758,
+      "topicId": "P37",
+      "text": "Ocitocina aumenta contração uterina principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio de canais de Ca²⁺"
+        },
+        {
+          "id": "B",
+          "text": "Inibição de todos os receptores uterinos"
+        },
+        {
+          "id": "C",
+          "text": "Sinalização Gq e mobilização de Ca²⁺"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ocitocina aumenta contração uterina principalmente por:",
+      "explanations": {
+        "direct": "Sinalização Gq e mobilização de Ca²⁺. Uso obstétrico exige monitoramento; não é um relaxante uterino.",
+        "intuitive": "O sinal favorece a maquinaria contrátil.",
+        "technical": "Uso obstétrico exige monitoramento; não é um relaxante uterino."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P37-0759",
+      "number": 759,
+      "topicId": "P37",
+      "text": "Leuprorrelina contínua, após fase inicial, reduz:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas TSH"
+        },
+        {
+          "id": "B",
+          "text": "Toda produção de ADH"
+        },
+        {
+          "id": "C",
+          "text": "LH e FSH"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Leuprorrelina contínua, após fase inicial, reduz:",
+      "explanations": {
+        "direct": "LH e FSH. Difere da administração pulsátil de GnRH e pode ter flare inicial.",
+        "intuitive": "A exposição contínua dessensibiliza o eixo.",
+        "technical": "Difere da administração pulsátil de GnRH e pode ter flare inicial."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P37-0760",
+      "number": 760,
+      "topicId": "P37",
+      "text": "Desmopressina pode causar hiponatremia por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perda exclusiva de todo sódio pela pele"
+        },
+        {
+          "id": "B",
+          "text": "Retenção de água desproporcional a solutos"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio de absorção intestinal de sal"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Desmopressina pode causar hiponatremia por:",
+      "explanations": {
+        "direct": "Retenção de água desproporcional a solutos. A ingestão de água e o contexto renal importam; não é necessariamente depleção de sódio corporal.",
+        "intuitive": "Água em excesso dilui o sódio plasmático.",
+        "technical": "A ingestão de água e o contexto renal importam; não é necessariamente depleção de sódio corporal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

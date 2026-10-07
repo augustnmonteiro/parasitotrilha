@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P15",
+    "name": "Farmacologia · 15 · Diuréticos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 15
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P15-0569",
+      "number": 569,
+      "topicId": "P15",
+      "text": "Tiazídicos atuam principalmente no:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Glomérulo como filtro"
+        },
+        {
+          "id": "B",
+          "text": "Ramo descendente fino"
+        },
+        {
+          "id": "C",
+          "text": "Túbulo contorcido distal"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Tiazídicos atuam principalmente no:",
+      "explanations": {
+        "direct": "Túbulo contorcido distal. O alvo é NCC; não é NKCC2 da alça.",
+        "intuitive": "Bloqueiam a recuperação de NaCl em um segmento mais distal.",
+        "technical": "O alvo é NCC; não é NKCC2 da alça."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P15-0570",
+      "number": 570,
+      "topicId": "P15",
+      "text": "Acetazolamida promove perda de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas proteínas grandes"
+        },
+        {
+          "id": "B",
+          "text": "Somente cálcio sem sódio"
+        },
+        {
+          "id": "C",
+          "text": "Bicarbonato"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Acetazolamida promove perda de:",
+      "explanations": {
+        "direct": "Bicarbonato. Inibe anidrase carbônica e pode causar acidose metabólica hiperclorêmica.",
+        "intuitive": "O túbulo recupera menos base.",
+        "technical": "Inibe anidrase carbônica e pode causar acidose metabólica hiperclorêmica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P15-0571",
+      "number": 571,
+      "topicId": "P15",
+      "text": "Furosemida bloqueia:",
+      "options": [
+        {
+          "id": "A",
+          "text": "NCC no túbulo distal"
+        },
+        {
+          "id": "B",
+          "text": "ENaC no coletor"
+        },
+        {
+          "id": "C",
+          "text": "NKCC2 na alça espessa ascendente"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Furosemida bloqueia:",
+      "explanations": {
+        "direct": "NKCC2 na alça espessa ascendente. Tiazidas bloqueiam NCC; amilorida bloqueia ENaC.",
+        "intuitive": "Interrompe uma importante via de recuperação de sal.",
+        "technical": "Tiazidas bloqueiam NCC; amilorida bloqueia ENaC."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P15-0572",
+      "number": 572,
+      "topicId": "P15",
+      "text": "Amilorida inibe:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anidrase carbônica"
+        },
+        {
+          "id": "B",
+          "text": "ENaC"
+        },
+        {
+          "id": "C",
+          "text": "Receptor mineralocorticoide"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Amilorida inibe:",
+      "explanations": {
+        "direct": "ENaC. Poupa K⁺ por reduzir eletronegatividade luminal; espironolactona age no receptor hormonal.",
+        "intuitive": "Fecha a entrada apical de sódio no coletor.",
+        "technical": "Poupa K⁺ por reduzir eletronegatividade luminal; espironolactona age no receptor hormonal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P15-0573",
+      "number": 573,
+      "topicId": "P15",
+      "text": "Espironolactona difere de amilorida por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloquear diretamente NKCC2"
+        },
+        {
+          "id": "B",
+          "text": "Antagonizar receptor mineralocorticoide"
+        },
+        {
+          "id": "C",
+          "text": "Inibir SGLT1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Espironolactona difere de amilorida por:",
+      "explanations": {
+        "direct": "Antagonizar receptor mineralocorticoide. Ambas podem poupar K⁺, mas seus alvos moleculares são distintos.",
+        "intuitive": "Bloqueia o comando da aldosterona.",
+        "technical": "Ambas podem poupar K⁺, mas seus alvos moleculares são distintos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P15-0574",
+      "number": 574,
+      "topicId": "P15",
+      "text": "Manitol aumenta diurese porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eleva osmolaridade do líquido tubular"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueia receptor de ADH diretamente"
+        },
+        {
+          "id": "C",
+          "text": "Ativa ENaC"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Manitol aumenta diurese porque:",
+      "explanations": {
+        "direct": "Eleva osmolaridade do líquido tubular. É diurético osmótico; pode inicialmente expandir volume extracelular.",
+        "intuitive": "Mantém água na luz ao carregar partículas pouco reabsorvidas.",
+        "technical": "É diurético osmótico; pode inicialmente expandir volume extracelular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P15-0575",
+      "number": 575,
+      "topicId": "P15",
+      "text": "Diuréticos de alça tendem a aumentar excreção de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bicarbonato como principal efeito da classe"
+        },
+        {
+          "id": "B",
+          "text": "Cálcio e magnésio"
+        },
+        {
+          "id": "C",
+          "text": "Urato como efeito necessário de todos os agentes"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Diuréticos de alça tendem a aumentar excreção de:",
+      "explanations": {
+        "direct": "Cálcio e magnésio. O potencial luminal positivo da alça favorece reabsorção paracelular; seu bloqueio a reduz.",
+        "intuitive": "A perda do gradiente elétrico reduz recuperação desses minerais.",
+        "technical": "O potencial luminal positivo da alça favorece reabsorção paracelular; seu bloqueio a reduz."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P15-0576",
+      "number": 576,
+      "topicId": "P15",
+      "text": "Tiazídicos tendem a reduzir excreção urinária de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sódio"
+        },
+        {
+          "id": "B",
+          "text": "Cloreto"
+        },
+        {
+          "id": "C",
+          "text": "Cálcio"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Tiazídicos tendem a reduzir excreção urinária de:",
+      "explanations": {
+        "direct": "Cálcio. A natriurese persiste; mecanismos distais e contração de volume contribuem.",
+        "intuitive": "Ao contrário da alça, podem conservar cálcio.",
+        "technical": "A natriurese persiste; mecanismos distais e contração de volume contribuem."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P15-0577",
+      "number": 577,
+      "topicId": "P15",
+      "text": "Tolvaptana aumenta excreção de água ao bloquear:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptores V2"
+        },
+        {
+          "id": "B",
+          "text": "Receptores β1"
+        },
+        {
+          "id": "C",
+          "text": "Receptores AT1"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Tolvaptana aumenta excreção de água ao bloquear:",
+      "explanations": {
+        "direct": "Receptores V2. É aquarético; correção de sódio e riscos hepáticos exigem contexto e monitoramento.",
+        "intuitive": "Retira o sinal que abre canais de água no coletor.",
+        "technical": "É aquarético; correção de sódio e riscos hepáticos exigem contexto e monitoramento."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P15-0578",
+      "number": 578,
+      "topicId": "P15",
+      "text": "Hipocalemia com alça ou tiazida decorre em parte de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maior entrega distal de Na⁺ e secreção de K⁺"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio completo de ENaC"
+        },
+        {
+          "id": "C",
+          "text": "Redução da entrega distal de sódio"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Hipocalemia com alça ou tiazida decorre em parte de:",
+      "explanations": {
+        "direct": "Maior entrega distal de Na⁺ e secreção de K⁺. Ativação do SRAA e fluxo distal também contribuem.",
+        "intuitive": "Mais sódio chega ao local que o troca funcionalmente por perda de potássio.",
+        "technical": "Ativação do SRAA e fluxo distal também contribuem."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P15-0579",
+      "number": 579,
+      "topicId": "P15",
+      "text": "Combinar poupadores de K⁺ com IECA aumenta risco de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipercalemia"
+        },
+        {
+          "id": "B",
+          "text": "Hipocalemia obrigatória"
+        },
+        {
+          "id": "C",
+          "text": "Hipernatremia inevitável"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Combinar poupadores de K⁺ com IECA aumenta risco de:",
+      "explanations": {
+        "direct": "Hipercalemia. Exige atenção à função renal e contexto; não é associação metabolicamente neutra.",
+        "intuitive": "Duas vias reduzem a capacidade de eliminar potássio.",
+        "technical": "Exige atenção à função renal e contexto; não é associação metabolicamente neutra."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P15-0580",
+      "number": 580,
+      "topicId": "P15",
+      "text": "Ototoxicidade é um risco clássico de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amilorida exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Diuréticos de alça"
+        },
+        {
+          "id": "C",
+          "text": "Espironolactona exclusivamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Ototoxicidade é um risco clássico de:",
+      "explanations": {
+        "direct": "Diuréticos de alça. Risco depende de dose, exposição e associações, como aminoglicosídeos.",
+        "intuitive": "Transportadores relacionados também importam no ouvido.",
+        "technical": "Risco depende de dose, exposição e associações, como aminoglicosídeos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

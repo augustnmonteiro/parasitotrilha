@@ -1,0 +1,1549 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "F02",
+    "name": "Fisiologia · 02 · Sistema autônomo",
+    "book": "Costanzo Physiology, 8ª edição",
+    "chapter": 2
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "F02-0041",
+      "number": 41,
+      "topicId": "F02",
+      "text": "O neurotransmissor de todas as fibras autonômicas pré-ganglionares é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acetilcolina"
+        },
+        {
+          "id": "B",
+          "text": "Noradrenalina"
+        },
+        {
+          "id": "C",
+          "text": "Dopamina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O neurotransmissor de todas as fibras autonômicas pré-ganglionares é:",
+      "explanations": {
+        "direct": "Acetilcolina. Ela atua em receptores nicotínicos neuronais nos gânglios; catecolaminas não são a regra pré-ganglionar.",
+        "intuitive": "As duas divisões usam a mesma mensagem na primeira conexão.",
+        "technical": "Ela atua em receptores nicotínicos neuronais nos gânglios; catecolaminas não são a regra pré-ganglionar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0042",
+      "number": 42,
+      "topicId": "F02",
+      "text": "O receptor ganglionar autonômico típico é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Muscarínico M2"
+        },
+        {
+          "id": "B",
+          "text": "Nicotínico neuronal"
+        },
+        {
+          "id": "C",
+          "text": "Adrenérgico β1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O receptor ganglionar autonômico típico é:",
+      "explanations": {
+        "direct": "Nicotínico neuronal. Nn é ionotrópico; M2 e β1 são receptores metabotrópicos de órgãos efetores.",
+        "intuitive": "O gânglio recebe um sinal rápido por canal iônico.",
+        "technical": "Nn é ionotrópico; M2 e β1 são receptores metabotrópicos de órgãos efetores."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0043",
+      "number": 43,
+      "topicId": "F02",
+      "text": "A maioria das fibras simpáticas pós-ganglionares libera:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Noradrenalina"
+        },
+        {
+          "id": "B",
+          "text": "Serotonina"
+        },
+        {
+          "id": "C",
+          "text": "Acetilcolina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A maioria das fibras simpáticas pós-ganglionares libera:",
+      "explanations": {
+        "direct": "Noradrenalina. Glândulas sudoríparas écrinas são uma exceção colinérgica importante.",
+        "intuitive": "A segunda etapa simpática costuma usar noradrenalina.",
+        "technical": "Glândulas sudoríparas écrinas são uma exceção colinérgica importante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0044",
+      "number": 44,
+      "topicId": "F02",
+      "text": "A fibra simpática que inerva glândula sudorípara écrina libera:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acetilcolina"
+        },
+        {
+          "id": "B",
+          "text": "Noradrenalina"
+        },
+        {
+          "id": "C",
+          "text": "Glutamato"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A fibra simpática que inerva glândula sudorípara écrina libera:",
+      "explanations": {
+        "direct": "Acetilcolina. A resposta secretora é predominantemente muscarínica, apesar da origem simpática.",
+        "intuitive": "Suor é uma exceção à regra simpática habitual.",
+        "technical": "A resposta secretora é predominantemente muscarínica, apesar da origem simpática."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0045",
+      "number": 45,
+      "topicId": "F02",
+      "text": "A medula adrenal é funcionalmente semelhante a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gânglio parassimpático cervical"
+        },
+        {
+          "id": "B",
+          "text": "Placa motora esquelética"
+        },
+        {
+          "id": "C",
+          "text": "Gânglio simpático modificado"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A medula adrenal é funcionalmente semelhante a:",
+      "explanations": {
+        "direct": "Gânglio simpático modificado. Células cromafins recebem acetilcolina pré-ganglionar e liberam catecolaminas sistêmicas.",
+        "intuitive": "Ela envia a mensagem simpática pelo sangue.",
+        "technical": "Células cromafins recebem acetilcolina pré-ganglionar e liberam catecolaminas sistêmicas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0046",
+      "number": 46,
+      "topicId": "F02",
+      "text": "A origem toracolombar corresponde ao:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistema parassimpático"
+        },
+        {
+          "id": "B",
+          "text": "Sistema motor somático inteiro"
+        },
+        {
+          "id": "C",
+          "text": "Sistema simpático"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A origem toracolombar corresponde ao:",
+      "explanations": {
+        "direct": "Sistema simpático. O parassimpático tem origem craniossacral; vias somáticas não seguem essa divisão.",
+        "intuitive": "O simpático nasce em segmentos torácicos e lombares altos.",
+        "technical": "O parassimpático tem origem craniossacral; vias somáticas não seguem essa divisão."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0047",
+      "number": 47,
+      "topicId": "F02",
+      "text": "O nervo vago conduz principalmente qual saída autonômica para vísceras toracoabdominais?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somática para músculo liso"
+        },
+        {
+          "id": "B",
+          "text": "Parassimpática"
+        },
+        {
+          "id": "C",
+          "text": "Simpática pós-ganglionar"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O nervo vago conduz principalmente qual saída autonômica para vísceras toracoabdominais?",
+      "explanations": {
+        "direct": "Parassimpática. Fibras eferentes vagais autonômicas são parassimpáticas; o vago também contém muitas aferências.",
+        "intuitive": "Ele leva comandos de manutenção visceral.",
+        "technical": "Fibras eferentes vagais autonômicas são parassimpáticas; o vago também contém muitas aferências."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0048",
+      "number": 48,
+      "topicId": "F02",
+      "text": "Receptores β1 cardíacos se acoplam principalmente a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gs"
+        },
+        {
+          "id": "B",
+          "text": "Gi"
+        },
+        {
+          "id": "C",
+          "text": "Gq"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Receptores β1 cardíacos se acoplam principalmente a:",
+      "explanations": {
+        "direct": "Gs. A ativação favorece cronotropismo e inotropismo; Gi é típico de M2 e α2.",
+        "intuitive": "β1 aumenta a sinalização por AMPc.",
+        "technical": "A ativação favorece cronotropismo e inotropismo; Gi é típico de M2 e α2."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0049",
+      "number": 49,
+      "topicId": "F02",
+      "text": "Receptores α1 se acoplam principalmente a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gq"
+        },
+        {
+          "id": "B",
+          "text": "Gs"
+        },
+        {
+          "id": "C",
+          "text": "Gi"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Receptores α1 se acoplam principalmente a:",
+      "explanations": {
+        "direct": "Gq. PLC-IP₃-DAG facilita contração vascular; não é a via principal da adenilil ciclase.",
+        "intuitive": "α1 mobiliza cálcio dentro da célula.",
+        "technical": "PLC-IP₃-DAG facilita contração vascular; não é a via principal da adenilil ciclase."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0050",
+      "number": 50,
+      "topicId": "F02",
+      "text": "Receptores α2 pré-sinápticos geralmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Produzem bloqueio neuromuscular esquelético"
+        },
+        {
+          "id": "B",
+          "text": "Amplificam obrigatoriamente toda exocitose"
+        },
+        {
+          "id": "C",
+          "text": "Reduzem liberação de noradrenalina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Receptores α2 pré-sinápticos geralmente:",
+      "explanations": {
+        "direct": "Reduzem liberação de noradrenalina. Gi e modulação de canais reduzem liberação; receptores Nm controlam placa motora.",
+        "intuitive": "Funcionam como um freio na própria terminação.",
+        "technical": "Gi e modulação de canais reduzem liberação; receptores Nm controlam placa motora."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0051",
+      "number": 51,
+      "topicId": "F02",
+      "text": "Ativar β2 em músculo liso brônquico causa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Paralisia da placa motora"
+        },
+        {
+          "id": "B",
+          "text": "Relaxamento"
+        },
+        {
+          "id": "C",
+          "text": "Contração"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ativar β2 em músculo liso brônquico causa:",
+      "explanations": {
+        "direct": "Relaxamento. Gs-AMPc-PKA reduz atividade contrátil no músculo liso; não atua como bloqueador Nm.",
+        "intuitive": "As vias aéreas se abrem.",
+        "technical": "Gs-AMPc-PKA reduz atividade contrátil no músculo liso; não atua como bloqueador Nm."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0052",
+      "number": 52,
+      "topicId": "F02",
+      "text": "Para visão próxima, o músculo ciliar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Contrai e reduz tensão zonular"
+        },
+        {
+          "id": "B",
+          "text": "Contrai e achata obrigatoriamente o cristalino"
+        },
+        {
+          "id": "C",
+          "text": "Relaxa e aumenta tensão zonular"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Para visão próxima, o músculo ciliar:",
+      "explanations": {
+        "direct": "Contrai e reduz tensão zonular. Contração ciliar diminui tensão das zônulas, aumentando poder refrativo.",
+        "intuitive": "Ao relaxar os fios, o cristalino fica mais arredondado.",
+        "technical": "Contração ciliar diminui tensão das zônulas, aumentando poder refrativo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0053",
+      "number": 53,
+      "topicId": "F02",
+      "text": "O bloqueio muscarínico ocular costuma causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Midríase e contração ciliar intensa"
+        },
+        {
+          "id": "B",
+          "text": "Midríase e cicloplegia"
+        },
+        {
+          "id": "C",
+          "text": "Miose e acomodação próxima"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O bloqueio muscarínico ocular costuma causar:",
+      "explanations": {
+        "direct": "Midríase e cicloplegia. Sem ação M3, esfíncter e músculo ciliar perdem a estimulação parassimpática.",
+        "intuitive": "Retira o fechamento pupilar e a acomodação.",
+        "technical": "Sem ação M3, esfíncter e músculo ciliar perdem a estimulação parassimpática."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0054",
+      "number": 54,
+      "topicId": "F02",
+      "text": "Qual resposta é compatível com atividade simpática intensa?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Piloereção cutânea"
+        },
+        {
+          "id": "B",
+          "text": "Aumento da propulsão intestinal"
+        },
+        {
+          "id": "C",
+          "text": "Constrição pupilar"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Qual resposta é compatível com atividade simpática intensa?",
+      "explanations": {
+        "direct": "Piloereção cutânea. A piloereção é α1; miose e motilidade intestinal aumentada associam-se ao parassimpático.",
+        "intuitive": "Pequenos músculos da pele contraem.",
+        "technical": "A piloereção é α1; miose e motilidade intestinal aumentada associam-se ao parassimpático."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0055",
+      "number": 55,
+      "topicId": "F02",
+      "text": "Ao levantar rapidamente, a descarga dos barorreceptores inicialmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumenta"
+        },
+        {
+          "id": "B",
+          "text": "Diminui"
+        },
+        {
+          "id": "C",
+          "text": "Permanece necessariamente igual"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ao levantar rapidamente, a descarga dos barorreceptores inicialmente:",
+      "explanations": {
+        "direct": "Diminui. O retorno venoso e pressão podem cair; isso desencadeia compensação simpática.",
+        "intuitive": "Menos estiramento significa menos avisos de pressão.",
+        "technical": "O retorno venoso e pressão podem cair; isso desencadeia compensação simpática."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0056",
+      "number": 56,
+      "topicId": "F02",
+      "text": "A resposta reflexa à queda aguda da pressão inclui:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bradicardia e vasodilatação"
+        },
+        {
+          "id": "B",
+          "text": "Abolição de toda atividade autonômica"
+        },
+        {
+          "id": "C",
+          "text": "Taquicardia e vasoconstrição"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A resposta reflexa à queda aguda da pressão inclui:",
+      "explanations": {
+        "direct": "Taquicardia e vasoconstrição. Menor descarga barorreceptora aumenta simpático e reduz vago.",
+        "intuitive": "O corpo acelera a bomba e aperta os vasos.",
+        "technical": "Menor descarga barorreceptora aumenta simpático e reduz vago."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0057",
+      "number": 57,
+      "topicId": "F02",
+      "text": "Qual receptor é um canal iônico?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adrenérgico"
+        },
+        {
+          "id": "B",
+          "text": "Muscarínico"
+        },
+        {
+          "id": "C",
+          "text": "Nicotínico"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Qual receptor é um canal iônico?",
+      "explanations": {
+        "direct": "Nicotínico. Muscarínicos e adrenérgicos sinalizam por proteínas G.",
+        "intuitive": "A ligação abre diretamente uma passagem para íons.",
+        "technical": "Muscarínicos e adrenérgicos sinalizam por proteínas G."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0058",
+      "number": 58,
+      "topicId": "F02",
+      "text": "Ativar M2 no nó sinusal tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diminuir frequência cardíaca"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar frequência cardíaca"
+        },
+        {
+          "id": "C",
+          "text": "Contrair músculo esquelético"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ativar M2 no nó sinusal tende a:",
+      "explanations": {
+        "direct": "Diminuir frequência cardíaca. Gi reduz AMPc e subunidades abrem canais de K⁺; placa motora utiliza Nm.",
+        "intuitive": "O vago desacelera o marca-passo.",
+        "technical": "Gi reduz AMPc e subunidades abrem canais de K⁺; placa motora utiliza Nm."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0059",
+      "number": 59,
+      "topicId": "F02",
+      "text": "Ativar M3 na bexiga favorece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento da filtração glomerular diretamente"
+        },
+        {
+          "id": "B",
+          "text": "Relaxamento do detrusor"
+        },
+        {
+          "id": "C",
+          "text": "Contração do detrusor"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ativar M3 na bexiga favorece:",
+      "explanations": {
+        "direct": "Contração do detrusor. M3 usa Gq; relaxamento de armazenamento envolve β3.",
+        "intuitive": "O músculo da bexiga aperta para esvaziar.",
+        "technical": "M3 usa Gq; relaxamento de armazenamento envolve β3."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0060",
+      "number": 60,
+      "topicId": "F02",
+      "text": "A ativação simpática β3 na bexiga favorece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Esvaziamento por contração do detrusor"
+        },
+        {
+          "id": "B",
+          "text": "Abertura da junção neuromuscular"
+        },
+        {
+          "id": "C",
+          "text": "Armazenamento urinário"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A ativação simpática β3 na bexiga favorece:",
+      "explanations": {
+        "direct": "Armazenamento urinário. β3 relaxa detrusor; a micção depende de atividade parassimpática coordenada.",
+        "intuitive": "O reservatório relaxa para guardar mais urina.",
+        "technical": "β3 relaxa detrusor; a micção depende de atividade parassimpática coordenada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0061",
+      "number": 61,
+      "topicId": "F02",
+      "text": "A midríase simpática depende de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Contração do músculo radial da íris"
+        },
+        {
+          "id": "B",
+          "text": "Contração do esfíncter pupilar"
+        },
+        {
+          "id": "C",
+          "text": "Paralisia de todos os músculos oculares"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A midríase simpática depende de:",
+      "explanations": {
+        "direct": "Contração do músculo radial da íris. A via α1 é distinta da miose muscarínica do esfíncter.",
+        "intuitive": "O músculo radial puxa a pupila para abrir.",
+        "technical": "A via α1 é distinta da miose muscarínica do esfíncter."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0062",
+      "number": 62,
+      "topicId": "F02",
+      "text": "A miose parassimpática decorre de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Contração do esfíncter da pupila"
+        },
+        {
+          "id": "B",
+          "text": "Contração do músculo reto lateral"
+        },
+        {
+          "id": "C",
+          "text": "Contração do músculo radial"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A miose parassimpática decorre de:",
+      "explanations": {
+        "direct": "Contração do esfíncter da pupila. O receptor predominante é M3; radial α1 dilata a pupila.",
+        "intuitive": "Um anel muscular fecha a abertura.",
+        "technical": "O receptor predominante é M3; radial α1 dilata a pupila."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0063",
+      "number": 63,
+      "topicId": "F02",
+      "text": "A salivação parassimpática tende a produzir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência completa de saliva"
+        },
+        {
+          "id": "B",
+          "text": "Secreção abundante e aquosa"
+        },
+        {
+          "id": "C",
+          "text": "Secreção exclusivamente lipídica"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A salivação parassimpática tende a produzir:",
+      "explanations": {
+        "direct": "Secreção abundante e aquosa. M3 estimula secreção; atividade simpática também pode alterar saliva, mas não elimina toda produção.",
+        "intuitive": "A boca recebe líquido para lubrificar e digerir.",
+        "technical": "M3 estimula secreção; atividade simpática também pode alterar saliva, mas não elimina toda produção."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0064",
+      "number": 64,
+      "topicId": "F02",
+      "text": "Barorreceptores do seio carotídeo enviam aferências sobretudo pelo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipoglosso"
+        },
+        {
+          "id": "B",
+          "text": "Oculomotor"
+        },
+        {
+          "id": "C",
+          "text": "Glossofaríngeo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Barorreceptores do seio carotídeo enviam aferências sobretudo pelo:",
+      "explanations": {
+        "direct": "Glossofaríngeo. O arco aórtico usa o vago; XII e III não são a via carotídea.",
+        "intuitive": "O nono nervo leva o aviso da carótida.",
+        "technical": "O arco aórtico usa o vago; XII e III não são a via carotídea."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0065",
+      "number": 65,
+      "topicId": "F02",
+      "text": "Barorreceptores do arco aórtico enviam aferências pelo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vago"
+        },
+        {
+          "id": "B",
+          "text": "Trigêmeo"
+        },
+        {
+          "id": "C",
+          "text": "Abducente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Barorreceptores do arco aórtico enviam aferências pelo:",
+      "explanations": {
+        "direct": "Vago. Aferências convergem ao núcleo do trato solitário; V e VI não cumprem essa função.",
+        "intuitive": "O décimo nervo leva o aviso da aorta.",
+        "technical": "Aferências convergem ao núcleo do trato solitário; V e VI não cumprem essa função."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0066",
+      "number": 66,
+      "topicId": "F02",
+      "text": "Um aumento agudo de pressão arterial tende a causar reflexamente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liberação obrigatória de renina"
+        },
+        {
+          "id": "B",
+          "text": "Aumento do tônus simpático cardíaco"
+        },
+        {
+          "id": "C",
+          "text": "Aumento do tônus vagal"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Um aumento agudo de pressão arterial tende a causar reflexamente:",
+      "explanations": {
+        "direct": "Aumento do tônus vagal. Maior estiramento barorreceptor reduz simpático; renina costuma ser suprimida nesse contexto.",
+        "intuitive": "O freio cardíaco é acionado.",
+        "technical": "Maior estiramento barorreceptor reduz simpático; renina costuma ser suprimida nesse contexto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0067",
+      "number": 67,
+      "topicId": "F02",
+      "text": "A noradrenalina sináptica é removida principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Degradação exclusiva por acetilcolinesterase"
+        },
+        {
+          "id": "B",
+          "text": "Recaptação pela terminação nervosa"
+        },
+        {
+          "id": "C",
+          "text": "Filtração glomerular imediata na fenda"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A noradrenalina sináptica é removida principalmente por:",
+      "explanations": {
+        "direct": "Recaptação pela terminação nervosa. NET promove recaptação; acetilcolinesterase atua sobre acetilcolina.",
+        "intuitive": "A terminação recolhe grande parte da mensagem.",
+        "technical": "NET promove recaptação; acetilcolinesterase atua sobre acetilcolina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0068",
+      "number": 68,
+      "topicId": "F02",
+      "text": "A acetilcolina é encerrada na fenda principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Recaptação intacta por transportador colinérgico"
+        },
+        {
+          "id": "B",
+          "text": "Hidrólise pela acetilcolinesterase"
+        },
+        {
+          "id": "C",
+          "text": "Recaptação intacta por NET"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A acetilcolina é encerrada na fenda principalmente por:",
+      "explanations": {
+        "direct": "Hidrólise pela acetilcolinesterase. Colina é reciclada; a molécula inteira não usa o transportador de noradrenalina.",
+        "intuitive": "Uma enzima corta rapidamente a mensagem.",
+        "technical": "Colina é reciclada; a molécula inteira não usa o transportador de noradrenalina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0069",
+      "number": 69,
+      "topicId": "F02",
+      "text": "A ativação endotelial de M3 pode dilatar vasos porque libera:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Troponina"
+        },
+        {
+          "id": "B",
+          "text": "Renina"
+        },
+        {
+          "id": "C",
+          "text": "Óxido nítrico"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A ativação endotelial de M3 pode dilatar vasos porque libera:",
+      "explanations": {
+        "direct": "Óxido nítrico. Ca²⁺ endotelial ativa eNOS; NO difunde ao músculo e aumenta GMPc.",
+        "intuitive": "O revestimento manda o músculo relaxar.",
+        "technical": "Ca²⁺ endotelial ativa eNOS; NO difunde ao músculo e aumenta GMPc."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0070",
+      "number": 70,
+      "topicId": "F02",
+      "text": "Por que ativação de M3 não implica contração em todo tecido?",
+      "options": [
+        {
+          "id": "A",
+          "text": "O receptor muda sempre para Gs"
+        },
+        {
+          "id": "B",
+          "text": "A resposta depende das células e efetores presentes"
+        },
+        {
+          "id": "C",
+          "text": "Acetilcolina deixa de se ligar ao receptor"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Por que ativação de M3 não implica contração em todo tecido?",
+      "explanations": {
+        "direct": "A resposta depende das células e efetores presentes. No endotélio, M3 promove NO; no músculo liso, favorece contração.",
+        "intuitive": "O local de entrega muda o resultado do mesmo sinal.",
+        "technical": "No endotélio, M3 promove NO; no músculo liso, favorece contração."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0071",
+      "number": 71,
+      "topicId": "F02",
+      "text": "Ativar β1 em células justaglomerulares favorece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liberação de renina"
+        },
+        {
+          "id": "B",
+          "text": "Liberação de insulina"
+        },
+        {
+          "id": "C",
+          "text": "Produção de surfactante"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ativar β1 em células justaglomerulares favorece:",
+      "explanations": {
+        "direct": "Liberação de renina. O aparelho justaglomerular secreta renina; os outros produtos pertencem a órgãos distintos.",
+        "intuitive": "O simpático aciona o sistema que ajuda a sustentar a pressão.",
+        "technical": "O aparelho justaglomerular secreta renina; os outros produtos pertencem a órgãos distintos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0072",
+      "number": 72,
+      "topicId": "F02",
+      "text": "Durante armazenamento urinário, o esfíncter externo é mantido por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vago parassimpático"
+        },
+        {
+          "id": "B",
+          "text": "Fibras β2 diretamente na placa"
+        },
+        {
+          "id": "C",
+          "text": "Nervo pudendo somático"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Durante armazenamento urinário, o esfíncter externo é mantido por:",
+      "explanations": {
+        "direct": "Nervo pudendo somático. É músculo estriado com receptor Nm; não é controlado diretamente pelo vago.",
+        "intuitive": "Um músculo voluntário mantém a saída fechada.",
+        "technical": "É músculo estriado com receptor Nm; não é controlado diretamente pelo vago."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0073",
+      "number": 73,
+      "topicId": "F02",
+      "text": "A ereção depende principalmente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vasodilatação mediada por NO"
+        },
+        {
+          "id": "B",
+          "text": "Contração tônica de todo o detrusor"
+        },
+        {
+          "id": "C",
+          "text": "Vasoconstrição α1 cavernosa"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A ereção depende principalmente de:",
+      "explanations": {
+        "direct": "Vasodilatação mediada por NO. A sinalização nitrérgica e parassimpática eleva GMPc; α1 favorece detumescência.",
+        "intuitive": "Mais sangue entra e fica retido nos corpos cavernosos.",
+        "technical": "A sinalização nitrérgica e parassimpática eleva GMPc; α1 favorece detumescência."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0074",
+      "number": 74,
+      "topicId": "F02",
+      "text": "A emissão seminal depende predominantemente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio de α1"
+        },
+        {
+          "id": "B",
+          "text": "Atividade simpática"
+        },
+        {
+          "id": "C",
+          "text": "Atividade vagal"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A emissão seminal depende predominantemente de:",
+      "explanations": {
+        "direct": "Atividade simpática. Contração simpática participa da emissão; expulsão também envolve musculatura somática.",
+        "intuitive": "Ductos e glândulas impulsionam o conteúdo.",
+        "technical": "Contração simpática participa da emissão; expulsão também envolve musculatura somática."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0075",
+      "number": 75,
+      "topicId": "F02",
+      "text": "O simpático geralmente reduz motilidade intestinal por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Abrir todos os esfíncteres obrigatoriamente"
+        },
+        {
+          "id": "B",
+          "text": "Estimular diretamente todas as contrações propulsivas"
+        },
+        {
+          "id": "C",
+          "text": "Inibir atividade entérica e contrair esfíncteres"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O simpático geralmente reduz motilidade intestinal por:",
+      "explanations": {
+        "direct": "Inibir atividade entérica e contrair esfíncteres. Os efeitos variam por receptor; não equivalem a excitação uniforme da parede.",
+        "intuitive": "Durante alerta, a propulsão digestiva perde prioridade.",
+        "technical": "Os efeitos variam por receptor; não equivalem a excitação uniforme da parede."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0076",
+      "number": 76,
+      "topicId": "F02",
+      "text": "A frequência intrínseca do nó sinusal costuma superar a frequência de repouso porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O nó só funciona durante exercício"
+        },
+        {
+          "id": "B",
+          "text": "Predomina tônus vagal em repouso"
+        },
+        {
+          "id": "C",
+          "text": "Predomina bloqueio β1 permanente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A frequência intrínseca do nó sinusal costuma superar a frequência de repouso porque:",
+      "explanations": {
+        "direct": "Predomina tônus vagal em repouso. O automatismo existe sem nervos; não há bloqueio farmacológico obrigatório.",
+        "intuitive": "Em repouso, o freio vagal mantém o ritmo abaixo do intrínseco.",
+        "technical": "O automatismo existe sem nervos; não há bloqueio farmacológico obrigatório."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0077",
+      "number": 77,
+      "topicId": "F02",
+      "text": "Em bloqueio ganglionar, a frequência cardíaca de repouso tende a subir porque se perde:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Predomínio vagal basal"
+        },
+        {
+          "id": "B",
+          "text": "A capacidade intrínseca do nó sinusal"
+        },
+        {
+          "id": "C",
+          "text": "Estimulação β1 excessiva obrigatória"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Em bloqueio ganglionar, a frequência cardíaca de repouso tende a subir porque se perde:",
+      "explanations": {
+        "direct": "Predomínio vagal basal. A resposta de cada órgão depende do tônus predominante; vasos tendem a dilatar por perda simpática.",
+        "intuitive": "Ao desligar ambos os lados, pesa a retirada do freio dominante.",
+        "technical": "A resposta de cada órgão depende do tônus predominante; vasos tendem a dilatar por perda simpática."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0078",
+      "number": 78,
+      "topicId": "F02",
+      "text": "Um paciente com transplante cardíaco recente apresenta resposta de frequência mais lenta ao início do esforço, mas ainda responde a catecolaminas circulantes. Qual característica explica a perda do ajuste neural rápido?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Há desnervação autonômica"
+        },
+        {
+          "id": "B",
+          "text": "Não há receptores para catecolaminas"
+        },
+        {
+          "id": "C",
+          "text": "O miocárdio perdeu automatismo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente com transplante cardíaco recente apresenta resposta de frequência mais lenta ao início do esforço, mas ainda responde a catecolaminas circulantes. Qual característica explica a perda do ajuste neural rápido?",
+      "explanations": {
+        "direct": "Há desnervação autonômica. Catecolaminas circulantes ainda podem atuar e o nó sinusal mantém automatismo.",
+        "intuitive": "O comando neural rápido foi desconectado.",
+        "technical": "Catecolaminas circulantes ainda podem atuar e o nó sinusal mantém automatismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0079",
+      "number": 79,
+      "topicId": "F02",
+      "text": "A retirada vagal no início do exercício causa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento rápido da frequência cardíaca"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio atrioventricular completo"
+        },
+        {
+          "id": "C",
+          "text": "Queda obrigatória da frequência"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A retirada vagal no início do exercício causa:",
+      "explanations": {
+        "direct": "Aumento rápido da frequência cardíaca. O mecanismo precede parte do aumento simpático; não requer bloqueio da condução.",
+        "intuitive": "Tirar o freio acelera o coração.",
+        "technical": "O mecanismo precede parte do aumento simpático; não requer bloqueio da condução."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F02-0080",
+      "number": 80,
+      "topicId": "F02",
+      "text": "Após lesão da cadeia simpática cervical, uma pessoa apresenta menor dilatação pupilar no escuro e discreta queda palpebral ipsilateral. Qual conjunto corresponde ao mecanismo da lesão?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Miose e paralisia completa do III nervo"
+        },
+        {
+          "id": "B",
+          "text": "Miose e ptose discreta"
+        },
+        {
+          "id": "C",
+          "text": "Midríase e retração palpebral"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Após lesão da cadeia simpática cervical, uma pessoa apresenta menor dilatação pupilar no escuro e discreta queda palpebral ipsilateral. Qual conjunto corresponde ao mecanismo da lesão?",
+      "explanations": {
+        "direct": "Miose e ptose discreta. A síndrome de Horner envolve via simpática; não equivale a paralisia oculomotora.",
+        "intuitive": "Perdem-se a dilatação pupilar e parte da sustentação da pálpebra.",
+        "technical": "A síndrome de Horner envolve via simpática; não equivale a paralisia oculomotora."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

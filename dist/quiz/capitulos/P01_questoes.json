@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P01",
+    "name": "Farmacologia · 01 · Desenvolvimento de fármacos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 1
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P01-0401",
+      "number": 401,
+      "topicId": "P01",
+      "text": "Em farmacologia, um agonista é uma substância que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Só se liga sem produzir ativação"
+        },
+        {
+          "id": "B",
+          "text": "Ativa um receptor ao se ligar"
+        },
+        {
+          "id": "C",
+          "text": "Destrói obrigatoriamente o receptor"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Em farmacologia, um agonista é uma substância que:",
+      "explanations": {
+        "direct": "Ativa um receptor ao se ligar. Afinidade é ligação; eficácia intrínseca descreve ativação.",
+        "intuitive": "A chave não apenas encaixa: ela aciona a resposta.",
+        "technical": "Afinidade é ligação; eficácia intrínseca descreve ativação. Antagonista não possui a mesma atividade agonista."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P01-0402",
+      "number": 402,
+      "topicId": "P01",
+      "text": "Um antagonista de receptor geralmente apresenta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eficácia máxima sem ligação"
+        },
+        {
+          "id": "B",
+          "text": "Afinidade sem eficácia agonista"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de qualquer interação molecular"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um antagonista de receptor geralmente apresenta:",
+      "explanations": {
+        "direct": "Afinidade sem eficácia agonista. Não significa ausência de efeito no organismo; pode impedir ação de ligantes endógenos.",
+        "intuitive": "Ocupa o alvo sem acioná-lo como o agonista.",
+        "technical": "Não significa ausência de efeito no organismo; pode impedir ação de ligantes endógenos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P01-0403",
+      "number": 403,
+      "topicId": "P01",
+      "text": "Seletividade farmacológica costuma diminuir quando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A concentração aumenta muito"
+        },
+        {
+          "id": "B",
+          "text": "O fármaco é identificado pelo nome genérico"
+        },
+        {
+          "id": "C",
+          "text": "A concentração cai a zero"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Seletividade farmacológica costuma diminuir quando:",
+      "explanations": {
+        "direct": "A concentração aumenta muito. Seletividade é relativa e dependente de exposição; não é garantia absoluta de alvo único.",
+        "intuitive": "Doses maiores podem alcançar alvos secundários.",
+        "technical": "Seletividade é relativa e dependente de exposição; não é garantia absoluta de alvo único."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P01-0404",
+      "number": 404,
+      "topicId": "P01",
+      "text": "Uma pró-droga requer geralmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Destruição de todo receptor"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de metabolismo"
+        },
+        {
+          "id": "C",
+          "text": "Conversão para forma ativa"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uma pró-droga requer geralmente:",
+      "explanations": {
+        "direct": "Conversão para forma ativa. Metabolismo nem sempre inativa; pode gerar o composto terapeuticamente ativo.",
+        "intuitive": "O organismo precisa transformar a molécula para ativá-la.",
+        "technical": "Metabolismo nem sempre inativa; pode gerar o composto terapeuticamente ativo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P01-0405",
+      "number": 405,
+      "topicId": "P01",
+      "text": "Estudos pré-clínicos avaliam principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Segurança absoluta para gestantes"
+        },
+        {
+          "id": "B",
+          "text": "Propriedades em sistemas não humanos antes de ensaios humanos"
+        },
+        {
+          "id": "C",
+          "text": "Eficácia definitiva em toda população"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Estudos pré-clínicos avaliam principalmente:",
+      "explanations": {
+        "direct": "Propriedades em sistemas não humanos antes de ensaios humanos. Não substituem ensaios clínicos nem excluem toxicidades específicas humanas.",
+        "intuitive": "São etapas iniciais para caracterizar efeitos e riscos.",
+        "technical": "Não substituem ensaios clínicos nem excluem toxicidades específicas humanas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P01-0406",
+      "number": 406,
+      "topicId": "P01",
+      "text": "Ensaios de fase I focalizam tipicamente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vigilância exclusiva após comercialização"
+        },
+        {
+          "id": "B",
+          "text": "Comparação definitiva de mortalidade populacional"
+        },
+        {
+          "id": "C",
+          "text": "Segurança inicial e farmacocinética"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ensaios de fase I focalizam tipicamente:",
+      "explanations": {
+        "direct": "Segurança inicial e farmacocinética. Podem envolver pacientes, especialmente em oncologia; fase IV ocorre após aprovação.",
+        "intuitive": "O primeiro objetivo é entender exposição e tolerabilidade.",
+        "technical": "Podem envolver pacientes, especialmente em oncologia; fase IV ocorre após aprovação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P01-0407",
+      "number": 407,
+      "topicId": "P01",
+      "text": "Ensaios de fase II avaliam sobretudo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exclusivamente eventos raríssimos populacionais"
+        },
+        {
+          "id": "B",
+          "text": "Perfil de tolerabilidade inicial em voluntários"
+        },
+        {
+          "id": "C",
+          "text": "Sinal de eficácia e escolha de dose em pacientes"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ensaios de fase II avaliam sobretudo:",
+      "explanations": {
+        "direct": "Sinal de eficácia e escolha de dose em pacientes. Não têm, em geral, tamanho para detectar todos os eventos raros.",
+        "intuitive": "Testam se há benefício e qual dose merece avançar.",
+        "technical": "Não têm, em geral, tamanho para detectar todos os eventos raros."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P01-0408",
+      "number": 408,
+      "topicId": "P01",
+      "text": "Ensaios de fase III geralmente buscam:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Substituir toda farmacovigilância futura"
+        },
+        {
+          "id": "B",
+          "text": "Confirmar benefício e risco em amostras maiores"
+        },
+        {
+          "id": "C",
+          "text": "Testar apenas animais"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ensaios de fase III geralmente buscam:",
+      "explanations": {
+        "direct": "Confirmar benefício e risco em amostras maiores. Mesmo estudos grandes não identificam todos os riscos raros ou tardios.",
+        "intuitive": "Comparam estratégias de forma mais ampla antes do uso difundido.",
+        "technical": "Mesmo estudos grandes não identificam todos os riscos raros ou tardios."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P01-0409",
+      "number": 409,
+      "topicId": "P01",
+      "text": "Randomização em um ensaio ajuda a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eliminar qualquer erro de medida"
+        },
+        {
+          "id": "B",
+          "text": "Garantir que ninguém abandone o estudo"
+        },
+        {
+          "id": "C",
+          "text": "Equilibrar fatores prognósticos entre grupos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Randomização em um ensaio ajuda a:",
+      "explanations": {
+        "direct": "Equilibrar fatores prognósticos entre grupos. Não elimina viés de aferição ou perdas; cegamento e análise adequada continuam relevantes.",
+        "intuitive": "O sorteio reduz diferenças sistemáticas de partida.",
+        "technical": "Não elimina viés de aferição ou perdas; cegamento e análise adequada continuam relevantes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P01-0410",
+      "number": 410,
+      "topicId": "P01",
+      "text": "Um desfecho substituto favorável garante benefício clínico relevante?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sim, se houver significância estatística"
+        },
+        {
+          "id": "B",
+          "text": "Sim, em qualquer mecanismo"
+        },
+        {
+          "id": "C",
+          "text": "Não necessariamente"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um desfecho substituto favorável garante benefício clínico relevante?",
+      "explanations": {
+        "direct": "Não necessariamente. É necessário demonstrar relação confiável com desfechos clínicos; significância não equivale a utilidade.",
+        "intuitive": "Melhorar um marcador não assegura que a pessoa viva melhor ou mais.",
+        "technical": "É necessário demonstrar relação confiável com desfechos clínicos; significância não equivale a utilidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P01-0411",
+      "number": 411,
+      "topicId": "P01",
+      "text": "Cegamento reduz principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toda diferença biológica entre pacientes"
+        },
+        {
+          "id": "B",
+          "text": "Influência de expectativas na conduta e avaliação"
+        },
+        {
+          "id": "C",
+          "text": "Desbalanceamento basal por alocação não aleatória"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Cegamento reduz principalmente:",
+      "explanations": {
+        "direct": "Influência de expectativas na conduta e avaliação. Não substitui randomização; atua sobre vieses de desempenho e detecção.",
+        "intuitive": "Saber quem recebeu o quê pode mudar observação e comportamento.",
+        "technical": "Não substitui randomização; atua sobre vieses de desempenho e detecção."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P01-0412",
+      "number": 412,
+      "topicId": "P01",
+      "text": "Farmacovigilância após comercialização permite detectar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas composição química inicial"
+        },
+        {
+          "id": "B",
+          "text": "Somente potência em tubo de ensaio"
+        },
+        {
+          "id": "C",
+          "text": "Eventos raros e efeitos no uso real"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Farmacovigilância após comercialização permite detectar:",
+      "explanations": {
+        "direct": "Eventos raros e efeitos no uso real. Relatos geram sinais, mas não provam causalidade automaticamente.",
+        "intuitive": "Muitos efeitos só aparecem quando muita gente usa.",
+        "technical": "Relatos geram sinais, mas não provam causalidade automaticamente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

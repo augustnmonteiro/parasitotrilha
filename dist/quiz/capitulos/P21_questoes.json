@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P21",
+    "name": "Farmacologia · 21 · Princípios do SNC",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 21
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P21-0625",
+      "number": 625,
+      "topicId": "P21",
+      "text": "GABA_A é um receptor:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acoplado a Gs"
+        },
+        {
+          "id": "B",
+          "text": "Canal iônico principalmente permeável a Cl⁻"
+        },
+        {
+          "id": "C",
+          "text": "Tirosina-quinase"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "GABA_A é um receptor:",
+      "explanations": {
+        "direct": "Canal iônico principalmente permeável a Cl⁻. A resposta depende do gradiente de Cl⁻; no SNC adulto costuma ser inibitória.",
+        "intuitive": "Uma ligação abre passagem para íons.",
+        "technical": "A resposta depende do gradiente de Cl⁻; no SNC adulto costuma ser inibitória."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P21-0626",
+      "number": 626,
+      "topicId": "P21",
+      "text": "NMDA é um receptor de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Glutamato"
+        },
+        {
+          "id": "B",
+          "text": "Acetilcolina"
+        },
+        {
+          "id": "C",
+          "text": "Dopamina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "NMDA é um receptor de:",
+      "explanations": {
+        "direct": "Glutamato. Permite entrada de Ca²⁺ e apresenta bloqueio dependente de voltagem por Mg²⁺.",
+        "intuitive": "É uma das portas excitatórias do glutamato.",
+        "technical": "Permite entrada de Ca²⁺ e apresenta bloqueio dependente de voltagem por Mg²⁺."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P21-0627",
+      "number": 627,
+      "topicId": "P21",
+      "text": "O bloqueio por Mg²⁺ do NMDA diminui com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hiperpolarização intensa"
+        },
+        {
+          "id": "B",
+          "text": "Despolarização"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de ligante obrigatoriamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O bloqueio por Mg²⁺ do NMDA diminui com:",
+      "explanations": {
+        "direct": "Despolarização. Ativação ainda requer ligantes apropriados; despolarização sozinha não substitui glutamato.",
+        "intuitive": "A voltagem ajuda a retirar uma trava.",
+        "technical": "Ativação ainda requer ligantes apropriados; despolarização sozinha não substitui glutamato."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P21-0628",
+      "number": 628,
+      "topicId": "P21",
+      "text": "Dopamina tuberoinfundibular normalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibe prolactina"
+        },
+        {
+          "id": "B",
+          "text": "Inibe toda produção de cortisol"
+        },
+        {
+          "id": "C",
+          "text": "Estimula prolactina sem limite"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Dopamina tuberoinfundibular normalmente:",
+      "explanations": {
+        "direct": "Inibe prolactina. Antagonismo D2 pode retirar esse freio e elevar prolactina.",
+        "intuitive": "Mantém um freio hormonal.",
+        "technical": "Antagonismo D2 pode retirar esse freio e elevar prolactina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P21-0629",
+      "number": 629,
+      "topicId": "P21",
+      "text": "A barreira hematoencefálica dificulta entrada sobretudo de moléculas:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Muito polares e sem transportador adequado"
+        },
+        {
+          "id": "B",
+          "text": "Pequenas lipossolúveis por regra"
+        },
+        {
+          "id": "C",
+          "text": "Todas de forma idêntica"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A barreira hematoencefálica dificulta entrada sobretudo de moléculas:",
+      "explanations": {
+        "direct": "Muito polares e sem transportador adequado. Transportadores, ligação e efluxo modificam acesso; não basta considerar tamanho isolado.",
+        "intuitive": "A membrana seleciona o que consegue passar.",
+        "technical": "Transportadores, ligação e efluxo modificam acesso; não basta considerar tamanho isolado."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P21-0630",
+      "number": 630,
+      "topicId": "P21",
+      "text": "GABA_B sinaliza principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor nuclear"
+        },
+        {
+          "id": "B",
+          "text": "Canal nicotínico"
+        },
+        {
+          "id": "C",
+          "text": "Gi/o"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "GABA_B sinaliza principalmente por:",
+      "explanations": {
+        "direct": "Gi/o. Pode abrir canais de K⁺ e reduzir entrada de Ca²⁺; baclofeno é agonista.",
+        "intuitive": "Seu efeito usa proteínas G.",
+        "technical": "Pode abrir canais de K⁺ e reduzir entrada de Ca²⁺; baclofeno é agonista."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P21-0631",
+      "number": 631,
+      "topicId": "P21",
+      "text": "Dopamina na via nigroestriatal participa de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Secreção gástrica exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Controle motor"
+        },
+        {
+          "id": "C",
+          "text": "Formação de bile"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Dopamina na via nigroestriatal participa de:",
+      "explanations": {
+        "direct": "Controle motor. Bloqueio D2 nessa via pode causar efeitos extrapiramidais.",
+        "intuitive": "Modula circuitos que facilitam movimento.",
+        "technical": "Bloqueio D2 nessa via pode causar efeitos extrapiramidais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P21-0632",
+      "number": 632,
+      "topicId": "P21",
+      "text": "Tolerância farmacodinâmica significa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alergia obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Menor absorção como única definição"
+        },
+        {
+          "id": "C",
+          "text": "Menor resposta com exposição semelhante"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Tolerância farmacodinâmica significa:",
+      "explanations": {
+        "direct": "Menor resposta com exposição semelhante. Distingue-se de tolerância cinética por aumento da eliminação e de dependência.",
+        "intuitive": "A célula se adapta ao mesmo sinal.",
+        "technical": "Distingue-se de tolerância cinética por aumento da eliminação e de dependência."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

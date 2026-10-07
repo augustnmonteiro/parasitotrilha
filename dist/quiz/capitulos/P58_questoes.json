@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P58",
+    "name": "Farmacologia · 58 · Intoxicações",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 58
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P58-0921",
+      "number": 921,
+      "topicId": "P58",
+      "text": "Salicilatos podem causar combinação de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas alcalose metabólica simples"
+        },
+        {
+          "id": "B",
+          "text": "Alcalose respiratória e acidose metabólica"
+        },
+        {
+          "id": "C",
+          "text": "Somente acidose respiratória pura"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Salicilatos podem causar combinação de:",
+      "explanations": {
+        "direct": "Alcalose respiratória e acidose metabólica. O pH final pode mascarar a mistura; interpretar componentes é essencial.",
+        "intuitive": "A ventilação aumenta, enquanto processos metabólicos geram ácido.",
+        "technical": "O pH final pode mascarar a mistura; interpretar componentes é essencial."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P58-0922",
+      "number": 922,
+      "topicId": "P58",
+      "text": "Hemodiálise remove melhor substâncias com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Qualquer propriedade com igual eficiência"
+        },
+        {
+          "id": "B",
+          "text": "Baixo Vd e pouca ligação proteica, entre outros fatores"
+        },
+        {
+          "id": "C",
+          "text": "Vd enorme e ligação tecidual intensa sempre"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Hemodiálise remove melhor substâncias com:",
+      "explanations": {
+        "direct": "Baixo Vd e pouca ligação proteica, entre outros fatores. Peso molecular, depuração e modalidade também importam.",
+        "intuitive": "O que permanece acessível no sangue é mais fácil de retirar.",
+        "technical": "Peso molecular, depuração e modalidade também importam."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P58-0923",
+      "number": 923,
+      "topicId": "P58",
+      "text": "Naloxona é indicada mecanisticamente quando há suspeita de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Paralisia por rocurônio"
+        },
+        {
+          "id": "B",
+          "text": "Depressão respiratória por opioide"
+        },
+        {
+          "id": "C",
+          "text": "Todo coma independentemente de causa"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Naloxona é indicada mecanisticamente quando há suspeita de:",
+      "explanations": {
+        "direct": "Depressão respiratória por opioide. Ventilação e avaliação continuam essenciais; não reverte todos os sedativos.",
+        "intuitive": "Bloqueia o receptor responsável por um tipo específico de depressão.",
+        "technical": "Ventilação e avaliação continuam essenciais; não reverte todos os sedativos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P58-0924",
+      "number": 924,
+      "topicId": "P58",
+      "text": "Lavagem gástrica deve ser entendida como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Medida de indicação restrita e riscos relevantes"
+        },
+        {
+          "id": "B",
+          "text": "Procedimento obrigatório em toda ingestão"
+        },
+        {
+          "id": "C",
+          "text": "Alternativa sempre superior ao suporte"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Lavagem gástrica deve ser entendida como:",
+      "explanations": {
+        "direct": "Medida de indicação restrita e riscos relevantes. Tempo, agente, gravidade e proteção de via aérea limitam utilidade.",
+        "intuitive": "Nem sempre retirar conteúdo do estômago ajuda mais que prejudica.",
+        "technical": "Tempo, agente, gravidade e proteção de via aérea limitam utilidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P58-0925",
+      "number": 925,
+      "topicId": "P58",
+      "text": "Alcalinização urinária aumenta eliminação de certos ácidos fracos porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Torna todas as drogas lipossolúveis"
+        },
+        {
+          "id": "B",
+          "text": "Favorece forma ionizada menos reabsorvível"
+        },
+        {
+          "id": "C",
+          "text": "Inibe toda filtração renal"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Alcalinização urinária aumenta eliminação de certos ácidos fracos porque:",
+      "explanations": {
+        "direct": "Favorece forma ionizada menos reabsorvível. É aprisionamento iônico; só é apropriado para agentes e cenários específicos.",
+        "intuitive": "A molécula carregada tem mais dificuldade de voltar ao sangue.",
+        "technical": "É aprisionamento iônico; só é apropriado para agentes e cenários específicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P58-0926",
+      "number": 926,
+      "topicId": "P58",
+      "text": "No paciente intoxicado instável, a prioridade inicial é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Identificar marca comercial antes de ventilar"
+        },
+        {
+          "id": "B",
+          "text": "Dar carvão a todos imediatamente"
+        },
+        {
+          "id": "C",
+          "text": "Suporte de funções vitais"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "No paciente intoxicado instável, a prioridade inicial é:",
+      "explanations": {
+        "direct": "Suporte de funções vitais. A identificação do agente é importante, mas não deve atrasar estabilização.",
+        "intuitive": "Primeiro é preciso manter oxigenação e circulação.",
+        "technical": "A identificação do agente é importante, mas não deve atrasar estabilização."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P58-0927",
+      "number": 927,
+      "topicId": "P58",
+      "text": "Carvão ativado é inadequado em algumas intoxicações porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adsorção, tempo e proteção de via aérea variam"
+        },
+        {
+          "id": "B",
+          "text": "Neutraliza igualmente todos os tóxicos"
+        },
+        {
+          "id": "C",
+          "text": "Nunca apresenta risco de aspiração"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Carvão ativado é inadequado em algumas intoxicações porque:",
+      "explanations": {
+        "direct": "Adsorção, tempo e proteção de via aérea variam. Não adsorve bem todos os agentes e não deve ser dado indiscriminadamente.",
+        "intuitive": "Ele só ajuda quando a substância e a situação permitem.",
+        "technical": "Não adsorve bem todos os agentes e não deve ser dado indiscriminadamente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P58-0928",
+      "number": 928,
+      "topicId": "P58",
+      "text": "Após ingestão tóxica de paracetamol, há risco de esgotamento de glutationa e dano pelo metabólito NAPQI. Qual é a finalidade mecanística da N-acetilcisteína?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Restaurar defesas contra metabólito reativo"
+        },
+        {
+          "id": "B",
+          "text": "Bloquear receptor opioide"
+        },
+        {
+          "id": "C",
+          "text": "Inibir a absorção de paracetamol por adsorção"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Após ingestão tóxica de paracetamol, há risco de esgotamento de glutationa e dano pelo metabólito NAPQI. Qual é a finalidade mecanística da N-acetilcisteína?",
+      "explanations": {
+        "direct": "Restaurar defesas contra metabólito reativo. A decisão depende de exposição e avaliação clínica; não é naloxona nem deferoxamina.",
+        "intuitive": "Reforça a capacidade de neutralizar o produto tóxico.",
+        "technical": "A decisão depende de exposição e avaliação clínica; não é naloxona nem deferoxamina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

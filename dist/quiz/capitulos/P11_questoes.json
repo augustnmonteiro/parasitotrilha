@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P11",
+    "name": "Farmacologia · 11 · Anti-hipertensivos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 11
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P11-0521",
+      "number": 521,
+      "topicId": "P11",
+      "text": "IECA e bloqueadores AT1 podem elevar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Calcemia de forma universal"
+        },
+        {
+          "id": "B",
+          "text": "Perda obrigatória de K⁺"
+        },
+        {
+          "id": "C",
+          "text": "Potássio plasmático"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "IECA e bloqueadores AT1 podem elevar:",
+      "explanations": {
+        "direct": "Potássio plasmático. Risco aumenta com disfunção renal e associações; não é efeito típico de diurético de alça.",
+        "intuitive": "Menos aldosterona pode diminuir excreção de potássio.",
+        "technical": "Risco aumenta com disfunção renal e associações; não é efeito típico de diurético de alça."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P11-0522",
+      "number": 522,
+      "topicId": "P11",
+      "text": "Hidralazina age predominantemente como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antagonista muscarínico"
+        },
+        {
+          "id": "B",
+          "text": "Venoconstritor"
+        },
+        {
+          "id": "C",
+          "text": "Vasodilatador arteriolar"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Hidralazina age predominantemente como:",
+      "explanations": {
+        "direct": "Vasodilatador arteriolar. Pode provocar taquicardia reflexa e retenção hidrossalina; não é venodilatador predominante como nitratos.",
+        "intuitive": "Reduz a resistência à saída do sangue.",
+        "technical": "Pode provocar taquicardia reflexa e retenção hidrossalina; não é venodilatador predominante como nitratos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P11-0523",
+      "number": 523,
+      "topicId": "P11",
+      "text": "Minoxidil relaxa vasos por abrir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Canais de K⁺ sensíveis a ATP"
+        },
+        {
+          "id": "B",
+          "text": "Canais de Na⁺ rápidos"
+        },
+        {
+          "id": "C",
+          "text": "Receptores nicotínicos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Minoxidil relaxa vasos por abrir:",
+      "explanations": {
+        "direct": "Canais de K⁺ sensíveis a ATP. Pode causar retenção de líquido e hipertricose; não atua pela placa motora.",
+        "intuitive": "A membrana hiperpolariza e contrai menos.",
+        "technical": "Pode causar retenção de líquido e hipertricose; não atua pela placa motora."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P11-0524",
+      "number": 524,
+      "topicId": "P11",
+      "text": "Enalapril reduz formação de angiotensina II por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Enzima conversora de angiotensina"
+        },
+        {
+          "id": "B",
+          "text": "Receptor AT1"
+        },
+        {
+          "id": "C",
+          "text": "Renina diretamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Enalapril reduz formação de angiotensina II por inibir:",
+      "explanations": {
+        "direct": "Enzima conversora de angiotensina. É IECA; alisquireno inibe renina e losartana bloqueia AT1.",
+        "intuitive": "Bloqueia uma etapa de formação do vasoconstritor.",
+        "technical": "É IECA; alisquireno inibe renina e losartana bloqueia AT1."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P11-0525",
+      "number": 525,
+      "topicId": "P11",
+      "text": "Losartana atua por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antagonismo AT1"
+        },
+        {
+          "id": "B",
+          "text": "Inibição direta de ECA"
+        },
+        {
+          "id": "C",
+          "text": "Agonismo α1"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Losartana atua por:",
+      "explanations": {
+        "direct": "Antagonismo AT1. Não precisa reduzir sua formação nem acumular bradicinina pelo mesmo mecanismo do IECA.",
+        "intuitive": "Impede a ação da angiotensina no receptor principal.",
+        "technical": "Não precisa reduzir sua formação nem acumular bradicinina pelo mesmo mecanismo do IECA."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P11-0526",
+      "number": 526,
+      "topicId": "P11",
+      "text": "Anlodipino reduz pressão principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonismo β1"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio de Na⁺ na placa motora"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio de canais de Ca²⁺ no músculo vascular"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Anlodipino reduz pressão principalmente por:",
+      "explanations": {
+        "direct": "Bloqueio de canais de Ca²⁺ no músculo vascular. É diidropiridínico com ação vascular predominante.",
+        "intuitive": "Reduz a entrada de cálcio que mantém vasos contraídos.",
+        "technical": "É diidropiridínico com ação vascular predominante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P11-0527",
+      "number": 527,
+      "topicId": "P11",
+      "text": "Verapamil exige atenção a bradicardia porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deprime condução e automatismo nodais"
+        },
+        {
+          "id": "B",
+          "text": "Ativa canais rápidos de Na⁺"
+        },
+        {
+          "id": "C",
+          "text": "Estimula β1 intensamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Verapamil exige atenção a bradicardia porque:",
+      "explanations": {
+        "direct": "Deprime condução e automatismo nodais. Bloqueio de Ca²⁺ em tecido nodal pode somar-se a betabloqueadores.",
+        "intuitive": "Seu efeito não fica restrito aos vasos.",
+        "technical": "Bloqueio de Ca²⁺ em tecido nodal pode somar-se a betabloqueadores."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P11-0528",
+      "number": 528,
+      "topicId": "P11",
+      "text": "Um paciente inicia enalapril e desenvolve tosse seca persistente, sem outros achados que expliquem o sintoma. Qual mediador acumulado é compatível com esse efeito?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bradicinina"
+        },
+        {
+          "id": "B",
+          "text": "Acetilcolinesterase"
+        },
+        {
+          "id": "C",
+          "text": "Eritropoietina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente inicia enalapril e desenvolve tosse seca persistente, sem outros achados que expliquem o sintoma. Qual mediador acumulado é compatível com esse efeito?",
+      "explanations": {
+        "direct": "Bradicinina. ECA também degrada bradicinina; antagonistas AT1 não bloqueiam diretamente essa degradação.",
+        "intuitive": "Uma substância irritante é degradada mais lentamente.",
+        "technical": "ECA também degrada bradicinina; antagonistas AT1 não bloqueiam diretamente essa degradação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P11-0529",
+      "number": 529,
+      "topicId": "P11",
+      "text": "Após iniciar IECA, um paciente com estenose bilateral importante das artérias renais apresenta queda da filtração. Qual alteração hemodinâmica glomerular explica a susceptibilidade?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dilatar arteríola eferente"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar pressão de Bowman diretamente"
+        },
+        {
+          "id": "C",
+          "text": "Contrair obrigatoriamente aferente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Após iniciar IECA, um paciente com estenose bilateral importante das artérias renais apresenta queda da filtração. Qual alteração hemodinâmica glomerular explica a susceptibilidade?",
+      "explanations": {
+        "direct": "Dilatar arteríola eferente. A dependência de angiotensina II torna a hemodinâmica vulnerável.",
+        "intuitive": "O filtro perde um mecanismo que sustentava sua pressão.",
+        "technical": "A dependência de angiotensina II torna a hemodinâmica vulnerável."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P11-0530",
+      "number": 530,
+      "topicId": "P11",
+      "text": "Bloqueadores do sistema renina-angiotensina são problemáticos na gestação por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de passagem placentária garantida"
+        },
+        {
+          "id": "B",
+          "text": "Estímulo necessário à maturação fetal"
+        },
+        {
+          "id": "C",
+          "text": "Toxicidade fetal, especialmente renal"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Bloqueadores do sistema renina-angiotensina são problemáticos na gestação por:",
+      "explanations": {
+        "direct": "Toxicidade fetal, especialmente renal. Não são escolhidos como protetores fetais; alternativas dependem da situação clínica.",
+        "intuitive": "O sistema também é importante para o desenvolvimento fetal.",
+        "technical": "Não são escolhidos como protetores fetais; alternativas dependem da situação clínica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P11-0531",
+      "number": 531,
+      "topicId": "P11",
+      "text": "Após iniciar anlodipino, um paciente apresenta edema maleolar sem outros sinais claros de congestão sistêmica. Qual mecanismo pode explicar o edema?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trombose venosa em todos os casos"
+        },
+        {
+          "id": "B",
+          "text": "Dilatação arteriolar desproporcional à venosa"
+        },
+        {
+          "id": "C",
+          "text": "Retenção renal obrigatória de todo sódio"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Após iniciar anlodipino, um paciente apresenta edema maleolar sem outros sinais claros de congestão sistêmica. Qual mecanismo pode explicar o edema?",
+      "explanations": {
+        "direct": "Dilatação arteriolar desproporcional à venosa. Não equivale necessariamente a excesso global de volume; diurese pode não corrigir o mecanismo.",
+        "intuitive": "Mais pressão chega aos capilares dos membros.",
+        "technical": "Não equivale necessariamente a excesso global de volume; diurese pode não corrigir o mecanismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P11-0532",
+      "number": 532,
+      "topicId": "P11",
+      "text": "Metildopa reduz pressão após conversão em composto que estimula:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor α2 central"
+        },
+        {
+          "id": "B",
+          "text": "Receptor β1 cardíaco"
+        },
+        {
+          "id": "C",
+          "text": "Receptor α1 vascular"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Metildopa reduz pressão após conversão em composto que estimula:",
+      "explanations": {
+        "direct": "Receptor α2 central. A ação central difere de vasoconstrição por α1 e de bloqueio muscular.",
+        "intuitive": "Uma mensagem falsa ativa o freio simpático.",
+        "technical": "A ação central difere de vasoconstrição por α1 e de bloqueio muscular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

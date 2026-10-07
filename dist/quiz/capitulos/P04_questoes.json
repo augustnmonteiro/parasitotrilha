@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P04",
+    "name": "Farmacologia · 04 · Biotransformação",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 4
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P04-0437",
+      "number": 437,
+      "topicId": "P04",
+      "text": "Reações de fase I incluem frequentemente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente glicuronidação"
+        },
+        {
+          "id": "B",
+          "text": "Somente filtração renal"
+        },
+        {
+          "id": "C",
+          "text": "Oxidação, redução ou hidrólise"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Reações de fase I incluem frequentemente:",
+      "explanations": {
+        "direct": "Oxidação, redução ou hidrólise. Conjugação caracteriza fase II; filtração não é biotransformação.",
+        "intuitive": "Elas modificam grupos químicos da molécula.",
+        "technical": "Conjugação caracteriza fase II; filtração não é biotransformação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P04-0438",
+      "number": 438,
+      "topicId": "P04",
+      "text": "Uma reação típica de fase II é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Glicuronidação"
+        },
+        {
+          "id": "B",
+          "text": "Ligação ao receptor β1"
+        },
+        {
+          "id": "C",
+          "text": "Filtração glomerular"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uma reação típica de fase II é:",
+      "explanations": {
+        "direct": "Glicuronidação. Conjugação frequentemente aumenta polaridade, mas não garante inativação em todos os casos.",
+        "intuitive": "A molécula recebe um grupo que pode facilitar eliminação.",
+        "technical": "Conjugação frequentemente aumenta polaridade, mas não garante inativação em todos os casos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P04-0439",
+      "number": 439,
+      "topicId": "P04",
+      "text": "Citocromos P450 participam sobretudo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Contração de sarcômeros"
+        },
+        {
+          "id": "B",
+          "text": "Metabolismo oxidativo"
+        },
+        {
+          "id": "C",
+          "text": "Síntese de anticorpos"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Citocromos P450 participam sobretudo de:",
+      "explanations": {
+        "direct": "Metabolismo oxidativo. Não são transportadores contráteis ou imunoglobulinas.",
+        "intuitive": "São parte da maquinaria que transforma muitas drogas.",
+        "technical": "Não são transportadores contráteis ou imunoglobulinas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P04-0440",
+      "number": 440,
+      "topicId": "P04",
+      "text": "Indução enzimática costuma levar a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio imediato universal do metabolismo"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de interação"
+        },
+        {
+          "id": "C",
+          "text": "Maior capacidade de metabolismo de substratos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Indução enzimática costuma levar a:",
+      "explanations": {
+        "direct": "Maior capacidade de metabolismo de substratos. Instalação e desaparecimento levam tempo; efeito em pró-drogas pode diferir do de fármacos ativos.",
+        "intuitive": "O organismo fabrica mais maquinaria metabólica.",
+        "technical": "Instalação e desaparecimento levam tempo; efeito em pró-drogas pode diferir do de fármacos ativos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P04-0441",
+      "number": 441,
+      "topicId": "P04",
+      "text": "Induzir a enzima que ativa uma pró-droga pode:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Impedir qualquer transformação"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar formação do metabólito ativo"
+        },
+        {
+          "id": "C",
+          "text": "Diminuir sempre efeito"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Induzir a enzima que ativa uma pró-droga pode:",
+      "explanations": {
+        "direct": "Aumentar formação do metabólito ativo. É necessário considerar também eliminação do metabólito; indução não significa sempre menor ação.",
+        "intuitive": "Mais maquinaria pode fabricar mais produto ativo.",
+        "technical": "É necessário considerar também eliminação do metabólito; indução não significa sempre menor ação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P04-0442",
+      "number": 442,
+      "topicId": "P04",
+      "text": "A glicoproteína P funciona principalmente como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor nuclear de glicocorticoides"
+        },
+        {
+          "id": "B",
+          "text": "Enzima que hidrolisa todos os fármacos"
+        },
+        {
+          "id": "C",
+          "text": "Transportador de efluxo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A glicoproteína P funciona principalmente como:",
+      "explanations": {
+        "direct": "Transportador de efluxo. Pode limitar absorção e entrada cerebral; não é uma enzima metabólica.",
+        "intuitive": "Ela bombeia certas moléculas para fora da célula.",
+        "technical": "Pode limitar absorção e entrada cerebral; não é uma enzima metabólica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P04-0443",
+      "number": 443,
+      "topicId": "P04",
+      "text": "No intestino, aumento do efluxo por P-gp pode:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transformar todo fármaco em metabólito"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar sempre absorção"
+        },
+        {
+          "id": "C",
+          "text": "Reduzir absorção líquida de substratos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "No intestino, aumento do efluxo por P-gp pode:",
+      "explanations": {
+        "direct": "Reduzir absorção líquida de substratos. Efeito depende de substrato e outros processos; transporte não equivale a metabolismo.",
+        "intuitive": "Parte do que entrou é devolvida à luz intestinal.",
+        "technical": "Efeito depende de substrato e outros processos; transporte não equivale a metabolismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P04-0444",
+      "number": 444,
+      "topicId": "P04",
+      "text": "Um metabólito farmacologicamente ativo pode:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ser obrigatoriamente inerte"
+        },
+        {
+          "id": "B",
+          "text": "Impedir qualquer interação"
+        },
+        {
+          "id": "C",
+          "text": "Prolongar efeitos além da queda do fármaco original"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um metabólito farmacologicamente ativo pode:",
+      "explanations": {
+        "direct": "Prolongar efeitos além da queda do fármaco original. Sua meia-vida e eliminação também importam; metabolizar não é sempre desligar.",
+        "intuitive": "O produto da transformação continua trabalhando.",
+        "technical": "Sua meia-vida e eliminação também importam; metabolizar não é sempre desligar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P04-0445",
+      "number": 445,
+      "topicId": "P04",
+      "text": "Para fármaco de alta extração hepática, depuração é particularmente sensível ao:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Comprimento do intestino apenas"
+        },
+        {
+          "id": "B",
+          "text": "Fluxo sanguíneo hepático"
+        },
+        {
+          "id": "C",
+          "text": "Volume de saliva"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Para fármaco de alta extração hepática, depuração é particularmente sensível ao:",
+      "explanations": {
+        "direct": "Fluxo sanguíneo hepático. Para baixa extração, capacidade enzimática e fração livre costumam pesar mais.",
+        "intuitive": "A velocidade de entrega ao fígado pode limitar a remoção.",
+        "technical": "Para baixa extração, capacidade enzimática e fração livre costumam pesar mais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P04-0446",
+      "number": 446,
+      "topicId": "P04",
+      "text": "Inibição metabólica de uma droga ativa pode aumentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Biodisponibilidade nula"
+        },
+        {
+          "id": "B",
+          "text": "Eliminação obrigatória"
+        },
+        {
+          "id": "C",
+          "text": "Exposição e toxicidade"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Inibição metabólica de uma droga ativa pode aumentar:",
+      "explanations": {
+        "direct": "Exposição e toxicidade. O resultado depende da importância da via e de vias alternativas.",
+        "intuitive": "Se a limpeza desacelera, a droga pode se acumular.",
+        "technical": "O resultado depende da importância da via e de vias alternativas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P04-0447",
+      "number": 447,
+      "topicId": "P04",
+      "text": "Ligação elevada a proteínas plasmáticas significa que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O fármaco nunca terá efeito"
+        },
+        {
+          "id": "B",
+          "text": "A fração livre é menor, mantendo equilíbrio dinâmico"
+        },
+        {
+          "id": "C",
+          "text": "Nenhuma molécula pode sair do plasma"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ligação elevada a proteínas plasmáticas significa que:",
+      "explanations": {
+        "direct": "A fração livre é menor, mantendo equilíbrio dinâmico. A fração livre interage e é filtrável; ligação não é prisão irreversível.",
+        "intuitive": "Parte fica temporariamente ligada, mas pode se soltar.",
+        "technical": "A fração livre interage e é filtrável; ligação não é prisão irreversível."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P04-0448",
+      "number": 448,
+      "topicId": "P04",
+      "text": "Doença hepática pode alterar resposta farmacológica por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar sempre eliminação de toda droga"
+        },
+        {
+          "id": "B",
+          "text": "Afetar apenas a cor da urina"
+        },
+        {
+          "id": "C",
+          "text": "Mudar metabolismo, proteínas e fluxo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Doença hepática pode alterar resposta farmacológica por:",
+      "explanations": {
+        "direct": "Mudar metabolismo, proteínas e fluxo. O efeito é específico do fármaco; não existe regra única de aumento da depuração.",
+        "intuitive": "Várias etapas podem mudar ao mesmo tempo.",
+        "technical": "O efeito é específico do fármaco; não existe regra única de aumento da depuração."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

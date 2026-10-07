@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P29",
+    "name": "Farmacologia · 29 · Antipsicóticos e lítio",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 29
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P29-0689",
+      "number": 689,
+      "topicId": "P29",
+      "text": "Síndrome neuroléptica maligna é compatível com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Miose isolada após pilocarpina"
+        },
+        {
+          "id": "B",
+          "text": "Apenas rinorreia sem alterações sistêmicas"
+        },
+        {
+          "id": "C",
+          "text": "Rigidez, hipertermia e disautonomia após bloqueio dopaminérgico"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Síndrome neuroléptica maligna é compatível com:",
+      "explanations": {
+        "direct": "Rigidez, hipertermia e disautonomia após bloqueio dopaminérgico. O diagnóstico exige contexto e diferenciação de síndrome serotoninérgica e outras causas.",
+        "intuitive": "É uma reação sistêmica grave, não um efeito motor leve.",
+        "technical": "O diagnóstico exige contexto e diferenciação de síndrome serotoninérgica e outras causas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P29-0690",
+      "number": 690,
+      "topicId": "P29",
+      "text": "O bloqueio D2 na via mesolímbica contribui para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Redução de sintomas psicóticos positivos"
+        },
+        {
+          "id": "B",
+          "text": "Broncodilatação"
+        },
+        {
+          "id": "C",
+          "text": "Aumento obrigatório de prolactina como único efeito"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O bloqueio D2 na via mesolímbica contribui para:",
+      "explanations": {
+        "direct": "Redução de sintomas psicóticos positivos. Outras vias explicam efeitos adversos; não é ação β2.",
+        "intuitive": "Modula uma via associada à atribuição de saliência.",
+        "technical": "Outras vias explicam efeitos adversos; não é ação β2."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P29-0691",
+      "number": 691,
+      "topicId": "P29",
+      "text": "Efeitos extrapiramidais por antipsicóticos relacionam-se a bloqueio D2 na via:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nigroestriatal"
+        },
+        {
+          "id": "B",
+          "text": "Espinotalâmica exclusivamente"
+        },
+        {
+          "id": "C",
+          "text": "Retino-hipotalâmica"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Efeitos extrapiramidais por antipsicóticos relacionam-se a bloqueio D2 na via:",
+      "explanations": {
+        "direct": "Nigroestriatal. Não é efeito primário sobre visão ou transmissão de dor.",
+        "intuitive": "A mesma classe de receptor participa de movimento.",
+        "technical": "Não é efeito primário sobre visão ou transmissão de dor."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P29-0692",
+      "number": 692,
+      "topicId": "P29",
+      "text": "Hiperprolactinemia por antipsicótico decorre de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonismo dopaminérgico tuberoinfundibular"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio do freio dopaminérgico"
+        },
+        {
+          "id": "C",
+          "text": "Aumento obrigatório de GnRH"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Hiperprolactinemia por antipsicótico decorre de:",
+      "explanations": {
+        "direct": "Bloqueio do freio dopaminérgico. Pode causar alterações menstruais, galactorreia e disfunção sexual.",
+        "intuitive": "A hipófise perde um sinal inibitório.",
+        "technical": "Pode causar alterações menstruais, galactorreia e disfunção sexual."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P29-0693",
+      "number": 693,
+      "topicId": "P29",
+      "text": "Aripiprazol se caracteriza por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antagonismo irreversível Nm"
+        },
+        {
+          "id": "B",
+          "text": "Inibição de COX"
+        },
+        {
+          "id": "C",
+          "text": "Agonismo parcial D2"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Aripiprazol se caracteriza por:",
+      "explanations": {
+        "direct": "Agonismo parcial D2. O efeito depende do ambiente dopaminérgico; não é simplesmente ausência de atividade.",
+        "intuitive": "Modula o receptor com atividade menor que agonista pleno.",
+        "technical": "O efeito depende do ambiente dopaminérgico; não é simplesmente ausência de atividade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P29-0694",
+      "number": 694,
+      "topicId": "P29",
+      "text": "Lítio exige atenção à função renal porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "É totalmente metabolizado no fígado"
+        },
+        {
+          "id": "B",
+          "text": "É eliminado predominantemente pelos rins"
+        },
+        {
+          "id": "C",
+          "text": "Não possui toxicidade dependente de concentração"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Lítio exige atenção à função renal porque:",
+      "explanations": {
+        "direct": "É eliminado predominantemente pelos rins. Desidratação e interações podem aumentar exposição; margem terapêutica é estreita.",
+        "intuitive": "Mudanças na eliminação podem elevar seu nível.",
+        "technical": "Desidratação e interações podem aumentar exposição; margem terapêutica é estreita."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P29-0695",
+      "number": 695,
+      "topicId": "P29",
+      "text": "Clozapina exige monitoramento hematológico pelo risco de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eritrocitose persistente"
+        },
+        {
+          "id": "B",
+          "text": "Neutropenia grave"
+        },
+        {
+          "id": "C",
+          "text": "Trombocitose reativa"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Clozapina exige monitoramento hematológico pelo risco de:",
+      "explanations": {
+        "direct": "Neutropenia grave. Também tem outros riscos; o monitoramento não se resume ao efeito motor.",
+        "intuitive": "Pode reduzir células importantes de defesa.",
+        "technical": "Também tem outros riscos; o monitoramento não se resume ao efeito motor."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P29-0696",
+      "number": 696,
+      "topicId": "P29",
+      "text": "Um paciente com litemia antes estável inicia tiazida e passa a apresentar tremor e elevação do nível de lítio. Qual mecanismo renal explica a interação?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar reabsorção renal proximal associada à perda de sódio"
+        },
+        {
+          "id": "B",
+          "text": "Transformar lítio em valproato"
+        },
+        {
+          "id": "C",
+          "text": "Induzir metabolismo hepático do lítio"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente com litemia antes estável inicia tiazida e passa a apresentar tremor e elevação do nível de lítio. Qual mecanismo renal explica a interação?",
+      "explanations": {
+        "direct": "Aumentar reabsorção renal proximal associada à perda de sódio. Lítio não depende de metabolismo hepático para eliminação.",
+        "intuitive": "O rim conserva mais sódio e pode conservar lítio junto.",
+        "technical": "Lítio não depende de metabolismo hepático para eliminação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

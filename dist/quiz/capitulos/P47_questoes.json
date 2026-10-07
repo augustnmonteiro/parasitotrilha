@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P47",
+    "name": "Farmacologia · 47 · Micobactérias",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 47
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P47-0833",
+      "number": 833,
+      "topicId": "P47",
+      "text": "Etambutol exige atenção a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipoglicemia obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Surdez como único risco"
+        },
+        {
+          "id": "C",
+          "text": "Neurite óptica e alterações de visão de cores"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Etambutol exige atenção a:",
+      "explanations": {
+        "direct": "Neurite óptica e alterações de visão de cores. Seu alvo envolve arabinosiltransferases; não é necessário haver dor ocular para toxicidade.",
+        "intuitive": "A visão pode sinalizar toxicidade.",
+        "technical": "Seu alvo envolve arabinosiltransferases; não é necessário haver dor ocular para toxicidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P47-0834",
+      "number": 834,
+      "topicId": "P47",
+      "text": "Bedaquilina atua principalmente na:",
+      "options": [
+        {
+          "id": "A",
+          "text": "COX-2"
+        },
+        {
+          "id": "B",
+          "text": "Membrana humana de insulina"
+        },
+        {
+          "id": "C",
+          "text": "ATP sintase micobacteriana"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Bedaquilina atua principalmente na:",
+      "explanations": {
+        "direct": "ATP sintase micobacteriana. Tem riscos como prolongamento de QT; não é um antibiótico sem monitoramento.",
+        "intuitive": "Compromete a produção energética da micobactéria.",
+        "technical": "Tem riscos como prolongamento de QT; não é um antibiótico sem monitoramento."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P47-0835",
+      "number": 835,
+      "topicId": "P47",
+      "text": "Isoniazida inibe principalmente síntese de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ácidos micólicos"
+        },
+        {
+          "id": "B",
+          "text": "Folato humano"
+        },
+        {
+          "id": "C",
+          "text": "Ergosterol"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Isoniazida inibe principalmente síntese de:",
+      "explanations": {
+        "direct": "Ácidos micólicos. É pró-droga ativada por KatG; não é antifúngico.",
+        "intuitive": "Compromete componentes característicos da parede micobacteriana.",
+        "technical": "É pró-droga ativada por KatG; não é antifúngico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P47-0836",
+      "number": 836,
+      "topicId": "P47",
+      "text": "Rifampicina inibe:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ribossomo 30S"
+        },
+        {
+          "id": "B",
+          "text": "Receptor de vitamina D"
+        },
+        {
+          "id": "C",
+          "text": "RNA-polimerase dependente de DNA"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Rifampicina inibe:",
+      "explanations": {
+        "direct": "RNA-polimerase dependente de DNA. É forte indutora enzimática e pode reduzir exposição de outros medicamentos.",
+        "intuitive": "Interrompe produção de RNA bacteriano.",
+        "technical": "É forte indutora enzimática e pode reduzir exposição de outros medicamentos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P47-0837",
+      "number": 837,
+      "topicId": "P47",
+      "text": "Rifampicina pode reduzir eficácia de outros fármacos por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ligação a todos os receptores hormonais"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio universal de eliminação"
+        },
+        {
+          "id": "C",
+          "text": "Indução de metabolismo e transportadores"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Rifampicina pode reduzir eficácia de outros fármacos por:",
+      "explanations": {
+        "direct": "Indução de metabolismo e transportadores. Interação é relevante com vários agentes; não é apenas alteração da cor de secreções.",
+        "intuitive": "Aumenta vias que removem certas moléculas.",
+        "technical": "Interação é relevante com vários agentes; não é apenas alteração da cor de secreções."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P47-0838",
+      "number": 838,
+      "topicId": "P47",
+      "text": "Piridoxina pode ser associada à isoniazida para reduzir risco de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuropatia periférica"
+        },
+        {
+          "id": "B",
+          "text": "Hipercalcemia"
+        },
+        {
+          "id": "C",
+          "text": "Ototoxicidade por bloqueio de canais"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Piridoxina pode ser associada à isoniazida para reduzir risco de:",
+      "explanations": {
+        "direct": "Neuropatia periférica. A indicação depende do risco; não neutraliza toda hepatotoxicidade.",
+        "intuitive": "Ajuda a prevenir deficiência funcional de vitamina B6.",
+        "technical": "A indicação depende do risco; não neutraliza toda hepatotoxicidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P47-0839",
+      "number": 839,
+      "topicId": "P47",
+      "text": "Pirazinamida pode causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hiperuricemia e hepatotoxicidade"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de metabolismo hepático"
+        },
+        {
+          "id": "C",
+          "text": "Hipouricemia obrigatória"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Pirazinamida pode causar:",
+      "explanations": {
+        "direct": "Hiperuricemia e hepatotoxicidade. Não deve ser confundida com fármaco redutor de ácido úrico.",
+        "intuitive": "A eliminação de urato e o fígado podem ser afetados.",
+        "technical": "Não deve ser confundida com fármaco redutor de ácido úrico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P47-0840",
+      "number": 840,
+      "topicId": "P47",
+      "text": "Combinar fármacos no tratamento da tuberculose ajuda a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduzir seleção de resistência e atingir populações distintas"
+        },
+        {
+          "id": "B",
+          "text": "Garantir ausência de toxicidade"
+        },
+        {
+          "id": "C",
+          "text": "Substituir adesão ao tratamento"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Combinar fármacos no tratamento da tuberculose ajuda a:",
+      "explanations": {
+        "direct": "Reduzir seleção de resistência e atingir populações distintas. Esquemas dependem de susceptibilidade e contexto; monoterapia inadequada favorece resistência.",
+        "intuitive": "A bactéria tem menos chance de escapar de várias ações adequadas.",
+        "technical": "Esquemas dependem de susceptibilidade e contexto; monoterapia inadequada favorece resistência."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

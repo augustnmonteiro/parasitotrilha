@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P05",
+    "name": "Farmacologia · 05 · Farmacogenômica",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 5
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P05-0449",
+      "number": 449,
+      "topicId": "P05",
+      "text": "Um metabolizador lento de CYP2D6 usando codeína pode apresentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de qualquer relação farmacogenética"
+        },
+        {
+          "id": "B",
+          "text": "Maior ativação obrigatória da codeína"
+        },
+        {
+          "id": "C",
+          "text": "Menor analgesia por menor formação de morfina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um metabolizador lento de CYP2D6 usando codeína pode apresentar:",
+      "explanations": {
+        "direct": "Menor analgesia por menor formação de morfina. Codeína depende de CYP2D6 para conversão em morfina; o efeito não equivale ao de toda droga ativa metabolizada pela enzima.",
+        "intuitive": "A etapa que ativa parte do efeito fica menos eficiente.",
+        "technical": "Codeína depende de CYP2D6 para conversão em morfina; o efeito não equivale ao de toda droga ativa metabolizada pela enzima."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P05-0450",
+      "number": 450,
+      "topicId": "P05",
+      "text": "Um metabolizador ultrarrápido de CYP2D6 usando codeína pode ter:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Proteção absoluta contra depressão respiratória"
+        },
+        {
+          "id": "B",
+          "text": "Menor formação de morfina sempre"
+        },
+        {
+          "id": "C",
+          "text": "Maior risco de toxicidade por morfina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um metabolizador ultrarrápido de CYP2D6 usando codeína pode ter:",
+      "explanations": {
+        "direct": "Maior risco de toxicidade por morfina. A magnitude depende de dose e contexto; genótipo não substitui avaliação clínica.",
+        "intuitive": "A transformação em produto ativo pode ocorrer em excesso.",
+        "technical": "A magnitude depende de dose e contexto; genótipo não substitui avaliação clínica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P05-0451",
+      "number": 451,
+      "topicId": "P05",
+      "text": "Variantes em VKORC1 e CYP2C9 influenciam resposta a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Varfarina"
+        },
+        {
+          "id": "B",
+          "text": "Adenosina"
+        },
+        {
+          "id": "C",
+          "text": "Lidocaína tópica"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Variantes em VKORC1 e CYP2C9 influenciam resposta a:",
+      "explanations": {
+        "direct": "Varfarina. VKORC1 é alvo e CYP2C9 metaboliza parte da varfarina; monitoramento por INR continua importante.",
+        "intuitive": "Podem mudar sensibilidade ao alvo e velocidade de eliminação.",
+        "technical": "VKORC1 é alvo e CYP2C9 metaboliza parte da varfarina; monitoramento por INR continua importante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P05-0452",
+      "number": 452,
+      "topicId": "P05",
+      "text": "Deficiência de pseudocolinesterase pode prolongar ação de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Succinilcolina"
+        },
+        {
+          "id": "B",
+          "text": "Salbutamol"
+        },
+        {
+          "id": "C",
+          "text": "Atropina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Deficiência de pseudocolinesterase pode prolongar ação de:",
+      "explanations": {
+        "direct": "Succinilcolina. A hidrólise plasmática reduz; pode ocorrer apneia prolongada, sem que isso implique analgesia.",
+        "intuitive": "A quebra do bloqueador fica mais lenta.",
+        "technical": "A hidrólise plasmática reduz; pode ocorrer apneia prolongada, sem que isso implique analgesia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P05-0453",
+      "number": 453,
+      "topicId": "P05",
+      "text": "Predisposição à hipertermia maligna envolve frequentemente variantes em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "RYR1, canal de liberação de cálcio"
+        },
+        {
+          "id": "B",
+          "text": "BCHE, colinesterase plasmática"
+        },
+        {
+          "id": "C",
+          "text": "CYP2D6, enzima metabolizadora"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Predisposição à hipertermia maligna envolve frequentemente variantes em:",
+      "explanations": {
+        "direct": "RYR1, canal de liberação de cálcio. Agentes desencadeantes incluem anestésicos voláteis e succinilcolina; não é simples febre alérgica.",
+        "intuitive": "A liberação de cálcio muscular pode ficar descontrolada.",
+        "technical": "Agentes desencadeantes incluem anestésicos voláteis e succinilcolina; não é simples febre alérgica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P05-0454",
+      "number": 454,
+      "topicId": "P05",
+      "text": "O fenótipo metabólico pode diferir do previsto pelo genótipo quando há:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nome comercial diferente apenas"
+        },
+        {
+          "id": "B",
+          "text": "Inibidor enzimático concomitante"
+        },
+        {
+          "id": "C",
+          "text": "Embalagem maior"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O fenótipo metabólico pode diferir do previsto pelo genótipo quando há:",
+      "explanations": {
+        "direct": "Inibidor enzimático concomitante. A fenoconversão mostra que genótipo e atividade atual não são sinônimos.",
+        "intuitive": "Uma interação pode frear uma enzima geneticamente normal.",
+        "technical": "A fenoconversão mostra que genótipo e atividade atual não são sinônimos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P05-0455",
+      "number": 455,
+      "topicId": "P05",
+      "text": "Farmacogenômica é melhor entendida como ferramenta para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Substituir toda avaliação clínica"
+        },
+        {
+          "id": "B",
+          "text": "Individualizar escolhas em situações com evidência"
+        },
+        {
+          "id": "C",
+          "text": "Garantir ausência de efeitos adversos"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Farmacogenômica é melhor entendida como ferramenta para:",
+      "explanations": {
+        "direct": "Individualizar escolhas em situações com evidência. Valor clínico depende do par gene-fármaco e da evidência; não elimina monitoramento.",
+        "intuitive": "Ela acrescenta informação útil à decisão.",
+        "technical": "Valor clínico depende do par gene-fármaco e da evidência; não elimina monitoramento."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P05-0456",
+      "number": 456,
+      "topicId": "P05",
+      "text": "Alelos de perda de função de CYP2C19 podem reduzir efeito de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Insulina regular"
+        },
+        {
+          "id": "B",
+          "text": "Heparina não fracionada"
+        },
+        {
+          "id": "C",
+          "text": "Clopidogrel"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Alelos de perda de função de CYP2C19 podem reduzir efeito de:",
+      "explanations": {
+        "direct": "Clopidogrel. Clopidogrel requer bioativação; heparina e insulina não dependem dessa via para ativação.",
+        "intuitive": "A pró-droga é ativada com menor eficiência.",
+        "technical": "Clopidogrel requer bioativação; heparina e insulina não dependem dessa via para ativação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P05-0457",
+      "number": 457,
+      "topicId": "P05",
+      "text": "Antes de uma tiopurina, identifica-se atividade muito baixa de TPMT ou NUDT15. Qual toxicidade se torna especialmente preocupante com exposição não ajustada?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mielotoxicidade"
+        },
+        {
+          "id": "B",
+          "text": "Hipertrofia muscular"
+        },
+        {
+          "id": "C",
+          "text": "Broncodilatação"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Antes de uma tiopurina, identifica-se atividade muito baixa de TPMT ou NUDT15. Qual toxicidade se torna especialmente preocupante com exposição não ajustada?",
+      "explanations": {
+        "direct": "Mielotoxicidade. Azatioprina/mercaptopurina exigem atenção a essas vias; não são agonistas β2 nem anabolizantes.",
+        "intuitive": "Metabólitos tóxicos podem se acumular.",
+        "technical": "Azatioprina/mercaptopurina exigem atenção a essas vias; não são agonistas β2 nem anabolizantes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P05-0458",
+      "number": 458,
+      "topicId": "P05",
+      "text": "Deficiência de G6PD aumenta risco de hemólise com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Todo hormônio tireoidiano"
+        },
+        {
+          "id": "B",
+          "text": "Qualquer soro fisiológico"
+        },
+        {
+          "id": "C",
+          "text": "Certos fármacos oxidantes"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Deficiência de G6PD aumenta risco de hemólise com:",
+      "explanations": {
+        "direct": "Certos fármacos oxidantes. O risco depende do agente, variante e exposição; não se estende indistintamente a todos os medicamentos.",
+        "intuitive": "A hemácia tem menor defesa contra estresse oxidativo.",
+        "technical": "O risco depende do agente, variante e exposição; não se estende indistintamente a todos os medicamentos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P05-0459",
+      "number": 459,
+      "topicId": "P05",
+      "text": "HLA-B*57:01 é associado a hipersensibilidade por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Furosemida"
+        },
+        {
+          "id": "B",
+          "text": "Abacavir"
+        },
+        {
+          "id": "C",
+          "text": "Metformina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "HLA-B*57:01 é associado a hipersensibilidade por:",
+      "explanations": {
+        "direct": "Abacavir. É associação específica relevante; não é teste geral para todas as alergias farmacológicas.",
+        "intuitive": "Uma característica imune modifica o risco de reação.",
+        "technical": "É associação específica relevante; não é teste geral para todas as alergias farmacológicas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P05-0460",
+      "number": 460,
+      "topicId": "P05",
+      "text": "Uma associação genética com reação adversa significa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Risco modificado, não destino universal"
+        },
+        {
+          "id": "B",
+          "text": "Reação inevitável em qualquer dose"
+        },
+        {
+          "id": "C",
+          "text": "Impossibilidade de outros fatores influenciarem"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Uma associação genética com reação adversa significa:",
+      "explanations": {
+        "direct": "Risco modificado, não destino universal. Penetrância, exposição e outros fatores modulam resposta; não se deve transformar associação em certeza.",
+        "intuitive": "O gene muda probabilidades, mas o contexto também conta.",
+        "technical": "Penetrância, exposição e outros fatores modulam resposta; não se deve transformar associação em certeza."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

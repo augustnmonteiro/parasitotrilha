@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P49",
+    "name": "Farmacologia · 49 · Antivirais",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 49
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P49-0849",
+      "number": 849,
+      "topicId": "P49",
+      "text": "Ganciclovir exige atenção especialmente a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento da contagem de neutrófilos como efeito desejado"
+        },
+        {
+          "id": "B",
+          "text": "Mielossupressão"
+        },
+        {
+          "id": "C",
+          "text": "Estimulação eritroide"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ganciclovir exige atenção especialmente a:",
+      "explanations": {
+        "direct": "Mielossupressão. É relevante em pacientes já vulneráveis; não é fator de crescimento hematopoiético.",
+        "intuitive": "A produção de células sanguíneas pode cair.",
+        "technical": "É relevante em pacientes já vulneráveis; não é fator de crescimento hematopoiético."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P49-0850",
+      "number": 850,
+      "topicId": "P49",
+      "text": "Dolutegravir atua na:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Protease de influenza"
+        },
+        {
+          "id": "B",
+          "text": "Timidina-quinase de herpes"
+        },
+        {
+          "id": "C",
+          "text": "Integrase do HIV"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Dolutegravir atua na:",
+      "explanations": {
+        "direct": "Integrase do HIV. Cátions podem reduzir absorção; não é um inibidor de neuraminidase.",
+        "intuitive": "Impede integração eficiente do material viral ao genoma.",
+        "technical": "Cátions podem reduzir absorção; não é um inibidor de neuraminidase."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P49-0851",
+      "number": 851,
+      "topicId": "P49",
+      "text": "Tenofovir é análogo que atua principalmente sobre:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Protease do HIV"
+        },
+        {
+          "id": "B",
+          "text": "Transcriptase reversa viral"
+        },
+        {
+          "id": "C",
+          "text": "Receptor CCR5 como antagonista direto"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Tenofovir é análogo que atua principalmente sobre:",
+      "explanations": {
+        "direct": "Transcriptase reversa viral. Formulações diferem em exposição e perfil renal/ósseo; não bloqueia entrada pelo mesmo alvo de maraviroque.",
+        "intuitive": "Compete na síntese do material genético viral.",
+        "technical": "Formulações diferem em exposição e perfil renal/ósseo; não bloqueia entrada pelo mesmo alvo de maraviroque."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P49-0852",
+      "number": 852,
+      "topicId": "P49",
+      "text": "Aciclovir depende inicialmente de ativação por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Protease do HIV"
+        },
+        {
+          "id": "B",
+          "text": "Neuraminidase"
+        },
+        {
+          "id": "C",
+          "text": "Timidina-quinase viral"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Aciclovir depende inicialmente de ativação por:",
+      "explanations": {
+        "direct": "Timidina-quinase viral. Metabólitos inibem DNA-polimerase viral; resistência pode envolver a quinase.",
+        "intuitive": "A célula infectada ativa seletivamente a molécula.",
+        "technical": "Metabólitos inibem DNA-polimerase viral; resistência pode envolver a quinase."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P49-0853",
+      "number": 853,
+      "topicId": "P49",
+      "text": "Foscarnet difere do aciclovir por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Não exigir fosforilação por quinase viral para agir"
+        },
+        {
+          "id": "B",
+          "text": "Exigir sempre timidina-quinase viral"
+        },
+        {
+          "id": "C",
+          "text": "Ser inibidor de entrada do HIV exclusivamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Foscarnet difere do aciclovir por:",
+      "explanations": {
+        "direct": "Não exigir fosforilação por quinase viral para agir. Inibe polimerases como análogo de pirofosfato; nefrotoxicidade e eletrólitos importam.",
+        "intuitive": "Pode agir sem a etapa de ativação que alguns vírus perdem.",
+        "technical": "Inibe polimerases como análogo de pirofosfato; nefrotoxicidade e eletrólitos importam."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P49-0854",
+      "number": 854,
+      "topicId": "P49",
+      "text": "Oseltamivir inibe:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integrase do HIV"
+        },
+        {
+          "id": "B",
+          "text": "Neuraminidase de influenza"
+        },
+        {
+          "id": "C",
+          "text": "DNA-polimerase de herpes"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Oseltamivir inibe:",
+      "explanations": {
+        "direct": "Neuraminidase de influenza. Não é antiviral universal para qualquer síndrome gripal.",
+        "intuitive": "Dificulta liberação e disseminação de partículas virais.",
+        "technical": "Não é antiviral universal para qualquer síndrome gripal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P49-0855",
+      "number": 855,
+      "topicId": "P49",
+      "text": "Ritonavir pode potencializar outro antiviral por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloquear absorção intestinal do parceiro"
+        },
+        {
+          "id": "B",
+          "text": "Induzir fortemente toda eliminação do parceiro"
+        },
+        {
+          "id": "C",
+          "text": "Inibir CYP3A e reduzir metabolismo do parceiro"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ritonavir pode potencializar outro antiviral por:",
+      "explanations": {
+        "direct": "Inibir CYP3A e reduzir metabolismo do parceiro. Esse uso cria numerosas interações; não é apenas somação antiviral direta.",
+        "intuitive": "O medicamento associado permanece em maior concentração.",
+        "technical": "Esse uso cria numerosas interações; não é apenas somação antiviral direta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P49-0856",
+      "number": 856,
+      "topicId": "P49",
+      "text": "Aciclovir pode causar lesão renal relacionada a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cristalização tubular em exposições predisponentes"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio AT1"
+        },
+        {
+          "id": "C",
+          "text": "Inibição de ENaC como alvo principal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Aciclovir pode causar lesão renal relacionada a:",
+      "explanations": {
+        "direct": "Cristalização tubular em exposições predisponentes. Hidratação, função renal e exposição importam; não é um bloqueador de angiotensina.",
+        "intuitive": "Concentração elevada pode favorecer precipitação no rim.",
+        "technical": "Hidratação, função renal e exposição importam; não é um bloqueador de angiotensina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

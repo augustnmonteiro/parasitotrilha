@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P52",
+    "name": "Farmacologia · 52 · Antiprotozoários",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 52
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P52-0873",
+      "number": 873,
+      "topicId": "P52",
+      "text": "Metronidazol na amebíase invasiva atua principalmente em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Formas teciduais susceptíveis"
+        },
+        {
+          "id": "B",
+          "text": "Ovos de helmintos"
+        },
+        {
+          "id": "C",
+          "text": "Todos os cistos luminais com erradicação garantida"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Metronidazol na amebíase invasiva atua principalmente em:",
+      "explanations": {
+        "direct": "Formas teciduais susceptíveis. Um agente luminal pode ser necessário conforme esquema; não é anti-helmíntico geral.",
+        "intuitive": "Trata a invasão, mas pode não limpar completamente o reservatório intestinal.",
+        "technical": "Um agente luminal pode ser necessário conforme esquema; não é anti-helmíntico geral."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P52-0874",
+      "number": 874,
+      "topicId": "P52",
+      "text": "Cloroquina interfere principalmente em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor de insulina"
+        },
+        {
+          "id": "B",
+          "text": "Detoxificação do heme no parasita"
+        },
+        {
+          "id": "C",
+          "text": "Síntese de parede bacteriana"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Cloroquina interfere principalmente em:",
+      "explanations": {
+        "direct": "Detoxificação do heme no parasita. Resistência e espécie importam; não se presume atividade universal contra malária.",
+        "intuitive": "O parasita não lida adequadamente com produtos da hemoglobina.",
+        "technical": "Resistência e espécie importam; não se presume atividade universal contra malária."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P52-0875",
+      "number": 875,
+      "topicId": "P52",
+      "text": "Primaquina pode atingir hipnozoítos de certas espécies, mas exige avaliar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heterozigose para traço falciforme isoladamente"
+        },
+        {
+          "id": "B",
+          "text": "Deficiência de lactase"
+        },
+        {
+          "id": "C",
+          "text": "Deficiência de G6PD"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Primaquina pode atingir hipnozoítos de certas espécies, mas exige avaliar:",
+      "explanations": {
+        "direct": "Deficiência de G6PD. A decisão exige avaliação específica; não é intercambiável com qualquer antimalárico.",
+        "intuitive": "O benefício contra formas hepáticas pode vir com risco de hemólise.",
+        "technical": "A decisão exige avaliação específica; não é intercambiável com qualquer antimalárico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P52-0876",
+      "number": 876,
+      "topicId": "P52",
+      "text": "Atovaquona interfere no:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metabolismo do heme como a cloroquina"
+        },
+        {
+          "id": "B",
+          "text": "Transporte mitocondrial de elétrons"
+        },
+        {
+          "id": "C",
+          "text": "Citoesqueleto por ligação à tubulina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Atovaquona interfere no:",
+      "explanations": {
+        "direct": "Transporte mitocondrial de elétrons. Combinações e indicação são específicas; não é opioide ou paralisante.",
+        "intuitive": "Compromete uma fonte de energia e metabolismo.",
+        "technical": "Combinações e indicação são específicas; não é opioide ou paralisante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P52-0877",
+      "number": 877,
+      "topicId": "P52",
+      "text": "Benznidazol é utilizado contra:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trypanosoma cruzi"
+        },
+        {
+          "id": "B",
+          "text": "Plasmodium vivax como hipnozoiticida principal"
+        },
+        {
+          "id": "C",
+          "text": "Ascaris lumbricoides"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Benznidazol é utilizado contra:",
+      "explanations": {
+        "direct": "Trypanosoma cruzi. Eficácia e risco dependem da fase e contexto; não é tratamento universal de parasitoses.",
+        "intuitive": "Atua sobre o agente da doença de Chagas.",
+        "technical": "Eficácia e risco dependem da fase e contexto; não é tratamento universal de parasitoses."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P52-0878",
+      "number": 878,
+      "topicId": "P52",
+      "text": "Paromomicina tem utilidade luminal em parte porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "É convertida em cortisol"
+        },
+        {
+          "id": "B",
+          "text": "É pouco absorvida por via oral"
+        },
+        {
+          "id": "C",
+          "text": "Atravessa intensamente o cérebro"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Paromomicina tem utilidade luminal em parte porque:",
+      "explanations": {
+        "direct": "É pouco absorvida por via oral. Isso limita ação em doença extraintestinal; local de exposição define utilidade.",
+        "intuitive": "Permanece principalmente no intestino.",
+        "technical": "Isso limita ação em doença extraintestinal; local de exposição define utilidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P52-0879",
+      "number": 879,
+      "topicId": "P52",
+      "text": "Artemisininas atuam contra malária por mecanismo relacionado a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibição de β-glucano fúngico"
+        },
+        {
+          "id": "B",
+          "text": "Ativação da ponte endoperóxido e dano parasitário"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio de receptor H2 humano"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Artemisininas atuam contra malária por mecanismo relacionado a:",
+      "explanations": {
+        "direct": "Ativação da ponte endoperóxido e dano parasitário. São usadas em combinações apropriadas para limitar falha e resistência.",
+        "intuitive": "A estrutura química gera dano dentro do parasita.",
+        "technical": "São usadas em combinações apropriadas para limitar falha e resistência."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P52-0880",
+      "number": 880,
+      "topicId": "P52",
+      "text": "Toxicidade de antiprotozoários exige considerar hospedeiro porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parasitas e humanos compartilham algumas funções celulares"
+        },
+        {
+          "id": "B",
+          "text": "Todos os alvos são exclusivos do parasita"
+        },
+        {
+          "id": "C",
+          "text": "Produtos naturais são sempre inofensivos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Toxicidade de antiprotozoários exige considerar hospedeiro porque:",
+      "explanations": {
+        "direct": "Parasitas e humanos compartilham algumas funções celulares. Espécie, fase do ciclo, gestação e comorbidades mudam a escolha.",
+        "intuitive": "A seletividade pode ser incompleta.",
+        "technical": "Espécie, fase do ciclo, gestação e comorbidades mudam a escolha."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

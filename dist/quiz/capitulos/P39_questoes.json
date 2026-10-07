@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P39",
+    "name": "Farmacologia · 39 · Corticosteroides",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 39
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P39-0769",
+      "number": 769,
+      "topicId": "P39",
+      "text": "Glicocorticoides atuam principalmente em receptores:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intracelulares que regulam transcrição"
+        },
+        {
+          "id": "B",
+          "text": "Nicotínicos de membrana"
+        },
+        {
+          "id": "C",
+          "text": "Canais ENaC diretamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Glicocorticoides atuam principalmente em receptores:",
+      "explanations": {
+        "direct": "Intracelulares que regulam transcrição. Há também efeitos não genômicos; não são simples bloqueadores de canal.",
+        "intuitive": "Mudam a produção de proteínas e sinais inflamatórios.",
+        "technical": "Há também efeitos não genômicos; não são simples bloqueadores de canal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P39-0770",
+      "number": 770,
+      "topicId": "P39",
+      "text": "Uso prolongado de glicocorticoide pode suprimir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eixo hipotálamo-hipófise-adrenal"
+        },
+        {
+          "id": "B",
+          "text": "Somente produção de bile"
+        },
+        {
+          "id": "C",
+          "text": "Todos os receptores β2 permanentemente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uso prolongado de glicocorticoide pode suprimir:",
+      "explanations": {
+        "direct": "Eixo hipotálamo-hipófise-adrenal. Retirada abrupta após supressão pode precipitar insuficiência adrenal.",
+        "intuitive": "O produto externo reduz o pedido de produção interna.",
+        "technical": "Retirada abrupta após supressão pode precipitar insuficiência adrenal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P39-0771",
+      "number": 771,
+      "topicId": "P39",
+      "text": "Osteoporose por glicocorticoide envolve:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento obrigatório de osteoblastos ativos"
+        },
+        {
+          "id": "B",
+          "text": "Redução de formação óssea e alterações no balanço mineral"
+        },
+        {
+          "id": "C",
+          "text": "Apenas falta de vitamina C"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Osteoporose por glicocorticoide envolve:",
+      "explanations": {
+        "direct": "Redução de formação óssea e alterações no balanço mineral. Risco depende de dose, duração e fatores individuais.",
+        "intuitive": "O osso perde equilíbrio entre construção e perda.",
+        "technical": "Risco depende de dose, duração e fatores individuais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P39-0772",
+      "number": 772,
+      "topicId": "P39",
+      "text": "Dexametasona apresenta relativamente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente ação mineralocorticoide"
+        },
+        {
+          "id": "B",
+          "text": "Alta potência glicocorticoide e pouca ação mineralocorticoide"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de efeito no eixo adrenal"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Dexametasona apresenta relativamente:",
+      "explanations": {
+        "direct": "Alta potência glicocorticoide e pouca ação mineralocorticoide. Não é equivalente à fludrocortisona em perfil de receptor.",
+        "intuitive": "É potente contra inflamação, com menor retenção salina relativa.",
+        "technical": "Não é equivalente à fludrocortisona em perfil de receptor."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P39-0773",
+      "number": 773,
+      "topicId": "P39",
+      "text": "Fludrocortisona é utilizada por sua ação predominante:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antitireoidiana"
+        },
+        {
+          "id": "B",
+          "text": "Antimuscarínica"
+        },
+        {
+          "id": "C",
+          "text": "Mineralocorticoide"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Fludrocortisona é utilizada por sua ação predominante:",
+      "explanations": {
+        "direct": "Mineralocorticoide. Pode causar hipertensão e hipocalemia; não é um bloqueador de aldosterona.",
+        "intuitive": "Ajuda a conservar sódio e volume.",
+        "technical": "Pode causar hipertensão e hipocalemia; não é um bloqueador de aldosterona."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P39-0774",
+      "number": 774,
+      "topicId": "P39",
+      "text": "Mifepristona pode antagonizar receptores de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Insulina e glucagon exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Acetilcolina e histamina exclusivamente"
+        },
+        {
+          "id": "C",
+          "text": "Progesterona e glicocorticoide"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Mifepristona pode antagonizar receptores de:",
+      "explanations": {
+        "direct": "Progesterona e glicocorticoide. O uso e efeito dependem da indicação e exposição; não é reposição desses hormônios.",
+        "intuitive": "Uma molécula pode bloquear mais de um receptor hormonal.",
+        "technical": "O uso e efeito dependem da indicação e exposição; não é reposição desses hormônios."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P39-0775",
+      "number": 775,
+      "topicId": "P39",
+      "text": "Glicocorticoides podem elevar glicemia por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar secreção pancreática de glucagon como único mecanismo"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar produção hepática e resistência à insulina"
+        },
+        {
+          "id": "C",
+          "text": "Aumentar captação de glicose mediada por GLUT4"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Glicocorticoides podem elevar glicemia por:",
+      "explanations": {
+        "direct": "Aumentar produção hepática e resistência à insulina. Não é ação hipoglicemiante equivalente à insulina.",
+        "intuitive": "Mais combustível entra no sangue e alguns tecidos o captam menos.",
+        "technical": "Não é ação hipoglicemiante equivalente à insulina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P39-0776",
+      "number": 776,
+      "topicId": "P39",
+      "text": "Cetoconazol pode reduzir esteroidogênese por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Enzimas de síntese de esteroides"
+        },
+        {
+          "id": "B",
+          "text": "Receptor de vitamina K"
+        },
+        {
+          "id": "C",
+          "text": "Canal Nm"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Cetoconazol pode reduzir esteroidogênese por inibir:",
+      "explanations": {
+        "direct": "Enzimas de síntese de esteroides. Também tem riscos hepáticos e interações; não é seletivo apenas para cortisol em todo contexto.",
+        "intuitive": "Interfere na maquinaria que fabrica hormônios esteroides.",
+        "technical": "Também tem riscos hepáticos e interações; não é seletivo apenas para cortisol em todo contexto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

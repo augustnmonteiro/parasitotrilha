@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P64",
+    "name": "Farmacologia · 64 · Medicamentos não prescritos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 64
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P64-0969",
+      "number": 969,
+      "topicId": "P64",
+      "text": "Descongestionantes simpaticomiméticos podem piorar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipertensão ou taquicardia em suscetíveis"
+        },
+        {
+          "id": "B",
+          "text": "Deficiência de ferro como ação principal"
+        },
+        {
+          "id": "C",
+          "text": "Hipoglicemia por insulina obrigatoriamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Descongestionantes simpaticomiméticos podem piorar:",
+      "explanations": {
+        "direct": "Hipertensão ou taquicardia em suscetíveis. Via, dose e susceptibilidade modificam risco.",
+        "intuitive": "A vasoconstrição nasal pode vir com efeitos sistêmicos.",
+        "technical": "Via, dose e susceptibilidade modificam risco."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P64-0970",
+      "number": 970,
+      "topicId": "P64",
+      "text": "Uso excessivo de descongestionante nasal tópico pode provocar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Supressão definitiva das glândulas adrenais"
+        },
+        {
+          "id": "B",
+          "text": "Cura permanente de toda rinite"
+        },
+        {
+          "id": "C",
+          "text": "Congestão rebote"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uso excessivo de descongestionante nasal tópico pode provocar:",
+      "explanations": {
+        "direct": "Congestão rebote. Rinite medicamentosa difere da causa inicial da congestão.",
+        "intuitive": "O alívio repetido pode virar parte do problema.",
+        "technical": "Rinite medicamentosa difere da causa inicial da congestão."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P64-0971",
+      "number": 971,
+      "topicId": "P64",
+      "text": "Antiácidos com magnésio podem causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de interação de absorção"
+        },
+        {
+          "id": "B",
+          "text": "Constipação como único efeito"
+        },
+        {
+          "id": "C",
+          "text": "Diarreia e acúmulo em disfunção renal"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Antiácidos com magnésio podem causar:",
+      "explanations": {
+        "direct": "Diarreia e acúmulo em disfunção renal. Também podem interferir com outros fármacos por pH ou complexação.",
+        "intuitive": "O cátion e a capacidade de eliminá-lo importam.",
+        "technical": "Também podem interferir com outros fármacos por pH ou complexação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P64-0972",
+      "number": 972,
+      "topicId": "P64",
+      "text": "O uso de paracetamol em múltiplas apresentações exige somar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Todas as fontes do princípio ativo"
+        },
+        {
+          "id": "B",
+          "text": "Somente doses injetáveis"
+        },
+        {
+          "id": "C",
+          "text": "Apenas comprimidos de uma marca"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O uso de paracetamol em múltiplas apresentações exige somar:",
+      "explanations": {
+        "direct": "Todas as fontes do princípio ativo. Duplicidade pode elevar exposição além da pretendida; não há proteção pela troca de marca.",
+        "intuitive": "O fígado recebe o total, não o nome de cada produto.",
+        "technical": "Duplicidade pode elevar exposição além da pretendida; não há proteção pela troca de marca."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P64-0973",
+      "number": 973,
+      "topicId": "P64",
+      "text": "Dois produtos para gripe podem aumentar toxicidade quando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Têm nomes comerciais diferentes necessariamente seguros"
+        },
+        {
+          "id": "B",
+          "text": "Contêm o mesmo princípio ativo"
+        },
+        {
+          "id": "C",
+          "text": "São vendidos em farmácias distintas"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Dois produtos para gripe podem aumentar toxicidade quando:",
+      "explanations": {
+        "direct": "Contêm o mesmo princípio ativo. Verificar composição evita duplicidade; marca não define mecanismo.",
+        "intuitive": "A pessoa pode somar doses sem perceber.",
+        "technical": "Verificar composição evita duplicidade; marca não define mecanismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P64-0974",
+      "number": 974,
+      "topicId": "P64",
+      "text": "Medicamento sem receita pode causar intoxicação porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acesso livre não elimina toxicidade dose-dependente"
+        },
+        {
+          "id": "B",
+          "text": "A classificação garante ausência de risco"
+        },
+        {
+          "id": "C",
+          "text": "Só medicamentos injetáveis causam dano"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Medicamento sem receita pode causar intoxicação porque:",
+      "explanations": {
+        "direct": "Acesso livre não elimina toxicidade dose-dependente. Interações, comorbidades e duplicidade de ingredientes importam.",
+        "intuitive": "Ser fácil de comprar não muda a biologia da dose.",
+        "technical": "Interações, comorbidades e duplicidade de ingredientes importam."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P64-0975",
+      "number": 975,
+      "topicId": "P64",
+      "text": "Anti-histamínico sedativo em produto de venda livre pode causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melhora garantida da memória"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de interação com álcool"
+        },
+        {
+          "id": "C",
+          "text": "Prejuízo de atenção e carga anticolinérgica"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Anti-histamínico sedativo em produto de venda livre pode causar:",
+      "explanations": {
+        "direct": "Prejuízo de atenção e carga anticolinérgica. Álcool e outros sedativos podem somar depressão do SNC.",
+        "intuitive": "O efeito pode atrapalhar atividades mesmo sem receita.",
+        "technical": "Álcool e outros sedativos podem somar depressão do SNC."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P64-0976",
+      "number": 976,
+      "topicId": "P64",
+      "text": "AINE de venda livre em pessoa com doença renal pode:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar TFG em toda situação"
+        },
+        {
+          "id": "B",
+          "text": "Agravar função renal em condições predisponentes"
+        },
+        {
+          "id": "C",
+          "text": "Ser sempre seguro por não exigir receita"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "AINE de venda livre em pessoa com doença renal pode:",
+      "explanations": {
+        "direct": "Agravar função renal em condições predisponentes. Desidratação e associações aumentam risco.",
+        "intuitive": "O rim pode depender de prostaglandinas que serão bloqueadas.",
+        "technical": "Desidratação e associações aumentam risco."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

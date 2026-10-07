@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P55",
+    "name": "Farmacologia · 55 · Imunofarmacologia",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 55
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P55-0897",
+      "number": 897,
+      "topicId": "P55",
+      "text": "Uma toxicidade importante dos inibidores de calcineurina é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de interação metabólica"
+        },
+        {
+          "id": "B",
+          "text": "Nefrotoxicidade"
+        },
+        {
+          "id": "C",
+          "text": "Aumento garantido da TFG"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uma toxicidade importante dos inibidores de calcineurina é:",
+      "explanations": {
+        "direct": "Nefrotoxicidade. Também podem causar hipertensão e interações por CYP3A.",
+        "intuitive": "Proteger um enxerto não elimina risco para o rim.",
+        "technical": "Também podem causar hipertensão e interações por CYP3A."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P55-0898",
+      "number": 898,
+      "topicId": "P55",
+      "text": "Rituximabe reconhece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "CD3 exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "CD20"
+        },
+        {
+          "id": "C",
+          "text": "Receptor β1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Rituximabe reconhece:",
+      "explanations": {
+        "direct": "CD20. Plasmócitos maduros não são uniformemente CD20 positivos; não equivale a eliminar imediatamente todos os anticorpos.",
+        "intuitive": "Depleta populações de células B que expressam o alvo.",
+        "technical": "Plasmócitos maduros não são uniformemente CD20 positivos; não equivale a eliminar imediatamente todos os anticorpos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P55-0899",
+      "number": 899,
+      "topicId": "P55",
+      "text": "Ciclosporina e tacrolimo reduzem ativação T ao inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "COX-1"
+        },
+        {
+          "id": "B",
+          "text": "Receptor de IgE diretamente"
+        },
+        {
+          "id": "C",
+          "text": "Calcineurina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ciclosporina e tacrolimo reduzem ativação T ao inibir:",
+      "explanations": {
+        "direct": "Calcineurina. Ligam imunofilinas diferentes, mas convergem na calcineurina.",
+        "intuitive": "Diminuem a transcrição de sinais como IL-2.",
+        "technical": "Ligam imunofilinas diferentes, mas convergem na calcineurina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P55-0900",
+      "number": 900,
+      "topicId": "P55",
+      "text": "Sirolimo inibe:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sinalização por mTOR"
+        },
+        {
+          "id": "B",
+          "text": "Síntese de folato pela DHFR"
+        },
+        {
+          "id": "C",
+          "text": "Atividade da calcineurina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Sirolimo inibe:",
+      "explanations": {
+        "direct": "Sinalização por mTOR. Liga FKBP, mas seu alvo funcional difere do tacrolimo.",
+        "intuitive": "Bloqueia resposta proliferativa a sinais de crescimento.",
+        "technical": "Liga FKBP, mas seu alvo funcional difere do tacrolimo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P55-0901",
+      "number": 901,
+      "topicId": "P55",
+      "text": "Micofenolato reduz proliferação linfocitária por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor V2"
+        },
+        {
+          "id": "B",
+          "text": "IMP desidrogenase"
+        },
+        {
+          "id": "C",
+          "text": "Acetilcolinesterase"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Micofenolato reduz proliferação linfocitária por inibir:",
+      "explanations": {
+        "direct": "IMP desidrogenase. Linfócitos dependem dessa via; efeitos gastrointestinais, hematológicos e reprodutivos importam.",
+        "intuitive": "Dificulta síntese de guanina de novo.",
+        "technical": "Linfócitos dependem dessa via; efeitos gastrointestinais, hematológicos e reprodutivos importam."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P55-0902",
+      "number": 902,
+      "topicId": "P55",
+      "text": "Abatacepte reduz coestimulação T ao interferir na interação:",
+      "options": [
+        {
+          "id": "A",
+          "text": "IgE com FcεRI como alvo principal"
+        },
+        {
+          "id": "B",
+          "text": "CD80/86 com CD28"
+        },
+        {
+          "id": "C",
+          "text": "MHC I com hemoglobina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Abatacepte reduz coestimulação T ao interferir na interação:",
+      "explanations": {
+        "direct": "CD80/86 com CD28. É proteína de fusão relacionada a CTLA-4, não anti-IgE.",
+        "intuitive": "Sem o segundo sinal, ativar a célula T fica mais difícil.",
+        "technical": "É proteína de fusão relacionada a CTLA-4, não anti-IgE."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P55-0903",
+      "number": 903,
+      "topicId": "P55",
+      "text": "Bloqueadores de PD-1 podem combater tumores por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloquear toda atividade T"
+        },
+        {
+          "id": "B",
+          "text": "Retirar um freio imunológico"
+        },
+        {
+          "id": "C",
+          "text": "Inibir diretamente a síntese de nucleotídeos tumorais"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Bloqueadores de PD-1 podem combater tumores por:",
+      "explanations": {
+        "direct": "Retirar um freio imunológico. Podem causar eventos autoimunes/inflamatórios; não são quimioterapia citotóxica clássica.",
+        "intuitive": "A célula imune recupera parte da capacidade de responder.",
+        "technical": "Podem causar eventos autoimunes/inflamatórios; não são quimioterapia citotóxica clássica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P55-0904",
+      "number": 904,
+      "topicId": "P55",
+      "text": "Vacina e imunoglobulina diferem porque a vacina:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fornece sempre anticorpo pronto"
+        },
+        {
+          "id": "B",
+          "text": "Age apenas enquanto circula como proteína"
+        },
+        {
+          "id": "C",
+          "text": "Induz resposta ativa, enquanto imunoglobulina fornece proteção passiva"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Vacina e imunoglobulina diferem porque a vacina:",
+      "explanations": {
+        "direct": "Induz resposta ativa, enquanto imunoglobulina fornece proteção passiva. A proteção passiva pode ser rápida e transitória; resposta vacinal requer tempo e varia.",
+        "intuitive": "Uma ensina o sistema; a outra entrega a ferramenta pronta.",
+        "technical": "A proteção passiva pode ser rápida e transitória; resposta vacinal requer tempo e varia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

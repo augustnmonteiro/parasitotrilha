@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P38",
+    "name": "Farmacologia · 38 · Tireoide",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 38
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P38-0761",
+      "number": 761,
+      "topicId": "P38",
+      "text": "Levotiroxina fornece principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tireotrofina (TSH)"
+        },
+        {
+          "id": "B",
+          "text": "Tri-iodotironina (T3)"
+        },
+        {
+          "id": "C",
+          "text": "Tiroxina (T4)"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Levotiroxina fornece principalmente:",
+      "explanations": {
+        "direct": "Tiroxina (T4). Não estimula a tireoide pelo receptor de TSH; é reposição hormonal.",
+        "intuitive": "Oferece um precursor convertido em parte nos tecidos.",
+        "technical": "Não estimula a tireoide pelo receptor de TSH; é reposição hormonal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P38-0762",
+      "number": 762,
+      "topicId": "P38",
+      "text": "Iodo em alta dose pode inibir agudamente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Organificação e liberação hormonal"
+        },
+        {
+          "id": "B",
+          "text": "Receptor de insulina"
+        },
+        {
+          "id": "C",
+          "text": "Toda síntese de cortisol"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Iodo em alta dose pode inibir agudamente:",
+      "explanations": {
+        "direct": "Organificação e liberação hormonal. O efeito pode escapar com o tempo; não se extrapola para suplementação indiscriminada.",
+        "intuitive": "Um excesso transitório pode frear a própria tireoide.",
+        "technical": "O efeito pode escapar com o tempo; não se extrapola para suplementação indiscriminada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P38-0763",
+      "number": 763,
+      "topicId": "P38",
+      "text": "Propranolol no hipertireoidismo controla sobretudo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sintomas adrenérgicos"
+        },
+        {
+          "id": "B",
+          "text": "Destruição autoimune da tireoide"
+        },
+        {
+          "id": "C",
+          "text": "Síntese de tireoglobulina diretamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Propranolol no hipertireoidismo controla sobretudo:",
+      "explanations": {
+        "direct": "Sintomas adrenérgicos. Em doses suficientes pode reduzir conversão T4-T3; não substitui todo tratamento etiológico.",
+        "intuitive": "Reduz tremor e taquicardia enquanto a causa é tratada.",
+        "technical": "Em doses suficientes pode reduzir conversão T4-T3; não substitui todo tratamento etiológico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P38-0764",
+      "number": 764,
+      "topicId": "P38",
+      "text": "Ferro e cálcio podem reduzir absorção de levotiroxina por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio do receptor nuclear de T3"
+        },
+        {
+          "id": "B",
+          "text": "Interação no trato gastrointestinal"
+        },
+        {
+          "id": "C",
+          "text": "Indução obrigatória de TSH independente de dose"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ferro e cálcio podem reduzir absorção de levotiroxina por:",
+      "explanations": {
+        "direct": "Interação no trato gastrointestinal. Separação de administração pode ser necessária conforme orientação e formulação.",
+        "intuitive": "A dose ingerida pode não chegar integralmente ao sangue.",
+        "technical": "Separação de administração pode ser necessária conforme orientação e formulação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P38-0765",
+      "number": 765,
+      "topicId": "P38",
+      "text": "Metimazol inibe principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liberação de ACTH"
+        },
+        {
+          "id": "B",
+          "text": "Receptor β1"
+        },
+        {
+          "id": "C",
+          "text": "Tireoperoxidase"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Metimazol inibe principalmente:",
+      "explanations": {
+        "direct": "Tireoperoxidase. Não remove imediatamente todo hormônio já armazenado.",
+        "intuitive": "Dificulta a fabricação de novos hormônios tireoidianos.",
+        "technical": "Não remove imediatamente todo hormônio já armazenado."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P38-0766",
+      "number": 766,
+      "topicId": "P38",
+      "text": "Propiltiouracil, além de inibir síntese, pode reduzir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Absorção de todo iodo alimentar"
+        },
+        {
+          "id": "B",
+          "text": "Conversão de T3 em insulina"
+        },
+        {
+          "id": "C",
+          "text": "Conversão periférica de T4 em T3"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Propiltiouracil, além de inibir síntese, pode reduzir:",
+      "explanations": {
+        "direct": "Conversão periférica de T4 em T3. Esse efeito não torna seu perfil de toxicidade igual ao do metimazol.",
+        "intuitive": "Também reduz uma etapa de ativação hormonal.",
+        "technical": "Esse efeito não torna seu perfil de toxicidade igual ao do metimazol."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P38-0767",
+      "number": 767,
+      "topicId": "P38",
+      "text": "Iodo radioativo concentra-se na tireoide por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Filtração exclusiva na bile"
+        },
+        {
+          "id": "B",
+          "text": "Ligação específica a receptores muscarínicos"
+        },
+        {
+          "id": "C",
+          "text": "Captação de iodeto pelas células foliculares"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Iodo radioativo concentra-se na tireoide por:",
+      "explanations": {
+        "direct": "Captação de iodeto pelas células foliculares. A radiação lesa tecido captante; há restrições importantes em gestação e lactação.",
+        "intuitive": "A glândula recolhe o elemento que usa para fabricar hormônio.",
+        "technical": "A radiação lesa tecido captante; há restrições importantes em gestação e lactação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P38-0768",
+      "number": 768,
+      "topicId": "P38",
+      "text": "Agranulocitose é risco importante de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iodo alimentar em qualquer dose"
+        },
+        {
+          "id": "B",
+          "text": "Tionamidas"
+        },
+        {
+          "id": "C",
+          "text": "Levotiroxina por mecanismo esperado em todos"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Agranulocitose é risco importante de:",
+      "explanations": {
+        "direct": "Tionamidas. Exige avaliação clínica pronta; não é apenas sintoma comum do hipertireoidismo.",
+        "intuitive": "A queda de neutrófilos pode se manifestar com febre e dor de garganta.",
+        "technical": "Exige avaliação clínica pronta; não é apenas sintoma comum do hipertireoidismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

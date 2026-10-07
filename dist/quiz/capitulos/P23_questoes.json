@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P23",
+    "name": "Farmacologia · 23 · Álcoois",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 23
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P23-0641",
+      "number": 641,
+      "topicId": "P23",
+      "text": "O etanol é metabolizado inicialmente principalmente pela:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tireoperoxidase"
+        },
+        {
+          "id": "B",
+          "text": "Acetilcolinesterase"
+        },
+        {
+          "id": "C",
+          "text": "Álcool desidrogenase"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O etanol é metabolizado inicialmente principalmente pela:",
+      "explanations": {
+        "direct": "Álcool desidrogenase. Outras vias, como CYP2E1, também participam; não é metabolismo tireoidiano.",
+        "intuitive": "Uma enzima o transforma em acetaldeído.",
+        "technical": "Outras vias, como CYP2E1, também participam; não é metabolismo tireoidiano."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P23-0642",
+      "number": 642,
+      "topicId": "P23",
+      "text": "Acetaldeído é convertido em acetato pela:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lipase pancreática"
+        },
+        {
+          "id": "B",
+          "text": "Aldeído desidrogenase"
+        },
+        {
+          "id": "C",
+          "text": "Monoaminoxidase exclusivamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Acetaldeído é convertido em acetato pela:",
+      "explanations": {
+        "direct": "Aldeído desidrogenase. Deficiência ou inibição favorece acúmulo de acetaldeído.",
+        "intuitive": "A segunda etapa remove um intermediário tóxico.",
+        "technical": "Deficiência ou inibição favorece acúmulo de acetaldeído."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P23-0643",
+      "number": 643,
+      "topicId": "P23",
+      "text": "Dissulfiram provoca reação com álcool por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Álcool desidrogenase exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Aldeído desidrogenase"
+        },
+        {
+          "id": "C",
+          "text": "Receptor NMDA diretamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Dissulfiram provoca reação com álcool por inibir:",
+      "explanations": {
+        "direct": "Aldeído desidrogenase. Não é um bloqueio da absorção de etanol nem um antídoto para intoxicação aguda.",
+        "intuitive": "O intermediário desagradável se acumula.",
+        "technical": "Não é um bloqueio da absorção de etanol nem um antídoto para intoxicação aguda."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P23-0644",
+      "number": 644,
+      "topicId": "P23",
+      "text": "Metanol é perigoso em parte por formar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lactose"
+        },
+        {
+          "id": "B",
+          "text": "Formiato"
+        },
+        {
+          "id": "C",
+          "text": "Acetato exclusivamente inócuo"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Metanol é perigoso em parte por formar:",
+      "explanations": {
+        "direct": "Formiato. Pode causar acidose e lesão visual; a toxicidade não depende apenas do álcool original.",
+        "intuitive": "O produto metabólico causa importante toxicidade.",
+        "technical": "Pode causar acidose e lesão visual; a toxicidade não depende apenas do álcool original."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P23-0645",
+      "number": 645,
+      "topicId": "P23",
+      "text": "Metabolismo de etanol aumenta relação NADH/NAD⁺, favorecendo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento obrigatório de glicose em jejum"
+        },
+        {
+          "id": "B",
+          "text": "Inibição da gliconeogênese"
+        },
+        {
+          "id": "C",
+          "text": "Produção de oxigênio"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Metabolismo de etanol aumenta relação NADH/NAD⁺, favorecendo:",
+      "explanations": {
+        "direct": "Inibição da gliconeogênese. O risco de hipoglicemia é maior com reservas reduzidas; não ocorre em todos os casos.",
+        "intuitive": "O equilíbrio químico desvia substratos e pode dificultar fabricar glicose.",
+        "technical": "O risco de hipoglicemia é maior com reservas reduzidas; não ocorre em todos os casos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P23-0646",
+      "number": 646,
+      "topicId": "P23",
+      "text": "Fomepizol reduz toxicidade de metanol e etilenoglicol por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Álcool desidrogenase"
+        },
+        {
+          "id": "B",
+          "text": "Aldeído desidrogenase como dissulfiram"
+        },
+        {
+          "id": "C",
+          "text": "Receptor opioide"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Fomepizol reduz toxicidade de metanol e etilenoglicol por inibir:",
+      "explanations": {
+        "direct": "Álcool desidrogenase. Pode ser necessário suporte e remoção extracorpórea conforme gravidade; não neutraliza tudo instantaneamente.",
+        "intuitive": "Impede formação de metabólitos mais tóxicos.",
+        "technical": "Pode ser necessário suporte e remoção extracorpórea conforme gravidade; não neutraliza tudo instantaneamente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P23-0647",
+      "number": 647,
+      "topicId": "P23",
+      "text": "Abstinência grave de álcool pode causar convulsões porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A glicose sempre aumenta a zero"
+        },
+        {
+          "id": "B",
+          "text": "Etanol permanece agonista inibitório em concentração crescente"
+        },
+        {
+          "id": "C",
+          "text": "O SNC adaptado perde subitamente o depressor"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Abstinência grave de álcool pode causar convulsões porque:",
+      "explanations": {
+        "direct": "O SNC adaptado perde subitamente o depressor. Adaptações GABA/glutamato contribuem; requer manejo clínico, não apenas reposição de álcool.",
+        "intuitive": "O sistema compensado fica excessivamente excitável.",
+        "technical": "Adaptações GABA/glutamato contribuem; requer manejo clínico, não apenas reposição de álcool."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P23-0648",
+      "number": 648,
+      "topicId": "P23",
+      "text": "Etilenoglicol pode causar lesão renal associada a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Formação predominante de formiato"
+        },
+        {
+          "id": "B",
+          "text": "Formação predominante de acetaldeído"
+        },
+        {
+          "id": "C",
+          "text": "Metabólitos ácidos e oxalato"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Etilenoglicol pode causar lesão renal associada a:",
+      "explanations": {
+        "direct": "Metabólitos ácidos e oxalato. Cristais de oxalato de cálcio são pista possível, mas sua ausência não exclui intoxicação.",
+        "intuitive": "A transformação gera produtos que lesionam e podem precipitar.",
+        "technical": "Cristais de oxalato de cálcio são pista possível, mas sua ausência não exclui intoxicação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

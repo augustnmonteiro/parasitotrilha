@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P40",
+    "name": "Farmacologia · 40 · Hormônios gonadais",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 40
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P40-0777",
+      "number": 777,
+      "topicId": "P40",
+      "text": "Progestagênios dificultam passagem espermática ao:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar aromatase obrigatoriamente"
+        },
+        {
+          "id": "B",
+          "text": "Espessar muco cervical"
+        },
+        {
+          "id": "C",
+          "text": "Tornar muco sempre mais fluido"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Progestagênios dificultam passagem espermática ao:",
+      "explanations": {
+        "direct": "Espessar muco cervical. É um dos mecanismos contraceptivos; não equivale à ação estrogênica periovulatória.",
+        "intuitive": "A barreira cervical fica menos permeável.",
+        "technical": "É um dos mecanismos contraceptivos; não equivale à ação estrogênica periovulatória."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P40-0778",
+      "number": 778,
+      "topicId": "P40",
+      "text": "Tamoxifeno é um modulador seletivo que no tecido mamário atua predominantemente como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibidor de aromatase"
+        },
+        {
+          "id": "B",
+          "text": "Antagonista estrogênico"
+        },
+        {
+          "id": "C",
+          "text": "Agonista androgênico"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Tamoxifeno é um modulador seletivo que no tecido mamário atua predominantemente como:",
+      "explanations": {
+        "direct": "Antagonista estrogênico. Pode ter efeitos agonistas em outros tecidos; não reduz síntese pelo mesmo mecanismo dos inibidores de aromatase.",
+        "intuitive": "Bloqueia o sinal de estrogênio em determinados alvos.",
+        "technical": "Pode ter efeitos agonistas em outros tecidos; não reduz síntese pelo mesmo mecanismo dos inibidores de aromatase."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P40-0779",
+      "number": 779,
+      "topicId": "P40",
+      "text": "Contraceptivos combinados reduzem ovulação principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estimular picos mensais de LH"
+        },
+        {
+          "id": "B",
+          "text": "Feedback que suprime gonadotrofinas"
+        },
+        {
+          "id": "C",
+          "text": "Destruir permanentemente folículos"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Contraceptivos combinados reduzem ovulação principalmente por:",
+      "explanations": {
+        "direct": "Feedback que suprime gonadotrofinas. Também alteram muco e endométrio; não causam esterilidade permanente por esse mecanismo.",
+        "intuitive": "Os hormônios externos reduzem o comando ovulatório.",
+        "technical": "Também alteram muco e endométrio; não causam esterilidade permanente por esse mecanismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P40-0780",
+      "number": 780,
+      "topicId": "P40",
+      "text": "Anastrozol reduz estrogênios por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aromatase"
+        },
+        {
+          "id": "B",
+          "text": "5α-redutase"
+        },
+        {
+          "id": "C",
+          "text": "Tireoperoxidase"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Anastrozol reduz estrogênios por inibir:",
+      "explanations": {
+        "direct": "Aromatase. Não bloqueia a formação de DHT pelo alvo da finasterida.",
+        "intuitive": "Bloqueia a conversão de andrógenos em estrogênios.",
+        "technical": "Não bloqueia a formação de DHT pelo alvo da finasterida."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P40-0781",
+      "number": 781,
+      "topicId": "P40",
+      "text": "Finasterida reduz formação de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estradiol por bloqueio de aromatase"
+        },
+        {
+          "id": "B",
+          "text": "Cortisol por bloqueio de 21-hidroxilase"
+        },
+        {
+          "id": "C",
+          "text": "Di-hidrotestosterona (DHT)"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Finasterida reduz formação de:",
+      "explanations": {
+        "direct": "Di-hidrotestosterona (DHT). Inibe 5α-redutase; efeitos e riscos são específicos do contexto.",
+        "intuitive": "Diminui a conversão da testosterona em um andrógeno mais potente.",
+        "technical": "Inibe 5α-redutase; efeitos e riscos são específicos do contexto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P40-0782",
+      "number": 782,
+      "topicId": "P40",
+      "text": "Clomifeno pode estimular ovulação por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduzir feedback estrogênico no eixo central"
+        },
+        {
+          "id": "B",
+          "text": "Bloquear todo receptor de FSH"
+        },
+        {
+          "id": "C",
+          "text": "Destruir o corpo lúteo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Clomifeno pode estimular ovulação por:",
+      "explanations": {
+        "direct": "Reduzir feedback estrogênico no eixo central. É modulador seletivo; efeito depende de um eixo capaz de responder.",
+        "intuitive": "A hipófise percebe menos sinal de estrogênio e aumenta o estímulo.",
+        "technical": "É modulador seletivo; efeito depende de um eixo capaz de responder."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P40-0783",
+      "number": 783,
+      "topicId": "P40",
+      "text": "Estrogênios sistêmicos podem aumentar risco de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tromboembolismo em contextos predisponentes"
+        },
+        {
+          "id": "B",
+          "text": "Sangramento por inibição direta de Xa"
+        },
+        {
+          "id": "C",
+          "text": "Hipocalemia obrigatória"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Estrogênios sistêmicos podem aumentar risco de:",
+      "explanations": {
+        "direct": "Tromboembolismo em contextos predisponentes. Risco depende de via, dose e fatores individuais; não são anticoagulantes.",
+        "intuitive": "Podem mudar o equilíbrio pró-coagulante.",
+        "technical": "Risco depende de via, dose e fatores individuais; não são anticoagulantes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P40-0784",
+      "number": 784,
+      "topicId": "P40",
+      "text": "Um homem usa testosterona exógena e apresenta queda de LH/FSH e redução da contagem de espermatozoides. Por que níveis circulantes de andrógeno não garantem espermatogênese preservada?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estimula sempre espermatogênese"
+        },
+        {
+          "id": "B",
+          "text": "Aumenta GnRH indefinidamente"
+        },
+        {
+          "id": "C",
+          "text": "Suprime LH/FSH e testosterona intratesticular"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um homem usa testosterona exógena e apresenta queda de LH/FSH e redução da contagem de espermatozoides. Por que níveis circulantes de andrógeno não garantem espermatogênese preservada?",
+      "explanations": {
+        "direct": "Suprime LH/FSH e testosterona intratesticular. Não deve ser confundida com tratamento universal da infertilidade masculina.",
+        "intuitive": "Mais hormônio no sangue pode desligar a produção local necessária.",
+        "technical": "Não deve ser confundida com tratamento universal da infertilidade masculina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P02",
+    "name": "Farmacologia · 02 · Receptores e farmacodinâmica",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 2
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P02-0413",
+      "number": 413,
+      "topicId": "P02",
+      "text": "Potência refere-se principalmente à:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frequência de efeitos adversos raros"
+        },
+        {
+          "id": "B",
+          "text": "Concentração necessária para determinado efeito"
+        },
+        {
+          "id": "C",
+          "text": "Maior efeito possível"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Potência refere-se principalmente à:",
+      "explanations": {
+        "direct": "Concentração necessária para determinado efeito. Emax descreve eficácia; potência não implica superioridade clínica.",
+        "intuitive": "Mais potente precisa de menos para chegar ao mesmo efeito.",
+        "technical": "Emax descreve eficácia; potência não implica superioridade clínica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P02-0414",
+      "number": 414,
+      "topicId": "P02",
+      "text": "Menor EC50, em condições comparáveis, indica:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menor potência"
+        },
+        {
+          "id": "B",
+          "text": "Maior segurança obrigatória"
+        },
+        {
+          "id": "C",
+          "text": "Maior potência"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Menor EC50, em condições comparáveis, indica:",
+      "explanations": {
+        "direct": "Maior potência. Não permite concluir margem terapêutica ou eficácia máxima sem outros dados.",
+        "intuitive": "A curva alcança o mesmo patamar com menor concentração.",
+        "technical": "Não permite concluir margem terapêutica ou eficácia máxima sem outros dados."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P02-0415",
+      "number": 415,
+      "topicId": "P02",
+      "text": "Agonista parcial possui:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Efeito máximo sempre superior ao pleno"
+        },
+        {
+          "id": "B",
+          "text": "Menor eficácia intrínseca que agonista pleno no mesmo sistema"
+        },
+        {
+          "id": "C",
+          "text": "Ausência total de afinidade"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Agonista parcial possui:",
+      "explanations": {
+        "direct": "Menor eficácia intrínseca que agonista pleno no mesmo sistema. Pode antagonizar funcionalmente um agonista pleno ao competir por ocupação.",
+        "intuitive": "Mesmo ocupando muitos receptores, aciona menos resposta.",
+        "technical": "Pode antagonizar funcionalmente um agonista pleno ao competir por ocupação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P02-0416",
+      "number": 416,
+      "topicId": "P02",
+      "text": "Um agonista parcial junto a agonista pleno pode:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar sempre resposta além do máximo"
+        },
+        {
+          "id": "B",
+          "text": "Reduzir resposta global ao competir"
+        },
+        {
+          "id": "C",
+          "text": "Não se ligar ao mesmo receptor por definição"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um agonista parcial junto a agonista pleno pode:",
+      "explanations": {
+        "direct": "Reduzir resposta global ao competir. O efeito depende de concentrações e afinidades; competição pode reduzir sinalização total.",
+        "intuitive": "A chave menos eficiente pode ocupar o lugar da mais eficiente.",
+        "technical": "O efeito depende de concentrações e afinidades; competição pode reduzir sinalização total."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P02-0417",
+      "number": 417,
+      "topicId": "P02",
+      "text": "Receptores de reserva permitem Emax com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Destruição de todos os segundos mensageiros"
+        },
+        {
+          "id": "B",
+          "text": "Ocupação de apenas parte dos receptores"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de qualquer ligação"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Receptores de reserva permitem Emax com:",
+      "explanations": {
+        "direct": "Ocupação de apenas parte dos receptores. Amplificação de sinal permite EC50 menor que Kd em certos sistemas.",
+        "intuitive": "Há mais receptores que o mínimo necessário para o teto de resposta.",
+        "technical": "Amplificação de sinal permite EC50 menor que Kd em certos sistemas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P02-0418",
+      "number": 418,
+      "topicId": "P02",
+      "text": "Índice terapêutico clássico compara:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Emax com EC50"
+        },
+        {
+          "id": "B",
+          "text": "Meia-vida com volume de distribuição"
+        },
+        {
+          "id": "C",
+          "text": "Dose tóxica mediana com dose eficaz mediana"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Índice terapêutico clássico compara:",
+      "explanations": {
+        "direct": "Dose tóxica mediana com dose eficaz mediana. TD50/ED50 é uma aproximação populacional; não garante segurança individual.",
+        "intuitive": "Compara faixas de toxicidade e benefício.",
+        "technical": "TD50/ED50 é uma aproximação populacional; não garante segurança individual."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P02-0419",
+      "number": 419,
+      "topicId": "P02",
+      "text": "Antagonismo fisiológico ocorre quando dois agentes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Formam sempre precipitado químico"
+        },
+        {
+          "id": "B",
+          "text": "Disputam obrigatoriamente o mesmo sítio"
+        },
+        {
+          "id": "C",
+          "text": "Atuam em receptores distintos com efeitos opostos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Antagonismo fisiológico ocorre quando dois agentes:",
+      "explanations": {
+        "direct": "Atuam em receptores distintos com efeitos opostos. Distingue-se de competição por receptor e de neutralização química.",
+        "intuitive": "Dois comandos diferentes empurram a função em direções contrárias.",
+        "technical": "Distingue-se de competição por receptor e de neutralização química."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P02-0420",
+      "number": 420,
+      "topicId": "P02",
+      "text": "Eficácia máxima é representada por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "EC50"
+        },
+        {
+          "id": "B",
+          "text": "Meia-vida"
+        },
+        {
+          "id": "C",
+          "text": "Emax"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Eficácia máxima é representada por:",
+      "explanations": {
+        "direct": "Emax. EC50 mede concentração para metade do máximo; meia-vida é parâmetro cinético.",
+        "intuitive": "É o teto de resposta que o sistema permite ao fármaco.",
+        "technical": "EC50 mede concentração para metade do máximo; meia-vida é parâmetro cinético."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P02-0421",
+      "number": 421,
+      "topicId": "P02",
+      "text": "Antagonismo competitivo reversível tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduzir Emax inevitavelmente"
+        },
+        {
+          "id": "B",
+          "text": "Deslocar curva à direita sem reduzir Emax alcançável"
+        },
+        {
+          "id": "C",
+          "text": "Deslocar curva à esquerda"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Antagonismo competitivo reversível tende a:",
+      "explanations": {
+        "direct": "Deslocar curva à direita sem reduzir Emax alcançável. O padrão pressupõe concentração suficiente de agonista e sistema apropriado.",
+        "intuitive": "Mais agonista pode competir pelo mesmo lugar.",
+        "technical": "O padrão pressupõe concentração suficiente de agonista e sistema apropriado."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P02-0422",
+      "number": 422,
+      "topicId": "P02",
+      "text": "Antagonismo irreversível pode reduzir Emax porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumenta a concentração de agonista no receptor"
+        },
+        {
+          "id": "B",
+          "text": "Diminui receptores disponíveis"
+        },
+        {
+          "id": "C",
+          "text": "Aumenta sempre afinidade do agonista"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Antagonismo irreversível pode reduzir Emax porque:",
+      "explanations": {
+        "direct": "Diminui receptores disponíveis. Receptores de reserva podem inicialmente preservar máximo; não é aumento obrigatório de afinidade.",
+        "intuitive": "Parte dos alvos fica indisponível.",
+        "technical": "Receptores de reserva podem inicialmente preservar máximo; não é aumento obrigatório de afinidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P02-0423",
+      "number": 423,
+      "topicId": "P02",
+      "text": "Agonista inverso reduz:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Atividade constitutiva do receptor"
+        },
+        {
+          "id": "B",
+          "text": "Número de moléculas de ATP universalmente"
+        },
+        {
+          "id": "C",
+          "text": "Somente concentração plasmática do agonista"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Agonista inverso reduz:",
+      "explanations": {
+        "direct": "Atividade constitutiva do receptor. Difere de antagonista neutro, que bloqueia agonista sem necessariamente alterar atividade basal.",
+        "intuitive": "Ele leva o receptor abaixo da atividade espontânea.",
+        "technical": "Difere de antagonista neutro, que bloqueia agonista sem necessariamente alterar atividade basal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P02-0424",
+      "number": 424,
+      "topicId": "P02",
+      "text": "Dessensibilização após exposição persistente pode envolver:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Impossibilidade de qualquer adaptação"
+        },
+        {
+          "id": "B",
+          "text": "Fosforilação e internalização de receptores"
+        },
+        {
+          "id": "C",
+          "text": "Criação obrigatória de novos agonistas"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Dessensibilização após exposição persistente pode envolver:",
+      "explanations": {
+        "direct": "Fosforilação e internalização de receptores. Mecanismos variam; não implica necessariamente menor concentração do fármaco.",
+        "intuitive": "A célula reduz a resposta a um sinal contínuo.",
+        "technical": "Mecanismos variam; não implica necessariamente menor concentração do fármaco."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

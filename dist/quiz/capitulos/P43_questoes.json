@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P43",
+    "name": "Farmacologia · 43 · Parede bacteriana",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 43
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P43-0801",
+      "number": 801,
+      "topicId": "P43",
+      "text": "Vancomicina liga-se principalmente a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Topoisomerase II"
+        },
+        {
+          "id": "B",
+          "text": "Subunidade 50S"
+        },
+        {
+          "id": "C",
+          "text": "Terminais D-Ala-D-Ala"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Vancomicina liga-se principalmente a:",
+      "explanations": {
+        "direct": "Terminais D-Ala-D-Ala. Não é betalactâmico, embora também afete parede celular.",
+        "intuitive": "Bloqueia o acesso a blocos da parede.",
+        "technical": "Não é betalactâmico, embora também afete parede celular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P43-0802",
+      "number": 802,
+      "topicId": "P43",
+      "text": "Betalactâmicos inibem síntese de parede ao ligar-se a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "DNA girase"
+        },
+        {
+          "id": "B",
+          "text": "Proteínas ligadoras de penicilina"
+        },
+        {
+          "id": "C",
+          "text": "Ribossomo 30S"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Betalactâmicos inibem síntese de parede ao ligar-se a:",
+      "explanations": {
+        "direct": "Proteínas ligadoras de penicilina. Sua ação difere da inibição de proteína e DNA bacterianos.",
+        "intuitive": "Impedem etapas de ligação do peptidoglicano.",
+        "technical": "Sua ação difere da inibição de proteína e DNA bacterianos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P43-0803",
+      "number": 803,
+      "topicId": "P43",
+      "text": "A baixa atividade da vancomicina contra muitos gram-negativos decorre de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Produção obrigatória de esporos"
+        },
+        {
+          "id": "B",
+          "text": "Ausência universal de peptidoglicano"
+        },
+        {
+          "id": "C",
+          "text": "Barreira da membrana externa"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A baixa atividade da vancomicina contra muitos gram-negativos decorre de:",
+      "explanations": {
+        "direct": "Barreira da membrana externa. Gram-negativos possuem peptidoglicano; acesso é um fator crucial.",
+        "intuitive": "A molécula não alcança bem o alvo.",
+        "technical": "Gram-negativos possuem peptidoglicano; acesso é um fator crucial."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P43-0804",
+      "number": 804,
+      "topicId": "P43",
+      "text": "Daptomicina age principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibição de 30S"
+        },
+        {
+          "id": "B",
+          "text": "Despolarização da membrana bacteriana"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio de folato"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Daptomicina age principalmente por:",
+      "explanations": {
+        "direct": "Despolarização da membrana bacteriana. É inativada por surfactante pulmonar, limitando uso em pneumonia alveolar.",
+        "intuitive": "Compromete a função elétrica da membrana.",
+        "technical": "É inativada por surfactante pulmonar, limitando uso em pneumonia alveolar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P43-0805",
+      "number": 805,
+      "topicId": "P43",
+      "text": "Cefalosporinas não cobrem todos os microrganismos porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ser gram-positivo garante sensibilidade"
+        },
+        {
+          "id": "B",
+          "text": "Toda bactéria tem susceptibilidade idêntica"
+        },
+        {
+          "id": "C",
+          "text": "Alvos, enzimas e acesso variam entre espécies e agentes"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Cefalosporinas não cobrem todos os microrganismos porque:",
+      "explanations": {
+        "direct": "Alvos, enzimas e acesso variam entre espécies e agentes. Geração e agente têm espectros distintos; cultura e contexto orientam seleção.",
+        "intuitive": "O nome da classe não substitui o perfil microbiológico.",
+        "technical": "Geração e agente têm espectros distintos; cultura e contexto orientam seleção."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P43-0806",
+      "number": 806,
+      "topicId": "P43",
+      "text": "Ao comparar exposições de um betalactâmico ao mesmo microrganismo, qual índice farmacocinético/farmacodinâmico é geralmente mais relevante para sua atividade?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Concentração máxima total, mesmo abaixo da CIM"
+        },
+        {
+          "id": "B",
+          "text": "Tempo de concentração livre acima da CIM"
+        },
+        {
+          "id": "C",
+          "text": "Pico isolado independentemente do tempo"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Ao comparar exposições de um betalactâmico ao mesmo microrganismo, qual índice farmacocinético/farmacodinâmico é geralmente mais relevante para sua atividade?",
+      "explanations": {
+        "direct": "Tempo de concentração livre acima da CIM. O índice PK/PD varia por classe; não aplicar o mesmo critério a todos os antibióticos.",
+        "intuitive": "Importa manter exposição eficaz por tempo adequado.",
+        "technical": "O índice PK/PD varia por classe; não aplicar o mesmo critério a todos os antibióticos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P43-0807",
+      "number": 807,
+      "topicId": "P43",
+      "text": "Betalactamases conferem resistência por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hidrolisar o anel betalactâmico"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar entrada da droga"
+        },
+        {
+          "id": "C",
+          "text": "Ativar a penicilina como pró-droga"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Betalactamases conferem resistência por:",
+      "explanations": {
+        "direct": "Hidrolisar o anel betalactâmico. Alterações de alvo e permeabilidade também causam resistência por outros mecanismos.",
+        "intuitive": "A bactéria quebra uma parte essencial do medicamento.",
+        "technical": "Alterações de alvo e permeabilidade também causam resistência por outros mecanismos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P43-0808",
+      "number": 808,
+      "topicId": "P43",
+      "text": "Clavulanato é associado a alguns betalactâmicos para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloquear qualquer mecanismo de resistência"
+        },
+        {
+          "id": "B",
+          "text": "Inibir determinadas betalactamases"
+        },
+        {
+          "id": "C",
+          "text": "Ativar ribossomos bacterianos"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Clavulanato é associado a alguns betalactâmicos para:",
+      "explanations": {
+        "direct": "Inibir determinadas betalactamases. Não inibe todas as betalactamases nem corrige toda resistência por alvo alterado.",
+        "intuitive": "Protege o parceiro contra algumas enzimas.",
+        "technical": "Não inibe todas as betalactamases nem corrige toda resistência por alvo alterado."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

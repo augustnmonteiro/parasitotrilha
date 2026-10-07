@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P61",
+    "name": "Farmacologia · 61 · Dermatologia",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 61
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P61-0945",
+      "number": 945,
+      "topicId": "P61",
+      "text": "Retinoides modificam expressão gênica por receptores:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nucleares"
+        },
+        {
+          "id": "B",
+          "text": "P2Y12"
+        },
+        {
+          "id": "C",
+          "text": "Nicotínicos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Retinoides modificam expressão gênica por receptores:",
+      "explanations": {
+        "direct": "Nucleares. Não são antiagregantes ou bloqueadores neuromusculares.",
+        "intuitive": "Atuam em programas de diferenciação celular.",
+        "technical": "Não são antiagregantes ou bloqueadores neuromusculares."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P61-0946",
+      "number": 946,
+      "topicId": "P61",
+      "text": "Oclusão sobre medicamento tópico pode:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar absorção"
+        },
+        {
+          "id": "B",
+          "text": "Impedir sempre qualquer penetração"
+        },
+        {
+          "id": "C",
+          "text": "Eliminar toda toxicidade"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Oclusão sobre medicamento tópico pode:",
+      "explanations": {
+        "direct": "Aumentar absorção. Isso pode aumentar efeito e eventos adversos, inclusive sistêmicos.",
+        "intuitive": "A pele hidratada pode deixar passar mais substância.",
+        "technical": "Isso pode aumentar efeito e eventos adversos, inclusive sistêmicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P61-0947",
+      "number": 947,
+      "topicId": "P61",
+      "text": "Peróxido de benzoíla na acne tem ação:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hormonal estrogênica principal"
+        },
+        {
+          "id": "B",
+          "text": "Antimicrobiana oxidativa e queratolítica"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueadora de calcineurina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Peróxido de benzoíla na acne tem ação:",
+      "explanations": {
+        "direct": "Antimicrobiana oxidativa e queratolítica. Pode irritar e descolorir tecidos; não é antibiótico sistêmico clássico.",
+        "intuitive": "Reduz microrganismos e ajuda a desobstruir a unidade pilossebácea.",
+        "technical": "Pode irritar e descolorir tecidos; não é antibiótico sistêmico clássico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P61-0948",
+      "number": 948,
+      "topicId": "P61",
+      "text": "Tacrolimo tópico age por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Calcineurina"
+        },
+        {
+          "id": "B",
+          "text": "Aromatase"
+        },
+        {
+          "id": "C",
+          "text": "COX-1"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Tacrolimo tópico age por inibir:",
+      "explanations": {
+        "direct": "Calcineurina. Não causa o mesmo mecanismo de atrofia dos corticoides, embora tenha precauções próprias.",
+        "intuitive": "Reduz sinais de ativação inflamatória.",
+        "technical": "Não causa o mesmo mecanismo de atrofia dos corticoides, embora tenha precauções próprias."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P61-0949",
+      "number": 949,
+      "topicId": "P61",
+      "text": "Isotretinoína exige prevenção de exposição gestacional por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Elevado risco teratogênico"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de passagem placentária"
+        },
+        {
+          "id": "C",
+          "text": "Proteção contra malformações"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Isotretinoína exige prevenção de exposição gestacional por:",
+      "explanations": {
+        "direct": "Elevado risco teratogênico. O controle depende de protocolos e avaliação; não é um cosmético inócuo.",
+        "intuitive": "O efeito sobre desenvolvimento pode causar dano grave.",
+        "technical": "O controle depende de protocolos e avaliação; não é um cosmético inócuo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P61-0950",
+      "number": 950,
+      "topicId": "P61",
+      "text": "Corticosteroides tópicos podem causar atrofia cutânea por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar colágeno sem limite"
+        },
+        {
+          "id": "B",
+          "text": "Produzir infecção bacteriana obrigatoriamente"
+        },
+        {
+          "id": "C",
+          "text": "Reduzir síntese e renovação de componentes da pele"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Corticosteroides tópicos podem causar atrofia cutânea por:",
+      "explanations": {
+        "direct": "Reduzir síntese e renovação de componentes da pele. Potência, região, oclusão e duração modificam risco.",
+        "intuitive": "Uso intenso ou prolongado pode afinar a pele.",
+        "technical": "Potência, região, oclusão e duração modificam risco."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P61-0951",
+      "number": 951,
+      "topicId": "P61",
+      "text": "Minoxidil tópico pode estimular crescimento capilar, mas seu mecanismo original vascular envolve:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio de receptores androgênicos"
+        },
+        {
+          "id": "B",
+          "text": "Abertura de canais de K⁺"
+        },
+        {
+          "id": "C",
+          "text": "Inibição de 5α-redutase"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Minoxidil tópico pode estimular crescimento capilar, mas seu mecanismo original vascular envolve:",
+      "explanations": {
+        "direct": "Abertura de canais de K⁺. O mecanismo capilar é mais complexo; finasterida é o inibidor de 5α-redutase.",
+        "intuitive": "A origem farmacológica não é um bloqueio de DHT.",
+        "technical": "O mecanismo capilar é mais complexo; finasterida é o inibidor de 5α-redutase."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P61-0952",
+      "number": 952,
+      "topicId": "P61",
+      "text": "Absorção sistêmica de tópico aumenta preocupação em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de contato com a pele"
+        },
+        {
+          "id": "B",
+          "text": "Aplicação pequena em pele íntegra como regra absoluta de maior risco"
+        },
+        {
+          "id": "C",
+          "text": "Grandes áreas, pele lesada e uso oclusivo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Absorção sistêmica de tópico aumenta preocupação em:",
+      "explanations": {
+        "direct": "Grandes áreas, pele lesada e uso oclusivo. Via tópica não significa automaticamente ausência de efeitos sistêmicos.",
+        "intuitive": "Mais área e barreira comprometida aumentam entrada.",
+        "technical": "Via tópica não significa automaticamente ausência de efeitos sistêmicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

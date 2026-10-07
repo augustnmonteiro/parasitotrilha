@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P18",
+    "name": "Farmacologia · 18 · Eicosanoides",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 18
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P18-0601",
+      "number": 601,
+      "topicId": "P18",
+      "text": "Ciclo-oxigenases participam da formação de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prostaglandinas e tromboxano"
+        },
+        {
+          "id": "B",
+          "text": "Catecolaminas"
+        },
+        {
+          "id": "C",
+          "text": "Leucotrienos diretamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ciclo-oxigenases participam da formação de:",
+      "explanations": {
+        "direct": "Prostaglandinas e tromboxano. Leucotrienos vêm da via da lipoxigenase, não da COX.",
+        "intuitive": "Uma rota produz prostanoides.",
+        "technical": "Leucotrienos vêm da via da lipoxigenase, não da COX."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P18-0602",
+      "number": 602,
+      "topicId": "P18",
+      "text": "Leucotrienos cisteínicos contribuem para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Broncoconstrição e edema"
+        },
+        {
+          "id": "B",
+          "text": "Broncodilatação obrigatória"
+        },
+        {
+          "id": "C",
+          "text": "Dissolução de fibrina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Leucotrienos cisteínicos contribuem para:",
+      "explanations": {
+        "direct": "Broncoconstrição e edema. LTC4, LTD4 e LTE4 diferem de LTB4, que é fortemente quimiotático.",
+        "intuitive": "São mediadores importantes em inflamação das vias aéreas.",
+        "technical": "LTC4, LTD4 e LTE4 diferem de LTB4, que é fortemente quimiotático."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P18-0603",
+      "number": 603,
+      "topicId": "P18",
+      "text": "Misoprostol é análogo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Angiotensina II"
+        },
+        {
+          "id": "B",
+          "text": "Prostaglandina E1"
+        },
+        {
+          "id": "C",
+          "text": "Tromboxano A2"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Misoprostol é análogo de:",
+      "explanations": {
+        "direct": "Prostaglandina E1. Pode proteger mucosa e estimular contrações; não é vasoconstritor angiotensínico.",
+        "intuitive": "Imita um prostanoide com ações gástricas e uterinas.",
+        "technical": "Pode proteger mucosa e estimular contrações; não é vasoconstritor angiotensínico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P18-0604",
+      "number": 604,
+      "topicId": "P18",
+      "text": "Ácido araquidônico é liberado de fosfolipídios por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trombina"
+        },
+        {
+          "id": "B",
+          "text": "Fosfolipase A2"
+        },
+        {
+          "id": "C",
+          "text": "Acetilcolinesterase"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ácido araquidônico é liberado de fosfolipídios por:",
+      "explanations": {
+        "direct": "Fosfolipase A2. COX e lipoxigenases atuam em etapas posteriores.",
+        "intuitive": "É retirado da membrana para gerar mediadores.",
+        "technical": "COX e lipoxigenases atuam em etapas posteriores."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P18-0605",
+      "number": 605,
+      "topicId": "P18",
+      "text": "Tromboxano A2 favorece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agregação plaquetária e vasoconstrição"
+        },
+        {
+          "id": "B",
+          "text": "Broncodilatação exclusiva"
+        },
+        {
+          "id": "C",
+          "text": "Inibição plaquetária e vasodilatação"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Tromboxano A2 favorece:",
+      "explanations": {
+        "direct": "Agregação plaquetária e vasoconstrição. Prostaciclina tem ações vasculares e plaquetárias opostas.",
+        "intuitive": "Ajuda plaquetas a se juntar e vasos a contrair.",
+        "technical": "Prostaciclina tem ações vasculares e plaquetárias opostas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P18-0606",
+      "number": 606,
+      "topicId": "P18",
+      "text": "Prostaciclina favorece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agregação e vasoconstrição"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio de receptores muscarínicos"
+        },
+        {
+          "id": "C",
+          "text": "Vasodilatação e inibição plaquetária"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Prostaciclina favorece:",
+      "explanations": {
+        "direct": "Vasodilatação e inibição plaquetária. É prostanoide endotelial; não equivale ao tromboxano.",
+        "intuitive": "Mantém vasos mais abertos e plaquetas menos aderentes.",
+        "technical": "É prostanoide endotelial; não equivale ao tromboxano."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P18-0607",
+      "number": 607,
+      "topicId": "P18",
+      "text": "Montelucaste bloqueia:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor CysLT1"
+        },
+        {
+          "id": "B",
+          "text": "Receptor β2"
+        },
+        {
+          "id": "C",
+          "text": "Síntese de todos os eicosanoides"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Montelucaste bloqueia:",
+      "explanations": {
+        "direct": "Receptor CysLT1. Não é broncodilatador de resgate equivalente a agonista β2 de ação rápida.",
+        "intuitive": "Impede parte da ação dos leucotrienos.",
+        "technical": "Não é broncodilatador de resgate equivalente a agonista β2 de ação rápida."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P18-0608",
+      "number": 608,
+      "topicId": "P18",
+      "text": "Latanoprosta reduz pressão intraocular por aumentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pressão venosa obrigatoriamente"
+        },
+        {
+          "id": "B",
+          "text": "Escoamento uveoescleral"
+        },
+        {
+          "id": "C",
+          "text": "Produção de humor aquoso"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Latanoprosta reduz pressão intraocular por aumentar:",
+      "explanations": {
+        "direct": "Escoamento uveoescleral. É análogo de prostaglandina; pode alterar pigmentação da íris e crescimento dos cílios.",
+        "intuitive": "Facilita uma rota de drenagem.",
+        "technical": "É análogo de prostaglandina; pode alterar pigmentação da íris e crescimento dos cílios."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,1549 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "F09",
+    "name": "Fisiologia · 09 · Endócrina",
+    "book": "Costanzo Physiology, 8ª edição",
+    "chapter": 9
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "F09-0321",
+      "number": 321,
+      "topicId": "F09",
+      "text": "Hormônios peptídicos atuam geralmente em receptores:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mitocondriais exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "De membrana"
+        },
+        {
+          "id": "C",
+          "text": "Nucleares exclusivamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Hormônios peptídicos atuam geralmente em receptores:",
+      "explanations": {
+        "direct": "De membrana. Esteroides e hormônios tireoidianos usam principalmente receptores intracelulares.",
+        "intuitive": "Como não atravessam facilmente a membrana, sinalizam na superfície.",
+        "technical": "Esteroides e hormônios tireoidianos usam principalmente receptores intracelulares."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0322",
+      "number": 322,
+      "topicId": "F09",
+      "text": "Hormônios esteroides derivam de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Colesterol"
+        },
+        {
+          "id": "B",
+          "text": "Glicogênio"
+        },
+        {
+          "id": "C",
+          "text": "DNA"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Hormônios esteroides derivam de:",
+      "explanations": {
+        "direct": "Colesterol. A síntese envolve modificações do colesterol; não são polímeros de glicose ou ácidos nucleicos.",
+        "intuitive": "Compartilham uma matéria-prima lipídica.",
+        "technical": "A síntese envolve modificações do colesterol; não são polímeros de glicose ou ácidos nucleicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0323",
+      "number": 323,
+      "topicId": "F09",
+      "text": "Hormônios tireoidianos circulam principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dentro de vesículas sinápticas"
+        },
+        {
+          "id": "B",
+          "text": "Ligados a proteínas"
+        },
+        {
+          "id": "C",
+          "text": "Inteiramente livres"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Hormônios tireoidianos circulam principalmente:",
+      "explanations": {
+        "direct": "Ligados a proteínas. A fração livre é pequena e biologicamente relevante; transporte não é por vesículas neuronais.",
+        "intuitive": "Proteínas funcionam como reservatório no sangue.",
+        "technical": "A fração livre é pequena e biologicamente relevante; transporte não é por vesículas neuronais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0324",
+      "number": 324,
+      "topicId": "F09",
+      "text": "Aumento isolado de proteína transportadora pode elevar hormônio total sem elevar persistentemente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Número de sítios de ligação"
+        },
+        {
+          "id": "B",
+          "text": "Hormônio ligado"
+        },
+        {
+          "id": "C",
+          "text": "Hormônio livre"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Aumento isolado de proteína transportadora pode elevar hormônio total sem elevar persistentemente:",
+      "explanations": {
+        "direct": "Hormônio livre. Feedback tende a normalizar a fração livre; interpretar apenas total pode enganar.",
+        "intuitive": "Mais lugares de armazenamento não significam mais sinal ativo sustentado.",
+        "technical": "Feedback tende a normalizar a fração livre; interpretar apenas total pode enganar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0325",
+      "number": 325,
+      "topicId": "F09",
+      "text": "Feedback negativo ocorre quando o produto final:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amplifica obrigatoriamente toda secreção"
+        },
+        {
+          "id": "B",
+          "text": "Elimina definitivamente o órgão-alvo"
+        },
+        {
+          "id": "C",
+          "text": "Inibe estímulos anteriores do eixo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Feedback negativo ocorre quando o produto final:",
+      "explanations": {
+        "direct": "Inibe estímulos anteriores do eixo. É controle reversível do eixo, distinto de feedback positivo.",
+        "intuitive": "O resultado avisa que já há produção suficiente.",
+        "technical": "É controle reversível do eixo, distinto de feedback positivo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0326",
+      "number": 326,
+      "topicId": "F09",
+      "text": "A adeno-hipófise recebe fatores hipotalâmicos principalmente pelo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ducto torácico"
+        },
+        {
+          "id": "B",
+          "text": "Sistema porta hipofisário"
+        },
+        {
+          "id": "C",
+          "text": "Ureter"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A adeno-hipófise recebe fatores hipotalâmicos principalmente pelo:",
+      "explanations": {
+        "direct": "Sistema porta hipofisário. Não depende da passagem inicial por toda circulação sistêmica nem por ductos excretores.",
+        "intuitive": "Uma circulação curta entrega sinais concentrados.",
+        "technical": "Não depende da passagem inicial por toda circulação sistêmica nem por ductos excretores."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0327",
+      "number": 327,
+      "topicId": "F09",
+      "text": "A neuro-hipófise libera hormônios sintetizados no:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipotálamo"
+        },
+        {
+          "id": "B",
+          "text": "Pâncreas"
+        },
+        {
+          "id": "C",
+          "text": "Córtex adrenal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A neuro-hipófise libera hormônios sintetizados no:",
+      "explanations": {
+        "direct": "Hipotálamo. ADH e ocitocina percorrem axônios; não são sintetizados principalmente por células glandulares locais.",
+        "intuitive": "Ela armazena e libera produtos feitos em neurônios hipotalâmicos.",
+        "technical": "ADH e ocitocina percorrem axônios; não são sintetizados principalmente por células glandulares locais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0328",
+      "number": 328,
+      "topicId": "F09",
+      "text": "O principal inibidor tônico da prolactina é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ocitocina"
+        },
+        {
+          "id": "B",
+          "text": "Dopamina"
+        },
+        {
+          "id": "C",
+          "text": "TRH"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O principal inibidor tônico da prolactina é:",
+      "explanations": {
+        "direct": "Dopamina. D2 reduz prolactina; TRH pode estimulá-la, e ocitocina participa da ejeção láctea.",
+        "intuitive": "A secreção fica sob um freio contínuo.",
+        "technical": "D2 reduz prolactina; TRH pode estimulá-la, e ocitocina participa da ejeção láctea."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0329",
+      "number": 329,
+      "topicId": "F09",
+      "text": "Um efeito metabólico direto do GH é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Supressão completa de ácidos graxos"
+        },
+        {
+          "id": "B",
+          "text": "Aumento obrigatório de captação de glicose como a insulina"
+        },
+        {
+          "id": "C",
+          "text": "Aumento de lipólise e menor sensibilidade à insulina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um efeito metabólico direto do GH é:",
+      "explanations": {
+        "direct": "Aumento de lipólise e menor sensibilidade à insulina. GH pode ser diabetogênico; IGF-1 tem efeitos semelhantes aos da insulina em vários contextos.",
+        "intuitive": "Ele mobiliza gordura e poupa glicose em certos tecidos.",
+        "technical": "GH pode ser diabetogênico; IGF-1 tem efeitos semelhantes aos da insulina em vários contextos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0330",
+      "number": 330,
+      "topicId": "F09",
+      "text": "Em indivíduo saudável, glicose oral costuma suprimir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "GLP-1"
+        },
+        {
+          "id": "B",
+          "text": "GH"
+        },
+        {
+          "id": "C",
+          "text": "Insulina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Em indivíduo saudável, glicose oral costuma suprimir:",
+      "explanations": {
+        "direct": "GH. Insulina e incretinas sobem; ausência de supressão de GH pode ser relevante na investigação apropriada.",
+        "intuitive": "Após glicose, GH normalmente cai.",
+        "technical": "Insulina e incretinas sobem; ausência de supressão de GH pode ser relevante na investigação apropriada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0331",
+      "number": 331,
+      "topicId": "F09",
+      "text": "TSH atua na tireoide por receptor principalmente acoplado a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gq exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Gi"
+        },
+        {
+          "id": "C",
+          "text": "Gs"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "TSH atua na tireoide por receptor principalmente acoplado a:",
+      "explanations": {
+        "direct": "Gs. Ativa AMPc e outras vias; T3, por sua vez, atua predominantemente em receptor nuclear.",
+        "intuitive": "O sinal começa na superfície da célula tireoidiana.",
+        "technical": "Ativa AMPc e outras vias; T3, por sua vez, atua predominantemente em receptor nuclear."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0332",
+      "number": 332,
+      "topicId": "F09",
+      "text": "A maior parte do T3 circulante deriva de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Desiodação periférica de T4"
+        },
+        {
+          "id": "B",
+          "text": "Conversão de cortisol"
+        },
+        {
+          "id": "C",
+          "text": "Produção exclusiva de T3 pela hipófise"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A maior parte do T3 circulante deriva de:",
+      "explanations": {
+        "direct": "Desiodação periférica de T4. A tireoide também secreta T3, mas não é a única origem nem a hipófise sua fábrica.",
+        "intuitive": "Muitos tecidos ativam o precursor mais abundante.",
+        "technical": "A tireoide também secreta T3, mas não é a única origem nem a hipófise sua fábrica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0333",
+      "number": 333,
+      "topicId": "F09",
+      "text": "No hipertireoidismo primário típico, espera-se:",
+      "options": [
+        {
+          "id": "A",
+          "text": "T4 livre elevado e TSH sempre elevado"
+        },
+        {
+          "id": "B",
+          "text": "T4 livre elevado e TSH suprimido"
+        },
+        {
+          "id": "C",
+          "text": "T4 livre baixo e TSH alto"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "No hipertireoidismo primário típico, espera-se:",
+      "explanations": {
+        "direct": "T4 livre elevado e TSH suprimido. É feedback negativo; exceções centrais são menos comuns e não definem o padrão primário.",
+        "intuitive": "O excesso de produto reduz o comando hipofisário.",
+        "technical": "É feedback negativo; exceções centrais são menos comuns e não definem o padrão primário."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0334",
+      "number": 334,
+      "topicId": "F09",
+      "text": "Cortisol é produzido principalmente na zona:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Medular"
+        },
+        {
+          "id": "B",
+          "text": "Fasciculada"
+        },
+        {
+          "id": "C",
+          "text": "Glomerulosa"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Cortisol é produzido principalmente na zona:",
+      "explanations": {
+        "direct": "Fasciculada. Glomerulosa produz aldosterona; medula produz catecolaminas.",
+        "intuitive": "Cada região adrenal tem uma especialidade.",
+        "technical": "Glomerulosa produz aldosterona; medula produz catecolaminas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0335",
+      "number": 335,
+      "topicId": "F09",
+      "text": "Aldosterona é produzida na zona:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reticular como produto principal"
+        },
+        {
+          "id": "B",
+          "text": "Glomerulosa"
+        },
+        {
+          "id": "C",
+          "text": "Fasciculada"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Aldosterona é produzida na zona:",
+      "explanations": {
+        "direct": "Glomerulosa. A fasciculada produz cortisol e a reticular, andrógenos adrenais.",
+        "intuitive": "A camada externa controla retenção de sal.",
+        "technical": "A fasciculada produz cortisol e a reticular, andrógenos adrenais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0336",
+      "number": 336,
+      "topicId": "F09",
+      "text": "Insulina é secretada por células:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Delta"
+        },
+        {
+          "id": "B",
+          "text": "Alfa"
+        },
+        {
+          "id": "C",
+          "text": "Beta"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Insulina é secretada por células:",
+      "explanations": {
+        "direct": "Beta. Alfa secretam glucagon; delta secretam somatostatina.",
+        "intuitive": "Um tipo de célula da ilhota responde especialmente à glicose.",
+        "technical": "Alfa secretam glucagon; delta secretam somatostatina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0337",
+      "number": 337,
+      "topicId": "F09",
+      "text": "O receptor de insulina tem atividade:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tirosina-quinase"
+        },
+        {
+          "id": "B",
+          "text": "Acoplamento a proteína Gs"
+        },
+        {
+          "id": "C",
+          "text": "Acoplamento a proteína Gq"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O receptor de insulina tem atividade:",
+      "explanations": {
+        "direct": "Tirosina-quinase. Não é receptor de proteína G clássico; vias IRS-PI3K-Akt participam das respostas.",
+        "intuitive": "Ele inicia fosforilações que mudam transporte e metabolismo.",
+        "technical": "Não é receptor de proteína G clássico; vias IRS-PI3K-Akt participam das respostas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0338",
+      "number": 338,
+      "topicId": "F09",
+      "text": "PTH é liberado principalmente quando cai:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sódio total"
+        },
+        {
+          "id": "B",
+          "text": "Glicose pós-prandial"
+        },
+        {
+          "id": "C",
+          "text": "Cálcio ionizado"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "PTH é liberado principalmente quando cai:",
+      "explanations": {
+        "direct": "Cálcio ionizado. O receptor sensor de cálcio regula secreção; cálcio total pode variar com albumina.",
+        "intuitive": "A paratireoide percebe falta de cálcio livre.",
+        "technical": "O receptor sensor de cálcio regula secreção; cálcio total pode variar com albumina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0339",
+      "number": 339,
+      "topicId": "F09",
+      "text": "Calcitonina é secretada por células:",
+      "options": [
+        {
+          "id": "A",
+          "text": "G do estômago"
+        },
+        {
+          "id": "B",
+          "text": "Beta pancreáticas"
+        },
+        {
+          "id": "C",
+          "text": "C da tireoide"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Calcitonina é secretada por células:",
+      "explanations": {
+        "direct": "C da tireoide. Não é produto das células foliculares que sintetizam T3/T4.",
+        "intuitive": "Uma população tireoidiana diferente produz esse hormônio.",
+        "technical": "Não é produto das células foliculares que sintetizam T3/T4."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0340",
+      "number": 340,
+      "topicId": "F09",
+      "text": "A leptina sinaliza principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pressão arterial a cada batimento"
+        },
+        {
+          "id": "B",
+          "text": "Queda aguda de cálcio"
+        },
+        {
+          "id": "C",
+          "text": "Reservas energéticas do tecido adiposo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A leptina sinaliza principalmente:",
+      "explanations": {
+        "direct": "Reservas energéticas do tecido adiposo. Em obesidade pode haver resistência ao sinal; leptina não garante supressão proporcional do apetite.",
+        "intuitive": "A gordura informa ao cérebro o estado de estoque.",
+        "technical": "Em obesidade pode haver resistência ao sinal; leptina não garante supressão proporcional do apetite."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0341",
+      "number": 341,
+      "topicId": "F09",
+      "text": "Cortisol normalmente apresenta ritmo com pico próximo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ao início da manhã biológica"
+        },
+        {
+          "id": "B",
+          "text": "Sempre à meia-noite em qualquer rotina"
+        },
+        {
+          "id": "C",
+          "text": "Ao fim do sono, sem relação com o ciclo circadiano"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Cortisol normalmente apresenta ritmo com pico próximo:",
+      "explanations": {
+        "direct": "Ao início da manhã biológica. O horário depende do ritmo circadiano e sono; trabalho em turnos e doença alteram o padrão.",
+        "intuitive": "A secreção acompanha o ciclo de vigília.",
+        "technical": "O horário depende do ritmo circadiano e sono; trabalho em turnos e doença alteram o padrão."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0342",
+      "number": 342,
+      "topicId": "F09",
+      "text": "GH estimula crescimento em parte por aumentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aldosterona"
+        },
+        {
+          "id": "B",
+          "text": "Calcitonina"
+        },
+        {
+          "id": "C",
+          "text": "IGF-1"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "GH estimula crescimento em parte por aumentar:",
+      "explanations": {
+        "direct": "IGF-1. IGF-1 é produzido no fígado e tecidos; outros hormônios têm funções distintas.",
+        "intuitive": "O GH aciona um intermediário que promove crescimento.",
+        "technical": "IGF-1 é produzido no fígado e tecidos; outros hormônios têm funções distintas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0343",
+      "number": 343,
+      "topicId": "F09",
+      "text": "Somatostatina inibe principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "GH e TSH"
+        },
+        {
+          "id": "B",
+          "text": "Apenas ocitocina"
+        },
+        {
+          "id": "C",
+          "text": "Apenas aldosterona"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Somatostatina inibe principalmente:",
+      "explanations": {
+        "direct": "GH e TSH. Também atua no trato gastrointestinal e pâncreas; não se limita à adrenal.",
+        "intuitive": "É um sinal de contenção da secreção.",
+        "technical": "Também atua no trato gastrointestinal e pâncreas; não se limita à adrenal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0344",
+      "number": 344,
+      "topicId": "F09",
+      "text": "A organificação do iodo depende da:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Renina"
+        },
+        {
+          "id": "B",
+          "text": "Aromatase"
+        },
+        {
+          "id": "C",
+          "text": "Tireoperoxidase"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A organificação do iodo depende da:",
+      "explanations": {
+        "direct": "Tireoperoxidase. TPO participa da oxidação, organificação e acoplamento; renina e aromatase têm outras funções.",
+        "intuitive": "Uma enzima incorpora iodo à proteína precursora.",
+        "technical": "TPO participa da oxidação, organificação e acoplamento; renina e aromatase têm outras funções."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0345",
+      "number": 345,
+      "topicId": "F09",
+      "text": "ACTH estimula principalmente produção de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adrenalina diretamente em receptor nicotínico"
+        },
+        {
+          "id": "B",
+          "text": "Cortisol"
+        },
+        {
+          "id": "C",
+          "text": "Aldosterona como único controle"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "ACTH estimula principalmente produção de:",
+      "explanations": {
+        "direct": "Cortisol. Aldosterona depende sobretudo de angiotensina II e K⁺; medula adrenal recebe estímulo neural.",
+        "intuitive": "O eixo hipófise-adrenal regula glicocorticoides.",
+        "technical": "Aldosterona depende sobretudo de angiotensina II e K⁺; medula adrenal recebe estímulo neural."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0346",
+      "number": 346,
+      "topicId": "F09",
+      "text": "A insulina aumenta captação de glicose em músculo e adipócito ao recrutar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "GLUT5"
+        },
+        {
+          "id": "B",
+          "text": "GLUT4"
+        },
+        {
+          "id": "C",
+          "text": "SGLT1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A insulina aumenta captação de glicose em músculo e adipócito ao recrutar:",
+      "explanations": {
+        "direct": "GLUT4. GLUT4 é regulado por insulina; SGLT1 e GLUT5 têm outros contextos.",
+        "intuitive": "Coloca mais portas de glicose na superfície.",
+        "technical": "GLUT4 é regulado por insulina; SGLT1 e GLUT5 têm outros contextos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0347",
+      "number": 347,
+      "topicId": "F09",
+      "text": "Glucagon atua especialmente no fígado para aumentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Síntese de glicogênio como efeito principal"
+        },
+        {
+          "id": "B",
+          "text": "Glicogenólise e gliconeogênese"
+        },
+        {
+          "id": "C",
+          "text": "Entrada de glicose via GLUT4"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Glucagon atua especialmente no fígado para aumentar:",
+      "explanations": {
+        "direct": "Glicogenólise e gliconeogênese. O fígado não depende de GLUT4; o efeito é oposto a armazenar glicose como resposta dominante.",
+        "intuitive": "Ajuda a manter glicose disponível no jejum.",
+        "technical": "O fígado não depende de GLUT4; o efeito é oposto a armazenar glicose como resposta dominante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0348",
+      "number": 348,
+      "topicId": "F09",
+      "text": "A ação direta do glucagon sobre glicogenólise no músculo esquelético é limitada porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O músculo não contém glicogênio"
+        },
+        {
+          "id": "B",
+          "text": "Não há expressão funcional relevante de seu receptor como no fígado"
+        },
+        {
+          "id": "C",
+          "text": "A insulina bloqueia permanentemente todo receptor"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A ação direta do glucagon sobre glicogenólise no músculo esquelético é limitada porque:",
+      "explanations": {
+        "direct": "Não há expressão funcional relevante de seu receptor como no fígado. Músculo possui glicogênio e responde à adrenalina, mas não replica o principal efeito hepático do glucagon.",
+        "intuitive": "O recado é dirigido principalmente ao fígado.",
+        "technical": "Músculo possui glicogênio e responde à adrenalina, mas não replica o principal efeito hepático do glucagon."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0349",
+      "number": 349,
+      "topicId": "F09",
+      "text": "Incretinas aumentam secreção de insulina de modo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exclusivamente por destruição de células alfa"
+        },
+        {
+          "id": "B",
+          "text": "Dependente da glicose"
+        },
+        {
+          "id": "C",
+          "text": "Totalmente independente da glicose em qualquer nível"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Incretinas aumentam secreção de insulina de modo:",
+      "explanations": {
+        "direct": "Dependente da glicose. GLP-1 e GIP ajudam a explicar resposta maior à glicose oral que intravenosa comparável.",
+        "intuitive": "Potencializam a resposta quando há nutriente disponível.",
+        "technical": "GLP-1 e GIP ajudam a explicar resposta maior à glicose oral que intravenosa comparável."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0350",
+      "number": 350,
+      "topicId": "F09",
+      "text": "O efeito integrado do PTH tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduzir cálcio e elevar fosfato"
+        },
+        {
+          "id": "B",
+          "text": "Elevar cálcio e reduzir fosfato plasmáticos"
+        },
+        {
+          "id": "C",
+          "text": "Reduzir ambos obrigatoriamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O efeito integrado do PTH tende a:",
+      "explanations": {
+        "direct": "Elevar cálcio e reduzir fosfato plasmáticos. Também estimula calcitriol; o resultado depende da função renal e contexto.",
+        "intuitive": "Conserva cálcio, mas facilita perda renal de fosfato.",
+        "technical": "Também estimula calcitriol; o resultado depende da função renal e contexto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0351",
+      "number": 351,
+      "topicId": "F09",
+      "text": "Calcitriol aumenta absorção intestinal de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cálcio e fosfato"
+        },
+        {
+          "id": "B",
+          "text": "Apenas potássio"
+        },
+        {
+          "id": "C",
+          "text": "Apenas água livre"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Calcitriol aumenta absorção intestinal de:",
+      "explanations": {
+        "direct": "Cálcio e fosfato. Seus efeitos não se limitam ao cálcio nem correspondem ao controle de água por ADH.",
+        "intuitive": "Ajuda a trazer minerais da alimentação.",
+        "technical": "Seus efeitos não se limitam ao cálcio nem correspondem ao controle de água por ADH."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0352",
+      "number": 352,
+      "topicId": "F09",
+      "text": "A grelina tende a aumentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sinal de reserva adiposa"
+        },
+        {
+          "id": "B",
+          "text": "Saciedade pós-prandial"
+        },
+        {
+          "id": "C",
+          "text": "Fome e ingestão"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A grelina tende a aumentar:",
+      "explanations": {
+        "direct": "Fome e ingestão. É produzida sobretudo no estômago; não é equivalente à leptina.",
+        "intuitive": "É um dos sinais que favorecem procurar alimento.",
+        "technical": "É produzida sobretudo no estômago; não é equivalente à leptina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0353",
+      "number": 353,
+      "topicId": "F09",
+      "text": "A secreção hormonal pulsátil importa porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Todo receptor responde apenas à média diária"
+        },
+        {
+          "id": "B",
+          "text": "A exposição contínua pode produzir respostas diferentes"
+        },
+        {
+          "id": "C",
+          "text": "Hormônios não são degradados entre pulsos"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A secreção hormonal pulsátil importa porque:",
+      "explanations": {
+        "direct": "A exposição contínua pode produzir respostas diferentes. GnRH contínuo pode dessensibilizar receptores; pulsos sustentam gonadotrofinas.",
+        "intuitive": "O ritmo da mensagem também carrega informação.",
+        "technical": "GnRH contínuo pode dessensibilizar receptores; pulsos sustentam gonadotrofinas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0354",
+      "number": 354,
+      "topicId": "F09",
+      "text": "Após lesão da haste hipofisária, vários hormônios da adeno-hipófise caem, mas a prolactina aumenta. Qual mecanismo explica a diferença?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumenta entrega de dopamina"
+        },
+        {
+          "id": "B",
+          "text": "Transforma prolactina em ACTH"
+        },
+        {
+          "id": "C",
+          "text": "Interrompe inibição dopaminérgica"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Após lesão da haste hipofisária, vários hormônios da adeno-hipófise caem, mas a prolactina aumenta. Qual mecanismo explica a diferença?",
+      "explanations": {
+        "direct": "Interrompe inibição dopaminérgica. Outros hormônios hipofisários podem cair por perda de fatores estimuladores.",
+        "intuitive": "Cortar o freio libera a secreção.",
+        "technical": "Outros hormônios hipofisários podem cair por perda de fatores estimuladores."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0355",
+      "number": 355,
+      "topicId": "F09",
+      "text": "Uma pessoa apresenta intolerância ao frio e fadiga, com suspeita de falha primária da tireoide. Qual combinação laboratorial sustenta esse mecanismo?",
+      "options": [
+        {
+          "id": "A",
+          "text": "T4 livre baixo e TSH suprimido"
+        },
+        {
+          "id": "B",
+          "text": "T4 livre alto e TSH alto"
+        },
+        {
+          "id": "C",
+          "text": "T4 livre baixo e TSH alto"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Uma pessoa apresenta intolerância ao frio e fadiga, com suspeita de falha primária da tireoide. Qual combinação laboratorial sustenta esse mecanismo?",
+      "explanations": {
+        "direct": "T4 livre baixo e TSH alto. Hipotireoidismo central pode ter TSH inadequadamente normal ou baixo, exigindo outra interpretação.",
+        "intuitive": "A glândula falha e a hipófise aumenta o pedido.",
+        "technical": "Hipotireoidismo central pode ter TSH inadequadamente normal ou baixo, exigindo outra interpretação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0356",
+      "number": 356,
+      "topicId": "F09",
+      "text": "A elevação crônica de cortisol tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar gliconeogênese e catabolismo proteico"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar massa muscular obrigatoriamente"
+        },
+        {
+          "id": "C",
+          "text": "Impedir produção hepática de glicose"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A elevação crônica de cortisol tende a:",
+      "explanations": {
+        "direct": "Aumentar gliconeogênese e catabolismo proteico. O efeito não equivale ao anabolismo muscular; pode causar resistência à insulina.",
+        "intuitive": "Mobiliza recursos, mas em excesso pode consumir tecidos.",
+        "technical": "O efeito não equivale ao anabolismo muscular; pode causar resistência à insulina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0357",
+      "number": 357,
+      "topicId": "F09",
+      "text": "Na insuficiência adrenal primária, ACTH tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar"
+        },
+        {
+          "id": "B",
+          "text": "Diminuir obrigatoriamente"
+        },
+        {
+          "id": "C",
+          "text": "Ficar inalterado apesar da queda de cortisol"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Na insuficiência adrenal primária, ACTH tende a:",
+      "explanations": {
+        "direct": "Aumentar. Na insuficiência central, ACTH é baixo ou inadequadamente normal.",
+        "intuitive": "A hipófise pede mais a uma glândula que não responde.",
+        "technical": "Na insuficiência central, ACTH é baixo ou inadequadamente normal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0358",
+      "number": 358,
+      "topicId": "F09",
+      "text": "Hipercalemia é mais característica de deficiência de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aldosterona"
+        },
+        {
+          "id": "B",
+          "text": "Tiroxina isoladamente"
+        },
+        {
+          "id": "C",
+          "text": "Prolactina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Hipercalemia é mais característica de deficiência de:",
+      "explanations": {
+        "direct": "Aldosterona. A perda mineralocorticoide reduz secreção distal de K⁺; deficiência isolada central de cortisol pode preservar aldosterona.",
+        "intuitive": "Sem o sinal de excreção, o potássio pode se acumular.",
+        "technical": "A perda mineralocorticoide reduz secreção distal de K⁺; deficiência isolada central de cortisol pode preservar aldosterona."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0359",
+      "number": 359,
+      "topicId": "F09",
+      "text": "A glicose estimula insulina após aumentar ATP e:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fechar canais KATP"
+        },
+        {
+          "id": "B",
+          "text": "Abrir canais KATP indefinidamente"
+        },
+        {
+          "id": "C",
+          "text": "Bloquear toda entrada de Ca²⁺"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A glicose estimula insulina após aumentar ATP e:",
+      "explanations": {
+        "direct": "Fechar canais KATP. Despolarização abre canais de Ca²⁺ e desencadeia exocitose.",
+        "intuitive": "Fechar a saída de potássio facilita a ativação elétrica.",
+        "technical": "Despolarização abre canais de Ca²⁺ e desencadeia exocitose."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F09-0360",
+      "number": 360,
+      "topicId": "F09",
+      "text": "Hiperglicemia após lesão extensa das ilhotas pancreáticas decorre principalmente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Excesso de fator intrínseco"
+        },
+        {
+          "id": "B",
+          "text": "Deficiência isolada de calcitonina"
+        },
+        {
+          "id": "C",
+          "text": "Deficiência de insulina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Hiperglicemia após lesão extensa das ilhotas pancreáticas decorre principalmente de:",
+      "explanations": {
+        "direct": "Deficiência de insulina. A produção hepática aumenta e a captação insulinodependente cai; as outras alterações não explicam o mecanismo central.",
+        "intuitive": "Falta o sinal para uso e armazenamento adequado da glicose.",
+        "technical": "A produção hepática aumenta e a captação insulinodependente cai; as outras alterações não explicam o mecanismo central."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

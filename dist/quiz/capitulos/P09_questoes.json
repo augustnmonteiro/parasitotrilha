@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P09",
+    "name": "Farmacologia · 09 · Agonistas adrenérgicos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 9
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P09-0497",
+      "number": 497,
+      "topicId": "P09",
+      "text": "Adrenalina na anafilaxia atua em múltiplos receptores para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sustentar circulação e dilatar brônquios"
+        },
+        {
+          "id": "B",
+          "text": "Inibir irreversivelmente colinesterase"
+        },
+        {
+          "id": "C",
+          "text": "Bloquear exclusivamente histamina H1"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Adrenalina na anafilaxia atua em múltiplos receptores para:",
+      "explanations": {
+        "direct": "Sustentar circulação e dilatar brônquios. α1, β1 e β2 contribuem; não é apenas anti-histamínico.",
+        "intuitive": "Combina melhora da pressão com abertura das vias aéreas.",
+        "technical": "α1, β1 e β2 contribuem; não é apenas anti-histamínico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P09-0498",
+      "number": 498,
+      "topicId": "P09",
+      "text": "Fenilefrina atua predominantemente em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "M3"
+        },
+        {
+          "id": "B",
+          "text": "β2"
+        },
+        {
+          "id": "C",
+          "text": "α1"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Fenilefrina atua predominantemente em:",
+      "explanations": {
+        "direct": "α1. Pode elevar pressão e causar bradicardia reflexa; não é broncodilatador β2.",
+        "intuitive": "É um estímulo vasoconstritor relativamente seletivo.",
+        "technical": "Pode elevar pressão e causar bradicardia reflexa; não é broncodilatador β2."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P09-0499",
+      "number": 499,
+      "topicId": "P09",
+      "text": "Dobutamina é usada por sua ação predominante:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antimuscarínica intestinal"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueadora de canais de Na⁺"
+        },
+        {
+          "id": "C",
+          "text": "Inotrópica β1"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Dobutamina é usada por sua ação predominante:",
+      "explanations": {
+        "direct": "Inotrópica β1. Pode aumentar consumo de O₂ e arritmias; não é apenas um vasoconstritor.",
+        "intuitive": "Aumenta a força de contração.",
+        "technical": "Pode aumentar consumo de O₂ e arritmias; não é apenas um vasoconstritor."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P09-0500",
+      "number": 500,
+      "topicId": "P09",
+      "text": "Noradrenalina eleva pressão principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vasodilatação β2 dominante"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio α1"
+        },
+        {
+          "id": "C",
+          "text": "Vasoconstrição α-adrenérgica"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Noradrenalina eleva pressão principalmente por:",
+      "explanations": {
+        "direct": "Vasoconstrição α-adrenérgica. Também ativa β1, mas β2 é relativamente pouco estimulado.",
+        "intuitive": "Aperta vasos e aumenta resistência.",
+        "technical": "Também ativa β1, mas β2 é relativamente pouco estimulado."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P09-0501",
+      "number": 501,
+      "topicId": "P09",
+      "text": "Isoproterenol estimula principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "β1 e β2"
+        },
+        {
+          "id": "B",
+          "text": "α1 e α2"
+        },
+        {
+          "id": "C",
+          "text": "M1 e M2"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Isoproterenol estimula principalmente:",
+      "explanations": {
+        "direct": "β1 e β2. Não apresenta o mesmo componente α vasoconstritor da noradrenalina.",
+        "intuitive": "Acelera coração e relaxa certos músculos lisos.",
+        "technical": "Não apresenta o mesmo componente α vasoconstritor da noradrenalina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P09-0502",
+      "number": 502,
+      "topicId": "P09",
+      "text": "Salbutamol relaxa brônquios principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonismo β2"
+        },
+        {
+          "id": "B",
+          "text": "Antagonismo β1"
+        },
+        {
+          "id": "C",
+          "text": "Agonismo M3"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Salbutamol relaxa brônquios principalmente por:",
+      "explanations": {
+        "direct": "Agonismo β2. AMPc no músculo liso reduz atividade contrátil; M3 faria o oposto.",
+        "intuitive": "Aciona uma via relaxante no músculo brônquico.",
+        "technical": "AMPc no músculo liso reduz atividade contrátil; M3 faria o oposto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P09-0503",
+      "number": 503,
+      "topicId": "P09",
+      "text": "Clonidina reduz descarga simpática principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antagonismo α2 pré-sináptico"
+        },
+        {
+          "id": "B",
+          "text": "Agonismo α2 central"
+        },
+        {
+          "id": "C",
+          "text": "Antagonismo β1 periférico"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Clonidina reduz descarga simpática principalmente por:",
+      "explanations": {
+        "direct": "Agonismo α2 central. Apesar de agonista adrenérgica, seu efeito integrado pode reduzir pressão e frequência.",
+        "intuitive": "Liga um freio central.",
+        "technical": "Apesar de agonista adrenérgica, seu efeito integrado pode reduzir pressão e frequência."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P09-0504",
+      "number": 504,
+      "topicId": "P09",
+      "text": "Oximetazolina nasal alivia congestão por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento da secreção mucosa"
+        },
+        {
+          "id": "B",
+          "text": "Vasoconstrição da mucosa"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio de histamina exclusivamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Oximetazolina nasal alivia congestão por:",
+      "explanations": {
+        "direct": "Vasoconstrição da mucosa. Uso repetido prolongado pode favorecer congestão rebote; não corrige toda causa de rinite.",
+        "intuitive": "Reduz o volume de sangue na mucosa inchada.",
+        "technical": "Uso repetido prolongado pode favorecer congestão rebote; não corrige toda causa de rinite."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P09-0505",
+      "number": 505,
+      "topicId": "P09",
+      "text": "Anfetaminas aumentam monoaminas sinápticas em parte por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Destruir receptores de dopamina imediatamente"
+        },
+        {
+          "id": "B",
+          "text": "Favorecer liberação e alterar transporte"
+        },
+        {
+          "id": "C",
+          "text": "Bloquear todos os receptores adrenérgicos"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Anfetaminas aumentam monoaminas sinápticas em parte por:",
+      "explanations": {
+        "direct": "Favorecer liberação e alterar transporte. A ação é indireta e envolve transportadores; não é antagonismo receptor puro.",
+        "intuitive": "Mobilizam a mensagem armazenada nas terminações.",
+        "technical": "A ação é indireta e envolve transportadores; não é antagonismo receptor puro."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P09-0506",
+      "number": 506,
+      "topicId": "P09",
+      "text": "A frequência cardíaca pode cair após noradrenalina porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ela bloqueia totalmente o nó sinusal"
+        },
+        {
+          "id": "B",
+          "text": "A pressão elevada aciona barorreflexo"
+        },
+        {
+          "id": "C",
+          "text": "Noradrenalina é agonista M2 direto"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A frequência cardíaca pode cair após noradrenalina porque:",
+      "explanations": {
+        "direct": "A pressão elevada aciona barorreflexo. Bradicardia reflexa não transforma noradrenalina em parassimpaticomimético.",
+        "intuitive": "O reflexo pode superar o estímulo cardíaco direto.",
+        "technical": "Bradicardia reflexa não transforma noradrenalina em parassimpaticomimético."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P09-0507",
+      "number": 507,
+      "topicId": "P09",
+      "text": "Tremor e hipocalemia após dose alta de agonista β2 decorrem de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Efeitos β2 em músculo e entrada celular de K⁺"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio da bomba Na⁺/K⁺"
+        },
+        {
+          "id": "C",
+          "text": "Aumento de excreção renal de K⁺ como única causa imediata"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Tremor e hipocalemia após dose alta de agonista β2 decorrem de:",
+      "explanations": {
+        "direct": "Efeitos β2 em músculo e entrada celular de K⁺. β2 favorece captação de K⁺; hipocalemia pode ser redistributiva, não perda corporal obrigatória.",
+        "intuitive": "O efeito não fica restrito aos brônquios.",
+        "technical": "β2 favorece captação de K⁺; hipocalemia pode ser redistributiva, não perda corporal obrigatória."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P09-0508",
+      "number": 508,
+      "topicId": "P09",
+      "text": "Interrupção abrupta de clonidina pode causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipotensão permanente obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Hipertensão rebote"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio neuromuscular"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Interrupção abrupta de clonidina pode causar:",
+      "explanations": {
+        "direct": "Hipertensão rebote. A adaptação ao uso torna a suspensão abrupta relevante; não se trata de ação Nm.",
+        "intuitive": "Retirar rapidamente o freio pode liberar descarga simpática.",
+        "technical": "A adaptação ao uso torna a suspensão abrupta relevante; não se trata de ação Nm."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

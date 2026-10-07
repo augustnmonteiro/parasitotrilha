@@ -1,0 +1,1549 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "F03",
+    "name": "Fisiologia · 03 · Neurofisiologia",
+    "book": "Costanzo Physiology, 8ª edição",
+    "chapter": 3
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "F03-0081",
+      "number": 81,
+      "topicId": "F03",
+      "text": "As fibras da coluna dorsal cruzam principalmente no:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bulbo"
+        },
+        {
+          "id": "B",
+          "text": "Segmento medular de entrada"
+        },
+        {
+          "id": "C",
+          "text": "Córtex visual"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "As fibras da coluna dorsal cruzam principalmente no:",
+      "explanations": {
+        "direct": "Bulbo. Fibras arqueadas internas formam o lemnisco medial; não cruzam imediatamente como muitas fibras dolorosas.",
+        "intuitive": "O cruzamento ocorre depois de subir pela medula.",
+        "technical": "Fibras arqueadas internas formam o lemnisco medial; não cruzam imediatamente como muitas fibras dolorosas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0082",
+      "number": 82,
+      "topicId": "F03",
+      "text": "Fibras Aδ conduzem tipicamente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dor rápida e bem localizada"
+        },
+        {
+          "id": "B",
+          "text": "Comando motor autonômico pós-ganglionar"
+        },
+        {
+          "id": "C",
+          "text": "Dor lenta difusa exclusivamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Fibras Aδ conduzem tipicamente:",
+      "explanations": {
+        "direct": "Dor rápida e bem localizada. São finamente mielinizadas; fibras C amielínicas transmitem dor lenta.",
+        "intuitive": "São vias relativamente rápidas para o primeiro aviso doloroso.",
+        "technical": "São finamente mielinizadas; fibras C amielínicas transmitem dor lenta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0083",
+      "number": 83,
+      "topicId": "F03",
+      "text": "Fibras C são:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fortemente mielinizadas e rápidas"
+        },
+        {
+          "id": "B",
+          "text": "Amielínicas e lentas"
+        },
+        {
+          "id": "C",
+          "text": "Exclusivamente motoras somáticas"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Fibras C são:",
+      "explanations": {
+        "direct": "Amielínicas e lentas. Incluem nociceptores e fibras autonômicas; não são exclusivas de uma função.",
+        "intuitive": "Sem isolamento, a condução é mais lenta.",
+        "technical": "Incluem nociceptores e fibras autonômicas; não são exclusivas de uma função."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0084",
+      "number": 84,
+      "topicId": "F03",
+      "text": "Dor em área distante da víscera pode resultar de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Convergência de aferências viscerais e somáticas"
+        },
+        {
+          "id": "B",
+          "text": "Condução direta por um único axônio entre víscera e pele"
+        },
+        {
+          "id": "C",
+          "text": "Ativação exclusiva de receptores cutâneos na região dolorosa"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Dor em área distante da víscera pode resultar de:",
+      "explanations": {
+        "direct": "Convergência de aferências viscerais e somáticas. A convergência medular ajuda a explicar dor referida, não deslocamento anatômico neuronal.",
+        "intuitive": "O cérebro confunde origens que compartilham circuitos.",
+        "technical": "A convergência medular ajuda a explicar dor referida, não deslocamento anatômico neuronal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0085",
+      "number": 85,
+      "topicId": "F03",
+      "text": "Um receptor de adaptação rápida sinaliza melhor:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mudanças do estímulo"
+        },
+        {
+          "id": "B",
+          "text": "Intensidade constante indefinidamente"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de estímulo apenas"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um receptor de adaptação rápida sinaliza melhor:",
+      "explanations": {
+        "direct": "Mudanças do estímulo. Receptores tônicos mantêm resposta sustentada; fásicos reduzem descarga durante estímulo constante.",
+        "intuitive": "Ele destaca o que começou ou mudou.",
+        "technical": "Receptores tônicos mantêm resposta sustentada; fásicos reduzem descarga durante estímulo constante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0086",
+      "number": 86,
+      "topicId": "F03",
+      "text": "Inibição lateral melhora:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amplificação uniforme de todos os sinais"
+        },
+        {
+          "id": "B",
+          "text": "Contraste entre regiões estimuladas"
+        },
+        {
+          "id": "C",
+          "text": "Amplitude uniforme da resposta periférica"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Inibição lateral melhora:",
+      "explanations": {
+        "direct": "Contraste entre regiões estimuladas. É processamento de contraste, não reparo estrutural nem excitação global.",
+        "intuitive": "Os vizinhos são abafados para destacar o centro.",
+        "technical": "É processamento de contraste, não reparo estrutural nem excitação global."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0087",
+      "number": 87,
+      "topicId": "F03",
+      "text": "A luz produz nos fotorreceptores:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hiperpolarização"
+        },
+        {
+          "id": "B",
+          "text": "Potencial de ação obrigatório no segmento externo"
+        },
+        {
+          "id": "C",
+          "text": "Despolarização por abertura de canais de Na⁺"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A luz produz nos fotorreceptores:",
+      "explanations": {
+        "direct": "Hiperpolarização. Ativa transducina e fosfodiesterase, reduz GMPc e fecha canais catiônicos.",
+        "intuitive": "A luz fecha parte das portas de corrente do escuro.",
+        "technical": "Ativa transducina e fosfodiesterase, reduz GMPc e fecha canais catiônicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0088",
+      "number": 88,
+      "topicId": "F03",
+      "text": "No escuro, fotorreceptores liberam glutamato de forma:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Relativamente elevada e contínua"
+        },
+        {
+          "id": "B",
+          "text": "Completamente ausente"
+        },
+        {
+          "id": "C",
+          "text": "Dependente de acetilcolina ganglionar"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "No escuro, fotorreceptores liberam glutamato de forma:",
+      "explanations": {
+        "direct": "Relativamente elevada e contínua. A corrente de escuro mantém despolarização; a luz reduz liberação de glutamato.",
+        "intuitive": "No escuro, eles mantêm a mensagem ligada.",
+        "technical": "A corrente de escuro mantém despolarização; a luz reduz liberação de glutamato."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0089",
+      "number": 89,
+      "topicId": "F03",
+      "text": "Os cones são especialmente importantes para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Detecção de aceleração angular"
+        },
+        {
+          "id": "B",
+          "text": "Visão noturna de baixíssima luminosidade"
+        },
+        {
+          "id": "C",
+          "text": "Visão de cores e alta acuidade"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Os cones são especialmente importantes para:",
+      "explanations": {
+        "direct": "Visão de cores e alta acuidade. Bastonetes dominam visão escotópica; canais semicirculares detectam rotação.",
+        "intuitive": "Eles distinguem cores e detalhes com boa iluminação.",
+        "technical": "Bastonetes dominam visão escotópica; canais semicirculares detectam rotação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0090",
+      "number": 90,
+      "topicId": "F03",
+      "text": "Os bastonetes são mais úteis em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Discriminação tricromática precisa"
+        },
+        {
+          "id": "B",
+          "text": "Baixa luminosidade"
+        },
+        {
+          "id": "C",
+          "text": "Acomodação do cristalino"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Os bastonetes são mais úteis em:",
+      "explanations": {
+        "direct": "Baixa luminosidade. Não conferem visão de cores; acomodação depende do músculo ciliar.",
+        "intuitive": "São sensores sensíveis à pouca luz.",
+        "technical": "Não conferem visão de cores; acomodação depende do músculo ciliar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0091",
+      "number": 91,
+      "topicId": "F03",
+      "text": "A membrana basilar responde a altas frequências principalmente na:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ápice da cóclea"
+        },
+        {
+          "id": "B",
+          "text": "Base da cóclea"
+        },
+        {
+          "id": "C",
+          "text": "Mácula utricular"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A membrana basilar responde a altas frequências principalmente na:",
+      "explanations": {
+        "direct": "Base da cóclea. O ápice mais flexível responde a graves; utrículo pertence ao equilíbrio.",
+        "intuitive": "A base mais rígida vibra melhor com sons agudos.",
+        "technical": "O ápice mais flexível responde a graves; utrículo pertence ao equilíbrio."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0092",
+      "number": 92,
+      "topicId": "F03",
+      "text": "A deflexão dos estereocílios auditivos abre canais e permite entrada de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "K⁺ da endolinfa"
+        },
+        {
+          "id": "B",
+          "text": "Cl⁻ do retículo"
+        },
+        {
+          "id": "C",
+          "text": "Na⁺ do plasma diretamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A deflexão dos estereocílios auditivos abre canais e permite entrada de:",
+      "explanations": {
+        "direct": "K⁺ da endolinfa. Endolinfa é rica em K⁺ e tem potencial positivo; a transdução é mecanoelétrica.",
+        "intuitive": "O líquido ao redor fornece potássio para despolarizar.",
+        "technical": "Endolinfa é rica em K⁺ e tem potencial positivo; a transdução é mecanoelétrica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0093",
+      "number": 93,
+      "topicId": "F03",
+      "text": "Células ciliadas externas contribuem principalmente para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Equalização da pressão do ouvido médio"
+        },
+        {
+          "id": "B",
+          "text": "Amplificação coclear"
+        },
+        {
+          "id": "C",
+          "text": "Geração da maior parte da aferência auditiva"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Células ciliadas externas contribuem principalmente para:",
+      "explanations": {
+        "direct": "Amplificação coclear. A eletromotilidade por prestina aumenta sensibilidade e seletividade; células internas transmitem a maior parte da aferência.",
+        "intuitive": "Elas ajustam e amplificam a vibração.",
+        "technical": "A eletromotilidade por prestina aumenta sensibilidade e seletividade; células internas transmitem a maior parte da aferência."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0094",
+      "number": 94,
+      "topicId": "F03",
+      "text": "Canais semicirculares detectam principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inclinação estática em relação à gravidade"
+        },
+        {
+          "id": "B",
+          "text": "Aceleração linear"
+        },
+        {
+          "id": "C",
+          "text": "Aceleração angular"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Canais semicirculares detectam principalmente:",
+      "explanations": {
+        "direct": "Aceleração angular. Órgãos otolíticos detectam aceleração linear e inclinação; cóclea processa som.",
+        "intuitive": "Eles avisam sobre giros da cabeça.",
+        "technical": "Órgãos otolíticos detectam aceleração linear e inclinação; cóclea processa som."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0095",
+      "number": 95,
+      "topicId": "F03",
+      "text": "Utrículo e sáculo detectam principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aceleração angular predominante"
+        },
+        {
+          "id": "B",
+          "text": "Velocidade de rotação constante isoladamente"
+        },
+        {
+          "id": "C",
+          "text": "Aceleração linear e gravidade"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Utrículo e sáculo detectam principalmente:",
+      "explanations": {
+        "direct": "Aceleração linear e gravidade. Otocônias conferem inércia; canais semicirculares respondem à rotação.",
+        "intuitive": "Pequenos pesos deslocam sensores conforme movimento e inclinação.",
+        "technical": "Otocônias conferem inércia; canais semicirculares respondem à rotação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0096",
+      "number": 96,
+      "topicId": "F03",
+      "text": "O reflexo vestibulo-ocular mantém:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cristalino sempre achatado"
+        },
+        {
+          "id": "B",
+          "text": "Pupila sempre dilatada"
+        },
+        {
+          "id": "C",
+          "text": "Imagem estável durante movimento da cabeça"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O reflexo vestibulo-ocular mantém:",
+      "explanations": {
+        "direct": "Imagem estável durante movimento da cabeça. Ajusta movimentos oculares; não é o reflexo pupilar nem a acomodação.",
+        "intuitive": "Os olhos compensam o giro da cabeça.",
+        "technical": "Ajusta movimentos oculares; não é o reflexo pupilar nem a acomodação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0097",
+      "number": 97,
+      "topicId": "F03",
+      "text": "O fuso muscular informa principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Comprimento muscular e sua mudança"
+        },
+        {
+          "id": "B",
+          "text": "Tensão tendínea exclusivamente"
+        },
+        {
+          "id": "C",
+          "text": "Atividade de motoneurônios sem mudança mecânica"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O fuso muscular informa principalmente:",
+      "explanations": {
+        "direct": "Comprimento muscular e sua mudança. Órgão tendinoso de Golgi sinaliza tensão; o fuso possui aferências Ia e II.",
+        "intuitive": "Ele percebe quanto o músculo esticou.",
+        "technical": "Órgão tendinoso de Golgi sinaliza tensão; o fuso possui aferências Ia e II."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0098",
+      "number": 98,
+      "topicId": "F03",
+      "text": "O órgão tendinoso de Golgi usa aferências:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ia"
+        },
+        {
+          "id": "B",
+          "text": "Ib"
+        },
+        {
+          "id": "C",
+          "text": "Aα motoras"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O órgão tendinoso de Golgi usa aferências:",
+      "explanations": {
+        "direct": "Ib. Ia é típica do fuso; fibras motoras eferentes não são aferências Ib.",
+        "intuitive": "Ele comunica a força desenvolvida no tendão.",
+        "technical": "Ia é típica do fuso; fibras motoras eferentes não são aferências Ib."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0099",
+      "number": 99,
+      "topicId": "F03",
+      "text": "Motoneurônios gama regulam:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sensibilidade do fuso muscular"
+        },
+        {
+          "id": "B",
+          "text": "Tensão tendínea detectada por aferências Ib"
+        },
+        {
+          "id": "C",
+          "text": "Força extrafusal diretamente como os alfa"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Motoneurônios gama regulam:",
+      "explanations": {
+        "direct": "Sensibilidade do fuso muscular. Inervam fibras intrafusais; alfa inervam fibras extrafusais.",
+        "intuitive": "Ajustam o sensor enquanto o músculo muda de tamanho.",
+        "technical": "Inervam fibras intrafusais; alfa inervam fibras extrafusais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0100",
+      "number": 100,
+      "topicId": "F03",
+      "text": "O arco básico do reflexo miotático inclui:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Excitação monossináptica do motoneurônio alfa"
+        },
+        {
+          "id": "B",
+          "text": "Obrigatoriamente uma volta pelo córtex"
+        },
+        {
+          "id": "C",
+          "text": "Inibição de toda musculatura agonista"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O arco básico do reflexo miotático inclui:",
+      "explanations": {
+        "direct": "Excitação monossináptica do motoneurônio alfa. A aferência Ia excita alfa; inibição recíproca usa interneurônios adicionais.",
+        "intuitive": "O estiramento pode gerar contração rapidamente na medula.",
+        "technical": "A aferência Ia excita alfa; inibição recíproca usa interneurônios adicionais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0101",
+      "number": 101,
+      "topicId": "F03",
+      "text": "Na inibição recíproca, o antagonista:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Contrai obrigatoriamente com força máxima"
+        },
+        {
+          "id": "B",
+          "text": "É inibido enquanto o agonista é ativado"
+        },
+        {
+          "id": "C",
+          "text": "Perde permanentemente a inervação"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Na inibição recíproca, o antagonista:",
+      "explanations": {
+        "direct": "É inibido enquanto o agonista é ativado. Interneurônios inibitórios coordenam o movimento; não ocorre desnervação.",
+        "intuitive": "Um lado relaxa para o outro mover.",
+        "technical": "Interneurônios inibitórios coordenam o movimento; não ocorre desnervação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0102",
+      "number": 102,
+      "topicId": "F03",
+      "text": "O cerebelo participa especialmente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Coordenação e correção de erro motor"
+        },
+        {
+          "id": "B",
+          "text": "Seleção de programas motores por circuitos estriatais"
+        },
+        {
+          "id": "C",
+          "text": "Início exclusivo de toda contração"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O cerebelo participa especialmente de:",
+      "explanations": {
+        "direct": "Coordenação e correção de erro motor. Lesões causam dismetria e ataxia; não são paralisia por perda direta de motoneurônios.",
+        "intuitive": "Compara o movimento planejado com o realizado.",
+        "technical": "Lesões causam dismetria e ataxia; não são paralisia por perda direta de motoneurônios."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0103",
+      "number": 103,
+      "topicId": "F03",
+      "text": "Tremor de intenção sugere disfunção predominante do:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nervo óptico"
+        },
+        {
+          "id": "B",
+          "text": "Hipotálamo anterior"
+        },
+        {
+          "id": "C",
+          "text": "Cerebelo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Tremor de intenção sugere disfunção predominante do:",
+      "explanations": {
+        "direct": "Cerebelo. Difere do tremor de repouso parkinsoniano; visão ou termorregulação não explicam o padrão típico.",
+        "intuitive": "O erro aparece ao aproximar-se de um alvo.",
+        "technical": "Difere do tremor de repouso parkinsoniano; visão ou termorregulação não explicam o padrão típico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0104",
+      "number": 104,
+      "topicId": "F03",
+      "text": "O hipocampo é especialmente importante para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Formação de novas memórias declarativas"
+        },
+        {
+          "id": "B",
+          "text": "Controle da execução motora cerebelar"
+        },
+        {
+          "id": "C",
+          "text": "Aprendizagem motora implícita como função principal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O hipocampo é especialmente importante para:",
+      "explanations": {
+        "direct": "Formação de novas memórias declarativas. Não armazena sozinho toda memória nem comanda diretamente o esfíncter pupilar.",
+        "intuitive": "Ajuda a transformar experiências em lembranças acessíveis.",
+        "technical": "Não armazena sozinho toda memória nem comanda diretamente o esfíncter pupilar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0105",
+      "number": 105,
+      "topicId": "F03",
+      "text": "Potenciação de longa duração hipocampal frequentemente envolve:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Redução sustentada da inserção de receptores AMPA"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio permanente de todo glutamato"
+        },
+        {
+          "id": "C",
+          "text": "Entrada de Ca²⁺ por NMDA e fortalecimento sináptico"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Potenciação de longa duração hipocampal frequentemente envolve:",
+      "explanations": {
+        "direct": "Entrada de Ca²⁺ por NMDA e fortalecimento sináptico. NMDA exige ligante e alívio do bloqueio por Mg²⁺; AMPA pode aumentar na membrana.",
+        "intuitive": "Uma sinapse usada em conjunto pode ficar mais forte.",
+        "technical": "NMDA exige ligante e alívio do bloqueio por Mg²⁺; AMPA pode aumentar na membrana."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0106",
+      "number": 106,
+      "topicId": "F03",
+      "text": "Durante sono REM é típico ocorrer:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência absoluta de sonhos"
+        },
+        {
+          "id": "B",
+          "text": "Tônus extensor máximo contínuo"
+        },
+        {
+          "id": "C",
+          "text": "Atonia muscular e atividade cortical relativamente rápida"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Durante sono REM é típico ocorrer:",
+      "explanations": {
+        "direct": "Atonia muscular e atividade cortical relativamente rápida. A atonia reduz expressão motora; sonhos também podem ocorrer fora de REM.",
+        "intuitive": "O cérebro fica ativo enquanto muitos músculos permanecem inibidos.",
+        "technical": "A atonia reduz expressão motora; sonhos também podem ocorrer fora de REM."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0107",
+      "number": 107,
+      "topicId": "F03",
+      "text": "O núcleo supraquiasmático atua como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Centro primário da memória episódica"
+        },
+        {
+          "id": "B",
+          "text": "Centro integrador primário dos reflexos pupilares"
+        },
+        {
+          "id": "C",
+          "text": "Organizador circadiano"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O núcleo supraquiasmático atua como:",
+      "explanations": {
+        "direct": "Organizador circadiano. Recebe informação luminosa retiniana e coordena ritmos; não é centro motor bulbar.",
+        "intuitive": "Ele ajuda a marcar o horário biológico.",
+        "technical": "Recebe informação luminosa retiniana e coordena ritmos; não é centro motor bulbar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0108",
+      "number": 108,
+      "topicId": "F03",
+      "text": "O hipotálamo anterior participa principalmente de respostas de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Produção de calor por tremor"
+        },
+        {
+          "id": "B",
+          "text": "Dissipação de calor"
+        },
+        {
+          "id": "C",
+          "text": "Conservação e produção de calor"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O hipotálamo anterior participa principalmente de respostas de:",
+      "explanations": {
+        "direct": "Dissipação de calor. A área pré-óptica integra sinais térmicos; controle imune e motor têm outros circuitos.",
+        "intuitive": "Ajuda a perder calor quando o corpo aquece.",
+        "technical": "A área pré-óptica integra sinais térmicos; controle imune e motor têm outros circuitos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0109",
+      "number": 109,
+      "topicId": "F03",
+      "text": "A via coluna dorsal–lemnisco medial transmite principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dor lenta e temperatura"
+        },
+        {
+          "id": "B",
+          "text": "Propriocepção consciente e tato discriminativo"
+        },
+        {
+          "id": "C",
+          "text": "Comandos motores para músculos"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A via coluna dorsal–lemnisco medial transmite principalmente:",
+      "explanations": {
+        "direct": "Propriocepção consciente e tato discriminativo. Dor e temperatura ascendem sobretudo no sistema anterolateral; comandos descendem por vias motoras.",
+        "intuitive": "Ela informa posição e detalhes finos do toque.",
+        "technical": "Dor e temperatura ascendem sobretudo no sistema anterolateral; comandos descendem por vias motoras."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0110",
+      "number": 110,
+      "topicId": "F03",
+      "text": "A via espinotalâmica cruza geralmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Na medula, perto do nível de entrada"
+        },
+        {
+          "id": "B",
+          "text": "Somente no córtex"
+        },
+        {
+          "id": "C",
+          "text": "No cerebelo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A via espinotalâmica cruza geralmente:",
+      "explanations": {
+        "direct": "Na medula, perto do nível de entrada. A comissura branca anterior permite o cruzamento; a localização explica déficits contralaterais abaixo da lesão.",
+        "intuitive": "A dor troca de lado cedo.",
+        "technical": "A comissura branca anterior permite o cruzamento; a localização explica déficits contralaterais abaixo da lesão."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0111",
+      "number": 111,
+      "topicId": "F03",
+      "text": "Sensibilização periférica significa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Redução do limiar de nociceptores por mediadores"
+        },
+        {
+          "id": "B",
+          "text": "Redução seletiva da liberação de mediadores inflamatórios"
+        },
+        {
+          "id": "C",
+          "text": "Elevação do limiar de ativação nociceptiva"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Sensibilização periférica significa:",
+      "explanations": {
+        "direct": "Redução do limiar de nociceptores por mediadores. Prostaglandinas e outros mediadores alteram excitabilidade, sem exigir mielinização.",
+        "intuitive": "A região inflamada fica mais fácil de alarmar.",
+        "technical": "Prostaglandinas e outros mediadores alteram excitabilidade, sem exigir mielinização."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0112",
+      "number": 112,
+      "topicId": "F03",
+      "text": "Campos receptivos pequenos favorecem:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melhor discriminação espacial"
+        },
+        {
+          "id": "B",
+          "text": "Pior discriminação obrigatória"
+        },
+        {
+          "id": "C",
+          "text": "Perda de percepção tátil"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Campos receptivos pequenos favorecem:",
+      "explanations": {
+        "direct": "Melhor discriminação espacial. Alta densidade e inibição lateral refinam localização; campos grandes integram áreas maiores.",
+        "intuitive": "Sensores menores distinguem pontos próximos.",
+        "technical": "Alta densidade e inibição lateral refinam localização; campos grandes integram áreas maiores."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0113",
+      "number": 113,
+      "topicId": "F03",
+      "text": "Dopamina nigroestriatal favorece movimento ao:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibir D1 e estimular D2 em ambos"
+        },
+        {
+          "id": "B",
+          "text": "Destruir a via direta"
+        },
+        {
+          "id": "C",
+          "text": "Estimular D1 e inibir D2 em circuitos distintos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Dopamina nigroestriatal favorece movimento ao:",
+      "explanations": {
+        "direct": "Estimular D1 e inibir D2 em circuitos distintos. D1 facilita via direta; D2 reduz atividade da via indireta, resultando em desinibição talâmica.",
+        "intuitive": "Ela facilita a liberação do programa motor.",
+        "technical": "D1 facilita via direta; D2 reduz atividade da via indireta, resultando em desinibição talâmica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0114",
+      "number": 114,
+      "topicId": "F03",
+      "text": "Uma lesão compromete a metade direita da medula torácica. Considerando níveis alguns segmentos abaixo da lesão, qual combinação sensorial é mais esperada?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perda de ambas apenas à esquerda"
+        },
+        {
+          "id": "B",
+          "text": "Perda de propriocepção à direita e dor à esquerda"
+        },
+        {
+          "id": "C",
+          "text": "Perda de ambas apenas à direita"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Uma lesão compromete a metade direita da medula torácica. Considerando níveis alguns segmentos abaixo da lesão, qual combinação sensorial é mais esperada?",
+      "explanations": {
+        "direct": "Perda de propriocepção à direita e dor à esquerda. Coluna dorsal ainda não cruzou; via anterolateral já cruzou, usualmente poucos segmentos acima da entrada.",
+        "intuitive": "As vias cruzam em alturas diferentes.",
+        "technical": "Coluna dorsal ainda não cruzou; via anterolateral já cruzou, usualmente poucos segmentos acima da entrada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0115",
+      "number": 115,
+      "topicId": "F03",
+      "text": "Esfregar a pele após uma batida pode atenuar dor por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ativação exclusiva da via espinotalâmica excitatória"
+        },
+        {
+          "id": "B",
+          "text": "Inibição da síntese periférica de prostaglandinas"
+        },
+        {
+          "id": "C",
+          "text": "Modulação segmentar por aferências táteis"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Esfregar a pele após uma batida pode atenuar dor por:",
+      "explanations": {
+        "direct": "Modulação segmentar por aferências táteis. A teoria do portão envolve interneurônios; não exige lesão dos receptores.",
+        "intuitive": "O toque recruta circuitos que reduzem a passagem do sinal doloroso.",
+        "technical": "A teoria do portão envolve interneurônios; não exige lesão dos receptores."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0116",
+      "number": 116,
+      "topicId": "F03",
+      "text": "Uma massa selar comprime a região central do quiasma óptico. O paciente esbarra em objetos nas laterais, com visão central relativamente preservada. Qual defeito campimétrico é esperado?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hemianopsia homônima esquerda sempre"
+        },
+        {
+          "id": "B",
+          "text": "Hemianopsia bitemporal"
+        },
+        {
+          "id": "C",
+          "text": "Cegueira monocular direita isolada"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Uma massa selar comprime a região central do quiasma óptico. O paciente esbarra em objetos nas laterais, com visão central relativamente preservada. Qual defeito campimétrico é esperado?",
+      "explanations": {
+        "direct": "Hemianopsia bitemporal. Fibras nasais cruzam no quiasma; nervo óptico lesado causa perda monocular.",
+        "intuitive": "Perdem-se fibras que trazem os campos visuais laterais.",
+        "technical": "Fibras nasais cruzam no quiasma; nervo óptico lesado causa perda monocular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0117",
+      "number": 117,
+      "topicId": "F03",
+      "text": "Após lesão de um nervo periférico motor, há fraqueza nos músculos por ele inervados. Qual padrão de tônus e reflexos é mais compatível com o local da lesão?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fraqueza flácida e hiporreflexia"
+        },
+        {
+          "id": "B",
+          "text": "Sinal de Babinski extensor"
+        },
+        {
+          "id": "C",
+          "text": "Espasticidade e hiperreflexia típicas"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Após lesão de um nervo periférico motor, há fraqueza nos músculos por ele inervados. Qual padrão de tônus e reflexos é mais compatível com o local da lesão?",
+      "explanations": {
+        "direct": "Fraqueza flácida e hiporreflexia. Atrofia e fasciculações podem acompanhar; sinais piramidais apontam para lesão superior.",
+        "intuitive": "A saída final para o músculo falha.",
+        "technical": "Atrofia e fasciculações podem acompanhar; sinais piramidais apontam para lesão superior."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0118",
+      "number": 118,
+      "topicId": "F03",
+      "text": "Uma lesão crônica do neurônio motor superior tende a causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fasciculações como achado definidor"
+        },
+        {
+          "id": "B",
+          "text": "Espasticidade e hiperreflexia"
+        },
+        {
+          "id": "C",
+          "text": "Abolição obrigatória de todos os reflexos"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Uma lesão crônica do neurônio motor superior tende a causar:",
+      "explanations": {
+        "direct": "Espasticidade e hiperreflexia. Na fase aguda pode haver flacidez; o padrão crônico difere da lesão motora inferior.",
+        "intuitive": "Circuitos medulares perdem parte do controle descendente.",
+        "technical": "Na fase aguda pode haver flacidez; o padrão crônico difere da lesão motora inferior."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0119",
+      "number": 119,
+      "topicId": "F03",
+      "text": "Um paciente apresenta bradicinesia e rigidez, com perda de neurônios dopaminérgicos da substância negra. Qual consequência funcional decorre dessa alteração dos circuitos?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perda seletiva da sensibilidade vibratória"
+        },
+        {
+          "id": "B",
+          "text": "Ataxia apendicular como manifestação cardinal"
+        },
+        {
+          "id": "C",
+          "text": "Maior dificuldade de iniciar movimentos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente apresenta bradicinesia e rigidez, com perda de neurônios dopaminérgicos da substância negra. Qual consequência funcional decorre dessa alteração dos circuitos?",
+      "explanations": {
+        "direct": "Maior dificuldade de iniciar movimentos. Bradicinesia decorre de alteração dos núcleos da base, não de bloqueio Nm.",
+        "intuitive": "O circuito libera menos facilmente a ação motora.",
+        "technical": "Bradicinesia decorre de alteração dos núcleos da base, não de bloqueio Nm."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F03-0120",
+      "number": 120,
+      "topicId": "F03",
+      "text": "Uma resposta flexora de retirada pode ocorrer:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente após decisão cortical voluntária"
+        },
+        {
+          "id": "B",
+          "text": "Sem qualquer aferência sensorial"
+        },
+        {
+          "id": "C",
+          "text": "Antes da percepção consciente da dor"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Uma resposta flexora de retirada pode ocorrer:",
+      "explanations": {
+        "direct": "Antes da percepção consciente da dor. É circuito polissináptico espinal; percepção consciente utiliza vias ascendentes adicionais.",
+        "intuitive": "A medula pode proteger antes de você perceber.",
+        "technical": "É circuito polissináptico espinal; percepção consciente utiliza vias ascendentes adicionais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

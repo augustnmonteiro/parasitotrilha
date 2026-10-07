@@ -1,0 +1,1549 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "F01",
+    "name": "Fisiologia · 01 · Fisiologia celular",
+    "book": "Costanzo Physiology, 8ª edição",
+    "chapter": 1
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "F01-0001",
+      "number": 1,
+      "topicId": "F01",
+      "text": "Qual transporte consome ATP diretamente?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Canal de K⁺"
+        },
+        {
+          "id": "B",
+          "text": "GLUT4"
+        },
+        {
+          "id": "C",
+          "text": "Na⁺/K⁺-ATPase"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Qual transporte consome ATP diretamente?",
+      "explanations": {
+        "direct": "Na⁺/K⁺-ATPase. GLUT4 realiza difusão facilitada; canais permitem fluxo passivo.",
+        "intuitive": "A bomba usa energia para mover íons contra seus gradientes.",
+        "technical": "GLUT4 realiza difusão facilitada; canais permitem fluxo passivo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0002",
+      "number": 2,
+      "topicId": "F01",
+      "text": "Por ciclo, a Na⁺/K⁺-ATPase transporta quantos íons?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 Na⁺ para fora e 3 K⁺ para dentro"
+        },
+        {
+          "id": "B",
+          "text": "3 Na⁺ para dentro e 2 K⁺ para fora"
+        },
+        {
+          "id": "C",
+          "text": "3 Na⁺ para fora e 2 K⁺ para dentro"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Por ciclo, a Na⁺/K⁺-ATPase transporta quantos íons?",
+      "explanations": {
+        "direct": "3 Na⁺ para fora e 2 K⁺ para dentro. A estequiometria torna a bomba eletrogênica; inverter quantidades ou direções altera esse balanço.",
+        "intuitive": "Sai uma carga positiva líquida.",
+        "technical": "A estequiometria torna a bomba eletrogênica; inverter quantidades ou direções altera esse balanço."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0003",
+      "number": 3,
+      "topicId": "F01",
+      "text": "Qual força impulsiona o SGLT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gradiente eletroquímico de Na⁺"
+        },
+        {
+          "id": "B",
+          "text": "Gradiente de glicose isoladamente"
+        },
+        {
+          "id": "C",
+          "text": "Hidrólise direta de ATP no SGLT"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Qual força impulsiona o SGLT?",
+      "explanations": {
+        "direct": "Gradiente eletroquímico de Na⁺. É transporte ativo secundário; o ATP é usado indiretamente pela Na⁺/K⁺-ATPase.",
+        "intuitive": "O sódio descendo sua ladeira carrega glicose.",
+        "technical": "É transporte ativo secundário; o ATP é usado indiretamente pela Na⁺/K⁺-ATPase."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0004",
+      "number": 4,
+      "topicId": "F01",
+      "text": "O que caracteriza saturação de um transportador?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ocupação dos sítios disponíveis"
+        },
+        {
+          "id": "B",
+          "text": "Igualdade obrigatória das concentrações"
+        },
+        {
+          "id": "C",
+          "text": "Desaparecimento da membrana"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O que caracteriza saturação de um transportador?",
+      "explanations": {
+        "direct": "Ocupação dos sítios disponíveis. O fluxo atinge um máximo; saturação não exige equilíbrio nem ruptura da barreira.",
+        "intuitive": "Há um número limitado de vagas para transportar.",
+        "technical": "O fluxo atinge um máximo; saturação não exige equilíbrio nem ruptura da barreira."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0005",
+      "number": 5,
+      "topicId": "F01",
+      "text": "Na difusão simples, dobrar a área com demais fatores constantes faz o fluxo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Permanecer constante"
+        },
+        {
+          "id": "B",
+          "text": "Cair à metade"
+        },
+        {
+          "id": "C",
+          "text": "Dobrar"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Na difusão simples, dobrar a área com demais fatores constantes faz o fluxo:",
+      "explanations": {
+        "direct": "Dobrar. Pela lei de Fick, fluxo é diretamente proporcional à área.",
+        "intuitive": "Uma passagem maior permite mais travessias.",
+        "technical": "Pela lei de Fick, fluxo é diretamente proporcional à área."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0006",
+      "number": 6,
+      "topicId": "F01",
+      "text": "Na lei de Fick, dobrar a espessura da barreira faz o fluxo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cair para um quarto"
+        },
+        {
+          "id": "B",
+          "text": "Dobrar"
+        },
+        {
+          "id": "C",
+          "text": "Cair à metade"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Na lei de Fick, dobrar a espessura da barreira faz o fluxo:",
+      "explanations": {
+        "direct": "Cair à metade. O fluxo é inversamente proporcional à espessura, não ao quadrado dela.",
+        "intuitive": "Um caminho mais longo dificulta a travessia.",
+        "technical": "O fluxo é inversamente proporcional à espessura, não ao quadrado dela."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0007",
+      "number": 7,
+      "topicId": "F01",
+      "text": "O principal cátion intracelular é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cálcio ionizado"
+        },
+        {
+          "id": "B",
+          "text": "Sódio"
+        },
+        {
+          "id": "C",
+          "text": "Potássio"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O principal cátion intracelular é:",
+      "explanations": {
+        "direct": "Potássio. Sódio predomina fora; cálcio citosólico livre é mantido muito baixo.",
+        "intuitive": "O interior celular concentra potássio.",
+        "technical": "Sódio predomina fora; cálcio citosólico livre é mantido muito baixo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0008",
+      "number": 8,
+      "topicId": "F01",
+      "text": "O principal cátion extracelular é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sódio"
+        },
+        {
+          "id": "B",
+          "text": "Potássio"
+        },
+        {
+          "id": "C",
+          "text": "Magnésio"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O principal cátion extracelular é:",
+      "explanations": {
+        "direct": "Sódio. Sua concentração e ânions acompanhantes contribuem decisivamente para a osmolaridade extracelular.",
+        "intuitive": "O sódio domina o líquido fora das células.",
+        "technical": "Sua concentração e ânions acompanhantes contribuem decisivamente para a osmolaridade extracelular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0009",
+      "number": 9,
+      "topicId": "F01",
+      "text": "O potencial de Nernst corresponde ao ponto em que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Todos os íons param de existir"
+        },
+        {
+          "id": "B",
+          "text": "A membrana perde seletividade"
+        },
+        {
+          "id": "C",
+          "text": "Forças elétrica e química de um íon se equilibram"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O potencial de Nernst corresponde ao ponto em que:",
+      "explanations": {
+        "direct": "Forças elétrica e química de um íon se equilibram. É equilíbrio eletroquímico de uma espécie, não ausência de íons ou de permeabilidade seletiva.",
+        "intuitive": "Uma força compensa a outra para aquele íon.",
+        "technical": "É equilíbrio eletroquímico de uma espécie, não ausência de íons ou de permeabilidade seletiva."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0010",
+      "number": 10,
+      "topicId": "F01",
+      "text": "A constante de tempo de uma membrana é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Resistência vezes capacitância"
+        },
+        {
+          "id": "B",
+          "text": "Resistência dividida pela capacitância"
+        },
+        {
+          "id": "C",
+          "text": "Capacitância dividida pela resistência"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A constante de tempo de uma membrana é:",
+      "explanations": {
+        "direct": "Resistência vezes capacitância. τ = Rm × Cm; as divisões não representam a constante temporal.",
+        "intuitive": "Ela indica quanto demora a mudar a voltagem.",
+        "technical": "τ = Rm × Cm; as divisões não representam a constante temporal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0011",
+      "number": 11,
+      "topicId": "F01",
+      "text": "Na sinapse química, a entrada pré-sináptica de qual íon desencadeia exocitose?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cl⁻"
+        },
+        {
+          "id": "B",
+          "text": "Ca²⁺"
+        },
+        {
+          "id": "C",
+          "text": "HCO₃⁻"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Na sinapse química, a entrada pré-sináptica de qual íon desencadeia exocitose?",
+      "explanations": {
+        "direct": "Ca²⁺. Sensores vesiculares de cálcio ativam a fusão; cloreto e bicarbonato não cumprem esse gatilho típico.",
+        "intuitive": "Cálcio é o sinal para liberar vesículas.",
+        "technical": "Sensores vesiculares de cálcio ativam a fusão; cloreto e bicarbonato não cumprem esse gatilho típico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0012",
+      "number": 12,
+      "topicId": "F01",
+      "text": "Um potencial pós-sináptico excitatório costuma:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aproximar a membrana do limiar"
+        },
+        {
+          "id": "B",
+          "text": "Reduzir a resistência de membrana sem alterar excitabilidade"
+        },
+        {
+          "id": "C",
+          "text": "Impor um potencial de ação obrigatório"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um potencial pós-sináptico excitatório costuma:",
+      "explanations": {
+        "direct": "Aproximar a membrana do limiar. Potenciais graduados somam-se; excitação isolada pode ser sub-limiar.",
+        "intuitive": "Ele facilita o disparo, mas não o garante.",
+        "technical": "Potenciais graduados somam-se; excitação isolada pode ser sub-limiar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0013",
+      "number": 13,
+      "topicId": "F01",
+      "text": "Somação temporal ocorre quando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estímulos sucessivos chegam antes de desaparecer o anterior"
+        },
+        {
+          "id": "B",
+          "text": "Entradas simultâneas chegam de regiões diferentes"
+        },
+        {
+          "id": "C",
+          "text": "O potencial de ação aumenta de amplitude a cada pulso"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Somação temporal ocorre quando:",
+      "explanations": {
+        "direct": "Estímulos sucessivos chegam antes de desaparecer o anterior. Difere da somação espacial, que combina entradas de locais distintos.",
+        "intuitive": "Sinais próximos no tempo se acumulam.",
+        "technical": "Difere da somação espacial, que combina entradas de locais distintos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0014",
+      "number": 14,
+      "topicId": "F01",
+      "text": "Somação espacial combina:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas potenciais de ação completos"
+        },
+        {
+          "id": "B",
+          "text": "Somente pulsos da mesma sinapse"
+        },
+        {
+          "id": "C",
+          "text": "Entradas de sinapses diferentes"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Somação espacial combina:",
+      "explanations": {
+        "direct": "Entradas de sinapses diferentes. Ocorre com potenciais graduados; não requer disparos completos nem uma única entrada.",
+        "intuitive": "Vários pontos da célula contribuem juntos.",
+        "technical": "Ocorre com potenciais graduados; não requer disparos completos nem uma única entrada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0015",
+      "number": 15,
+      "topicId": "F01",
+      "text": "No músculo esquelético, Ca²⁺ liga-se a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tropomiosina diretamente"
+        },
+        {
+          "id": "B",
+          "text": "Troponina C"
+        },
+        {
+          "id": "C",
+          "text": "Miosina ATPase como receptor regulador"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "No músculo esquelético, Ca²⁺ liga-se a:",
+      "explanations": {
+        "direct": "Troponina C. Troponina C desloca funcionalmente a tropomiosina; a regulação não depende de ligação reguladora direta à miosina.",
+        "intuitive": "O cálcio move o sistema que libera o acesso à actina.",
+        "technical": "Troponina C desloca funcionalmente a tropomiosina; a regulação não depende de ligação reguladora direta à miosina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0016",
+      "number": 16,
+      "topicId": "F01",
+      "text": "ATP ligado à miosina permite:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Separação da actina"
+        },
+        {
+          "id": "B",
+          "text": "Exposição dos sítios da actina por ligação à troponina"
+        },
+        {
+          "id": "C",
+          "text": "Fixação irreversível à actina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "ATP ligado à miosina permite:",
+      "explanations": {
+        "direct": "Separação da actina. Sem ATP, pontes permanecem presas, explicando rigidez; a hidrólise prepara novo ciclo.",
+        "intuitive": "ATP solta a mão da miosina.",
+        "technical": "Sem ATP, pontes permanecem presas, explicando rigidez; a hidrólise prepara novo ciclo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0017",
+      "number": 17,
+      "topicId": "F01",
+      "text": "No rigor mortis, falta ATP para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liberar acetilcolina dos receptores Nm"
+        },
+        {
+          "id": "B",
+          "text": "Produzir actina nova imediatamente"
+        },
+        {
+          "id": "C",
+          "text": "Desprender pontes actina-miosina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "No rigor mortis, falta ATP para:",
+      "explanations": {
+        "direct": "Desprender pontes actina-miosina. Rigidez resulta de pontes persistentes e falha de recaptação de cálcio, não de síntese imediata.",
+        "intuitive": "Sem energia disponível, a ponte não se solta.",
+        "technical": "Rigidez resulta de pontes persistentes e falha de recaptação de cálcio, não de síntese imediata."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0018",
+      "number": 18,
+      "topicId": "F01",
+      "text": "Durante contração isotônica concêntrica, o músculo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alonga-se sem produzir força"
+        },
+        {
+          "id": "B",
+          "text": "Mantém comprimento obrigatoriamente fixo"
+        },
+        {
+          "id": "C",
+          "text": "Encurta enquanto move a carga"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Durante contração isotônica concêntrica, o músculo:",
+      "explanations": {
+        "direct": "Encurta enquanto move a carga. Comprimento fixo caracteriza isometria; alongamento ativo caracteriza ação excêntrica.",
+        "intuitive": "Ele vence a carga e fica menor.",
+        "technical": "Comprimento fixo caracteriza isometria; alongamento ativo caracteriza ação excêntrica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0019",
+      "number": 19,
+      "topicId": "F01",
+      "text": "Uma junção comunicante permite:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exocitose de neurotransmissor para toda transmissão"
+        },
+        {
+          "id": "B",
+          "text": "Passagem direta de íons entre células"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio de corrente entre vizinhas"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uma junção comunicante permite:",
+      "explanations": {
+        "direct": "Passagem direta de íons entre células. Conexons conectam citoplasmas; diferem de sinapses químicas e junções oclusivas.",
+        "intuitive": "É uma ponte elétrica entre células.",
+        "technical": "Conexons conectam citoplasmas; diferem de sinapses químicas e junções oclusivas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0020",
+      "number": 20,
+      "topicId": "F01",
+      "text": "Gq ativa principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor nuclear de cortisol"
+        },
+        {
+          "id": "B",
+          "text": "Guanilil ciclase solúvel"
+        },
+        {
+          "id": "C",
+          "text": "Fosfolipase C"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Gq ativa principalmente:",
+      "explanations": {
+        "direct": "Fosfolipase C. PLC produz IP₃ e DAG; NO ativa guanilil ciclase, e cortisol atua em receptor intracelular.",
+        "intuitive": "Gq gera mensageiros que mobilizam cálcio.",
+        "technical": "PLC produz IP₃ e DAG; NO ativa guanilil ciclase, e cortisol atua em receptor intracelular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0021",
+      "number": 21,
+      "topicId": "F01",
+      "text": "Aumentar K⁺ extracelular, inicialmente, torna E_K:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inalterado enquanto a concentração intracelular for fixa"
+        },
+        {
+          "id": "B",
+          "text": "Menos negativo"
+        },
+        {
+          "id": "C",
+          "text": "Mais negativo"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Aumentar K⁺ extracelular, inicialmente, torna E_K:",
+      "explanations": {
+        "direct": "Menos negativo. Nernst depende do logaritmo da razão externa/interna; não se zera sem igualdade adequada.",
+        "intuitive": "A diferença de potássio entre dentro e fora diminui.",
+        "technical": "Nernst depende do logaritmo da razão externa/interna; não se zera sem igualdade adequada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0022",
+      "number": 22,
+      "topicId": "F01",
+      "text": "O potencial de repouso neuronal fica próximo de E_K porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Canais de Na⁺ estão todos abertos"
+        },
+        {
+          "id": "B",
+          "text": "A permeabilidade basal ao K⁺ é elevada"
+        },
+        {
+          "id": "C",
+          "text": "Só existem íons K⁺"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O potencial de repouso neuronal fica próximo de E_K porque:",
+      "explanations": {
+        "direct": "A permeabilidade basal ao K⁺ é elevada. A equação de Goldman pondera concentrações e permeabilidades; não exclui outros íons.",
+        "intuitive": "As portas de potássio pesam mais no repouso.",
+        "technical": "A equação de Goldman pondera concentrações e permeabilidades; não exclui outros íons."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0023",
+      "number": 23,
+      "topicId": "F01",
+      "text": "A subida rápida do potencial de ação axonal depende de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Entrada de Na⁺"
+        },
+        {
+          "id": "B",
+          "text": "Saída de Ca²⁺"
+        },
+        {
+          "id": "C",
+          "text": "Entrada de Cl⁻"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A subida rápida do potencial de ação axonal depende de:",
+      "explanations": {
+        "direct": "Entrada de Na⁺. Canais de Na⁺ voltagem-dependentes geram a fase ascendente em axônios típicos.",
+        "intuitive": "Sódio positivo entra e torna o interior menos negativo.",
+        "technical": "Canais de Na⁺ voltagem-dependentes geram a fase ascendente em axônios típicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0024",
+      "number": 24,
+      "topicId": "F01",
+      "text": "A repolarização axonal decorre principalmente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Saída de K⁺ e inativação de canais de Na⁺"
+        },
+        {
+          "id": "B",
+          "text": "Entrada persistente de Na⁺"
+        },
+        {
+          "id": "C",
+          "text": "Fechamento de todos os canais de K⁺"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A repolarização axonal decorre principalmente de:",
+      "explanations": {
+        "direct": "Saída de K⁺ e inativação de canais de Na⁺. A bomba mantém gradientes a longo prazo, mas não produz sozinha a repolarização rápida.",
+        "intuitive": "A entrada positiva cessa e cargas positivas saem.",
+        "technical": "A bomba mantém gradientes a longo prazo, mas não produz sozinha a repolarização rápida."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0025",
+      "number": 25,
+      "topicId": "F01",
+      "text": "Um estímulo supralimiar mais intenso aumenta principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frequência de potenciais de ação"
+        },
+        {
+          "id": "B",
+          "text": "Amplitude do potencial de repouso"
+        },
+        {
+          "id": "C",
+          "text": "Amplitude de cada potencial de ação"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Um estímulo supralimiar mais intenso aumenta principalmente:",
+      "explanations": {
+        "direct": "Frequência de potenciais de ação. Potenciais de ação são aproximadamente tudo-ou-nada; intensidade não amplia proporcionalmente cada evento.",
+        "intuitive": "A informação é enviada por mais disparos.",
+        "technical": "Potenciais de ação são aproximadamente tudo-ou-nada; intensidade não amplia proporcionalmente cada evento."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0026",
+      "number": 26,
+      "topicId": "F01",
+      "text": "A mielina aumenta a velocidade porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eleva resistência e reduz capacitância da membrana"
+        },
+        {
+          "id": "B",
+          "text": "Elimina todos os nódulos"
+        },
+        {
+          "id": "C",
+          "text": "Reduz resistência e eleva capacitância"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A mielina aumenta a velocidade porque:",
+      "explanations": {
+        "direct": "Eleva resistência e reduz capacitância da membrana. A condução saltatória requer nódulos; desmielinização aumenta fuga de corrente.",
+        "intuitive": "O isolamento evita perdas e facilita carregar o trecho seguinte.",
+        "technical": "A condução saltatória requer nódulos; desmielinização aumenta fuga de corrente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0027",
+      "number": 27,
+      "topicId": "F01",
+      "text": "Aumentar o diâmetro axonal reduz:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Resistência axial"
+        },
+        {
+          "id": "B",
+          "text": "Concentração de Na⁺ externa obrigatoriamente"
+        },
+        {
+          "id": "C",
+          "text": "Número de cargas elétricas a zero"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Aumentar o diâmetro axonal reduz:",
+      "explanations": {
+        "direct": "Resistência axial. A condução melhora sem exigir alteração da concentração extracelular.",
+        "intuitive": "Um fio mais largo oferece menor resistência interna.",
+        "technical": "A condução melhora sem exigir alteração da concentração extracelular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0028",
+      "number": 28,
+      "topicId": "F01",
+      "text": "A SERCA promove relaxamento por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bombear Na⁺ para a fenda"
+        },
+        {
+          "id": "B",
+          "text": "Liberar Ca²⁺ do retículo"
+        },
+        {
+          "id": "C",
+          "text": "Recolher Ca²⁺ para o retículo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A SERCA promove relaxamento por:",
+      "explanations": {
+        "direct": "Recolher Ca²⁺ para o retículo. É uma Ca²⁺-ATPase; não é o receptor de liberação nem a bomba de sódio.",
+        "intuitive": "Ela guarda de volta o cálcio que permitia contrair.",
+        "technical": "É uma Ca²⁺-ATPase; não é o receptor de liberação nem a bomba de sódio."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0029",
+      "number": 29,
+      "topicId": "F01",
+      "text": "No músculo liso, Ca²⁺ ativa contração principalmente via:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Calmodulina e MLCK"
+        },
+        {
+          "id": "B",
+          "text": "Insulina e GLUT2"
+        },
+        {
+          "id": "C",
+          "text": "Troponina C e titina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "No músculo liso, Ca²⁺ ativa contração principalmente via:",
+      "explanations": {
+        "direct": "Calmodulina e MLCK. O complexo Ca²⁺-calmodulina ativa MLCK; músculo liso não usa troponina como regulador principal.",
+        "intuitive": "O cálcio ativa uma enzima que habilita a miosina.",
+        "technical": "O complexo Ca²⁺-calmodulina ativa MLCK; músculo liso não usa troponina como regulador principal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0030",
+      "number": 30,
+      "topicId": "F01",
+      "text": "A MLCP no músculo liso favorece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Relaxamento"
+        },
+        {
+          "id": "B",
+          "text": "Fosforilação da miosina"
+        },
+        {
+          "id": "C",
+          "text": "Liberação obrigatória de acetilcolina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A MLCP no músculo liso favorece:",
+      "explanations": {
+        "direct": "Relaxamento. Desfosforila a cadeia leve; MLCK faz o processo oposto.",
+        "intuitive": "Ela retira o sinal químico que mantém a miosina ativa.",
+        "technical": "Desfosforila a cadeia leve; MLCK faz o processo oposto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0031",
+      "number": 31,
+      "topicId": "F01",
+      "text": "A força isométrica aumenta com recrutamento porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A actina deixa de interagir com miosina"
+        },
+        {
+          "id": "B",
+          "text": "Mais unidades motoras produzem tensão"
+        },
+        {
+          "id": "C",
+          "text": "Cada fibra aumenta instantaneamente de tamanho"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A força isométrica aumenta com recrutamento porque:",
+      "explanations": {
+        "direct": "Mais unidades motoras produzem tensão. Recrutamento altera número de unidades ativas; hipertrofia é adaptação lenta.",
+        "intuitive": "Mais trabalhadores puxam juntos.",
+        "technical": "Recrutamento altera número de unidades ativas; hipertrofia é adaptação lenta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0032",
+      "number": 32,
+      "topicId": "F01",
+      "text": "A relação comprimento-tensão depende de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Número de motoneurônios independentemente do sarcômero"
+        },
+        {
+          "id": "B",
+          "text": "Velocidade de condução axonal isoladamente"
+        },
+        {
+          "id": "C",
+          "text": "Sobreposição entre actina e miosina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A relação comprimento-tensão depende de:",
+      "explanations": {
+        "direct": "Sobreposição entre actina e miosina. Comprimentos extremos reduzem pontes eficazes; ativação ainda exige cálcio.",
+        "intuitive": "Há uma distância ideal para as pontes alcançarem seus alvos.",
+        "technical": "Comprimentos extremos reduzem pontes eficazes; ativação ainda exige cálcio."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0033",
+      "number": 33,
+      "topicId": "F01",
+      "text": "A tetanização esquelética é possível porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O período refratário dura mais que o abalo"
+        },
+        {
+          "id": "B",
+          "text": "O abalo dura mais que o período refratário"
+        },
+        {
+          "id": "C",
+          "text": "Toda fibra funciona como marca-passo"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A tetanização esquelética é possível porque:",
+      "explanations": {
+        "direct": "O abalo dura mais que o período refratário. A somação mecânica não exige que potenciais elétricos se somem em amplitude.",
+        "intuitive": "Novos sinais chegam antes de a fibra relaxar.",
+        "technical": "A somação mecânica não exige que potenciais elétricos se somem em amplitude."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0034",
+      "number": 34,
+      "topicId": "F01",
+      "text": "Receptor acoplado a Gs geralmente aumenta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Produção de AMPc"
+        },
+        {
+          "id": "B",
+          "text": "Produção de IP₃ pela PLC"
+        },
+        {
+          "id": "C",
+          "text": "Atividade de guanilil ciclase"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Receptor acoplado a Gs geralmente aumenta:",
+      "explanations": {
+        "direct": "Produção de AMPc. Ativa adenilil ciclase; Gq ativa fosfolipase C.",
+        "intuitive": "Gs liga a fábrica de AMPc.",
+        "technical": "Ativa adenilil ciclase; Gq ativa fosfolipase C. O efeito final depende da célula."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0035",
+      "number": 35,
+      "topicId": "F01",
+      "text": "Receptor acoplado a Gi geralmente reduz:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Atividade da fosfolipase C como alvo principal"
+        },
+        {
+          "id": "B",
+          "text": "Toda corrente iônica celular"
+        },
+        {
+          "id": "C",
+          "text": "Atividade da adenilil ciclase"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Receptor acoplado a Gi geralmente reduz:",
+      "explanations": {
+        "direct": "Atividade da adenilil ciclase. Subunidades também modulam canais; não significa inibição universal de todas as funções.",
+        "intuitive": "Gi freia a produção de AMPc.",
+        "technical": "Subunidades também modulam canais; não significa inibição universal de todas as funções."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0036",
+      "number": 36,
+      "topicId": "F01",
+      "text": "O IP₃ aumenta Ca²⁺ citosólico por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liberar estoques do retículo"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar exclusivamente a entrada pela membrana plasmática"
+        },
+        {
+          "id": "C",
+          "text": "Inibir a abertura de canais do retículo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O IP₃ aumenta Ca²⁺ citosólico por:",
+      "explanations": {
+        "direct": "Liberar estoques do retículo. Liga receptores de IP₃ no retículo; não cria cálcio nem elimina seu sensor.",
+        "intuitive": "Ele abre o reservatório interno.",
+        "technical": "Liga receptores de IP₃ no retículo; não cria cálcio nem elimina seu sensor."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0037",
+      "number": 37,
+      "topicId": "F01",
+      "text": "Uma hemácia é transferida de plasma isotônico para uma solução de menor osmolaridade efetiva, contendo soluto que não atravessa sua membrana. Qual mudança inicial de volume é esperada?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Manter sempre o volume"
+        },
+        {
+          "id": "B",
+          "text": "Perder água"
+        },
+        {
+          "id": "C",
+          "text": "Ganhar água"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Uma hemácia é transferida de plasma isotônico para uma solução de menor osmolaridade efetiva, contendo soluto que não atravessa sua membrana. Qual mudança inicial de volume é esperada?",
+      "explanations": {
+        "direct": "Ganhar água. A tonicidade depende de solutos não penetrantes; entrada excessiva pode causar hemólise.",
+        "intuitive": "Água entra onde há maior concentração de partículas efetivas.",
+        "technical": "A tonicidade depende de solutos não penetrantes; entrada excessiva pode causar hemólise."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0038",
+      "number": 38,
+      "topicId": "F01",
+      "text": "Solução iso-osmótica de ureia pode causar edema celular porque a ureia:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueia aquaporinas"
+        },
+        {
+          "id": "B",
+          "text": "Atravessa a membrana"
+        },
+        {
+          "id": "C",
+          "text": "É permanentemente extracelular"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Solução iso-osmótica de ureia pode causar edema celular porque a ureia:",
+      "explanations": {
+        "direct": "Atravessa a membrana. Iso-osmolaridade não garante isotonicidade; solutos penetrantes não sustentam gradiente tônico.",
+        "intuitive": "Ao entrar, a ureia favorece a entrada de água.",
+        "technical": "Iso-osmolaridade não garante isotonicidade; solutos penetrantes não sustentam gradiente tônico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0039",
+      "number": 39,
+      "topicId": "F01",
+      "text": "Após um potencial de ação axonal, um segundo estímulo, mesmo muito intenso, não desencadeia outro disparo durante um breve intervalo. Qual mecanismo explica esse período?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Abertura persistente de canais de K⁺ como causa exclusiva"
+        },
+        {
+          "id": "B",
+          "text": "Hiperpolarização abaixo do repouso como única causa"
+        },
+        {
+          "id": "C",
+          "text": "Inativação dos canais de Na⁺"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Após um potencial de ação axonal, um segundo estímulo, mesmo muito intenso, não desencadeia outro disparo durante um breve intervalo. Qual mecanismo explica esse período?",
+      "explanations": {
+        "direct": "Inativação dos canais de Na⁺. Canais inativados não reabrem imediatamente; não é necessário esgotar ATP ou potássio.",
+        "intuitive": "As portas de sódio precisam se recuperar.",
+        "technical": "Canais inativados não reabrem imediatamente; não é necessário esgotar ATP ou potássio."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F01-0040",
+      "number": 40,
+      "topicId": "F01",
+      "text": "Um agonista β aumenta AMPc em miócitos cardíacos e em músculo liso brônquico. A contração cardíaca aumenta, enquanto o brônquio relaxa. Qual explicação concilia as duas respostas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gs vira Gi no músculo liso"
+        },
+        {
+          "id": "B",
+          "text": "Os alvos intracelulares de PKA diferem"
+        },
+        {
+          "id": "C",
+          "text": "AMPc possui carga oposta no coração"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um agonista β aumenta AMPc em miócitos cardíacos e em músculo liso brônquico. A contração cardíaca aumenta, enquanto o brônquio relaxa. Qual explicação concilia as duas respostas?",
+      "explanations": {
+        "direct": "Os alvos intracelulares de PKA diferem. PKA modula MLCK no liso e canais/proteínas contráteis cardíacas; a proteína G não precisa trocar de identidade.",
+        "intuitive": "O mesmo recado chega a máquinas diferentes.",
+        "technical": "PKA modula MLCK no liso e canais/proteínas contráteis cardíacas; a proteína G não precisa trocar de identidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

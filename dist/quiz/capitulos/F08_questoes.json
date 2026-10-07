@@ -1,0 +1,1549 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "F08",
+    "name": "Fisiologia · 08 · Gastrointestinal",
+    "book": "Costanzo Physiology, 8ª edição",
+    "chapter": 8
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "F08-0281",
+      "number": 281,
+      "topicId": "F08",
+      "text": "O plexo mioentérico participa principalmente do controle de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Motilidade"
+        },
+        {
+          "id": "B",
+          "text": "Filtração glomerular"
+        },
+        {
+          "id": "C",
+          "text": "Hematopoiese"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O plexo mioentérico participa principalmente do controle de:",
+      "explanations": {
+        "direct": "Motilidade. Situa-se entre camadas musculares; o submucoso participa mais de secreção e fluxo local.",
+        "intuitive": "Coordena os movimentos da parede digestiva.",
+        "technical": "Situa-se entre camadas musculares; o submucoso participa mais de secreção e fluxo local."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0282",
+      "number": 282,
+      "topicId": "F08",
+      "text": "O plexo submucoso regula especialmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ritmo sinusal"
+        },
+        {
+          "id": "B",
+          "text": "Secreção e circulação mucosa"
+        },
+        {
+          "id": "C",
+          "text": "Contração do diafragma"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O plexo submucoso regula especialmente:",
+      "explanations": {
+        "direct": "Secreção e circulação mucosa. Não é o circuito motor respiratório ou cardíaco.",
+        "intuitive": "Ajusta o funcionamento da camada interna intestinal.",
+        "technical": "Não é o circuito motor respiratório ou cardíaco."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0283",
+      "number": 283,
+      "topicId": "F08",
+      "text": "Células intersticiais de Cajal geram:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ondas lentas"
+        },
+        {
+          "id": "B",
+          "text": "Ácido clorídrico"
+        },
+        {
+          "id": "C",
+          "text": "Pepsinogênio"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Células intersticiais de Cajal geram:",
+      "explanations": {
+        "direct": "Ondas lentas. Ondas lentas modulam excitabilidade; células parietais e principais secretam ácido e pepsinogênio.",
+        "intuitive": "Funcionam como marca-passos elétricos digestivos.",
+        "technical": "Ondas lentas modulam excitabilidade; células parietais e principais secretam ácido e pepsinogênio."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0284",
+      "number": 284,
+      "topicId": "F08",
+      "text": "Ondas lentas digestivas:",
+      "options": [
+        {
+          "id": "A",
+          "text": "São sempre potenciais de ação completos"
+        },
+        {
+          "id": "B",
+          "text": "Exigem comando cortical consciente"
+        },
+        {
+          "id": "C",
+          "text": "Não produzem necessariamente contração em cada ciclo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ondas lentas digestivas:",
+      "explanations": {
+        "direct": "Não produzem necessariamente contração em cada ciclo. Potenciais em espícula e entrada de Ca²⁺ determinam força; onda lenta isolada pode não atingir limiar.",
+        "intuitive": "Elas criam janelas em que contrair fica mais fácil.",
+        "technical": "Potenciais em espícula e entrada de Ca²⁺ determinam força; onda lenta isolada pode não atingir limiar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0285",
+      "number": 285,
+      "topicId": "F08",
+      "text": "O peristaltismo propulsivo combina:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Contração uniforme sem gradiente"
+        },
+        {
+          "id": "B",
+          "text": "Relaxamento atrás e fechamento permanente à frente"
+        },
+        {
+          "id": "C",
+          "text": "Contração atrás e relaxamento à frente do conteúdo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O peristaltismo propulsivo combina:",
+      "explanations": {
+        "direct": "Contração atrás e relaxamento à frente do conteúdo. A coordenação entérica gera progressão; contração uniforme não produz propulsão eficiente.",
+        "intuitive": "A parede empurra por trás e abre caminho adiante.",
+        "technical": "A coordenação entérica gera progressão; contração uniforme não produz propulsão eficiente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0286",
+      "number": 286,
+      "topicId": "F08",
+      "text": "Segmentação intestinal serve principalmente para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Impedir absorção de nutrientes"
+        },
+        {
+          "id": "B",
+          "text": "Misturar conteúdo e aumentar contato com mucosa"
+        },
+        {
+          "id": "C",
+          "text": "Transportar todo conteúdo sem mistura"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Segmentação intestinal serve principalmente para:",
+      "explanations": {
+        "direct": "Misturar conteúdo e aumentar contato com mucosa. Diferencia-se de propulsão predominante; ambos podem coexistir.",
+        "intuitive": "Vai e volta para misturar e expor melhor os nutrientes.",
+        "technical": "Diferencia-se de propulsão predominante; ambos podem coexistir."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0287",
+      "number": 287,
+      "topicId": "F08",
+      "text": "O esfíncter esofágico inferior evita principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Saída de fezes"
+        },
+        {
+          "id": "B",
+          "text": "Entrada de bile no duodeno"
+        },
+        {
+          "id": "C",
+          "text": "Refluxo gástrico"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O esfíncter esofágico inferior evita principalmente:",
+      "explanations": {
+        "direct": "Refluxo gástrico. Seu relaxamento permite trânsito; falha de barreira favorece refluxo.",
+        "intuitive": "Mantém a passagem fechada entre deglutições.",
+        "technical": "Seu relaxamento permite trânsito; falha de barreira favorece refluxo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0288",
+      "number": 288,
+      "topicId": "F08",
+      "text": "O relaxamento receptivo do estômago permite:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Interromper toda secreção digestiva"
+        },
+        {
+          "id": "B",
+          "text": "Esvaziar todo alimento imediatamente"
+        },
+        {
+          "id": "C",
+          "text": "Acomodar alimento com pequeno aumento de pressão"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O relaxamento receptivo do estômago permite:",
+      "explanations": {
+        "direct": "Acomodar alimento com pequeno aumento de pressão. Envolve reflexos vagovagais e mediadores inibitórios como NO; não é expulsão imediata.",
+        "intuitive": "O reservatório se expande para receber a refeição.",
+        "technical": "Envolve reflexos vagovagais e mediadores inibitórios como NO; não é expulsão imediata."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0289",
+      "number": 289,
+      "topicId": "F08",
+      "text": "O complexo motor migratório ocorre principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Durante toda refeição sem interrupção"
+        },
+        {
+          "id": "B",
+          "text": "No jejum"
+        },
+        {
+          "id": "C",
+          "text": "Somente no cólon sigmoide"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O complexo motor migratório ocorre principalmente:",
+      "explanations": {
+        "direct": "No jejum. A alimentação interrompe o padrão; motilina participa de sua organização.",
+        "intuitive": "Funciona como uma varredura entre refeições.",
+        "technical": "A alimentação interrompe o padrão; motilina participa de sua organização."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0290",
+      "number": 290,
+      "topicId": "F08",
+      "text": "A gastrina é secretada por células:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Principais gástricas"
+        },
+        {
+          "id": "B",
+          "text": "G antrais"
+        },
+        {
+          "id": "C",
+          "text": "Parietais gástricas"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A gastrina é secretada por células:",
+      "explanations": {
+        "direct": "G antrais. Células G predominam no antro; parietais secretam HCl e fator intrínseco.",
+        "intuitive": "Uma célula sinaliza para outras produzirem ácido.",
+        "technical": "Células G predominam no antro; parietais secretam HCl e fator intrínseco."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0291",
+      "number": 291,
+      "topicId": "F08",
+      "text": "A bomba final de secreção de ácido gástrico é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Na⁺/K⁺/2Cl⁻ cotransportador"
+        },
+        {
+          "id": "B",
+          "text": "GLUT4"
+        },
+        {
+          "id": "C",
+          "text": "H⁺/K⁺-ATPase"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A bomba final de secreção de ácido gástrico é:",
+      "explanations": {
+        "direct": "H⁺/K⁺-ATPase. É alvo dos inibidores de bomba de prótons; não é o transportador renal NKCC2.",
+        "intuitive": "Ela troca potássio por prótons na superfície voltada ao estômago.",
+        "technical": "É alvo dos inibidores de bomba de prótons; não é o transportador renal NKCC2."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0292",
+      "number": 292,
+      "topicId": "F08",
+      "text": "O fator intrínseco é necessário para absorção adequada de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vitamina C"
+        },
+        {
+          "id": "B",
+          "text": "Glicose"
+        },
+        {
+          "id": "C",
+          "text": "Vitamina B12"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O fator intrínseco é necessário para absorção adequada de:",
+      "explanations": {
+        "direct": "Vitamina B12. O complexo é absorvido no íleo terminal; glicose usa cotransportadores próprios.",
+        "intuitive": "Ele protege e acompanha B12 até o local de absorção.",
+        "technical": "O complexo é absorvido no íleo terminal; glicose usa cotransportadores próprios."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0293",
+      "number": 293,
+      "topicId": "F08",
+      "text": "A pepsina deriva da ativação de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pepsinogênio"
+        },
+        {
+          "id": "B",
+          "text": "Tripsinogênio"
+        },
+        {
+          "id": "C",
+          "text": "Procarboxipeptidase"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A pepsina deriva da ativação de:",
+      "explanations": {
+        "direct": "Pepsinogênio. Pepsinogênio vem de células principais; os outros precursores são pancreáticos.",
+        "intuitive": "Uma forma inativa é ligada no ambiente ácido.",
+        "technical": "Pepsinogênio vem de células principais; os outros precursores são pancreáticos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0294",
+      "number": 294,
+      "topicId": "F08",
+      "text": "A barreira mucosa gástrica inclui:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento isolado da atividade de pepsina"
+        },
+        {
+          "id": "B",
+          "text": "Ácido sem proteção local"
+        },
+        {
+          "id": "C",
+          "text": "Muco, bicarbonato e integridade epitelial"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A barreira mucosa gástrica inclui:",
+      "explanations": {
+        "direct": "Muco, bicarbonato e integridade epitelial. Prostaglandinas e perfusão sustentam defesa; ácido isolado não é proteção.",
+        "intuitive": "A parede mantém uma camada protetora contra seu próprio ácido.",
+        "technical": "Prostaglandinas e perfusão sustentam defesa; ácido isolado não é proteção."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0295",
+      "number": 295,
+      "topicId": "F08",
+      "text": "Secretina é liberada principalmente em resposta a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Luz na retina"
+        },
+        {
+          "id": "B",
+          "text": "Ácido no duodeno"
+        },
+        {
+          "id": "C",
+          "text": "Hipercalemia"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Secretina é liberada principalmente em resposta a:",
+      "explanations": {
+        "direct": "Ácido no duodeno. Células S estimulam secreção pancreática e biliar de bicarbonato.",
+        "intuitive": "O intestino detecta ácido e pede neutralização.",
+        "technical": "Células S estimulam secreção pancreática e biliar de bicarbonato."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0296",
+      "number": 296,
+      "topicId": "F08",
+      "text": "A enteropeptidase inicia ativação de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lipase lingual"
+        },
+        {
+          "id": "B",
+          "text": "Tripsinogênio"
+        },
+        {
+          "id": "C",
+          "text": "Pepsinogênio"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A enteropeptidase inicia ativação de:",
+      "explanations": {
+        "direct": "Tripsinogênio. A tripsina ativa outros zimogênios pancreáticos; pepsina depende do ambiente ácido.",
+        "intuitive": "Ela liga o primeiro elemento de uma cascata de proteases.",
+        "technical": "A tripsina ativa outros zimogênios pancreáticos; pepsina depende do ambiente ácido."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0297",
+      "number": 297,
+      "topicId": "F08",
+      "text": "Secretar proteases pancreáticas como zimogênios ajuda a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Impedir toda digestão proteica"
+        },
+        {
+          "id": "B",
+          "text": "Evitar autodigestão"
+        },
+        {
+          "id": "C",
+          "text": "Aumentar acidez do sangue"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Secretar proteases pancreáticas como zimogênios ajuda a:",
+      "explanations": {
+        "direct": "Evitar autodigestão. Ativação deve ocorrer no intestino; ativação prematura favorece pancreatite.",
+        "intuitive": "As ferramentas saem inicialmente travadas.",
+        "technical": "Ativação deve ocorrer no intestino; ativação prematura favorece pancreatite."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0298",
+      "number": 298,
+      "topicId": "F08",
+      "text": "A maior parte dos sais biliares é recuperada no:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Esôfago"
+        },
+        {
+          "id": "B",
+          "text": "Íleo terminal"
+        },
+        {
+          "id": "C",
+          "text": "Estômago"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A maior parte dos sais biliares é recuperada no:",
+      "explanations": {
+        "direct": "Íleo terminal. A circulação entero-hepática reduz necessidade de síntese nova; ressecção ileal prejudica recuperação.",
+        "intuitive": "O organismo recicla grande parte desse recurso.",
+        "technical": "A circulação entero-hepática reduz necessidade de síntese nova; ressecção ileal prejudica recuperação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0299",
+      "number": 299,
+      "topicId": "F08",
+      "text": "Obstrução biliar pode prejudicar absorção de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vitaminas A, D, E e K"
+        },
+        {
+          "id": "B",
+          "text": "Bicarbonato como principal efeito da classe"
+        },
+        {
+          "id": "C",
+          "text": "Apenas vitamina C"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Obstrução biliar pode prejudicar absorção de:",
+      "explanations": {
+        "direct": "Vitaminas A, D, E e K. As lipossolúveis dependem de micelas; vitamina C é hidrossolúvel.",
+        "intuitive": "Vitaminas que viajam com gordura dependem da digestão lipídica.",
+        "technical": "As lipossolúveis dependem de micelas; vitamina C é hidrossolúvel."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0300",
+      "number": 300,
+      "topicId": "F08",
+      "text": "A entrada apical de glicose no enterócito utiliza principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "SGLT1"
+        },
+        {
+          "id": "B",
+          "text": "H⁺/K⁺-ATPase"
+        },
+        {
+          "id": "C",
+          "text": "GLUT5"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A entrada apical de glicose no enterócito utiliza principalmente:",
+      "explanations": {
+        "direct": "SGLT1. GLUT5 transporta frutose; saída basolateral de monossacarídeos usa principalmente GLUT2.",
+        "intuitive": "O sódio ajuda a carregar glicose para dentro.",
+        "technical": "GLUT5 transporta frutose; saída basolateral de monossacarídeos usa principalmente GLUT2."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0301",
+      "number": 301,
+      "topicId": "F08",
+      "text": "Dipeptídeos e tripeptídeos entram no enterócito por transporte acoplado a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "H⁺"
+        },
+        {
+          "id": "B",
+          "text": "Ca²⁺"
+        },
+        {
+          "id": "C",
+          "text": "Bilirrubina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Dipeptídeos e tripeptídeos entram no enterócito por transporte acoplado a:",
+      "explanations": {
+        "direct": "H⁺. PepT1 usa H⁺; muitos aminoácidos livres utilizam transportes distintos, inclusive dependentes de Na⁺.",
+        "intuitive": "Um gradiente de prótons ajuda a carregar pequenos peptídeos.",
+        "technical": "PepT1 usa H⁺; muitos aminoácidos livres utilizam transportes distintos, inclusive dependentes de Na⁺."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0302",
+      "number": 302,
+      "topicId": "F08",
+      "text": "Lipídios de cadeia longa saem do enterócito principalmente como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quilomícrons pela linfa"
+        },
+        {
+          "id": "B",
+          "text": "Glicose pela veia porta"
+        },
+        {
+          "id": "C",
+          "text": "Albumina produzida no enterócito"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Lipídios de cadeia longa saem do enterócito principalmente como:",
+      "explanations": {
+        "direct": "Quilomícrons pela linfa. Ácidos graxos curtos e médios podem seguir mais diretamente pela circulação portal.",
+        "intuitive": "São empacotados e enviados primeiro pela drenagem linfática.",
+        "technical": "Ácidos graxos curtos e médios podem seguir mais diretamente pela circulação portal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0303",
+      "number": 303,
+      "topicId": "F08",
+      "text": "O ferro é absorvido predominantemente no:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cólon descendente"
+        },
+        {
+          "id": "B",
+          "text": "Íleo terminal exclusivamente"
+        },
+        {
+          "id": "C",
+          "text": "Duodeno e intestino proximal"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O ferro é absorvido predominantemente no:",
+      "explanations": {
+        "direct": "Duodeno e intestino proximal. Íleo terminal destaca-se por B12 e sais biliares, não pelo principal sítio do ferro.",
+        "intuitive": "O início do intestino delgado é importante para sua entrada.",
+        "technical": "Íleo terminal destaca-se por B12 e sais biliares, não pelo principal sítio do ferro."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0304",
+      "number": 304,
+      "topicId": "F08",
+      "text": "A saliva inicia digestão de amido pela:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pepsina"
+        },
+        {
+          "id": "B",
+          "text": "Tripsina"
+        },
+        {
+          "id": "C",
+          "text": "Amilase"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A saliva inicia digestão de amido pela:",
+      "explanations": {
+        "direct": "Amilase. Tripsina e pepsina atuam sobre proteínas e têm outras origens.",
+        "intuitive": "O processamento do carboidrato começa na boca.",
+        "technical": "Tripsina e pepsina atuam sobre proteínas e têm outras origens."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0305",
+      "number": 305,
+      "topicId": "F08",
+      "text": "A circulação portal leva ao fígado principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sangue venoso proveniente do trato digestivo"
+        },
+        {
+          "id": "B",
+          "text": "Ar diretamente dos alvéolos"
+        },
+        {
+          "id": "C",
+          "text": "Linfa de quilomícrons exclusivamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A circulação portal leva ao fígado principalmente:",
+      "explanations": {
+        "direct": "Sangue venoso proveniente do trato digestivo. Grande parte da gordura em quilomícrons segue inicialmente via linfática, não exclusivamente portal.",
+        "intuitive": "Nutrientes absorvidos chegam primeiro a uma central de processamento.",
+        "technical": "Grande parte da gordura em quilomícrons segue inicialmente via linfática, não exclusivamente portal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0306",
+      "number": 306,
+      "topicId": "F08",
+      "text": "A distensão retal normalmente provoca no esfíncter anal interno:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Contração voluntária exclusiva"
+        },
+        {
+          "id": "B",
+          "text": "Paralisia do nervo frênico"
+        },
+        {
+          "id": "C",
+          "text": "Relaxamento reflexo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A distensão retal normalmente provoca no esfíncter anal interno:",
+      "explanations": {
+        "direct": "Relaxamento reflexo. O reflexo retoanal inibitório difere do controle voluntário do esfíncter externo.",
+        "intuitive": "O reto avisa que há conteúdo e a saída interna relaxa.",
+        "technical": "O reflexo retoanal inibitório difere do controle voluntário do esfíncter externo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0307",
+      "number": 307,
+      "topicId": "F08",
+      "text": "Gordura no duodeno tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Retardar esvaziamento gástrico"
+        },
+        {
+          "id": "B",
+          "text": "Abolir secreção pancreática"
+        },
+        {
+          "id": "C",
+          "text": "Acelerar sempre esvaziamento"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Gordura no duodeno tende a:",
+      "explanations": {
+        "direct": "Retardar esvaziamento gástrico. CCK e reflexos enterogástricos contribuem; secreção pancreática é estimulada.",
+        "intuitive": "O intestino pede tempo para processar a carga.",
+        "technical": "CCK e reflexos enterogástricos contribuem; secreção pancreática é estimulada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0308",
+      "number": 308,
+      "topicId": "F08",
+      "text": "A histamina gástrica estimula ácido por receptores:",
+      "options": [
+        {
+          "id": "A",
+          "text": "H2"
+        },
+        {
+          "id": "B",
+          "text": "H1"
+        },
+        {
+          "id": "C",
+          "text": "Nicotínicos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A histamina gástrica estimula ácido por receptores:",
+      "explanations": {
+        "direct": "H2. H2 eleva AMPc; H1 participa de outras respostas e não é o principal receptor ácido-secretor.",
+        "intuitive": "Uma mensagem local ativa a célula parietal.",
+        "technical": "H2 eleva AMPc; H1 participa de outras respostas e não é o principal receptor ácido-secretor."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0309",
+      "number": 309,
+      "topicId": "F08",
+      "text": "CCK é estimulada principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Queda da osmolaridade cerebral"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de qualquer nutriente"
+        },
+        {
+          "id": "C",
+          "text": "Gorduras e produtos proteicos no intestino"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "CCK é estimulada principalmente por:",
+      "explanations": {
+        "direct": "Gorduras e produtos proteicos no intestino. Estimula enzimas pancreáticas e contração da vesícula; secretina responde sobretudo a ácido.",
+        "intuitive": "Ela coordena ferramentas para digerir gorduras e proteínas.",
+        "technical": "Estimula enzimas pancreáticas e contração da vesícula; secretina responde sobretudo a ácido."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0310",
+      "number": 310,
+      "topicId": "F08",
+      "text": "Secretina estimula no pâncreas principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liberação de insulina exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Secreção de ácido clorídrico"
+        },
+        {
+          "id": "C",
+          "text": "Secreção ductal de bicarbonato"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Secretina estimula no pâncreas principalmente:",
+      "explanations": {
+        "direct": "Secreção ductal de bicarbonato. Células ductais diferem de acinares produtoras de enzimas e de ilhotas endócrinas.",
+        "intuitive": "O líquido alcalino neutraliza o ácido gástrico.",
+        "technical": "Células ductais diferem de acinares produtoras de enzimas e de ilhotas endócrinas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0311",
+      "number": 311,
+      "topicId": "F08",
+      "text": "CCK estimula no pâncreas principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Produção de pepsina"
+        },
+        {
+          "id": "B",
+          "text": "Síntese de fator intrínseco"
+        },
+        {
+          "id": "C",
+          "text": "Secreção acinar de enzimas"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "CCK estimula no pâncreas principalmente:",
+      "explanations": {
+        "direct": "Secreção acinar de enzimas. Fator intrínseco e pepsina são produtos gástricos.",
+        "intuitive": "Os ácinos liberam ferramentas digestivas.",
+        "technical": "Fator intrínseco e pepsina são produtos gástricos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0312",
+      "number": 312,
+      "topicId": "F08",
+      "text": "Sais biliares facilitam absorção de lipídios por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hidrolisar proteínas como enzimas"
+        },
+        {
+          "id": "B",
+          "text": "Formar micelas"
+        },
+        {
+          "id": "C",
+          "text": "Transportar glicose via SGLT1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Sais biliares facilitam absorção de lipídios por:",
+      "explanations": {
+        "direct": "Formar micelas. Não são enzimas digestivas; lipases fazem hidrólise de triglicerídeos.",
+        "intuitive": "Organizam gorduras em estruturas que chegam à superfície intestinal.",
+        "technical": "Não são enzimas digestivas; lipases fazem hidrólise de triglicerídeos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0313",
+      "number": 313,
+      "topicId": "F08",
+      "text": "A entrada apical de frutose ocorre principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "SGLT1"
+        },
+        {
+          "id": "B",
+          "text": "GLUT5"
+        },
+        {
+          "id": "C",
+          "text": "ENaC"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A entrada apical de frutose ocorre principalmente por:",
+      "explanations": {
+        "direct": "GLUT5. Não exige cotransporte de Na⁺ via SGLT1; ENaC conduz sódio.",
+        "intuitive": "A frutose usa uma porta própria de difusão facilitada.",
+        "technical": "Não exige cotransporte de Na⁺ via SGLT1; ENaC conduz sódio."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0314",
+      "number": 314,
+      "topicId": "F08",
+      "text": "A toxina colérica aumenta secreção intestinal principalmente por elevar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Entrada de glicose por GLUT4"
+        },
+        {
+          "id": "B",
+          "text": "AMPc e atividade de CFTR"
+        },
+        {
+          "id": "C",
+          "text": "GMPc exclusivamente por receptor nuclear"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A toxina colérica aumenta secreção intestinal principalmente por elevar:",
+      "explanations": {
+        "direct": "AMPc e atividade de CFTR. Gs permanece ativada, elevando AMPc; não se trata de regulação por GLUT4.",
+        "intuitive": "Cloreto sai mais, e água acompanha.",
+        "technical": "Gs permanece ativada, elevando AMPc; não se trata de regulação por GLUT4."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0315",
+      "number": 315,
+      "topicId": "F08",
+      "text": "Hepcidina reduz disponibilidade de ferro ao:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Abrir ferroportina indefinidamente"
+        },
+        {
+          "id": "B",
+          "text": "Converter ferritina em hemoglobina diretamente"
+        },
+        {
+          "id": "C",
+          "text": "Promover internalização de ferroportina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Hepcidina reduz disponibilidade de ferro ao:",
+      "explanations": {
+        "direct": "Promover internalização de ferroportina. Age em enterócitos e macrófagos; não sintetiza hemoglobina diretamente.",
+        "intuitive": "Ela fecha a saída do ferro para o sangue.",
+        "technical": "Age em enterócitos e macrófagos; não sintetiza hemoglobina diretamente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0316",
+      "number": 316,
+      "topicId": "F08",
+      "text": "O cálcio intestinal tem absorção estimulada por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Calcitonina como principal estímulo"
+        },
+        {
+          "id": "B",
+          "text": "ADH como regulador exclusivo"
+        },
+        {
+          "id": "C",
+          "text": "Calcitriol"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O cálcio intestinal tem absorção estimulada por:",
+      "explanations": {
+        "direct": "Calcitriol. Regula proteínas de transporte; ADH regula água e calcitonina não é o principal estímulo intestinal.",
+        "intuitive": "Vitamina D ativa aumenta a capacidade de captar cálcio.",
+        "technical": "Regula proteínas de transporte; ADH regula água e calcitonina não é o principal estímulo intestinal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0317",
+      "number": 317,
+      "topicId": "F08",
+      "text": "A saliva final costuma ser hipotônica porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ductos adicionam NaCl indefinidamente"
+        },
+        {
+          "id": "B",
+          "text": "Ácinos secretam água sem solutos"
+        },
+        {
+          "id": "C",
+          "text": "Ductos reabsorvem sal mais que água"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A saliva final costuma ser hipotônica porque:",
+      "explanations": {
+        "direct": "Ductos reabsorvem sal mais que água. A composição depende do fluxo; em alto fluxo, há menos tempo para modificação.",
+        "intuitive": "O ducto retira sal sem deixar água acompanhar na mesma proporção.",
+        "technical": "A composição depende do fluxo; em alto fluxo, há menos tempo para modificação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0318",
+      "number": 318,
+      "topicId": "F08",
+      "text": "A bilirrubina conjugada difere da não conjugada por ser:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Incapaz de ser excretada na bile"
+        },
+        {
+          "id": "B",
+          "text": "Sempre ligada irreversivelmente à hemoglobina"
+        },
+        {
+          "id": "C",
+          "text": "Mais hidrossolúvel"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A bilirrubina conjugada difere da não conjugada por ser:",
+      "explanations": {
+        "direct": "Mais hidrossolúvel. Conjugação com ácido glicurônico aumenta solubilidade; não a prende à hemoglobina.",
+        "intuitive": "O fígado a prepara para excreção.",
+        "technical": "Conjugação com ácido glicurônico aumenta solubilidade; não a prende à hemoglobina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0319",
+      "number": 319,
+      "topicId": "F08",
+      "text": "Um paciente com diarreia secretora por cólera consegue absorver água quando recebe solução adequadamente formulada com sódio e glicose. Qual transporte explica esse benefício apesar do aumento de secreção?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio total de CFTR"
+        },
+        {
+          "id": "B",
+          "text": "Transporte ativo de toxina para o fígado"
+        },
+        {
+          "id": "C",
+          "text": "Cotransporte Na⁺-glicose"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente com diarreia secretora por cólera consegue absorver água quando recebe solução adequadamente formulada com sódio e glicose. Qual transporte explica esse benefício apesar do aumento de secreção?",
+      "explanations": {
+        "direct": "Cotransporte Na⁺-glicose. SGLT1 permite absorção acoplada; a solução não precisa inativar diretamente a toxina.",
+        "intuitive": "Mesmo com secreção aumentada, uma via ainda consegue absorver sal e água.",
+        "technical": "SGLT1 permite absorção acoplada; a solução não precisa inativar diretamente a toxina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F08-0320",
+      "number": 320,
+      "topicId": "F08",
+      "text": "Após ressecção extensa do íleo terminal, um paciente desenvolve má absorção e precisa de acompanhamento nutricional. Qual combinação de perdas funcionais é esperada?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deficiência de B12 e perda de sais biliares"
+        },
+        {
+          "id": "B",
+          "text": "Excesso de fator intrínseco e absorção ilimitada de gorduras"
+        },
+        {
+          "id": "C",
+          "text": "Deficiência exclusiva de amilase salivar"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Após ressecção extensa do íleo terminal, um paciente desenvolve má absorção e precisa de acompanhamento nutricional. Qual combinação de perdas funcionais é esperada?",
+      "explanations": {
+        "direct": "Deficiência de B12 e perda de sais biliares. A deficiência de sais biliares pode causar diarreia e má absorção lipídica, conforme extensão.",
+        "intuitive": "Perdem-se dois sistemas importantes de recuperação.",
+        "technical": "A deficiência de sais biliares pode causar diarreia e má absorção lipídica, conforme extensão."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

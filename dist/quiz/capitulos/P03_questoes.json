@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P03",
+    "name": "Farmacologia · 03 · Farmacocinética",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 3
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P03-0425",
+      "number": 425,
+      "topicId": "P03",
+      "text": "Biodisponibilidade é a fração da dose que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liga obrigatoriamente ao receptor"
+        },
+        {
+          "id": "B",
+          "text": "Alcança circulação sistêmica inalterada"
+        },
+        {
+          "id": "C",
+          "text": "Fica para sempre no intestino"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Biodisponibilidade é a fração da dose que:",
+      "explanations": {
+        "direct": "Alcança circulação sistêmica inalterada. Absorção e metabolismo pré-sistêmico influenciam F; ligação ao alvo é farmacodinâmica.",
+        "intuitive": "É quanto da dose realmente chega ao sangue sistêmico como fármaco.",
+        "technical": "Absorção e metabolismo pré-sistêmico influenciam F; ligação ao alvo é farmacodinâmica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P03-0426",
+      "number": 426,
+      "topicId": "P03",
+      "text": "Na administração intravenosa, a biodisponibilidade é por definição:",
+      "options": [
+        {
+          "id": "A",
+          "text": "50%"
+        },
+        {
+          "id": "B",
+          "text": "100%"
+        },
+        {
+          "id": "C",
+          "text": "0% antes da passagem hepática"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Na administração intravenosa, a biodisponibilidade é por definição:",
+      "explanations": {
+        "direct": "100%. Isso não significa que toda dose chegue ao alvo nem que não seja eliminada depois.",
+        "intuitive": "A dose entra diretamente na circulação.",
+        "technical": "Isso não significa que toda dose chegue ao alvo nem que não seja eliminada depois."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P03-0427",
+      "number": 427,
+      "topicId": "P03",
+      "text": "Volume aparente de distribuição é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Concentração plasmática ÷ quantidade corporal"
+        },
+        {
+          "id": "B",
+          "text": "Depuração ÷ concentração plasmática"
+        },
+        {
+          "id": "C",
+          "text": "Quantidade corporal ÷ concentração plasmática"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Volume aparente de distribuição é:",
+      "explanations": {
+        "direct": "Quantidade corporal ÷ concentração plasmática. Pode exceder volumes anatômicos por intensa ligação tecidual.",
+        "intuitive": "É um volume calculado que descreve onde a droga parece estar.",
+        "technical": "Pode exceder volumes anatômicos por intensa ligação tecidual."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P03-0428",
+      "number": 428,
+      "topicId": "P03",
+      "text": "Um volume de distribuição muito alto sugere:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Confinamento obrigatório ao plasma"
+        },
+        {
+          "id": "B",
+          "text": "Distribuição limitada ao líquido extracelular"
+        },
+        {
+          "id": "C",
+          "text": "Predomínio relativo fora do plasma"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um volume de distribuição muito alto sugere:",
+      "explanations": {
+        "direct": "Predomínio relativo fora do plasma. Não corresponde necessariamente a um compartimento anatômico real.",
+        "intuitive": "Pouco fica no sangue em relação à quantidade total.",
+        "technical": "Não corresponde necessariamente a um compartimento anatômico real."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P03-0429",
+      "number": 429,
+      "topicId": "P03",
+      "text": "Depuração representa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tempo para absorver metade da dose"
+        },
+        {
+          "id": "B",
+          "text": "Quantidade total ligada ao receptor"
+        },
+        {
+          "id": "C",
+          "text": "Volume de plasma depurado por unidade de tempo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Depuração representa:",
+      "explanations": {
+        "direct": "Volume de plasma depurado por unidade de tempo. Tem unidade de volume/tempo; meia-vida tem unidade de tempo.",
+        "intuitive": "Mede a capacidade de remoção do organismo.",
+        "technical": "Tem unidade de volume/tempo; meia-vida tem unidade de tempo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P03-0430",
+      "number": 430,
+      "topicId": "P03",
+      "text": "Na cinética de primeira ordem, elimina-se por unidade de tempo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toda dose de uma só vez"
+        },
+        {
+          "id": "B",
+          "text": "Quantidade fixa independentemente da concentração"
+        },
+        {
+          "id": "C",
+          "text": "Fração aproximadamente constante"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Na cinética de primeira ordem, elimina-se por unidade de tempo:",
+      "explanations": {
+        "direct": "Fração aproximadamente constante. Cinética de ordem zero elimina quantidade aproximadamente constante quando a via está saturada.",
+        "intuitive": "Quanto mais há, mais massa sai, mantendo a proporção.",
+        "technical": "Cinética de ordem zero elimina quantidade aproximadamente constante quando a via está saturada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P03-0431",
+      "number": 431,
+      "topicId": "P03",
+      "text": "Em cinética linear, meia-vida é aproximadamente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0,693 × Vd/depuração"
+        },
+        {
+          "id": "B",
+          "text": "Dose ÷ frequência"
+        },
+        {
+          "id": "C",
+          "text": "Depuração × Vd"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Em cinética linear, meia-vida é aproximadamente:",
+      "explanations": {
+        "direct": "0,693 × Vd/depuração. A relação exige modelo e condições adequados; não usa dose diretamente.",
+        "intuitive": "Mais distribuição prolonga; mais limpeza encurta.",
+        "technical": "A relação exige modelo e condições adequados; não usa dose diretamente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P03-0432",
+      "number": 432,
+      "topicId": "P03",
+      "text": "Primeira passagem pode reduzir disponibilidade oral por metabolismo em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intestino e fígado antes da circulação sistêmica"
+        },
+        {
+          "id": "B",
+          "text": "Pulmão após toda distribuição exclusivamente"
+        },
+        {
+          "id": "C",
+          "text": "Receptor muscular antes da absorção"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Primeira passagem pode reduzir disponibilidade oral por metabolismo em:",
+      "explanations": {
+        "direct": "Intestino e fígado antes da circulação sistêmica. Não é sinônimo de eliminação renal após distribuição.",
+        "intuitive": "Parte da dose é transformada no caminho de entrada.",
+        "technical": "Não é sinônimo de eliminação renal após distribuição."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P03-0433",
+      "number": 433,
+      "topicId": "P03",
+      "text": "O tempo para atingir estado de equilíbrio depende sobretudo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Meia-vida"
+        },
+        {
+          "id": "B",
+          "text": "Cor da formulação"
+        },
+        {
+          "id": "C",
+          "text": "Dose de manutenção apenas"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O tempo para atingir estado de equilíbrio depende sobretudo de:",
+      "explanations": {
+        "direct": "Meia-vida. Cerca de 4–5 meias-vidas aproximam o platô; a dose modifica o nível, não o tempo relativo em cinética linear.",
+        "intuitive": "O acúmulo acompanha a velocidade de eliminação.",
+        "technical": "Cerca de 4–5 meias-vidas aproximam o platô; a dose modifica o nível, não o tempo relativo em cinética linear."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P03-0434",
+      "number": 434,
+      "topicId": "P03",
+      "text": "A dose de ataque depende principalmente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Depuração isolada"
+        },
+        {
+          "id": "B",
+          "text": "Vd, concentração-alvo e biodisponibilidade"
+        },
+        {
+          "id": "C",
+          "text": "Intervalo de dose isoladamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A dose de ataque depende principalmente de:",
+      "explanations": {
+        "direct": "Vd, concentração-alvo e biodisponibilidade. Dose de ataque = Vd × alvo/F; manutenção depende de depuração.",
+        "intuitive": "É a quantidade necessária para preencher o espaço de distribuição.",
+        "technical": "Dose de ataque = Vd × alvo/F; manutenção depende de depuração."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P03-0435",
+      "number": 435,
+      "topicId": "P03",
+      "text": "Se depuração cai pela metade com Vd constante, meia-vida tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cair à metade"
+        },
+        {
+          "id": "B",
+          "text": "Permanecer idêntica"
+        },
+        {
+          "id": "C",
+          "text": "Dobrar"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Se depuração cai pela metade com Vd constante, meia-vida tende a:",
+      "explanations": {
+        "direct": "Dobrar. Pela relação t½ = 0,693 Vd/CL; isso pressupõe cinética linear.",
+        "intuitive": "A remoção mais lenta prolonga a permanência.",
+        "technical": "Pela relação t½ = 0,693 Vd/CL; isso pressupõe cinética linear."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P03-0436",
+      "number": 436,
+      "topicId": "P03",
+      "text": "Na cinética de ordem zero, o aumento de dose pode causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Meia-vida sempre fixa"
+        },
+        {
+          "id": "B",
+          "text": "Aumento desproporcional da concentração"
+        },
+        {
+          "id": "C",
+          "text": "Queda obrigatória da concentração"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Na cinética de ordem zero, o aumento de dose pode causar:",
+      "explanations": {
+        "direct": "Aumento desproporcional da concentração. Saturação torna exposição não linear; meia-vida deixa de ser constante como na primeira ordem.",
+        "intuitive": "A eliminação já está perto do limite.",
+        "technical": "Saturação torna exposição não linear; meia-vida deixa de ser constante como na primeira ordem."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

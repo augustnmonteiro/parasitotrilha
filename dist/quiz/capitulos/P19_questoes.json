@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P19",
+    "name": "Farmacologia · 19 · Óxido nítrico",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 19
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P19-0609",
+      "number": 609,
+      "topicId": "P19",
+      "text": "NO ativa diretamente no músculo liso:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adenilil ciclase por β1"
+        },
+        {
+          "id": "B",
+          "text": "Guanilil ciclase solúvel"
+        },
+        {
+          "id": "C",
+          "text": "Receptor nuclear de estrogênio"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "NO ativa diretamente no músculo liso:",
+      "explanations": {
+        "direct": "Guanilil ciclase solúvel. É sinalização parácrina difusível; não exige receptor de membrana beta.",
+        "intuitive": "O gás liga a produção de GMPc.",
+        "technical": "É sinalização parácrina difusível; não exige receptor de membrana beta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P19-0610",
+      "number": 610,
+      "topicId": "P19",
+      "text": "NO endotelial deriva do aminoácido:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Arginina"
+        },
+        {
+          "id": "B",
+          "text": "Tirosina"
+        },
+        {
+          "id": "C",
+          "text": "Triptofano"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "NO endotelial deriva do aminoácido:",
+      "explanations": {
+        "direct": "Arginina. NOS gera NO e citrulina; tirosina origina catecolaminas.",
+        "intuitive": "Uma enzima usa arginina para produzir o sinal gasoso.",
+        "technical": "NOS gera NO e citrulina; tirosina origina catecolaminas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P19-0611",
+      "number": 611,
+      "topicId": "P19",
+      "text": "NO inalatório pode dilatar seletivamente vasos próximos a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alvéolos que não recebem nenhum gás"
+        },
+        {
+          "id": "B",
+          "text": "Alvéolos ventilados"
+        },
+        {
+          "id": "C",
+          "text": "Veias sistêmicas exclusivamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "NO inalatório pode dilatar seletivamente vasos próximos a:",
+      "explanations": {
+        "direct": "Alvéolos ventilados. A rápida inativação pela hemoglobina limita ação sistêmica e pode melhorar distribuição V/Q.",
+        "intuitive": "O gás chega onde existe ventilação.",
+        "technical": "A rápida inativação pela hemoglobina limita ação sistêmica e pode melhorar distribuição V/Q."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P19-0612",
+      "number": 612,
+      "topicId": "P19",
+      "text": "A NOS induzível em inflamação pode produzir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente noradrenalina"
+        },
+        {
+          "id": "B",
+          "text": "Grandes quantidades de NO"
+        },
+        {
+          "id": "C",
+          "text": "Apenas quantidades nulas de NO"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A NOS induzível em inflamação pode produzir:",
+      "explanations": {
+        "direct": "Grandes quantidades de NO. Isso participa de defesa e vasodilatação inflamatória; não é neurotransmissão catecolaminérgica.",
+        "intuitive": "O sistema imune pode ligar uma produção intensa.",
+        "technical": "Isso participa de defesa e vasodilatação inflamatória; não é neurotransmissão catecolaminérgica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P19-0613",
+      "number": 613,
+      "topicId": "P19",
+      "text": "O aumento de GMPc tende a promover:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Síntese de anticorpos"
+        },
+        {
+          "id": "B",
+          "text": "Contração obrigatória de todo músculo"
+        },
+        {
+          "id": "C",
+          "text": "Relaxamento do músculo liso"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O aumento de GMPc tende a promover:",
+      "explanations": {
+        "direct": "Relaxamento do músculo liso. Os efeitos envolvem PKG e redução de ativação por Ca²⁺; não são universalmente contráteis.",
+        "intuitive": "Facilita desligar a maquinaria contrátil.",
+        "technical": "Os efeitos envolvem PKG e redução de ativação por Ca²⁺; não são universalmente contráteis."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P19-0614",
+      "number": 614,
+      "topicId": "P19",
+      "text": "A curta vida do NO favorece ação:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exclusivamente dentro do núcleo"
+        },
+        {
+          "id": "B",
+          "text": "Obrigatoriamente endócrina por semanas"
+        },
+        {
+          "id": "C",
+          "text": "Local e transitória"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A curta vida do NO favorece ação:",
+      "explanations": {
+        "direct": "Local e transitória. A reatividade e ligação à hemoglobina limitam alcance; não exige armazenamento vesicular.",
+        "intuitive": "O sinal se difunde perto e desaparece rapidamente.",
+        "technical": "A reatividade e ligação à hemoglobina limitam alcance; não exige armazenamento vesicular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P19-0615",
+      "number": 615,
+      "topicId": "P19",
+      "text": "Nitroprussiato pode causar toxicidade por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deficiência aguda de vitamina B12 em toda dose"
+        },
+        {
+          "id": "B",
+          "text": "Cianeto e tiocianato"
+        },
+        {
+          "id": "C",
+          "text": "Excesso de insulina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Nitroprussiato pode causar toxicidade por:",
+      "explanations": {
+        "direct": "Cianeto e tiocianato. Risco depende de exposição e capacidade de detoxificação/eliminação.",
+        "intuitive": "Seus produtos metabólicos também precisam ser considerados.",
+        "technical": "Risco depende de exposição e capacidade de detoxificação/eliminação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P19-0616",
+      "number": 616,
+      "topicId": "P19",
+      "text": "A associação de doador de NO e inibidor de PDE5 aumenta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Degradação de GMPc"
+        },
+        {
+          "id": "B",
+          "text": "GMPc e risco de hipotensão"
+        },
+        {
+          "id": "C",
+          "text": "Pressão por agonismo α1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A associação de doador de NO e inibidor de PDE5 aumenta:",
+      "explanations": {
+        "direct": "GMPc e risco de hipotensão. É amplificação da mesma via, não antagonismo.",
+        "intuitive": "Produção aumentada encontra degradação reduzida.",
+        "technical": "É amplificação da mesma via, não antagonismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

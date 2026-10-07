@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P59",
+    "name": "Farmacologia · 59 · Perinatal e pediatria",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 59
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P59-0929",
+      "number": 929,
+      "topicId": "P59",
+      "text": "Uma substância presente no leite necessariamente impede amamentação?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sim, qualquer traço é igualmente perigoso"
+        },
+        {
+          "id": "B",
+          "text": "Não; dose infantil, toxicidade e alternativas importam"
+        },
+        {
+          "id": "C",
+          "text": "Não, nenhum fármaco causa risco"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uma substância presente no leite necessariamente impede amamentação?",
+      "explanations": {
+        "direct": "Não; dose infantil, toxicidade e alternativas importam. A decisão é específica; tanto proibição universal quanto segurança universal são incorretas.",
+        "intuitive": "Presença não é igual a exposição clinicamente relevante.",
+        "technical": "A decisão é específica; tanto proibição universal quanto segurança universal são incorretas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P59-0930",
+      "number": 930,
+      "topicId": "P59",
+      "text": "Recém-nascidos podem eliminar certos medicamentos mais lentamente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Imaturidade renal e metabólica"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de circulação sanguínea"
+        },
+        {
+          "id": "C",
+          "text": "Metabolismo sempre superior ao adulto"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Recém-nascidos podem eliminar certos medicamentos mais lentamente por:",
+      "explanations": {
+        "direct": "Imaturidade renal e metabólica. O efeito varia por via e idade gestacional; não se usa uma regra única para todas as drogas.",
+        "intuitive": "A maquinaria de eliminação ainda está em desenvolvimento.",
+        "technical": "O efeito varia por via e idade gestacional; não se usa uma regra única para todas as drogas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P59-0931",
+      "number": 931,
+      "topicId": "P59",
+      "text": "Maior proporção de água corporal no lactente pode aumentar Vd de fármacos:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fortemente lipofílicos por regra universal"
+        },
+        {
+          "id": "B",
+          "text": "Ligados irreversivelmente ao osso apenas"
+        },
+        {
+          "id": "C",
+          "text": "Hidrossolúveis"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Maior proporção de água corporal no lactente pode aumentar Vd de fármacos:",
+      "explanations": {
+        "direct": "Hidrossolúveis. Não significa que toda dose por kg deva ser reduzida; cinética completa importa.",
+        "intuitive": "Há relativamente mais espaço aquoso para distribuição.",
+        "technical": "Não significa que toda dose por kg deva ser reduzida; cinética completa importa."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P59-0932",
+      "number": 932,
+      "topicId": "P59",
+      "text": "A dose pediátrica não deve ser simples fração fixa da adulta porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Crianças não têm receptores"
+        },
+        {
+          "id": "B",
+          "text": "Toda criança possui mesma função renal"
+        },
+        {
+          "id": "C",
+          "text": "Maturação e tamanho afetam processos de modo diferente"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A dose pediátrica não deve ser simples fração fixa da adulta porque:",
+      "explanations": {
+        "direct": "Maturação e tamanho afetam processos de modo diferente. Idade, superfície, função orgânica e fármaco condicionam o cálculo.",
+        "intuitive": "Crescer muda mais que o peso.",
+        "technical": "Idade, superfície, função orgânica e fármaco condicionam o cálculo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P59-0933",
+      "number": 933,
+      "topicId": "P59",
+      "text": "A passagem placentária tende a ser facilitada por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lipossolubilidade e pequena fração ionizada"
+        },
+        {
+          "id": "B",
+          "text": "Ligação irreversível à placenta por definição"
+        },
+        {
+          "id": "C",
+          "text": "Alta ionização permanente em toda condição"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A passagem placentária tende a ser facilitada por:",
+      "explanations": {
+        "direct": "Lipossolubilidade e pequena fração ionizada. Transportadores, proteínas e gradientes também influenciam.",
+        "intuitive": "Moléculas que atravessam membranas chegam mais facilmente ao feto.",
+        "technical": "Transportadores, proteínas e gradientes também influenciam."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P59-0934",
+      "number": 934,
+      "topicId": "P59",
+      "text": "A menor ligação proteica neonatal pode aumentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Velocidade de metabolismo obrigatoriamente"
+        },
+        {
+          "id": "B",
+          "text": "Fração ligada de todos os fármacos"
+        },
+        {
+          "id": "C",
+          "text": "Fração livre de certos fármacos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A menor ligação proteica neonatal pode aumentar:",
+      "explanations": {
+        "direct": "Fração livre de certos fármacos. O efeito depende do fármaco e alterações simultâneas de eliminação.",
+        "intuitive": "Mais molécula pode ficar disponível para agir e distribuir.",
+        "technical": "O efeito depende do fármaco e alterações simultâneas de eliminação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P59-0935",
+      "number": 935,
+      "topicId": "P59",
+      "text": "Deslocamento de bilirrubina da albumina preocupa no neonato porque pode aumentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Formação de hemoglobina"
+        },
+        {
+          "id": "B",
+          "text": "Bilirrubina não ligada com potencial neurotóxico"
+        },
+        {
+          "id": "C",
+          "text": "Eliminação biliar garantida"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Deslocamento de bilirrubina da albumina preocupa no neonato porque pode aumentar:",
+      "explanations": {
+        "direct": "Bilirrubina não ligada com potencial neurotóxico. Não equivale a melhorar a excreção; características do recém-nascido modificam o risco.",
+        "intuitive": "A fração livre pode alcançar tecidos vulneráveis.",
+        "technical": "Não equivale a melhorar a excreção; características do recém-nascido modificam o risco."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P59-0936",
+      "number": 936,
+      "topicId": "P59",
+      "text": "O risco teratogênico depende especialmente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agente, dose e fase do desenvolvimento"
+        },
+        {
+          "id": "B",
+          "text": "Somente a concentração materna total"
+        },
+        {
+          "id": "C",
+          "text": "Somente a classe química, sem considerar exposição"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "O risco teratogênico depende especialmente de:",
+      "explanations": {
+        "direct": "Agente, dose e fase do desenvolvimento. Organogênese é fase importante, mas efeitos fetais podem ocorrer depois.",
+        "intuitive": "O momento da exposição muda quais estruturas estão vulneráveis.",
+        "technical": "Organogênese é fase importante, mas efeitos fetais podem ocorrer depois."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

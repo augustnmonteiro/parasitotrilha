@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P16",
+    "name": "Farmacologia · 16 · Histamina e serotonina",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 16
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P16-0581",
+      "number": 581,
+      "topicId": "P16",
+      "text": "Ondansetrona é antagonista de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5-HT3"
+        },
+        {
+          "id": "B",
+          "text": "5-HT1B"
+        },
+        {
+          "id": "C",
+          "text": "H2"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ondansetrona é antagonista de:",
+      "explanations": {
+        "direct": "5-HT3. 5-HT3 é canal iônico; triptanos são agonistas de outros subtipos.",
+        "intuitive": "Bloqueia uma via serotoninérgica ligada ao vômito.",
+        "technical": "5-HT3 é canal iônico; triptanos são agonistas de outros subtipos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P16-0582",
+      "number": 582,
+      "topicId": "P16",
+      "text": "Sumatriptana age principalmente como agonista:",
+      "options": [
+        {
+          "id": "A",
+          "text": "D2"
+        },
+        {
+          "id": "B",
+          "text": "5-HT1B/1D"
+        },
+        {
+          "id": "C",
+          "text": "5-HT3"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Sumatriptana age principalmente como agonista:",
+      "explanations": {
+        "direct": "5-HT1B/1D. Não é antiemético 5-HT3 nem agonista dopaminérgico.",
+        "intuitive": "Modula vias trigeminais e vasos na enxaqueca.",
+        "technical": "Não é antiemético 5-HT3 nem agonista dopaminérgico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P16-0583",
+      "number": 583,
+      "topicId": "P16",
+      "text": "Na síndrome serotoninérgica, clônus e hiperreflexia sugerem:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deficiência de acetilcolina na placa"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio muscarínico puro"
+        },
+        {
+          "id": "C",
+          "text": "Excesso de atividade serotoninérgica"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Na síndrome serotoninérgica, clônus e hiperreflexia sugerem:",
+      "explanations": {
+        "direct": "Excesso de atividade serotoninérgica. O padrão ajuda a distinguir de outros toxíndromes; depende de exposição e contexto.",
+        "intuitive": "O sistema neuromuscular fica excessivamente excitável.",
+        "technical": "O padrão ajuda a distinguir de outros toxíndromes; depende de exposição e contexto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P16-0584",
+      "number": 584,
+      "topicId": "P16",
+      "text": "Um efeito gastrointestinal previsível do orlistate é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fezes oleosas"
+        },
+        {
+          "id": "B",
+          "text": "Constipação por bloqueio M3 como mecanismo principal"
+        },
+        {
+          "id": "C",
+          "text": "Ausência completa de gordura nas fezes"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um efeito gastrointestinal previsível do orlistate é:",
+      "explanations": {
+        "direct": "Fezes oleosas. Isso decorre do alvo digestivo, não de ação antimuscarínica primária.",
+        "intuitive": "A gordura não absorvida segue para as fezes.",
+        "technical": "Isso decorre do alvo digestivo, não de ação antimuscarínica primária."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P16-0585",
+      "number": 585,
+      "topicId": "P16",
+      "text": "Anti-histamínicos H1 de primeira geração causam sedação por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penetrar SNC e bloquear H1 central"
+        },
+        {
+          "id": "B",
+          "text": "Ativar receptores de orexina"
+        },
+        {
+          "id": "C",
+          "text": "Bloquear exclusivamente H2 gástrico"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Anti-histamínicos H1 de primeira geração causam sedação por:",
+      "explanations": {
+        "direct": "Penetrar SNC e bloquear H1 central. Frequentemente têm efeitos antimuscarínicos; não são seletivos para secreção ácida.",
+        "intuitive": "Também alcançam circuitos cerebrais de vigília.",
+        "technical": "Frequentemente têm efeitos antimuscarínicos; não são seletivos para secreção ácida."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P16-0586",
+      "number": 586,
+      "topicId": "P16",
+      "text": "Anti-H1 de segunda geração tendem a sedar menos por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maior bloqueio Nm"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de ligação a histamina"
+        },
+        {
+          "id": "C",
+          "text": "Menor acesso funcional ao SNC"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Anti-H1 de segunda geração tendem a sedar menos por:",
+      "explanations": {
+        "direct": "Menor acesso funcional ao SNC. A sedação não é impossível nem igual entre todos os agentes.",
+        "intuitive": "Atuam mais fora do cérebro.",
+        "technical": "A sedação não é impossível nem igual entre todos os agentes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P16-0587",
+      "number": 587,
+      "topicId": "P16",
+      "text": "Famotidina reduz ácido ao bloquear:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5-HT3"
+        },
+        {
+          "id": "B",
+          "text": "H1"
+        },
+        {
+          "id": "C",
+          "text": "H2"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Famotidina reduz ácido ao bloquear:",
+      "explanations": {
+        "direct": "H2. É diferente dos anti-H1 usados em sintomas alérgicos.",
+        "intuitive": "Interrompe um estímulo da célula parietal.",
+        "technical": "É diferente dos anti-H1 usados em sintomas alérgicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P16-0588",
+      "number": 588,
+      "topicId": "P16",
+      "text": "Cipro-heptadina bloqueia, entre outros, receptores:",
+      "options": [
+        {
+          "id": "A",
+          "text": "AT1 e V2 exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "5-HT2 e H1"
+        },
+        {
+          "id": "C",
+          "text": "β1 e β2 exclusivamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Cipro-heptadina bloqueia, entre outros, receptores:",
+      "explanations": {
+        "direct": "5-HT2 e H1. Seu perfil pode causar sedação e efeitos antimuscarínicos.",
+        "intuitive": "Tem ação antisserotoninérgica e anti-histamínica.",
+        "technical": "Seu perfil pode causar sedação e efeitos antimuscarínicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P16-0589",
+      "number": 589,
+      "topicId": "P16",
+      "text": "Orlistate reduz absorção de gordura por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lipases gastrointestinais"
+        },
+        {
+          "id": "B",
+          "text": "Receptor β3"
+        },
+        {
+          "id": "C",
+          "text": "SGLT2 renal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Orlistate reduz absorção de gordura por inibir:",
+      "explanations": {
+        "direct": "Lipases gastrointestinais. Pode causar esteatorreia e reduzir absorção de vitaminas lipossolúveis.",
+        "intuitive": "Parte da gordura não é quebrada adequadamente para absorção.",
+        "technical": "Pode causar esteatorreia e reduzir absorção de vitaminas lipossolúveis."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P16-0590",
+      "number": 590,
+      "topicId": "P16",
+      "text": "Agonistas do receptor GLP-1 podem reduzir ingestão por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estimular fome de modo dominante"
+        },
+        {
+          "id": "B",
+          "text": "Bloquear toda absorção intestinal de glicose"
+        },
+        {
+          "id": "C",
+          "text": "Aumentar saciedade e modular esvaziamento gástrico"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Agonistas do receptor GLP-1 podem reduzir ingestão por:",
+      "explanations": {
+        "direct": "Aumentar saciedade e modular esvaziamento gástrico. Também têm ações glicêmicas dependentes de glicose; não são simples bloqueadores de absorção.",
+        "intuitive": "A refeição pode saciar com menor quantidade.",
+        "technical": "Também têm ações glicêmicas dependentes de glicose; não são simples bloqueadores de absorção."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P16-0591",
+      "number": 591,
+      "topicId": "P16",
+      "text": "Triptanos exigem cautela em doença isquêmica vascular por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio de vitamina K"
+        },
+        {
+          "id": "B",
+          "text": "Potencial vasoconstritor"
+        },
+        {
+          "id": "C",
+          "text": "Hemólise obrigatória"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Triptanos exigem cautela em doença isquêmica vascular por:",
+      "explanations": {
+        "direct": "Potencial vasoconstritor. A ação não é exclusivamente central sem efeitos vasculares.",
+        "intuitive": "O efeito sobre vasos pode ser indesejável em circulação comprometida.",
+        "technical": "A ação não é exclusivamente central sem efeitos vasculares."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P16-0592",
+      "number": 592,
+      "topicId": "P16",
+      "text": "Alcaloides do ergot apresentam risco vascular por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seletividade absoluta para um receptor intestinal"
+        },
+        {
+          "id": "B",
+          "text": "Ações em múltiplos receptores com vasoconstrição"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de atividade em músculo liso"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Alcaloides do ergot apresentam risco vascular por:",
+      "explanations": {
+        "direct": "Ações em múltiplos receptores com vasoconstrição. A farmacologia envolve receptores serotoninérgicos, adrenérgicos e outros, variando pelo agente.",
+        "intuitive": "Seu efeito não fica limitado à dor de cabeça.",
+        "technical": "A farmacologia envolve receptores serotoninérgicos, adrenérgicos e outros, variando pelo agente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

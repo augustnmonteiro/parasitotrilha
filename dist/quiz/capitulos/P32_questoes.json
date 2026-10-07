@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P32",
+    "name": "Farmacologia · 32 · Substâncias de abuso",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 32
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P32-0713",
+      "number": 713,
+      "topicId": "P32",
+      "text": "Cocaína produz reforço em parte por bloquear recaptação de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dopamina"
+        },
+        {
+          "id": "B",
+          "text": "Glicose"
+        },
+        {
+          "id": "C",
+          "text": "GABA exclusivamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Cocaína produz reforço em parte por bloquear recaptação de:",
+      "explanations": {
+        "direct": "Dopamina. Também afeta noradrenalina e serotonina; não é transporte de glicose.",
+        "intuitive": "A mensagem dopaminérgica permanece mais tempo.",
+        "technical": "Também afeta noradrenalina e serotonina; não é transporte de glicose."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P32-0714",
+      "number": 714,
+      "topicId": "P32",
+      "text": "Nicotina ativa receptores:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nicotínicos de acetilcolina"
+        },
+        {
+          "id": "B",
+          "text": "β1 diretamente"
+        },
+        {
+          "id": "C",
+          "text": "Muscarínicos exclusivamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Nicotina ativa receptores:",
+      "explanations": {
+        "direct": "Nicotínicos de acetilcolina. Pode estimular circuitos de recompensa e sistema autonômico; não é catecolamina direta.",
+        "intuitive": "Imita acetilcolina em canais específicos.",
+        "technical": "Pode estimular circuitos de recompensa e sistema autonômico; não é catecolamina direta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P32-0715",
+      "number": 715,
+      "topicId": "P32",
+      "text": "Vareniclina atua principalmente como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonista parcial nicotínico α4β2"
+        },
+        {
+          "id": "B",
+          "text": "Antagonista H2"
+        },
+        {
+          "id": "C",
+          "text": "Agonista μ"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Vareniclina atua principalmente como:",
+      "explanations": {
+        "direct": "Agonista parcial nicotínico α4β2. É mecanismo distinto de reposição direta de nicotina e de bloqueio opioide.",
+        "intuitive": "Fornece estímulo parcial e limita parte do efeito da nicotina.",
+        "technical": "É mecanismo distinto de reposição direta de nicotina e de bloqueio opioide."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P32-0716",
+      "number": 716,
+      "topicId": "P32",
+      "text": "MDMA pode produzir hipertermia e toxicidade por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento de sinalização monoaminérgica, especialmente serotoninérgica"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio de toda liberação de serotonina"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de ação central"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "MDMA pode produzir hipertermia e toxicidade por:",
+      "explanations": {
+        "direct": "Aumento de sinalização monoaminérgica, especialmente serotoninérgica. Hiponatremia também pode ocorrer em contexto de ADH e ingestão de água; não é risco único.",
+        "intuitive": "A excitação química e ambiental pode exceder controle térmico.",
+        "technical": "Hiponatremia também pode ocorrer em contexto de ADH e ingestão de água; não é risco único."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P32-0717",
+      "number": 717,
+      "topicId": "P32",
+      "text": "Tolerância significa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Compulsão por definição"
+        },
+        {
+          "id": "B",
+          "text": "Abstinência obrigatória após uma dose"
+        },
+        {
+          "id": "C",
+          "text": "Menor efeito com a mesma exposição"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Tolerância significa:",
+      "explanations": {
+        "direct": "Menor efeito com a mesma exposição. Pode coexistir com dependência, mas não define sozinho transtorno por uso.",
+        "intuitive": "O corpo passa a responder menos.",
+        "technical": "Pode coexistir com dependência, mas não define sozinho transtorno por uso."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P32-0718",
+      "number": 718,
+      "topicId": "P32",
+      "text": "Dependência física manifesta-se por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Obrigatoriamente comportamento compulsivo"
+        },
+        {
+          "id": "B",
+          "text": "Adaptação com possível abstinência na retirada"
+        },
+        {
+          "id": "C",
+          "text": "Imunidade à toxicidade"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Dependência física manifesta-se por:",
+      "explanations": {
+        "direct": "Adaptação com possível abstinência na retirada. Pode ocorrer durante uso terapêutico; não é sinônimo automático de adição.",
+        "intuitive": "O sistema adaptado reage quando a substância some.",
+        "technical": "Pode ocorrer durante uso terapêutico; não é sinônimo automático de adição."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P32-0719",
+      "number": 719,
+      "topicId": "P32",
+      "text": "Dor torácica após cocaína pode envolver:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deficiência de pepsina"
+        },
+        {
+          "id": "B",
+          "text": "Vasoconstrição, aumento de demanda e trombose"
+        },
+        {
+          "id": "C",
+          "text": "Apenas relaxamento coronariano protetor"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Dor torácica após cocaína pode envolver:",
+      "explanations": {
+        "direct": "Vasoconstrição, aumento de demanda e trombose. Não se deve atribuir automaticamente a ansiedade sem avaliação.",
+        "intuitive": "Oferta e demanda de O₂ podem se desequilibrar de várias formas.",
+        "technical": "Não se deve atribuir automaticamente a ansiedade sem avaliação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P32-0720",
+      "number": 720,
+      "topicId": "P32",
+      "text": "Associar álcool e sedativos aumenta risco por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somação de depressão do SNC"
+        },
+        {
+          "id": "B",
+          "text": "Aumento garantido da ventilação"
+        },
+        {
+          "id": "C",
+          "text": "Neutralização mútua obrigatória"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Associar álcool e sedativos aumenta risco por:",
+      "explanations": {
+        "direct": "Somação de depressão do SNC. Mesmo sem interação cinética, a interação farmacodinâmica pode ser grave.",
+        "intuitive": "Dois freios juntos podem comprometer funções vitais.",
+        "technical": "Mesmo sem interação cinética, a interação farmacodinâmica pode ser grave."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P13",
+    "name": "Farmacologia · 13 · Insuficiência cardíaca",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 13
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P13-0545",
+      "number": 545,
+      "topicId": "P13",
+      "text": "Uma característica da digoxina que exige cautela é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Impossibilidade de causar arritmias"
+        },
+        {
+          "id": "B",
+          "text": "Margem terapêutica estreita"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de eliminação renal"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uma característica da digoxina que exige cautela é:",
+      "explanations": {
+        "direct": "Margem terapêutica estreita. Náuseas, alterações visuais e arritmias podem ocorrer; depuração renal é relevante.",
+        "intuitive": "A faixa útil fica perto da faixa tóxica.",
+        "technical": "Náuseas, alterações visuais e arritmias podem ocorrer; depuração renal é relevante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P13-0546",
+      "number": 546,
+      "topicId": "P13",
+      "text": "Milrinona eleva AMPc ao inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fosfodiesterase 3"
+        },
+        {
+          "id": "B",
+          "text": "Acetilcolinesterase"
+        },
+        {
+          "id": "C",
+          "text": "Fosfodiesterase 5"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Milrinona eleva AMPc ao inibir:",
+      "explanations": {
+        "direct": "Fosfodiesterase 3. Produz inotropismo e vasodilatação; PDE5 regula principalmente GMPc em seus alvos.",
+        "intuitive": "O mensageiro cardíaco é degradado mais lentamente.",
+        "technical": "Produz inotropismo e vasodilatação; PDE5 regula principalmente GMPc em seus alvos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P13-0547",
+      "number": 547,
+      "topicId": "P13",
+      "text": "Um efeito adverso relevante de milrinona é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipoglicemia inevitável"
+        },
+        {
+          "id": "B",
+          "text": "Hipotensão e arritmias"
+        },
+        {
+          "id": "C",
+          "text": "Broncorreia muscarínica"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um efeito adverso relevante de milrinona é:",
+      "explanations": {
+        "direct": "Hipotensão e arritmias. Não é inibidor colinesterásico nem secretagogo obrigatório de insulina.",
+        "intuitive": "A mesma amplificação de sinal pode desestabilizar ritmo e pressão.",
+        "technical": "Não é inibidor colinesterásico nem secretagogo obrigatório de insulina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P13-0548",
+      "number": 548,
+      "topicId": "P13",
+      "text": "Inibidores de SGLT2 produzem no rim:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maior reabsorção de glicose obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio de aldosterona no receptor"
+        },
+        {
+          "id": "C",
+          "text": "Menor reabsorção proximal de glicose e sódio"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Inibidores de SGLT2 produzem no rim:",
+      "explanations": {
+        "direct": "Menor reabsorção proximal de glicose e sódio. Seus benefícios cardíacos não se resumem à glicemia; não são antagonistas mineralocorticoides.",
+        "intuitive": "Parte do soluto deixa de ser recuperada no túbulo proximal.",
+        "technical": "Seus benefícios cardíacos não se resumem à glicemia; não são antagonistas mineralocorticoides."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P13-0549",
+      "number": 549,
+      "topicId": "P13",
+      "text": "Digoxina aumenta Ca²⁺ intracelular ao inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "SERCA diretamente como alvo principal"
+        },
+        {
+          "id": "B",
+          "text": "Canal de Ca²⁺ tipo L"
+        },
+        {
+          "id": "C",
+          "text": "Na⁺/K⁺-ATPase"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Digoxina aumenta Ca²⁺ intracelular ao inibir:",
+      "explanations": {
+        "direct": "Na⁺/K⁺-ATPase. Inibição de bomba altera gradiente do NCX; não é bloqueio primário de entrada de Ca²⁺.",
+        "intuitive": "Mais sódio dentro reduz a saída de cálcio pelo trocador.",
+        "technical": "Inibição de bomba altera gradiente do NCX; não é bloqueio primário de entrada de Ca²⁺."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P13-0550",
+      "number": 550,
+      "topicId": "P13",
+      "text": "Digoxina também pode reduzir condução AV por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonismo β1"
+        },
+        {
+          "id": "B",
+          "text": "Aumento de influência vagal"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio α1 exclusivo"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Digoxina também pode reduzir condução AV por:",
+      "explanations": {
+        "direct": "Aumento de influência vagal. Esse efeito não significa que seja segura em toda arritmia.",
+        "intuitive": "Além de força, modifica o freio sobre a condução.",
+        "technical": "Esse efeito não significa que seja segura em toda arritmia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P13-0551",
+      "number": 551,
+      "topicId": "P13",
+      "text": "Dobutamina aumenta contratilidade principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estimulação β1"
+        },
+        {
+          "id": "B",
+          "text": "Inibição de SGLT2"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio de receptor mineralocorticoide"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Dobutamina aumenta contratilidade principalmente por:",
+      "explanations": {
+        "direct": "Estimulação β1. Pode elevar consumo de O₂ e risco arrítmico; não é terapia hormonal renal.",
+        "intuitive": "Aumenta sinalização que disponibiliza cálcio para contração.",
+        "technical": "Pode elevar consumo de O₂ e risco arrítmico; não é terapia hormonal renal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P13-0552",
+      "number": 552,
+      "topicId": "P13",
+      "text": "Sacubitril inibe:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neprilisina"
+        },
+        {
+          "id": "B",
+          "text": "Renina"
+        },
+        {
+          "id": "C",
+          "text": "Tireoperoxidase"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Sacubitril inibe:",
+      "explanations": {
+        "direct": "Neprilisina. Também altera degradação de outros peptídeos; não é bloqueador direto de renina.",
+        "intuitive": "Preserva peptídeos que favorecem natriurese e vasodilatação.",
+        "technical": "Também altera degradação de outros peptídeos; não é bloqueador direto de renina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P13-0553",
+      "number": 553,
+      "topicId": "P13",
+      "text": "Um paciente em digoxina inicia diurético de alça e desenvolve hipocalemia. Qual mecanismo torna o miocárdio mais susceptível à toxicidade da digoxina?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Favorece ligação à Na⁺/K⁺-ATPase"
+        },
+        {
+          "id": "B",
+          "text": "Aumenta eliminação renal obrigatoriamente"
+        },
+        {
+          "id": "C",
+          "text": "Impede qualquer ligação ao alvo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente em digoxina inicia diurético de alça e desenvolve hipocalemia. Qual mecanismo torna o miocárdio mais susceptível à toxicidade da digoxina?",
+      "explanations": {
+        "direct": "Favorece ligação à Na⁺/K⁺-ATPase. K⁺ compete funcionalmente no sítio da bomba; função renal também importa.",
+        "intuitive": "Menos potássio facilita a ação tóxica no mesmo alvo.",
+        "technical": "K⁺ compete funcionalmente no sítio da bomba; função renal também importa."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P13-0554",
+      "number": 554,
+      "topicId": "P13",
+      "text": "Sacubitril é associado a valsartana para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neutralizar completamente qualquer hipotensão"
+        },
+        {
+          "id": "B",
+          "text": "Combinar preservação de peptídeos com bloqueio AT1"
+        },
+        {
+          "id": "C",
+          "text": "Ativar simultaneamente AT1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Sacubitril é associado a valsartana para:",
+      "explanations": {
+        "direct": "Combinar preservação de peptídeos com bloqueio AT1. A combinação mantém riscos de hipotensão, hipercalemia e alterações renais.",
+        "intuitive": "Uma via útil é reforçada enquanto a ação da angiotensina é bloqueada.",
+        "technical": "A combinação mantém riscos de hipotensão, hipercalemia e alterações renais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P13-0555",
+      "number": 555,
+      "topicId": "P13",
+      "text": "Espironolactona na insuficiência cardíaca antagoniza:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Canal de Na⁺ rápido cardíaco"
+        },
+        {
+          "id": "B",
+          "text": "Receptor mineralocorticoide"
+        },
+        {
+          "id": "C",
+          "text": "Receptor β1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Espironolactona na insuficiência cardíaca antagoniza:",
+      "explanations": {
+        "direct": "Receptor mineralocorticoide. Pode causar hipercalemia; não é antiarrítmico classe I.",
+        "intuitive": "Bloqueia efeitos da aldosterona em rim e outros tecidos.",
+        "technical": "Pode causar hipercalemia; não é antiarrítmico classe I."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P13-0556",
+      "number": 556,
+      "topicId": "P13",
+      "text": "Betabloqueadores selecionados na insuficiência cardíaca crônica ajudam por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduzir efeitos nocivos da ativação simpática persistente"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar imediatamente contratilidade em toda situação"
+        },
+        {
+          "id": "C",
+          "text": "Garantir melhora instantânea no choque"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Betabloqueadores selecionados na insuficiência cardíaca crônica ajudam por:",
+      "explanations": {
+        "direct": "Reduzir efeitos nocivos da ativação simpática persistente. Benefício crônico não equivale a iniciar ou aumentar indiscriminadamente durante instabilidade aguda.",
+        "intuitive": "Menos estímulo crônico pode proteger o coração.",
+        "technical": "Benefício crônico não equivale a iniciar ou aumentar indiscriminadamente durante instabilidade aguda."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

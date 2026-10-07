@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P07",
+    "name": "Farmacologia · 07 · Agonistas colinérgicos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 7
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P07-0473",
+      "number": 473,
+      "topicId": "P07",
+      "text": "Betanecol age principalmente como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antagonista nicotínico"
+        },
+        {
+          "id": "B",
+          "text": "Agonista muscarínico"
+        },
+        {
+          "id": "C",
+          "text": "Inibidor de MAO"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Betanecol age principalmente como:",
+      "explanations": {
+        "direct": "Agonista muscarínico. Pode estimular detrusor e motilidade; não bloqueia placa motora.",
+        "intuitive": "Imita acetilcolina em receptores muscarínicos.",
+        "technical": "Pode estimular detrusor e motilidade; não bloqueia placa motora."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P07-0474",
+      "number": 474,
+      "topicId": "P07",
+      "text": "Um efeito adverso previsível de agonista muscarínico sistêmico é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Broncoconstrição e secreção aumentada"
+        },
+        {
+          "id": "B",
+          "text": "Retenção urinária por relaxamento do detrusor"
+        },
+        {
+          "id": "C",
+          "text": "Midríase e boca seca"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um efeito adverso previsível de agonista muscarínico sistêmico é:",
+      "explanations": {
+        "direct": "Broncoconstrição e secreção aumentada. Os distratores descrevem predominantemente bloqueio muscarínico.",
+        "intuitive": "O excesso de sinal estimula glândulas e músculo liso.",
+        "technical": "Os distratores descrevem predominantemente bloqueio muscarínico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P07-0475",
+      "number": 475,
+      "topicId": "P07",
+      "text": "Neostigmina penetra pouco no SNC por ser:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amônio quaternário"
+        },
+        {
+          "id": "B",
+          "text": "Altamente lipossolúvel e neutra"
+        },
+        {
+          "id": "C",
+          "text": "Gás inalatório"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Neostigmina penetra pouco no SNC por ser:",
+      "explanations": {
+        "direct": "Amônio quaternário. Fisostigmina, amina terciária, tem penetração central maior.",
+        "intuitive": "Sua carga dificulta atravessar a barreira cerebral.",
+        "technical": "Fisostigmina, amina terciária, tem penetração central maior."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P07-0476",
+      "number": 476,
+      "topicId": "P07",
+      "text": "Pralidoxima pode reativar colinesterase se administrada antes de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ocupação dos receptores muscarínicos pelo transmissor"
+        },
+        {
+          "id": "B",
+          "text": "Envelhecimento da ligação organofosforada"
+        },
+        {
+          "id": "C",
+          "text": "Hidrólise espontânea da acetilcolina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Pralidoxima pode reativar colinesterase se administrada antes de:",
+      "explanations": {
+        "direct": "Envelhecimento da ligação organofosforada. A eficácia depende do agente e tempo; envelhecimento dificulta reativação.",
+        "intuitive": "Há uma janela em que a enzima ainda pode ser recuperada.",
+        "technical": "A eficácia depende do agente e tempo; envelhecimento dificulta reativação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P07-0477",
+      "number": 477,
+      "topicId": "P07",
+      "text": "Fraqueza durante excesso de inibidor de colinesterase pode resultar de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Falta absoluta de acetilcolina"
+        },
+        {
+          "id": "B",
+          "text": "Despolarização persistente e disfunção da transmissão"
+        },
+        {
+          "id": "C",
+          "text": "Ativação exclusiva de β2"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Fraqueza durante excesso de inibidor de colinesterase pode resultar de:",
+      "explanations": {
+        "direct": "Despolarização persistente e disfunção da transmissão. Crise colinérgica não deve ser confundida automaticamente com piora por falta de tratamento.",
+        "intuitive": "Sinal demais também pode impedir funcionamento normal.",
+        "technical": "Crise colinérgica não deve ser confundida automaticamente com piora por falta de tratamento."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P07-0478",
+      "number": 478,
+      "topicId": "P07",
+      "text": "Em retenção urinária por obstrução mecânica, estimular detrusor com betanecol é problemático porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumenta contração contra uma saída obstruída"
+        },
+        {
+          "id": "B",
+          "text": "Remove fisicamente a obstrução"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueia toda pressão vesical"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Em retenção urinária por obstrução mecânica, estimular detrusor com betanecol é problemático porque:",
+      "explanations": {
+        "direct": "Aumenta contração contra uma saída obstruída. É necessário distinguir atonia de obstrução; mecanismo não substitui avaliação causal.",
+        "intuitive": "Apertar o reservatório não desentope a saída.",
+        "technical": "É necessário distinguir atonia de obstrução; mecanismo não substitui avaliação causal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P07-0479",
+      "number": 479,
+      "topicId": "P07",
+      "text": "Pilocarpina pode reduzir pressão intraocular por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio irreversível de β1"
+        },
+        {
+          "id": "B",
+          "text": "Miose e facilitação da drenagem trabecular"
+        },
+        {
+          "id": "C",
+          "text": "Paralisia do músculo ciliar"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Pilocarpina pode reduzir pressão intraocular por:",
+      "explanations": {
+        "direct": "Miose e facilitação da drenagem trabecular. É agonista muscarínico; não é cicloplégico nem betabloqueador.",
+        "intuitive": "A contração ciliar pode melhorar o escoamento.",
+        "technical": "É agonista muscarínico; não é cicloplégico nem betabloqueador."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P07-0480",
+      "number": 480,
+      "topicId": "P07",
+      "text": "Neostigmina aumenta acetilcolina por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estimular exocitose diretamente"
+        },
+        {
+          "id": "B",
+          "text": "Estimular transporte de colina"
+        },
+        {
+          "id": "C",
+          "text": "Inibir acetilcolinesterase"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Neostigmina aumenta acetilcolina por:",
+      "explanations": {
+        "direct": "Inibir acetilcolinesterase. É inibidor reversível; aumenta efeitos muscarínicos e nicotínicos.",
+        "intuitive": "A mensagem é degradada mais lentamente.",
+        "technical": "É inibidor reversível; aumenta efeitos muscarínicos e nicotínicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P07-0481",
+      "number": 481,
+      "topicId": "P07",
+      "text": "Fisostigmina difere da neostigmina por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Não interferir em colinesterase"
+        },
+        {
+          "id": "B",
+          "text": "Ser agonista β1"
+        },
+        {
+          "id": "C",
+          "text": "Poder atingir o SNC"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Fisostigmina difere da neostigmina por:",
+      "explanations": {
+        "direct": "Poder atingir o SNC. Seu uso em intoxicações exige seleção e monitoramento; não é antídoto universal para qualquer delirium.",
+        "intuitive": "Consegue alcançar alvos centrais além dos periféricos.",
+        "technical": "Seu uso em intoxicações exige seleção e monitoramento; não é antídoto universal para qualquer delirium."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P07-0482",
+      "number": 482,
+      "topicId": "P07",
+      "text": "Na miastenia gravis, piridostigmina melhora força por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloquear Nm competitivamente"
+        },
+        {
+          "id": "B",
+          "text": "Regenerar imediatamente todos os receptores"
+        },
+        {
+          "id": "C",
+          "text": "Aumentar acetilcolina disponível na placa"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Na miastenia gravis, piridostigmina melhora força por:",
+      "explanations": {
+        "direct": "Aumentar acetilcolina disponível na placa. Trata sintoma da transmissão, não elimina automaticamente o processo autoimune.",
+        "intuitive": "Mais mensagem ajuda a aproveitar os receptores restantes.",
+        "technical": "Trata sintoma da transmissão, não elimina automaticamente o processo autoimune."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P07-0483",
+      "number": 483,
+      "topicId": "P07",
+      "text": "Organofosforados causam toxicidade principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio de liberação de acetilcolina"
+        },
+        {
+          "id": "B",
+          "text": "Antagonismo M3"
+        },
+        {
+          "id": "C",
+          "text": "Inibição persistente de acetilcolinesterase"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Organofosforados causam toxicidade principalmente por:",
+      "explanations": {
+        "direct": "Inibição persistente de acetilcolinesterase. Podem causar efeitos muscarínicos, nicotínicos e centrais, não apenas salivação.",
+        "intuitive": "A mensagem colinérgica se acumula.",
+        "technical": "Podem causar efeitos muscarínicos, nicotínicos e centrais, não apenas salivação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P07-0484",
+      "number": 484,
+      "topicId": "P07",
+      "text": "Atropina em intoxicação por organofosforado melhora principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reativação química da enzima"
+        },
+        {
+          "id": "B",
+          "text": "Broncorreia e broncoconstrição muscarínicas"
+        },
+        {
+          "id": "C",
+          "text": "Paralisia Nm diretamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Atropina em intoxicação por organofosforado melhora principalmente:",
+      "explanations": {
+        "direct": "Broncorreia e broncoconstrição muscarínicas. Não reativa acetilcolinesterase e não corrige diretamente fraqueza nicotínica.",
+        "intuitive": "Bloqueia parte das fechaduras atingidas pelo excesso de mensagem.",
+        "technical": "Não reativa acetilcolinesterase e não corrige diretamente fraqueza nicotínica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

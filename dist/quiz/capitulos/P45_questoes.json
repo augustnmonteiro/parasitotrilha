@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P45",
+    "name": "Farmacologia · 45 · Aminoglicosídeos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 45
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P45-0817",
+      "number": 817,
+      "topicId": "P45",
+      "text": "Aminoglicosídeos atuam na subunidade:",
+      "options": [
+        {
+          "id": "A",
+          "text": "30S bacteriana"
+        },
+        {
+          "id": "B",
+          "text": "60S humana"
+        },
+        {
+          "id": "C",
+          "text": "50S bacteriana"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Aminoglicosídeos atuam na subunidade:",
+      "explanations": {
+        "direct": "30S bacteriana. Podem induzir erros de leitura; não são macrolídeos.",
+        "intuitive": "Alteram a leitura e síntese de proteínas bacterianas.",
+        "technical": "Podem induzir erros de leitura; não são macrolídeos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P45-0818",
+      "number": 818,
+      "topicId": "P45",
+      "text": "A atividade de aminoglicosídeos é tipicamente relacionada a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente cor da urina"
+        },
+        {
+          "id": "B",
+          "text": "Concentração e efeito pós-antibiótico"
+        },
+        {
+          "id": "C",
+          "text": "Presença de vitamina K"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A atividade de aminoglicosídeos é tipicamente relacionada a:",
+      "explanations": {
+        "direct": "Concentração e efeito pós-antibiótico. Estratégias de dose dependem de contexto e função renal; não copiar esquemas entre todos os pacientes.",
+        "intuitive": "Picos relativos à CIM e efeito persistente importam.",
+        "technical": "Estratégias de dose dependem de contexto e função renal; não copiar esquemas entre todos os pacientes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P45-0819",
+      "number": 819,
+      "topicId": "P45",
+      "text": "Duas toxicidades clássicas são:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nefrotoxicidade e ototoxicidade"
+        },
+        {
+          "id": "B",
+          "text": "Hipertireoidismo e catarata obrigatórios"
+        },
+        {
+          "id": "C",
+          "text": "Hiperglicemia e alopecia universais"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Duas toxicidades clássicas são:",
+      "explanations": {
+        "direct": "Nefrotoxicidade e ototoxicidade. Risco depende de exposição, duração e associações.",
+        "intuitive": "Rim e ouvido são alvos de dano.",
+        "technical": "Risco depende de exposição, duração e associações."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P45-0820",
+      "number": 820,
+      "topicId": "P45",
+      "text": "Aminoglicosídeos podem potencializar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Síntese de acetilcolina obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio neuromuscular"
+        },
+        {
+          "id": "C",
+          "text": "Efeito antagônico absoluto de rocurônio"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Aminoglicosídeos podem potencializar:",
+      "explanations": {
+        "direct": "Bloqueio neuromuscular. É interação relevante em contexto anestésico e neuromuscular.",
+        "intuitive": "A transmissão para o músculo pode ficar prejudicada.",
+        "technical": "É interação relevante em contexto anestésico e neuromuscular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P45-0821",
+      "number": 821,
+      "topicId": "P45",
+      "text": "Betalactâmico pode apresentar sinergia com aminoglicosídeo porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neutraliza sempre toda toxicidade"
+        },
+        {
+          "id": "B",
+          "text": "Lesão da parede facilita acesso ao interior"
+        },
+        {
+          "id": "C",
+          "text": "Transforma aminoglicosídeo em glicose"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Betalactâmico pode apresentar sinergia com aminoglicosídeo porque:",
+      "explanations": {
+        "direct": "Lesão da parede facilita acesso ao interior. A utilidade é específica do microrganismo e cenário; não justifica combinação universal.",
+        "intuitive": "Um abre caminho e o outro age no ribossomo.",
+        "technical": "A utilidade é específica do microrganismo e cenário; não justifica combinação universal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P45-0822",
+      "number": 822,
+      "topicId": "P45",
+      "text": "Amicacina pode manter atividade contra algumas bactérias resistentes a outros aminoglicosídeos por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alvo humano em vez de bacteriano"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de qualquer mecanismo de resistência"
+        },
+        {
+          "id": "C",
+          "text": "Menor susceptibilidade a certas enzimas modificadoras"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Amicacina pode manter atividade contra algumas bactérias resistentes a outros aminoglicosídeos por:",
+      "explanations": {
+        "direct": "Menor susceptibilidade a certas enzimas modificadoras. Não é imune a resistência e precisa de avaliação de susceptibilidade.",
+        "intuitive": "Sua estrutura escapa de algumas formas de inativação.",
+        "technical": "Não é imune a resistência e precisa de avaliação de susceptibilidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P45-0823",
+      "number": 823,
+      "topicId": "P45",
+      "text": "A entrada de aminoglicosídeos na bactéria depende de processo associado a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência completa de energia"
+        },
+        {
+          "id": "B",
+          "text": "Metabolismo energético e oxigênio"
+        },
+        {
+          "id": "C",
+          "text": "Receptor de insulina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A entrada de aminoglicosídeos na bactéria depende de processo associado a:",
+      "explanations": {
+        "direct": "Metabolismo energético e oxigênio. Isso ajuda a explicar baixa atividade contra anaeróbios estritos.",
+        "intuitive": "A droga precisa ser transportada para dentro.",
+        "technical": "Isso ajuda a explicar baixa atividade contra anaeróbios estritos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P45-0824",
+      "number": 824,
+      "topicId": "P45",
+      "text": "Em insuficiência renal, aminoglicosídeos podem acumular porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eliminação renal é importante"
+        },
+        {
+          "id": "B",
+          "text": "São metabolizados exclusivamente no estômago"
+        },
+        {
+          "id": "C",
+          "text": "A filtração não influencia exposição"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Em insuficiência renal, aminoglicosídeos podem acumular porque:",
+      "explanations": {
+        "direct": "Eliminação renal é importante. Ajuste e monitoramento dependem da indicação; não são independentes da função renal.",
+        "intuitive": "Menor limpeza prolonga permanência.",
+        "technical": "Ajuste e monitoramento dependem da indicação; não são independentes da função renal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

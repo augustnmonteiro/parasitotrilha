@@ -1,0 +1,1549 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "F06",
+    "name": "Fisiologia · 06 · Renal",
+    "book": "Costanzo Physiology, 8ª edição",
+    "chapter": 6
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "F06-0201",
+      "number": 201,
+      "topicId": "F06",
+      "text": "A filtração glomerular ocorre do capilar para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Espaço de Bowman"
+        },
+        {
+          "id": "B",
+          "text": "Luz do ureter diretamente"
+        },
+        {
+          "id": "C",
+          "text": "Veia renal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A filtração glomerular ocorre do capilar para:",
+      "explanations": {
+        "direct": "Espaço de Bowman. Ele ainda passará pelos túbulos; não é sangue venoso nem urina ureteral pronta.",
+        "intuitive": "O primeiro filtrado entra na cápsula que envolve o glomérulo.",
+        "technical": "Ele ainda passará pelos túbulos; não é sangue venoso nem urina ureteral pronta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0202",
+      "number": 202,
+      "topicId": "F06",
+      "text": "A barreira glomerular restringe principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Todo sódio plasmático"
+        },
+        {
+          "id": "B",
+          "text": "Toda água plasmática"
+        },
+        {
+          "id": "C",
+          "text": "Células e macromoléculas"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A barreira glomerular restringe principalmente:",
+      "explanations": {
+        "direct": "Células e macromoléculas. Água e pequenos solutos são filtrados; lesão permite proteinúria ou hematúria.",
+        "intuitive": "Deixa passar pequenas partículas e retém componentes grandes.",
+        "technical": "Água e pequenos solutos são filtrados; lesão permite proteinúria ou hematúria."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0203",
+      "number": 203,
+      "topicId": "F06",
+      "text": "Constrição eferente moderada pode inicialmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduzir pressão glomerular obrigatoriamente"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar pressão glomerular"
+        },
+        {
+          "id": "C",
+          "text": "Eliminar pressão oncótica"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Constrição eferente moderada pode inicialmente:",
+      "explanations": {
+        "direct": "Aumentar pressão glomerular. Constrição intensa pode reduzir TFG por queda de fluxo e aumento oncótico; o efeito não é ilimitado.",
+        "intuitive": "A saída mais estreita sustenta pressão antes dela.",
+        "technical": "Constrição intensa pode reduzir TFG por queda de fluxo e aumento oncótico; o efeito não é ilimitado."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0204",
+      "number": 204,
+      "topicId": "F06",
+      "text": "Fração de filtração é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fluxo urinário ÷ débito cardíaco"
+        },
+        {
+          "id": "B",
+          "text": "TFG ÷ fluxo plasmático renal"
+        },
+        {
+          "id": "C",
+          "text": "TFG ÷ fluxo urinário"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Fração de filtração é:",
+      "explanations": {
+        "direct": "TFG ÷ fluxo plasmático renal. Usa fluxo plasmático, não sanguíneo total nem volume de urina.",
+        "intuitive": "É a parte do plasma renal que é filtrada.",
+        "technical": "Usa fluxo plasmático, não sanguíneo total nem volume de urina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0205",
+      "number": 205,
+      "topicId": "F06",
+      "text": "Se TFG = 120 e fluxo plasmático renal = 600 mL/min, a fração de filtração é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5%"
+        },
+        {
+          "id": "B",
+          "text": "20%"
+        },
+        {
+          "id": "C",
+          "text": "80%"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Raciocínio quantitativo",
+      "learningObjective": "Se TFG = 120 e fluxo plasmático renal = 600 mL/min, a fração de filtração é:",
+      "explanations": {
+        "direct": "20%. 120/600 = 0,20; a razão inversa não é uma fração fisiológica de filtração.",
+        "intuitive": "Foram filtradas 120 de cada 600 partes.",
+        "technical": "120/600 = 0,20; a razão inversa não é uma fração fisiológica de filtração."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0206",
+      "number": 206,
+      "topicId": "F06",
+      "text": "Depuração de uma substância é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Todo volume sanguíneo corporal"
+        },
+        {
+          "id": "B",
+          "text": "Volume virtual de plasma limpo por tempo"
+        },
+        {
+          "id": "C",
+          "text": "Massa urinária sem considerar plasma"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Depuração de uma substância é:",
+      "explanations": {
+        "direct": "Volume virtual de plasma limpo por tempo. C = U × V/P; não é necessariamente um volume real separado fisicamente.",
+        "intuitive": "É uma forma de expressar a eficiência de remoção.",
+        "technical": "C = U × V/P; não é necessariamente um volume real separado fisicamente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0207",
+      "number": 207,
+      "topicId": "F06",
+      "text": "Uma substância livremente filtrada sem reabsorção ou secreção tem depuração igual à:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Taxa de filtração glomerular"
+        },
+        {
+          "id": "B",
+          "text": "Taxa de fluxo plasmático renal"
+        },
+        {
+          "id": "C",
+          "text": "Taxa de fluxo urinário"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uma substância livremente filtrada sem reabsorção ou secreção tem depuração igual à:",
+      "explanations": {
+        "direct": "Taxa de filtração glomerular. Inulina é o exemplo clássico; sem manejo tubular, depuração reflete filtração.",
+        "intuitive": "O que passa no filtro sai na urina.",
+        "technical": "Inulina é o exemplo clássico; sem manejo tubular, depuração reflete filtração."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0208",
+      "number": 208,
+      "topicId": "F06",
+      "text": "PAH em baixas concentrações estima principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fração de ejeção renal"
+        },
+        {
+          "id": "B",
+          "text": "Volume residual urinário"
+        },
+        {
+          "id": "C",
+          "text": "Fluxo plasmático renal efetivo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "PAH em baixas concentrações estima principalmente:",
+      "explanations": {
+        "direct": "Fluxo plasmático renal efetivo. Filtração e secreção quase o extraem; extração não perfeita gera fluxo efetivo, não exato total.",
+        "intuitive": "O rim remove grande parte do PAH que recebe.",
+        "technical": "Filtração e secreção quase o extraem; extração não perfeita gera fluxo efetivo, não exato total."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0209",
+      "number": 209,
+      "topicId": "F06",
+      "text": "O túbulo proximal reabsorve normalmente a maior parte de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toda creatinina filtrada"
+        },
+        {
+          "id": "B",
+          "text": "Na⁺ e água filtrados"
+        },
+        {
+          "id": "C",
+          "text": "Todas as proteínas grandes do plasma"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O túbulo proximal reabsorve normalmente a maior parte de:",
+      "explanations": {
+        "direct": "Na⁺ e água filtrados. A reabsorção proximal é aproximadamente iso-osmótica; creatinina não é recuperada dessa maneira.",
+        "intuitive": "A recuperação em massa começa cedo.",
+        "technical": "A reabsorção proximal é aproximadamente iso-osmótica; creatinina não é recuperada dessa maneira."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0210",
+      "number": 210,
+      "topicId": "F06",
+      "text": "O ramo descendente fino da alça é relativamente permeável a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Glicose por transporte SGLT2"
+        },
+        {
+          "id": "B",
+          "text": "NaCl por transporte NKCC2"
+        },
+        {
+          "id": "C",
+          "text": "Água"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O ramo descendente fino da alça é relativamente permeável a:",
+      "explanations": {
+        "direct": "Água. O ramo espesso ascendente reabsorve sal via NKCC2 e é pouco permeável à água.",
+        "intuitive": "Água pode sair para a medula concentrada.",
+        "technical": "O ramo espesso ascendente reabsorve sal via NKCC2 e é pouco permeável à água."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0211",
+      "number": 211,
+      "topicId": "F06",
+      "text": "A elevação da osmolaridade plasmática normalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estimula ADH e sede"
+        },
+        {
+          "id": "B",
+          "text": "Inibe apenas toda filtração"
+        },
+        {
+          "id": "C",
+          "text": "Inibe ADH e sede"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A elevação da osmolaridade plasmática normalmente:",
+      "explanations": {
+        "direct": "Estimula ADH e sede. Osmorreceptores controlam essas respostas; a TFG não precisa cessar.",
+        "intuitive": "O corpo tenta obter e conservar água.",
+        "technical": "Osmorreceptores controlam essas respostas; a TFG não precisa cessar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0212",
+      "number": 212,
+      "topicId": "F06",
+      "text": "Aldosterona promove nas células principais:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reabsorção exclusiva de glicose"
+        },
+        {
+          "id": "B",
+          "text": "Reabsorção de Na⁺ e secreção de K⁺"
+        },
+        {
+          "id": "C",
+          "text": "Secreção de Na⁺ e retenção de K⁺"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Aldosterona promove nas células principais:",
+      "explanations": {
+        "direct": "Reabsorção de Na⁺ e secreção de K⁺. Aumenta ENaC e Na⁺/K⁺-ATPase; não é hormônio primário do transporte de glicose.",
+        "intuitive": "Conserva sódio ao custo de maior eliminação de potássio.",
+        "technical": "Aumenta ENaC e Na⁺/K⁺-ATPase; não é hormônio primário do transporte de glicose."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0213",
+      "number": 213,
+      "topicId": "F06",
+      "text": "A mácula densa detecta principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Concentração de bilirrubina"
+        },
+        {
+          "id": "B",
+          "text": "Volume vesical"
+        },
+        {
+          "id": "C",
+          "text": "Entrega tubular de NaCl"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A mácula densa detecta principalmente:",
+      "explanations": {
+        "direct": "Entrega tubular de NaCl. O sinal integra feedback tubuloglomerular e renina; não mede diretamente urina na bexiga.",
+        "intuitive": "Ela avalia quanto sal chega ao segmento distal.",
+        "technical": "O sinal integra feedback tubuloglomerular e renina; não mede diretamente urina na bexiga."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0214",
+      "number": 214,
+      "topicId": "F06",
+      "text": "O rim ativa vitamina D por meio da:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1α-hidroxilase"
+        },
+        {
+          "id": "B",
+          "text": "Aromatase"
+        },
+        {
+          "id": "C",
+          "text": "Acetilcolinesterase"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O rim ativa vitamina D por meio da:",
+      "explanations": {
+        "direct": "1α-hidroxilase. Forma calcitriol a partir de 25-OH vitamina D; aromatase converte andrógenos em estrogênios.",
+        "intuitive": "A última ativação importante ocorre no rim.",
+        "technical": "Forma calcitriol a partir de 25-OH vitamina D; aromatase converte andrógenos em estrogênios."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0215",
+      "number": 215,
+      "topicId": "F06",
+      "text": "Um aumento da fração de filtração eleva nos capilares peritubulares a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pressão oncótica"
+        },
+        {
+          "id": "B",
+          "text": "Pressão de Bowman obrigatoriamente"
+        },
+        {
+          "id": "C",
+          "text": "Concentração de água livre sem proteínas"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um aumento da fração de filtração eleva nos capilares peritubulares a:",
+      "explanations": {
+        "direct": "Pressão oncótica. Isso favorece reabsorção proximal, junto a condições hidrostáticas apropriadas.",
+        "intuitive": "O plasma que sai do filtro fica mais concentrado em proteínas.",
+        "technical": "Isso favorece reabsorção proximal, junto a condições hidrostáticas apropriadas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0216",
+      "number": 216,
+      "topicId": "F06",
+      "text": "Células intercaladas alfa secretam principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "H⁺"
+        },
+        {
+          "id": "B",
+          "text": "HCO₃⁻"
+        },
+        {
+          "id": "C",
+          "text": "NH₃ como única via"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Células intercaladas alfa secretam principalmente:",
+      "explanations": {
+        "direct": "H⁺. Recuperam bicarbonato; células beta participam da secreção de bicarbonato em alcalose.",
+        "intuitive": "Ajudam a eliminar ácido.",
+        "technical": "Recuperam bicarbonato; células beta participam da secreção de bicarbonato em alcalose."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0217",
+      "number": 217,
+      "topicId": "F06",
+      "text": "A depuração de água livre é positiva quando a urina é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mais diluída que o plasma"
+        },
+        {
+          "id": "B",
+          "text": "Mais concentrada que o plasma"
+        },
+        {
+          "id": "C",
+          "text": "Igual ao plasma obrigatoriamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A depuração de água livre é positiva quando a urina é:",
+      "explanations": {
+        "direct": "Mais diluída que o plasma. CH₂O = V − Cosm; urina concentrada gera valor negativo.",
+        "intuitive": "O rim elimina água além da necessária para acompanhar solutos.",
+        "technical": "CH₂O = V − Cosm; urina concentrada gera valor negativo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0218",
+      "number": 218,
+      "topicId": "F06",
+      "text": "A autorregulação renal usa resposta miogênica em que estiramento aferente causa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Contração do músculo vascular"
+        },
+        {
+          "id": "B",
+          "text": "Relaxamento obrigatório"
+        },
+        {
+          "id": "C",
+          "text": "Destruição do glomérulo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A autorregulação renal usa resposta miogênica em que estiramento aferente causa:",
+      "explanations": {
+        "direct": "Contração do músculo vascular. É resposta local, diferente de controle exclusivamente hormonal.",
+        "intuitive": "O vaso ajusta seu calibre para limitar excesso de fluxo.",
+        "technical": "É resposta local, diferente de controle exclusivamente hormonal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0219",
+      "number": 219,
+      "topicId": "F06",
+      "text": "A reabsorção proximal de água acompanha principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transporte ativo direto de água"
+        },
+        {
+          "id": "B",
+          "text": "Secreção de proteínas grandes"
+        },
+        {
+          "id": "C",
+          "text": "Reabsorção de solutos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A reabsorção proximal de água acompanha principalmente:",
+      "explanations": {
+        "direct": "Reabsorção de solutos. Osmose e alta permeabilidade explicam o fluxo; não existe ATPase que bombeie água.",
+        "intuitive": "A água segue o gradiente criado pelo sal e outros solutos.",
+        "technical": "Osmose e alta permeabilidade explicam o fluxo; não existe ATPase que bombeie água."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0220",
+      "number": 220,
+      "topicId": "F06",
+      "text": "A pressão hidrostática glomerular favorece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Secreção tubular de glicose"
+        },
+        {
+          "id": "B",
+          "text": "Retenção de todo líquido capilar"
+        },
+        {
+          "id": "C",
+          "text": "Filtração"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A pressão hidrostática glomerular favorece:",
+      "explanations": {
+        "direct": "Filtração. Pressão oncótica capilar e pressão de Bowman se opõem à filtração.",
+        "intuitive": "Ela empurra líquido para Bowman.",
+        "technical": "Pressão oncótica capilar e pressão de Bowman se opõem à filtração."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0221",
+      "number": 221,
+      "topicId": "F06",
+      "text": "Constrição da arteríola aferente tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar ambos invariavelmente"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar TFG sem mudar pressão"
+        },
+        {
+          "id": "C",
+          "text": "Reduzir fluxo renal e TFG"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Constrição da arteríola aferente tende a:",
+      "explanations": {
+        "direct": "Reduzir fluxo renal e TFG. O efeito difere de constrição eferente moderada, que pode manter ou elevar TFG.",
+        "intuitive": "Chega menos sangue e pressão ao filtro.",
+        "technical": "O efeito difere de constrição eferente moderada, que pode manter ou elevar TFG."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0222",
+      "number": 222,
+      "topicId": "F06",
+      "text": "A creatinina tende a superestimar discretamente TFG porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Também é secretada no túbulo"
+        },
+        {
+          "id": "B",
+          "text": "Não é filtrada"
+        },
+        {
+          "id": "C",
+          "text": "É totalmente reabsorvida"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A creatinina tende a superestimar discretamente TFG porque:",
+      "explanations": {
+        "direct": "Também é secretada no túbulo. Secreção faz clearance superar TFG; limitações adicionais incluem produção muscular variável.",
+        "intuitive": "Além do filtro, um pouco entra na urina pelo túbulo.",
+        "technical": "Secreção faz clearance superar TFG; limitações adicionais incluem produção muscular variável."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0223",
+      "number": 223,
+      "topicId": "F06",
+      "text": "O ramo espesso ascendente é chamado diluidor porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Secreta água ativamente"
+        },
+        {
+          "id": "B",
+          "text": "Reabsorve apenas água"
+        },
+        {
+          "id": "C",
+          "text": "Reabsorve sal sem água proporcional"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O ramo espesso ascendente é chamado diluidor porque:",
+      "explanations": {
+        "direct": "Reabsorve sal sem água proporcional. A baixa permeabilidade à água é essencial; não há bomba de água.",
+        "intuitive": "Retira partículas e deixa o líquido tubular mais diluído.",
+        "technical": "A baixa permeabilidade à água é essencial; não há bomba de água."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0224",
+      "number": 224,
+      "topicId": "F06",
+      "text": "O multiplicador de contracorrente depende principalmente da:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alça de Henle"
+        },
+        {
+          "id": "B",
+          "text": "Arteríola aferente isolada"
+        },
+        {
+          "id": "C",
+          "text": "Bexiga"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O multiplicador de contracorrente depende principalmente da:",
+      "explanations": {
+        "direct": "Alça de Henle. Vasos retos preservam o gradiente por troca; não são o multiplicador tubular principal.",
+        "intuitive": "Fluxos opostos ajudam a construir o gradiente medular.",
+        "technical": "Vasos retos preservam o gradiente por troca; não são o multiplicador tubular principal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0225",
+      "number": 225,
+      "topicId": "F06",
+      "text": "Os vasos retos preservam o gradiente medular por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Troca em contracorrente"
+        },
+        {
+          "id": "B",
+          "text": "Mistura rápida que lava toda a medula"
+        },
+        {
+          "id": "C",
+          "text": "Secreção ativa de glicose"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Os vasos retos preservam o gradiente medular por:",
+      "explanations": {
+        "direct": "Troca em contracorrente. Fluxo excessivo pode dissipar o gradiente; a arquitetura limita lavagem medular.",
+        "intuitive": "Trocam água e solutos sem carregar todo o gradiente embora.",
+        "technical": "Fluxo excessivo pode dissipar o gradiente; a arquitetura limita lavagem medular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0226",
+      "number": 226,
+      "topicId": "F06",
+      "text": "ADH aumenta permeabilidade à água no coletor por inserir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "NKCC2 basolateral"
+        },
+        {
+          "id": "B",
+          "text": "GLUT4 apical"
+        },
+        {
+          "id": "C",
+          "text": "Aquaporina 2 apical"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "ADH aumenta permeabilidade à água no coletor por inserir:",
+      "explanations": {
+        "direct": "Aquaporina 2 apical. V2-AMPc controla AQP2; GLUT4 transporta glicose e NKCC2 atua na alça.",
+        "intuitive": "Mais canais permitem recuperar água.",
+        "technical": "V2-AMPc controla AQP2; GLUT4 transporta glicose e NKCC2 atua na alça."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0227",
+      "number": 227,
+      "topicId": "F06",
+      "text": "Baixa entrega de NaCl à mácula densa tende a estimular:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Insulina"
+        },
+        {
+          "id": "B",
+          "text": "Renina"
+        },
+        {
+          "id": "C",
+          "text": "Tiroxina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Baixa entrega de NaCl à mácula densa tende a estimular:",
+      "explanations": {
+        "direct": "Renina. Sinalização local para células justaglomerulares ativa o sistema renina-angiotensina.",
+        "intuitive": "O rim interpreta possível falta de perfusão ou de sal.",
+        "technical": "Sinalização local para células justaglomerulares ativa o sistema renina-angiotensina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0228",
+      "number": 228,
+      "topicId": "F06",
+      "text": "Angiotensina II favorece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reabsorção proximal de Na⁺"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio de aldosterona"
+        },
+        {
+          "id": "C",
+          "text": "Excreção obrigatória de todo Na⁺"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Angiotensina II favorece:",
+      "explanations": {
+        "direct": "Reabsorção proximal de Na⁺. Estimula transportadores proximais e aldosterona; não é um sinal natriurético primário.",
+        "intuitive": "Ajuda a recuperar sal e sustentar volume circulante.",
+        "technical": "Estimula transportadores proximais e aldosterona; não é um sinal natriurético primário."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0229",
+      "number": 229,
+      "topicId": "F06",
+      "text": "Peptídeo natriurético atrial tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estimular sede como efeito exclusivo"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar renina obrigatoriamente"
+        },
+        {
+          "id": "C",
+          "text": "Favorecer excreção de sódio"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Peptídeo natriurético atrial tende a:",
+      "explanations": {
+        "direct": "Favorecer excreção de sódio. Antagoniza retenção de sódio por múltiplas vias; não equivale a ativação do SRAA.",
+        "intuitive": "O coração distendido sinaliza que há volume a eliminar.",
+        "technical": "Antagoniza retenção de sódio por múltiplas vias; não equivale a ativação do SRAA."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0230",
+      "number": 230,
+      "topicId": "F06",
+      "text": "A reabsorção de cálcio no túbulo distal é estimulada por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aldosterona como regulador dominante"
+        },
+        {
+          "id": "B",
+          "text": "PTH"
+        },
+        {
+          "id": "C",
+          "text": "Calcitonina como regulador dominante"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A reabsorção de cálcio no túbulo distal é estimulada por:",
+      "explanations": {
+        "direct": "PTH. Também reduz reabsorção proximal de fosfato; ADH regula sobretudo água.",
+        "intuitive": "PTH ajuda o rim a conservar cálcio.",
+        "technical": "Também reduz reabsorção proximal de fosfato; ADH regula sobretudo água."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0231",
+      "number": 231,
+      "topicId": "F06",
+      "text": "PTH aumenta excreção renal de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cálcio obrigatoriamente"
+        },
+        {
+          "id": "B",
+          "text": "Glicose em todos os casos"
+        },
+        {
+          "id": "C",
+          "text": "Fosfato"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "PTH aumenta excreção renal de:",
+      "explanations": {
+        "direct": "Fosfato. PTH reduz cotransporte proximal de fosfato; não produz glicosúria universal.",
+        "intuitive": "O rim perde fosfato enquanto conserva cálcio.",
+        "technical": "PTH reduz cotransporte proximal de fosfato; não produz glicosúria universal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0232",
+      "number": 232,
+      "topicId": "F06",
+      "text": "A eritropoietina renal aumenta principalmente diante de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Excesso de oxigênio persistente"
+        },
+        {
+          "id": "B",
+          "text": "Aumento isolado da calcemia"
+        },
+        {
+          "id": "C",
+          "text": "Hipóxia tecidual"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A eritropoietina renal aumenta principalmente diante de:",
+      "explanations": {
+        "direct": "Hipóxia tecidual. Células intersticiais produtoras de EPO respondem à hipóxia via HIF.",
+        "intuitive": "O rim avisa que faltam transportadores de oxigênio.",
+        "technical": "Células intersticiais produtoras de EPO respondem à hipóxia via HIF."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0233",
+      "number": 233,
+      "topicId": "F06",
+      "text": "A secreção de K⁺ distal tende a aumentar com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maior fluxo e entrega distal de Na⁺"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de aldosterona e fluxo zero"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio completo de ENaC"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A secreção de K⁺ distal tende a aumentar com:",
+      "explanations": {
+        "direct": "Maior fluxo e entrega distal de Na⁺. A eletronegatividade luminal e o gradiente de K⁺ participam; ENaC bloqueado reduz a secreção.",
+        "intuitive": "Mais fluxo e sódio na região distal favorecem perda de potássio.",
+        "technical": "A eletronegatividade luminal e o gradiente de K⁺ participam; ENaC bloqueado reduz a secreção."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0234",
+      "number": 234,
+      "topicId": "F06",
+      "text": "Uma redução isolada de TFG com produção constante de creatinina tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Não alterar creatinina em nenhum momento"
+        },
+        {
+          "id": "B",
+          "text": "Elevar creatinina plasmática"
+        },
+        {
+          "id": "C",
+          "text": "Zerar creatinina plasmática"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Uma redução isolada de TFG com produção constante de creatinina tende a:",
+      "explanations": {
+        "direct": "Elevar creatinina plasmática. A relação é aproximadamente inversa no estado estável; mudanças agudas têm atraso.",
+        "intuitive": "Com menor remoção, a substância se acumula.",
+        "technical": "A relação é aproximadamente inversa no estado estável; mudanças agudas têm atraso."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0235",
+      "number": 235,
+      "topicId": "F06",
+      "text": "Um cálculo causa obstrução ureteral importante, com transmissão de pressão para o sistema tubular. Qual força tende a reduzir a filtração no rim afetado?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Área de filtração imediatamente"
+        },
+        {
+          "id": "B",
+          "text": "Pressão hidrostática em Bowman"
+        },
+        {
+          "id": "C",
+          "text": "Pressão oncótica de Bowman sempre"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um cálculo causa obstrução ureteral importante, com transmissão de pressão para o sistema tubular. Qual força tende a reduzir a filtração no rim afetado?",
+      "explanations": {
+        "direct": "Pressão hidrostática em Bowman. É uma força retrógrada; não exige aumento de proteínas na cápsula.",
+        "intuitive": "A pressão represada se opõe à saída do filtrado.",
+        "technical": "É uma força retrógrada; não exige aumento de proteínas na cápsula."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0236",
+      "number": 236,
+      "topicId": "F06",
+      "text": "Glicosúria no diabetes descompensado ocorre quando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Carga filtrada supera capacidade de reabsorção"
+        },
+        {
+          "id": "B",
+          "text": "Toda glicose é secretada ativamente"
+        },
+        {
+          "id": "C",
+          "text": "Glicose deixa de ser filtrada"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Glicosúria no diabetes descompensado ocorre quando:",
+      "explanations": {
+        "direct": "Carga filtrada supera capacidade de reabsorção. O limiar apresenta dispersão entre néfrons; não depende de secreção tubular de glicose.",
+        "intuitive": "Os transportadores não dão conta da quantidade que chega.",
+        "technical": "O limiar apresenta dispersão entre néfrons; não depende de secreção tubular de glicose."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0237",
+      "number": 237,
+      "topicId": "F06",
+      "text": "Após cirurgia hipofisária, um paciente desenvolve poliúria com urina diluída. A urina concentra-se após desmopressina. Qual mecanismo é mais compatível com esse resultado?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Resistência obrigatória ao receptor de insulina"
+        },
+        {
+          "id": "B",
+          "text": "Deficiência de ADH"
+        },
+        {
+          "id": "C",
+          "text": "Excesso de aldosterona"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Após cirurgia hipofisária, um paciente desenvolve poliúria com urina diluída. A urina concentra-se após desmopressina. Qual mecanismo é mais compatível com esse resultado?",
+      "explanations": {
+        "direct": "Deficiência de ADH. No nefrogênico, o rim não responde adequadamente ao ADH disponível.",
+        "intuitive": "Falta o sinal para conservar água.",
+        "technical": "No nefrogênico, o rim não responde adequadamente ao ADH disponível."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0238",
+      "number": 238,
+      "topicId": "F06",
+      "text": "Um paciente tem poliúria, osmolaridade plasmática elevada e urina persistentemente diluída. Após desmopressina, há pouca resposta. Qual mecanismo explica esse padrão?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Há resistência renal ao ADH"
+        },
+        {
+          "id": "B",
+          "text": "O pâncreas não libera glucagon"
+        },
+        {
+          "id": "C",
+          "text": "A hipófise liberou pouco ACTH"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente tem poliúria, osmolaridade plasmática elevada e urina persistentemente diluída. Após desmopressina, há pouca resposta. Qual mecanismo explica esse padrão?",
+      "explanations": {
+        "direct": "Há resistência renal ao ADH. A resposta à desmopressina ajuda a distinguir formas, considerando quadros parciais e contexto.",
+        "intuitive": "O sinal chega, mas a resposta renal falha.",
+        "technical": "A resposta à desmopressina ajuda a distinguir formas, considerando quadros parciais e contexto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0239",
+      "number": 239,
+      "topicId": "F06",
+      "text": "Hipercalemia estimula diretamente secreção de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aldosterona"
+        },
+        {
+          "id": "B",
+          "text": "Calcitonina"
+        },
+        {
+          "id": "C",
+          "text": "Prolactina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Hipercalemia estimula diretamente secreção de:",
+      "explanations": {
+        "direct": "Aldosterona. Células glomerulosas adrenais respondem a K⁺; os outros hormônios não são o controle direto principal.",
+        "intuitive": "O excesso de potássio pede mais excreção renal.",
+        "technical": "Células glomerulosas adrenais respondem a K⁺; os outros hormônios não são o controle direto principal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F06-0240",
+      "number": 240,
+      "topicId": "F06",
+      "text": "Durante privação de água em pessoa saudável, espera-se:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Urina muito diluída e alto volume"
+        },
+        {
+          "id": "B",
+          "text": "ADH suprimido"
+        },
+        {
+          "id": "C",
+          "text": "Urina concentrada e baixo volume"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Durante privação de água em pessoa saudável, espera-se:",
+      "explanations": {
+        "direct": "Urina concentrada e baixo volume. ADH e gradiente medular aumentam reabsorção; defeitos nesses mecanismos alteram a resposta.",
+        "intuitive": "O organismo conserva água no coletor.",
+        "technical": "ADH e gradiente medular aumentam reabsorção; defeitos nesses mecanismos alteram a resposta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

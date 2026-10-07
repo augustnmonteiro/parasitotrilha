@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P24",
+    "name": "Farmacologia · 24 · Anticonvulsivantes",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 24
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P24-0649",
+      "number": 649,
+      "topicId": "P24",
+      "text": "Etossuximida age principalmente sobre:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptores μ"
+        },
+        {
+          "id": "B",
+          "text": "Canais ENaC"
+        },
+        {
+          "id": "C",
+          "text": "Canais de Ca²⁺ tipo T"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Etossuximida age principalmente sobre:",
+      "explanations": {
+        "direct": "Canais de Ca²⁺ tipo T. Não é um tratamento universal para todos os tipos de crise.",
+        "intuitive": "Modula correntes envolvidas em circuitos de ausência.",
+        "technical": "Não é um tratamento universal para todos os tipos de crise."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P24-0650",
+      "number": 650,
+      "topicId": "P24",
+      "text": "Levetiracetam liga-se à proteína:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Troponina C"
+        },
+        {
+          "id": "B",
+          "text": "VKORC1"
+        },
+        {
+          "id": "C",
+          "text": "SV2A"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Levetiracetam liga-se à proteína:",
+      "explanations": {
+        "direct": "SV2A. Não age como anticoagulante nem regulador direto do sarcômero.",
+        "intuitive": "Modula uma peça da liberação vesicular.",
+        "technical": "Não age como anticoagulante nem regulador direto do sarcômero."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P24-0651",
+      "number": 651,
+      "topicId": "P24",
+      "text": "Gabapentina age principalmente ligando-se à:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Subunidade α2δ de canais de Ca²⁺"
+        },
+        {
+          "id": "B",
+          "text": "Região agonista do receptor GABA_A"
+        },
+        {
+          "id": "C",
+          "text": "Região agonista do receptor GABA_B"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Gabapentina age principalmente ligando-se à:",
+      "explanations": {
+        "direct": "Subunidade α2δ de canais de Ca²⁺. Modula transmissão excitatória; não imita diretamente todos os efeitos de GABA.",
+        "intuitive": "Apesar do nome, seu principal alvo não é o receptor de GABA.",
+        "technical": "Modula transmissão excitatória; não imita diretamente todos os efeitos de GABA."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P24-0652",
+      "number": 652,
+      "topicId": "P24",
+      "text": "Fenitoína reduz disparos repetitivos por bloquear:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptores H2"
+        },
+        {
+          "id": "B",
+          "text": "Síntese de acetilcolina"
+        },
+        {
+          "id": "C",
+          "text": "Canais de Na⁺ dependentes do estado"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Fenitoína reduz disparos repetitivos por bloquear:",
+      "explanations": {
+        "direct": "Canais de Na⁺ dependentes do estado. O bloqueio é uso-dependente; não é anti-histamínico.",
+        "intuitive": "Estabiliza canais que participaram da atividade elétrica.",
+        "technical": "O bloqueio é uso-dependente; não é anti-histamínico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P24-0653",
+      "number": 653,
+      "topicId": "P24",
+      "text": "Fenitoína pode apresentar aumento desproporcional de concentração porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "É sempre eliminada por ordem zero em toda dose"
+        },
+        {
+          "id": "B",
+          "text": "Seu metabolismo pode saturar"
+        },
+        {
+          "id": "C",
+          "text": "Nunca se liga a proteínas"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Fenitoína pode apresentar aumento desproporcional de concentração porque:",
+      "explanations": {
+        "direct": "Seu metabolismo pode saturar. A não linearidade exige cautela; ligação à albumina também afeta interpretação do nível total.",
+        "intuitive": "A capacidade de metabolização pode chegar ao limite.",
+        "technical": "A não linearidade exige cautela; ligação à albumina também afeta interpretação do nível total."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P24-0654",
+      "number": 654,
+      "topicId": "P24",
+      "text": "Carbamazepina pode reduzir efeito de outros fármacos por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio de absorção de água"
+        },
+        {
+          "id": "B",
+          "text": "Indução enzimática"
+        },
+        {
+          "id": "C",
+          "text": "Inibição universal de toda CYP"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Carbamazepina pode reduzir efeito de outros fármacos por:",
+      "explanations": {
+        "direct": "Indução enzimática. Também apresenta autoindução; interações dependem do substrato.",
+        "intuitive": "Aumenta a maquinaria que elimina alguns medicamentos.",
+        "technical": "Também apresenta autoindução; interações dependem do substrato."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P24-0655",
+      "number": 655,
+      "topicId": "P24",
+      "text": "Valproato exige atenção especial na gestação por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de passagem placentária"
+        },
+        {
+          "id": "B",
+          "text": "Risco teratogênico e neurodesenvolvimental"
+        },
+        {
+          "id": "C",
+          "text": "Proteção fetal garantida"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Valproato exige atenção especial na gestação por:",
+      "explanations": {
+        "direct": "Risco teratogênico e neurodesenvolvimental. Decisões requerem avaliação especializada; interrupção abrupta também pode ser perigosa.",
+        "intuitive": "O benefício anticonvulsivante deve ser pesado contra riscos importantes.",
+        "technical": "Decisões requerem avaliação especializada; interrupção abrupta também pode ser perigosa."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P24-0656",
+      "number": 656,
+      "topicId": "P24",
+      "text": "Lamotrigina pode causar reação cutânea grave, com risco aumentado por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uso de água junto ao comprimido"
+        },
+        {
+          "id": "B",
+          "text": "Titulação rápida e interação com valproato"
+        },
+        {
+          "id": "C",
+          "text": "Baixa exposição em toda circunstância"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Lamotrigina pode causar reação cutânea grave, com risco aumentado por:",
+      "explanations": {
+        "direct": "Titulação rápida e interação com valproato. Valproato reduz metabolismo da lamotrigina; isso não é uma alergia inevitável em todos.",
+        "intuitive": "Subir a exposição depressa pode aumentar risco.",
+        "technical": "Valproato reduz metabolismo da lamotrigina; isso não é uma alergia inevitável em todos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P63",
+    "name": "Farmacologia · 63 · Canabinoides",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 63
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P63-0961",
+      "number": 961,
+      "topicId": "P63",
+      "text": "THC exerce efeitos psicoativos principalmente por receptores:",
+      "options": [
+        {
+          "id": "A",
+          "text": "H2"
+        },
+        {
+          "id": "B",
+          "text": "CB1"
+        },
+        {
+          "id": "C",
+          "text": "AT1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "THC exerce efeitos psicoativos principalmente por receptores:",
+      "explanations": {
+        "direct": "CB1. CB1 é abundante no SNC; não é receptor de histamina gástrica.",
+        "intuitive": "Modula a transmissão em circuitos cerebrais.",
+        "technical": "CB1 é abundante no SNC; não é receptor de histamina gástrica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P63-0962",
+      "number": 962,
+      "topicId": "P63",
+      "text": "Endocanabinoides podem sinalizar de modo retrógrado, isto é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Da célula pós-sináptica para a terminação pré-sináptica"
+        },
+        {
+          "id": "B",
+          "text": "Apenas do sangue para o rim"
+        },
+        {
+          "id": "C",
+          "text": "Somente do axônio ao núcleo por via hormonal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Endocanabinoides podem sinalizar de modo retrógrado, isto é:",
+      "explanations": {
+        "direct": "Da célula pós-sináptica para a terminação pré-sináptica. Essa modulação pode reduzir liberação de transmissores; não é a direção clássica única da sinapse química.",
+        "intuitive": "A célula que recebeu o sinal ajusta a liberação na origem.",
+        "technical": "Essa modulação pode reduzir liberação de transmissores; não é a direção clássica única da sinapse química."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P63-0963",
+      "number": 963,
+      "topicId": "P63",
+      "text": "Receptores canabinoides sinalizam principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Proteínas Gq"
+        },
+        {
+          "id": "B",
+          "text": "Proteínas Gs"
+        },
+        {
+          "id": "C",
+          "text": "Proteínas Gi/o"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Receptores canabinoides sinalizam principalmente por:",
+      "explanations": {
+        "direct": "Proteínas Gi/o. Não são canais ionotrópicos diretamente abertos pelo ligante.",
+        "intuitive": "Modulam liberação de neurotransmissores por proteínas G.",
+        "technical": "Não são canais ionotrópicos diretamente abertos pelo ligante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P63-0964",
+      "number": 964,
+      "topicId": "P63",
+      "text": "Canabidiol é diferente de THC porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Não apresenta o mesmo perfil de agonismo e intoxicação psicoativa"
+        },
+        {
+          "id": "B",
+          "text": "Não pode interagir com medicamentos"
+        },
+        {
+          "id": "C",
+          "text": "É farmacologicamente idêntico em todos os alvos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Canabidiol é diferente de THC porque:",
+      "explanations": {
+        "direct": "Não apresenta o mesmo perfil de agonismo e intoxicação psicoativa. Seu mecanismo é multifatorial e pode haver interações metabólicas.",
+        "intuitive": "Moléculas da mesma planta podem agir de formas diferentes.",
+        "technical": "Seu mecanismo é multifatorial e pode haver interações metabólicas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P63-0965",
+      "number": 965,
+      "topicId": "P63",
+      "text": "Canabidiol pode alterar exposição a outros fármacos por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Interferir em enzimas metabolizadoras"
+        },
+        {
+          "id": "B",
+          "text": "Ser isento de ação fora do cérebro"
+        },
+        {
+          "id": "C",
+          "text": "Impedir toda absorção de água"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Canabidiol pode alterar exposição a outros fármacos por:",
+      "explanations": {
+        "direct": "Interferir em enzimas metabolizadoras. Formulação, dose e substrato importam; origem vegetal não exclui interação.",
+        "intuitive": "O efeito não se limita ao sintoma tratado.",
+        "technical": "Formulação, dose e substrato importam; origem vegetal não exclui interação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P63-0966",
+      "number": 966,
+      "topicId": "P63",
+      "text": "Uso de THC pode prejudicar condução de veículos por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alterar atenção, tempo de reação e coordenação"
+        },
+        {
+          "id": "B",
+          "text": "Não afetar desempenho se houver tolerância"
+        },
+        {
+          "id": "C",
+          "text": "Melhorar reflexos de forma garantida"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Uso de THC pode prejudicar condução de veículos por:",
+      "explanations": {
+        "direct": "Alterar atenção, tempo de reação e coordenação. Tolerância subjetiva não elimina toda alteração psicomotora.",
+        "intuitive": "Sentir-se habituado não garante desempenho seguro.",
+        "technical": "Tolerância subjetiva não elimina toda alteração psicomotora."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P63-0967",
+      "number": 967,
+      "topicId": "P63",
+      "text": "CB2 está associado de modo importante a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Células e respostas imunes"
+        },
+        {
+          "id": "B",
+          "text": "Apenas placa motora"
+        },
+        {
+          "id": "C",
+          "text": "Exclusivamente nó sinusal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "CB2 está associado de modo importante a:",
+      "explanations": {
+        "direct": "Células e respostas imunes. A distribuição não é absolutamente exclusiva; evitar equivaler CB2 a receptor muscular Nm.",
+        "intuitive": "Participa de modulação imune em vários tecidos.",
+        "technical": "A distribuição não é absolutamente exclusiva; evitar equivaler CB2 a receptor muscular Nm."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P63-0968",
+      "number": 968,
+      "topicId": "P63",
+      "text": "Síndrome de hiperêmese canabinoide mostra que exposição crônica pode:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Produzir apenas efeitos terapêuticos"
+        },
+        {
+          "id": "B",
+          "text": "Associar-se paradoxalmente a vômitos recorrentes"
+        },
+        {
+          "id": "C",
+          "text": "Impedir qualquer náusea em todo usuário"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Síndrome de hiperêmese canabinoide mostra que exposição crônica pode:",
+      "explanations": {
+        "direct": "Associar-se paradoxalmente a vômitos recorrentes. O diagnóstico depende de história e exclusão de outras causas; não ocorre em todo usuário.",
+        "intuitive": "Um agente com efeito antiemético pode ter padrão adverso diferente no uso crônico.",
+        "technical": "O diagnóstico depende de história e exclusão de outras causas; não ocorre em todo usuário."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

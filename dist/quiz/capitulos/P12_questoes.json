@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P12",
+    "name": "Farmacologia · 12 · Antianginosos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 12
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P12-0533",
+      "number": 533,
+      "topicId": "P12",
+      "text": "Cefaleia por nitratos relaciona-se a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio da síntese de serotonina exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Desidratação obrigatória"
+        },
+        {
+          "id": "C",
+          "text": "Vasodilatação"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Cefaleia por nitratos relaciona-se a:",
+      "explanations": {
+        "direct": "Vasodilatação. É efeito farmacológico previsível; não prova alergia.",
+        "intuitive": "Vasos dilatados podem causar dor de cabeça.",
+        "technical": "É efeito farmacológico previsível; não prova alergia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P12-0534",
+      "number": 534,
+      "topicId": "P12",
+      "text": "Uso contínuo de nitratos pode levar a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio permanente de receptores β"
+        },
+        {
+          "id": "B",
+          "text": "Tolerância"
+        },
+        {
+          "id": "C",
+          "text": "Sensibilização infinita"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uso contínuo de nitratos pode levar a:",
+      "explanations": {
+        "direct": "Tolerância. Mecanismos incluem alterações de bioativação e respostas compensatórias; não é bloqueio beta.",
+        "intuitive": "O efeito diminui com exposição sem pausa.",
+        "technical": "Mecanismos incluem alterações de bioativação e respostas compensatórias; não é bloqueio beta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P12-0535",
+      "number": 535,
+      "topicId": "P12",
+      "text": "Ivabradina diminui frequência por bloquear:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor de aldosterona"
+        },
+        {
+          "id": "B",
+          "text": "Corrente If no nó sinusal"
+        },
+        {
+          "id": "C",
+          "text": "Canal Nm na placa"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ivabradina diminui frequência por bloquear:",
+      "explanations": {
+        "direct": "Corrente If no nó sinusal. Seu efeito requer atividade sinusal; não é controle universal de qualquer taquiarritmia.",
+        "intuitive": "Desacelera o marca-passo sem depender de bloqueio beta.",
+        "technical": "Seu efeito requer atividade sinusal; não é controle universal de qualquer taquiarritmia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P12-0536",
+      "number": 536,
+      "topicId": "P12",
+      "text": "Nitratos orgânicos relaxam músculo liso principalmente via:",
+      "options": [
+        {
+          "id": "A",
+          "text": "NO e GMPc"
+        },
+        {
+          "id": "B",
+          "text": "Histamina e H1"
+        },
+        {
+          "id": "C",
+          "text": "Acetilcolina e Nm"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Nitratos orgânicos relaxam músculo liso principalmente via:",
+      "explanations": {
+        "direct": "NO e GMPc. Ativação de guanilil ciclase reduz atividade contrátil; não é via nicotínica.",
+        "intuitive": "Aumentam uma mensagem que promove relaxamento.",
+        "technical": "Ativação de guanilil ciclase reduz atividade contrátil; não é via nicotínica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P12-0537",
+      "number": 537,
+      "topicId": "P12",
+      "text": "Em doses usuais, nitratos reduzem demanda de O₂ sobretudo ao diminuir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oxigênio inspirado"
+        },
+        {
+          "id": "B",
+          "text": "Pré-carga"
+        },
+        {
+          "id": "C",
+          "text": "Concentração de hemoglobina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Em doses usuais, nitratos reduzem demanda de O₂ sobretudo ao diminuir:",
+      "explanations": {
+        "direct": "Pré-carga. Venodilatação predomina; não se busca reduzir transporte de oxigênio.",
+        "intuitive": "Menos enchimento reduz tensão da parede cardíaca.",
+        "technical": "Venodilatação predomina; não se busca reduzir transporte de oxigênio."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P12-0538",
+      "number": 538,
+      "topicId": "P12",
+      "text": "Sildenafil inibe principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fosfodiesterase tipo 3"
+        },
+        {
+          "id": "B",
+          "text": "Fosfodiesterase tipo 5"
+        },
+        {
+          "id": "C",
+          "text": "Guanilil ciclase solúvel"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Sildenafil inibe principalmente:",
+      "explanations": {
+        "direct": "Fosfodiesterase tipo 5. Não produz NO diretamente nem bloqueia angiotensina.",
+        "intuitive": "Preserva o mensageiro GMPc por mais tempo.",
+        "technical": "Não produz NO diretamente nem bloqueia angiotensina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P12-0539",
+      "number": 539,
+      "topicId": "P12",
+      "text": "Betabloqueadores aliviam angina de esforço por reduzir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diâmetro de todas as coronárias"
+        },
+        {
+          "id": "B",
+          "text": "Frequência e contratilidade"
+        },
+        {
+          "id": "C",
+          "text": "Capacidade de hemoglobina de ligar O₂"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Betabloqueadores aliviam angina de esforço por reduzir:",
+      "explanations": {
+        "direct": "Frequência e contratilidade. Também prolongam diástole; não são broncodilatadores ou doadores diretos de O₂.",
+        "intuitive": "A bomba passa a exigir menos energia.",
+        "technical": "Também prolongam diástole; não são broncodilatadores ou doadores diretos de O₂."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P12-0540",
+      "number": 540,
+      "topicId": "P12",
+      "text": "Na angina vasoespástica, bloqueadores de Ca²⁺ ajudam por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar espasmo α1"
+        },
+        {
+          "id": "B",
+          "text": "Relaxar músculo coronariano"
+        },
+        {
+          "id": "C",
+          "text": "Induzir agregação plaquetária"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Na angina vasoespástica, bloqueadores de Ca²⁺ ajudam por:",
+      "explanations": {
+        "direct": "Relaxar músculo coronariano. O mecanismo difere de reduzir exclusivamente frequência cardíaca.",
+        "intuitive": "Reduzem a contração anormal da artéria.",
+        "technical": "O mecanismo difere de reduzir exclusivamente frequência cardíaca."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P12-0541",
+      "number": 541,
+      "topicId": "P12",
+      "text": "Ranolazina reduz principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptores β2"
+        },
+        {
+          "id": "B",
+          "text": "Corrente tardia de Na⁺"
+        },
+        {
+          "id": "C",
+          "text": "Síntese de hemoglobina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ranolazina reduz principalmente:",
+      "explanations": {
+        "direct": "Corrente tardia de Na⁺. Pode prolongar QT e tem interações; não é um betabloqueador.",
+        "intuitive": "Ajuda a limitar sobrecarga iônica no miócito.",
+        "technical": "Pode prolongar QT e tem interações; não é um betabloqueador."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P12-0542",
+      "number": 542,
+      "topicId": "P12",
+      "text": "Um nitrato pode provocar taquicardia reflexa porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "É agonista β1 direto obrigatório"
+        },
+        {
+          "id": "B",
+          "text": "Inibe M2 de modo irreversível"
+        },
+        {
+          "id": "C",
+          "text": "A queda de pressão ativa barorreflexo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Um nitrato pode provocar taquicardia reflexa porque:",
+      "explanations": {
+        "direct": "A queda de pressão ativa barorreflexo. O aumento de frequência é reflexo, não prova agonismo adrenérgico direto.",
+        "intuitive": "O corpo tenta compensar a vasodilatação.",
+        "technical": "O aumento de frequência é reflexo, não prova agonismo adrenérgico direto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P12-0543",
+      "number": 543,
+      "topicId": "P12",
+      "text": "Na angina, reduzir pós-carga pode diminuir demanda de O₂ por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduzir trabalho e tensão ventricular"
+        },
+        {
+          "id": "B",
+          "text": "Bloquear respiração celular completamente"
+        },
+        {
+          "id": "C",
+          "text": "Reduzir número de hemácias"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Na angina, reduzir pós-carga pode diminuir demanda de O₂ por:",
+      "explanations": {
+        "direct": "Reduzir trabalho e tensão ventricular. Não se trata de privar o músculo de oxigênio ou ATP.",
+        "intuitive": "Ejetar contra menor pressão exige menos esforço.",
+        "technical": "Não se trata de privar o músculo de oxigênio ou ATP."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P12-0544",
+      "number": 544,
+      "topicId": "P12",
+      "text": "Uma pessoa usa sildenafil e recebe um nitrato orgânico. Considerando a produção e a degradação de GMPc, qual efeito hemodinâmico preocupante pode resultar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipotensão importante"
+        },
+        {
+          "id": "B",
+          "text": "Hipertensão previsível"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de interação"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Uma pessoa usa sildenafil e recebe um nitrato orgânico. Considerando a produção e a degradação de GMPc, qual efeito hemodinâmico preocupante pode resultar?",
+      "explanations": {
+        "direct": "Hipotensão importante. A combinação amplifica vasodilatação; é interação farmacodinâmica relevante.",
+        "intuitive": "Um aumenta GMPc e o outro dificulta sua degradação.",
+        "technical": "A combinação amplifica vasodilatação; é interação farmacodinâmica relevante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

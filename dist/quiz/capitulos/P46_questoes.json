@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P46",
+    "name": "Farmacologia · 46 · Folato e quinolonas",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 46
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P46-0825",
+      "number": 825,
+      "topicId": "P46",
+      "text": "Sulfametoxazol-trimetoprim produz bloqueio sequencial de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Síntese de folato"
+        },
+        {
+          "id": "B",
+          "text": "Receptores H1 e H2"
+        },
+        {
+          "id": "C",
+          "text": "Parede e membrana simultaneamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Sulfametoxazol-trimetoprim produz bloqueio sequencial de:",
+      "explanations": {
+        "direct": "Síntese de folato. Essa é a base da combinação, não simples duplicação de alvo idêntico.",
+        "intuitive": "Duas etapas da mesma rota são interrompidas.",
+        "technical": "Essa é a base da combinação, não simples duplicação de alvo idêntico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P46-0826",
+      "number": 826,
+      "topicId": "P46",
+      "text": "Sulfonamidas bloqueiam síntese bacteriana de folato ao inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "DNA girase"
+        },
+        {
+          "id": "B",
+          "text": "Di-hidropteroato sintase"
+        },
+        {
+          "id": "C",
+          "text": "Di-hidrofolato redutase"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Sulfonamidas bloqueiam síntese bacteriana de folato ao inibir:",
+      "explanations": {
+        "direct": "Di-hidropteroato sintase. Trimetoprim age na etapa seguinte, pela redutase.",
+        "intuitive": "Competem com um precursor usado pela bactéria.",
+        "technical": "Trimetoprim age na etapa seguinte, pela redutase."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P46-0827",
+      "number": 827,
+      "topicId": "P46",
+      "text": "Trimetoprim inibe principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "DNA girase bacteriana"
+        },
+        {
+          "id": "B",
+          "text": "Di-hidropteroato sintase"
+        },
+        {
+          "id": "C",
+          "text": "Di-hidrofolato redutase"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Trimetoprim inibe principalmente:",
+      "explanations": {
+        "direct": "Di-hidrofolato redutase. A seletividade é relativa; efeitos hematológicos podem ocorrer em contextos predisponentes.",
+        "intuitive": "Reduz a regeneração de folato ativo.",
+        "technical": "A seletividade é relativa; efeitos hematológicos podem ocorrer em contextos predisponentes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P46-0828",
+      "number": 828,
+      "topicId": "P46",
+      "text": "Fluoroquinolonas inibem:",
+      "options": [
+        {
+          "id": "A",
+          "text": "DNA girase e topoisomerase IV"
+        },
+        {
+          "id": "B",
+          "text": "Subunidade 50S"
+        },
+        {
+          "id": "C",
+          "text": "Síntese de ergosterol"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Fluoroquinolonas inibem:",
+      "explanations": {
+        "direct": "DNA girase e topoisomerase IV. Não são antifúngicos nem macrolídeos.",
+        "intuitive": "Impedem manejo adequado do DNA bacteriano.",
+        "technical": "Não são antifúngicos nem macrolídeos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P46-0829",
+      "number": 829,
+      "topicId": "P46",
+      "text": "Cátions em antiácidos podem reduzir absorção de quinolonas por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quelação"
+        },
+        {
+          "id": "B",
+          "text": "Ativação de enzimas bacterianas"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio de receptores β2"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Cátions em antiácidos podem reduzir absorção de quinolonas por:",
+      "explanations": {
+        "direct": "Quelação. É interação de absorção; o intervalo deve seguir orientação específica.",
+        "intuitive": "A droga forma complexos no intestino.",
+        "technical": "É interação de absorção; o intervalo deve seguir orientação específica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P46-0830",
+      "number": 830,
+      "topicId": "P46",
+      "text": "Após iniciar trimetoprim, um paciente em tratamento que já reduz excreção de potássio desenvolve hipercalemia. O efeito tubular do trimetoprim se assemelha ao de qual fármaco?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amilorida no ENaC"
+        },
+        {
+          "id": "B",
+          "text": "Insulina na captação celular"
+        },
+        {
+          "id": "C",
+          "text": "Furosemida no NKCC2"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Após iniciar trimetoprim, um paciente em tratamento que já reduz excreção de potássio desenvolve hipercalemia. O efeito tubular do trimetoprim se assemelha ao de qual fármaco?",
+      "explanations": {
+        "direct": "Amilorida no ENaC. Risco aumenta com outros poupadores de K⁺ e disfunção renal.",
+        "intuitive": "O rim secreta menos potássio.",
+        "technical": "Risco aumenta com outros poupadores de K⁺ e disfunção renal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P46-0831",
+      "number": 831,
+      "topicId": "P46",
+      "text": "Um risco de fluoroquinolonas é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Crescimento obrigatório de cartilagem"
+        },
+        {
+          "id": "B",
+          "text": "Tendinopatia e ruptura tendínea"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de eventos neurológicos"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Um risco de fluoroquinolonas é:",
+      "explanations": {
+        "direct": "Tendinopatia e ruptura tendínea. Outros riscos incluem efeitos neurológicos e QT em certos agentes; indicação exige benefício plausível.",
+        "intuitive": "Tecidos além da bactéria podem ser afetados.",
+        "technical": "Outros riscos incluem efeitos neurológicos e QT em certos agentes; indicação exige benefício plausível."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P46-0832",
+      "number": 832,
+      "topicId": "P46",
+      "text": "Resistência a quinolonas pode surgir por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mutação dos alvos e aumento de efluxo"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de DNA na bactéria"
+        },
+        {
+          "id": "C",
+          "text": "Transformação em vírus"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Resistência a quinolonas pode surgir por:",
+      "explanations": {
+        "direct": "Mutação dos alvos e aumento de efluxo. Não significa que a bactéria abandona suas funções fundamentais.",
+        "intuitive": "O fármaco pode perder acesso ou encaixe no alvo.",
+        "technical": "Não significa que a bactéria abandona suas funções fundamentais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

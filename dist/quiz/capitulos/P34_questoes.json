@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P34",
+    "name": "Farmacologia · 34 · Coagulação",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 34
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P34-0729",
+      "number": 729,
+      "topicId": "P34",
+      "text": "Heparina não fracionada age principalmente ao potencializar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antitrombina"
+        },
+        {
+          "id": "B",
+          "text": "Vitamina K"
+        },
+        {
+          "id": "C",
+          "text": "Plasminogênio diretamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Heparina não fracionada age principalmente ao potencializar:",
+      "explanations": {
+        "direct": "Antitrombina. Inibe trombina e Xa entre outros; não dissolve diretamente fibrina como fibrinolítico.",
+        "intuitive": "Acelera um freio natural da coagulação.",
+        "technical": "Inibe trombina e Xa entre outros; não dissolve diretamente fibrina como fibrinolítico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P34-0730",
+      "number": 730,
+      "topicId": "P34",
+      "text": "Heparinas de baixo peso molecular têm atividade relativamente maior contra:",
+      "options": [
+        {
+          "id": "A",
+          "text": "COX-1"
+        },
+        {
+          "id": "B",
+          "text": "Xa que IIa"
+        },
+        {
+          "id": "C",
+          "text": "IIa que Xa em todos os casos"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Heparinas de baixo peso molecular têm atividade relativamente maior contra:",
+      "explanations": {
+        "direct": "Xa que IIa. A inibição de trombina requer comprimento suficiente para ponte com antitrombina.",
+        "intuitive": "As cadeias menores favorecem inibição de Xa.",
+        "technical": "A inibição de trombina requer comprimento suficiente para ponte com antitrombina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P34-0731",
+      "number": 731,
+      "topicId": "P34",
+      "text": "Apixabana atua diretamente contra:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fator Xa"
+        },
+        {
+          "id": "B",
+          "text": "COX-2"
+        },
+        {
+          "id": "C",
+          "text": "Trombina exclusivamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Apixabana atua diretamente contra:",
+      "explanations": {
+        "direct": "Fator Xa. Dabigatrana é inibidor direto de trombina; não confundir as classes.",
+        "intuitive": "Bloqueia uma etapa que gera trombina.",
+        "technical": "Dabigatrana é inibidor direto de trombina; não confundir as classes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P34-0732",
+      "number": 732,
+      "topicId": "P34",
+      "text": "Alteplase promove fibrinólise ao:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ativar plasminogênio em plasmina"
+        },
+        {
+          "id": "B",
+          "text": "Bloquear plasmina"
+        },
+        {
+          "id": "C",
+          "text": "Aumentar produção de fibrinogênio"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Alteplase promove fibrinólise ao:",
+      "explanations": {
+        "direct": "Ativar plasminogênio em plasmina. O benefício precisa ser pesado contra sangramento; não é apenas prevenção de nova agregação.",
+        "intuitive": "Ajuda a formar a enzima que degrada fibrina.",
+        "technical": "O benefício precisa ser pesado contra sangramento; não é apenas prevenção de nova agregação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P34-0733",
+      "number": 733,
+      "topicId": "P34",
+      "text": "Varfarina reduz síntese funcional de fatores ao inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reciclagem de vitamina K"
+        },
+        {
+          "id": "B",
+          "text": "Antitrombina"
+        },
+        {
+          "id": "C",
+          "text": "Receptor P2Y12"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Varfarina reduz síntese funcional de fatores ao inibir:",
+      "explanations": {
+        "direct": "Reciclagem de vitamina K. Também afeta proteínas C e S; o início do efeito depende da renovação dos fatores.",
+        "intuitive": "Sem vitamina K reduzida, certos fatores amadurecem inadequadamente.",
+        "technical": "Também afeta proteínas C e S; o início do efeito depende da renovação dos fatores."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P34-0734",
+      "number": 734,
+      "topicId": "P34",
+      "text": "Dabigatrana inibe diretamente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor de ADP"
+        },
+        {
+          "id": "B",
+          "text": "Fator VII exclusivamente"
+        },
+        {
+          "id": "C",
+          "text": "Trombina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Dabigatrana inibe diretamente:",
+      "explanations": {
+        "direct": "Trombina. Não é antiagregante P2Y12.",
+        "intuitive": "Bloqueia a enzima que transforma fibrinogênio em fibrina.",
+        "technical": "Não é antiagregante P2Y12."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P34-0735",
+      "number": 735,
+      "topicId": "P34",
+      "text": "Ácido acetilsalicílico reduz agregação por inibir irreversivelmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "COX-1 plaquetária"
+        },
+        {
+          "id": "B",
+          "text": "Vitamina K hepática"
+        },
+        {
+          "id": "C",
+          "text": "Fator Xa"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ácido acetilsalicílico reduz agregação por inibir irreversivelmente:",
+      "explanations": {
+        "direct": "COX-1 plaquetária. Como não tem núcleo, a reposição enzimática é limitada; o efeito dura além da presença plasmática.",
+        "intuitive": "A plaqueta perde produção de tromboxano.",
+        "technical": "Como não tem núcleo, a reposição enzimática é limitada; o efeito dura além da presença plasmática."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P34-0736",
+      "number": 736,
+      "topicId": "P34",
+      "text": "Clopidogrel bloqueia:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor H2"
+        },
+        {
+          "id": "B",
+          "text": "Fator IIa diretamente"
+        },
+        {
+          "id": "C",
+          "text": "Receptor plaquetário P2Y12"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Clopidogrel bloqueia:",
+      "explanations": {
+        "direct": "Receptor plaquetário P2Y12. É antiagregante, não anticoagulante direto da trombina.",
+        "intuitive": "Interrompe uma via de ativação por ADP.",
+        "technical": "É antiagregante, não anticoagulante direto da trombina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

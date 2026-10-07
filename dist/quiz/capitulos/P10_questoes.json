@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P10",
+    "name": "Farmacologia · 10 · Antagonistas adrenérgicos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 10
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P10-0509",
+      "number": 509,
+      "topicId": "P10",
+      "text": "Metoprolol é relativamente seletivo para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "β2"
+        },
+        {
+          "id": "B",
+          "text": "α1"
+        },
+        {
+          "id": "C",
+          "text": "β1"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Metoprolol é relativamente seletivo para:",
+      "explanations": {
+        "direct": "β1. A seletividade diminui em exposições maiores; não é absoluta.",
+        "intuitive": "Prefere o receptor beta predominante no coração.",
+        "technical": "A seletividade diminui em exposições maiores; não é absoluta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P10-0510",
+      "number": 510,
+      "topicId": "P10",
+      "text": "Tansulosina é usada em sintomas prostáticos por relaxar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Detrusor por agonismo M3"
+        },
+        {
+          "id": "B",
+          "text": "Músculo esquelético do quadríceps"
+        },
+        {
+          "id": "C",
+          "text": "Músculo liso de próstata e colo vesical"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Tansulosina é usada em sintomas prostáticos por relaxar:",
+      "explanations": {
+        "direct": "Músculo liso de próstata e colo vesical. Prefere subtipos α1 relacionados ao trato urinário; não é bloqueador neuromuscular.",
+        "intuitive": "Facilita a saída sem encolher a próstata imediatamente.",
+        "technical": "Prefere subtipos α1 relacionados ao trato urinário; não é bloqueador neuromuscular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P10-0511",
+      "number": 511,
+      "topicId": "P10",
+      "text": "Fenoxibenzamina produz bloqueio α:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Competitivo de duração ultracurta"
+        },
+        {
+          "id": "B",
+          "text": "Irreversível e prolongado"
+        },
+        {
+          "id": "C",
+          "text": "Exclusivamente β1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Fenoxibenzamina produz bloqueio α:",
+      "explanations": {
+        "direct": "Irreversível e prolongado. Difere de antagonistas α reversíveis; duração não depende só da concentração plasmática.",
+        "intuitive": "Parte dos receptores fica indisponível até reposição.",
+        "technical": "Difere de antagonistas α reversíveis; duração não depende só da concentração plasmática."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P10-0512",
+      "number": 512,
+      "topicId": "P10",
+      "text": "Carvedilol combina bloqueio de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "D2 e 5-HT3"
+        },
+        {
+          "id": "B",
+          "text": "M3 e H1"
+        },
+        {
+          "id": "C",
+          "text": "β e α1"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Carvedilol combina bloqueio de:",
+      "explanations": {
+        "direct": "β e α1. Não é antipsicótico nem antiemético serotoninérgico.",
+        "intuitive": "Reduz estímulo cardíaco e parte da vasoconstrição.",
+        "technical": "Não é antipsicótico nem antiemético serotoninérgico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P10-0513",
+      "number": 513,
+      "topicId": "P10",
+      "text": "Propranolol bloqueia principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "β1 e β2"
+        },
+        {
+          "id": "B",
+          "text": "α1 e α2"
+        },
+        {
+          "id": "C",
+          "text": "M2 e M3"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Propranolol bloqueia principalmente:",
+      "explanations": {
+        "direct": "β1 e β2. Não é seletivo para β1; isso importa em broncoespasmo.",
+        "intuitive": "Retira estímulos beta no coração e em outros tecidos.",
+        "technical": "Não é seletivo para β1; isso importa em broncoespasmo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P10-0514",
+      "number": 514,
+      "topicId": "P10",
+      "text": "Betabloqueador não seletivo pode agravar asma por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar surfactante"
+        },
+        {
+          "id": "B",
+          "text": "Bloquear broncodilatação β2"
+        },
+        {
+          "id": "C",
+          "text": "Estimular diretamente M3"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Betabloqueador não seletivo pode agravar asma por:",
+      "explanations": {
+        "direct": "Bloquear broncodilatação β2. O risco não decorre de agonismo muscarínico direto.",
+        "intuitive": "Fecha uma via que ajudava a manter o brônquio relaxado.",
+        "technical": "O risco não decorre de agonismo muscarínico direto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P10-0515",
+      "number": 515,
+      "topicId": "P10",
+      "text": "Betabloqueadores podem mascarar hipoglicemia por reduzir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toda sudorese em qualquer caso"
+        },
+        {
+          "id": "B",
+          "text": "Medição laboratorial de glicose"
+        },
+        {
+          "id": "C",
+          "text": "Taquicardia e tremor adrenérgicos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Betabloqueadores podem mascarar hipoglicemia por reduzir:",
+      "explanations": {
+        "direct": "Taquicardia e tremor adrenérgicos. Sudorese colinérgica pode persistir; o fármaco não torna exames incapazes de detectar glicose baixa.",
+        "intuitive": "Alguns sinais de alarme ficam menos visíveis.",
+        "technical": "Sudorese colinérgica pode persistir; o fármaco não torna exames incapazes de detectar glicose baixa."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P10-0516",
+      "number": 516,
+      "topicId": "P10",
+      "text": "Prazosina reduz pressão principalmente por bloquear:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nn"
+        },
+        {
+          "id": "B",
+          "text": "α1"
+        },
+        {
+          "id": "C",
+          "text": "β2"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Prazosina reduz pressão principalmente por bloquear:",
+      "explanations": {
+        "direct": "α1. Pode causar hipotensão postural; não é bloqueio ganglionar.",
+        "intuitive": "Diminui a contração vascular mediada por alfa.",
+        "technical": "Pode causar hipotensão postural; não é bloqueio ganglionar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P10-0517",
+      "number": 517,
+      "topicId": "P10",
+      "text": "No feocromocitoma, bloquear β antes de α pode ser perigoso por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar a degradação de noradrenalina por MAO"
+        },
+        {
+          "id": "B",
+          "text": "Deixar vasoconstrição α sem oposição adequada"
+        },
+        {
+          "id": "C",
+          "text": "Estimular diretamente a síntese de catecolaminas"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "No feocromocitoma, bloquear β antes de α pode ser perigoso por:",
+      "explanations": {
+        "direct": "Deixar vasoconstrição α sem oposição adequada. A preparação exige estratégia especializada; o mecanismo é desequilíbrio de efeitos adrenérgicos.",
+        "intuitive": "Tirar a via beta sem controlar alfa pode piorar a pressão.",
+        "technical": "A preparação exige estratégia especializada; o mecanismo é desequilíbrio de efeitos adrenérgicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P10-0518",
+      "number": 518,
+      "topicId": "P10",
+      "text": "Esmolol se destaca por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio irreversível α"
+        },
+        {
+          "id": "B",
+          "text": "Persistência de semanas após dose única"
+        },
+        {
+          "id": "C",
+          "text": "Duração muito curta por metabolismo por esterases"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Esmolol se destaca por:",
+      "explanations": {
+        "direct": "Duração muito curta por metabolismo por esterases. A curta meia-vida permite titulação; não elimina riscos de bradicardia e hipotensão.",
+        "intuitive": "Seu efeito pode ser ajustado rapidamente.",
+        "technical": "A curta meia-vida permite titulação; não elimina riscos de bradicardia e hipotensão."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P10-0519",
+      "number": 519,
+      "topicId": "P10",
+      "text": "Retirada abrupta de betabloqueador crônico pode causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Desaparecimento de receptores cardíacos"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio β permanente"
+        },
+        {
+          "id": "C",
+          "text": "Taquicardia e piora de angina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Retirada abrupta de betabloqueador crônico pode causar:",
+      "explanations": {
+        "direct": "Taquicardia e piora de angina. Upregulation e sensibilidade aumentada contribuem; redução planejada depende do contexto.",
+        "intuitive": "Um sistema adaptado pode responder demais ao estímulo simpático.",
+        "technical": "Upregulation e sensibilidade aumentada contribuem; redução planejada depende do contexto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P10-0520",
+      "number": 520,
+      "topicId": "P10",
+      "text": "A hipotensão de primeira dose com α1-bloqueador relaciona-se a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento obrigatório da contratilidade"
+        },
+        {
+          "id": "B",
+          "text": "Vasodilatação e menor compensação postural"
+        },
+        {
+          "id": "C",
+          "text": "Retenção imediata de todo sódio"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A hipotensão de primeira dose com α1-bloqueador relaciona-se a:",
+      "explanations": {
+        "direct": "Vasodilatação e menor compensação postural. O retorno venoso pode cair; o efeito não exige falência estrutural cardíaca.",
+        "intuitive": "Ao ficar em pé, os vasos não apertam como antes.",
+        "technical": "O retorno venoso pode cair; o efeito não exige falência estrutural cardíaca."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

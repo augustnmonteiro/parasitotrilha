@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P14",
+    "name": "Farmacologia · 14 · Antiarrítmicos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 14
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P14-0557",
+      "number": 557,
+      "topicId": "P14",
+      "text": "Classe II corresponde a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Betabloqueadores"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueadores de K⁺ exclusivamente"
+        },
+        {
+          "id": "C",
+          "text": "Glicosídeos cardíacos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Classe II corresponde a:",
+      "explanations": {
+        "direct": "Betabloqueadores. Não é a classificação dos prolongadores de repolarização classe III.",
+        "intuitive": "Reduz a influência simpática sobre ritmo e condução.",
+        "technical": "Não é a classificação dos prolongadores de repolarização classe III."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P14-0558",
+      "number": 558,
+      "topicId": "P14",
+      "text": "Classe III prolonga repolarização principalmente por bloquear:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptores muscarínicos"
+        },
+        {
+          "id": "B",
+          "text": "Correntes de K⁺"
+        },
+        {
+          "id": "C",
+          "text": "Transportadores de glicose"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Classe III prolonga repolarização principalmente por bloquear:",
+      "explanations": {
+        "direct": "Correntes de K⁺. Pode prolongar QT; esse efeito tem potencial pró-arrítmico.",
+        "intuitive": "A saída repolarizante de potássio é retardada.",
+        "technical": "Pode prolongar QT; esse efeito tem potencial pró-arrítmico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P14-0559",
+      "number": 559,
+      "topicId": "P14",
+      "text": "Classe IV antiarrítmica inclui:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anlodipino e nifedipino como equivalentes nodais"
+        },
+        {
+          "id": "B",
+          "text": "Verapamil e diltiazem"
+        },
+        {
+          "id": "C",
+          "text": "Furosemida e tiazida"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Classe IV antiarrítmica inclui:",
+      "explanations": {
+        "direct": "Verapamil e diltiazem. Diidropiridínicos têm predominância vascular e não equivalem aos não diidropiridínicos no controle nodal.",
+        "intuitive": "Alguns bloqueadores de cálcio atuam fortemente no nó AV.",
+        "technical": "Diidropiridínicos têm predominância vascular e não equivalem aos não diidropiridínicos no controle nodal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P14-0560",
+      "number": 560,
+      "topicId": "P14",
+      "text": "Lidocaína antiarrítmica é classe:",
+      "options": [
+        {
+          "id": "A",
+          "text": "IB"
+        },
+        {
+          "id": "B",
+          "text": "IC"
+        },
+        {
+          "id": "C",
+          "text": "IV"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Lidocaína antiarrítmica é classe:",
+      "explanations": {
+        "direct": "IB. É diferente de flecainida IC e verapamil IV; também é anestésico local.",
+        "intuitive": "Bloqueia canais de sódio com cinética característica.",
+        "technical": "É diferente de flecainida IC e verapamil IV; também é anestésico local."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P14-0561",
+      "number": 561,
+      "topicId": "P14",
+      "text": "Sotalol combina:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonismo β e bloqueio muscarínico"
+        },
+        {
+          "id": "B",
+          "text": "Inibição de renina e P-gp exclusivamente"
+        },
+        {
+          "id": "C",
+          "text": "Betabloqueio e prolongamento da repolarização"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Sotalol combina:",
+      "explanations": {
+        "direct": "Betabloqueio e prolongamento da repolarização. Pode prolongar QT e provocar torsades; não é apenas um betabloqueador sem efeito eletrofisiológico adicional.",
+        "intuitive": "Tem propriedades de mais de uma classe funcional.",
+        "technical": "Pode prolongar QT e provocar torsades; não é apenas um betabloqueador sem efeito eletrofisiológico adicional."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P14-0562",
+      "number": 562,
+      "topicId": "P14",
+      "text": "Magnésio em torsades é útil mesmo quando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O QT está necessariamente curto"
+        },
+        {
+          "id": "B",
+          "text": "Há ausência de qualquer arritmia como indicação universal"
+        },
+        {
+          "id": "C",
+          "text": "Magnésio sérico não está claramente baixo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Magnésio em torsades é útil mesmo quando:",
+      "explanations": {
+        "direct": "Magnésio sérico não está claramente baixo. É intervenção específica em contexto monitorado; não generalizar para toda taquicardia.",
+        "intuitive": "Seu efeito elétrico não se limita a corrigir deficiência medida.",
+        "technical": "É intervenção específica em contexto monitorado; não generalizar para toda taquicardia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P14-0563",
+      "number": 563,
+      "topicId": "P14",
+      "text": "Antiarrítmicos classe I bloqueiam principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptores β"
+        },
+        {
+          "id": "B",
+          "text": "Canais rápidos de Na⁺"
+        },
+        {
+          "id": "C",
+          "text": "Canais de Cl⁻ GABA"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Antiarrítmicos classe I bloqueiam principalmente:",
+      "explanations": {
+        "direct": "Canais rápidos de Na⁺. Classe II é betabloqueio; tecido nodal depende mais de Ca²⁺ na fase 0.",
+        "intuitive": "Reduzem correntes responsáveis por condução em certos tecidos.",
+        "technical": "Classe II é betabloqueio; tecido nodal depende mais de Ca²⁺ na fase 0."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P14-0564",
+      "number": 564,
+      "topicId": "P14",
+      "text": "Fármacos que prolongam QT podem favorecer:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Torsades de pointes"
+        },
+        {
+          "id": "B",
+          "text": "Apenas bradicardia sinusal benigna"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de arritmia por definição"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Fármacos que prolongam QT podem favorecer:",
+      "explanations": {
+        "direct": "Torsades de pointes. Risco aumenta com hipocalemia, bradicardia e combinações; prolongar refratariedade não é sempre protetor.",
+        "intuitive": "Recuperação elétrica prolongada pode gerar disparos perigosos.",
+        "technical": "Risco aumenta com hipocalemia, bradicardia e combinações; prolongar refratariedade não é sempre protetor."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P14-0565",
+      "number": 565,
+      "topicId": "P14",
+      "text": "Adenosina interrompe certas taquicardias por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio transitório da condução AV"
+        },
+        {
+          "id": "B",
+          "text": "Aumento prolongado da condução AV"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio permanente da válvula mitral"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Adenosina interrompe certas taquicardias por:",
+      "explanations": {
+        "direct": "Bloqueio transitório da condução AV. Tem meia-vida de segundos; não trata indistintamente toda taquicardia.",
+        "intuitive": "Uma pausa muito curta pode interromper um circuito dependente do nó.",
+        "technical": "Tem meia-vida de segundos; não trata indistintamente toda taquicardia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P14-0566",
+      "number": 566,
+      "topicId": "P14",
+      "text": "Cafeína pode antagonizar efeitos da adenosina por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ativar diretamente vitamina K"
+        },
+        {
+          "id": "B",
+          "text": "Inibir irreversivelmente ECA"
+        },
+        {
+          "id": "C",
+          "text": "Bloquear receptores de adenosina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Cafeína pode antagonizar efeitos da adenosina por:",
+      "explanations": {
+        "direct": "Bloquear receptores de adenosina. Metilxantinas podem reduzir resposta; o mecanismo não é degradação de coágulos.",
+        "intuitive": "Ocupa receptores que a adenosina precisa usar.",
+        "technical": "Metilxantinas podem reduzir resposta; o mecanismo não é degradação de coágulos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P14-0567",
+      "number": 567,
+      "topicId": "P14",
+      "text": "Flecainida exige cautela em cardiopatia estrutural por risco de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pró-arritmia"
+        },
+        {
+          "id": "B",
+          "text": "Hipoglicemia por secreção de insulina"
+        },
+        {
+          "id": "C",
+          "text": "Supressão de toda condução sem risco"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Flecainida exige cautela em cardiopatia estrutural por risco de:",
+      "explanations": {
+        "direct": "Pró-arritmia. Classe IC não é escolha universal para qualquer palpitação.",
+        "intuitive": "Bloquear condução pode criar condições para arritmias em substrato doente.",
+        "technical": "Classe IC não é escolha universal para qualquer palpitação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P14-0568",
+      "number": 568,
+      "topicId": "P14",
+      "text": "Amiodarona pode causar toxicidade em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas glândula salivar"
+        },
+        {
+          "id": "B",
+          "text": "Somente cabelo sem relevância sistêmica"
+        },
+        {
+          "id": "C",
+          "text": "Pulmão, tireoide e fígado"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Amiodarona pode causar toxicidade em:",
+      "explanations": {
+        "direct": "Pulmão, tireoide e fígado. Meia-vida longa e conteúdo de iodo contribuem para complexidade; não é droga isenta de monitoramento.",
+        "intuitive": "O fármaco se distribui amplamente e tem efeitos em vários órgãos.",
+        "technical": "Meia-vida longa e conteúdo de iodo contribuem para complexidade; não é droga isenta de monitoramento."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

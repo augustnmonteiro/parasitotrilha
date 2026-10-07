@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P08",
+    "name": "Farmacologia · 08 · Antagonistas colinérgicos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 8
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P08-0485",
+      "number": 485,
+      "topicId": "P08",
+      "text": "Atropina é principalmente um:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antagonista muscarínico competitivo"
+        },
+        {
+          "id": "B",
+          "text": "Inibidor de acetilcolinesterase"
+        },
+        {
+          "id": "C",
+          "text": "Agonista nicotínico"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Atropina é principalmente um:",
+      "explanations": {
+        "direct": "Antagonista muscarínico competitivo. Não bloqueia diretamente Nm nem aumenta acetilcolina por inibição enzimática.",
+        "intuitive": "Impede acetilcolina de acionar receptores muscarínicos.",
+        "technical": "Não bloqueia diretamente Nm nem aumenta acetilcolina por inibição enzimática."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P08-0486",
+      "number": 486,
+      "topicId": "P08",
+      "text": "Um efeito típico da atropina em dose vagolítica é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Miose"
+        },
+        {
+          "id": "B",
+          "text": "Taquicardia"
+        },
+        {
+          "id": "C",
+          "text": "Broncorreia"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um efeito típico da atropina em dose vagolítica é:",
+      "explanations": {
+        "direct": "Taquicardia. Bloqueio M2 aumenta frequência; bloqueio M3 reduz secreções e causa midríase.",
+        "intuitive": "Retira o freio vagal sobre o coração.",
+        "technical": "Bloqueio M2 aumenta frequência; bloqueio M3 reduz secreções e causa midríase."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P08-0487",
+      "number": 487,
+      "topicId": "P08",
+      "text": "Escopolamina é usada em cinetose por sua ação:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antagonista de vitamina K"
+        },
+        {
+          "id": "B",
+          "text": "Agonista β2 pulmonar"
+        },
+        {
+          "id": "C",
+          "text": "Antimuscarínica central"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Escopolamina é usada em cinetose por sua ação:",
+      "explanations": {
+        "direct": "Antimuscarínica central. Não age como broncodilatador adrenérgico ou anticoagulante.",
+        "intuitive": "Reduz sinalização relacionada ao sistema vestibular.",
+        "technical": "Não age como broncodilatador adrenérgico ou anticoagulante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P08-0488",
+      "number": 488,
+      "topicId": "P08",
+      "text": "Antimuscarínicos podem precipitar problema ocular especialmente em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de cristalino em todos os casos"
+        },
+        {
+          "id": "B",
+          "text": "Ângulo iridocorneano anatomicamente estreito"
+        },
+        {
+          "id": "C",
+          "text": "Qualquer miopia leve por regra"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Antimuscarínicos podem precipitar problema ocular especialmente em:",
+      "explanations": {
+        "direct": "Ângulo iridocorneano anatomicamente estreito. O risco de fechamento angular não equivale a contraindicação universal em todo tipo de glaucoma.",
+        "intuitive": "Dilatar a pupila pode dificultar a drenagem em olhos predispostos.",
+        "technical": "O risco de fechamento angular não equivale a contraindicação universal em todo tipo de glaucoma."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P08-0489",
+      "number": 489,
+      "topicId": "P08",
+      "text": "Síndrome antimuscarínica típica inclui:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pele seca, midríase e retenção urinária"
+        },
+        {
+          "id": "B",
+          "text": "Broncorreia, lacrimejamento e bradicardia"
+        },
+        {
+          "id": "C",
+          "text": "Sudorese, miose e diarreia"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Síndrome antimuscarínica típica inclui:",
+      "explanations": {
+        "direct": "Pele seca, midríase e retenção urinária. Os distratores descrevem excesso colinérgico.",
+        "intuitive": "O padrão é de secreções reduzidas e órgãos menos responsivos à acetilcolina.",
+        "technical": "Os distratores descrevem excesso colinérgico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P08-0490",
+      "number": 490,
+      "topicId": "P08",
+      "text": "Tropicamida é útil no exame ocular por produzir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Miose permanente"
+        },
+        {
+          "id": "B",
+          "text": "Midríase de duração relativamente curta"
+        },
+        {
+          "id": "C",
+          "text": "Aumento direto da acomodação"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Tropicamida é útil no exame ocular por produzir:",
+      "explanations": {
+        "direct": "Midríase de duração relativamente curta. O bloqueio muscarínico também reduz acomodação; não a intensifica.",
+        "intuitive": "Abre a pupila temporariamente para observar o fundo.",
+        "technical": "O bloqueio muscarínico também reduz acomodação; não a intensifica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P08-0491",
+      "number": 491,
+      "topicId": "P08",
+      "text": "Ipratrópio inalatório promove broncodilatação por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibir síntese de hemoglobina"
+        },
+        {
+          "id": "B",
+          "text": "Ativar diretamente β1"
+        },
+        {
+          "id": "C",
+          "text": "Bloquear ação muscarínica nas vias aéreas"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ipratrópio inalatório promove broncodilatação por:",
+      "explanations": {
+        "direct": "Bloquear ação muscarínica nas vias aéreas. O efeito é distinto do agonismo β2; ação sistêmica é limitada pela via e características da molécula.",
+        "intuitive": "Retira uma via que contrai o brônquio.",
+        "technical": "O efeito é distinto do agonismo β2; ação sistêmica é limitada pela via e características da molécula."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P08-0492",
+      "number": 492,
+      "topicId": "P08",
+      "text": "Tiotrópio se destaca por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reversão instantânea de qualquer insuficiência respiratória"
+        },
+        {
+          "id": "B",
+          "text": "Ativação de M3"
+        },
+        {
+          "id": "C",
+          "text": "Ação antimuscarínica prolongada"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Tiotrópio se destaca por:",
+      "explanations": {
+        "direct": "Ação antimuscarínica prolongada. É fármaco de manutenção; não substitui avaliação de exacerbação grave.",
+        "intuitive": "Mantém o bloqueio broncoconstritor por mais tempo.",
+        "technical": "É fármaco de manutenção; não substitui avaliação de exacerbação grave."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P08-0493",
+      "number": 493,
+      "topicId": "P08",
+      "text": "Oxibutinina pode reduzir urgência urinária por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estimular M3"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar filtração de glicose"
+        },
+        {
+          "id": "C",
+          "text": "Antagonizar receptores muscarínicos do detrusor"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Oxibutinina pode reduzir urgência urinária por:",
+      "explanations": {
+        "direct": "Antagonizar receptores muscarínicos do detrusor. Pode causar boca seca, constipação e retenção; não aumenta esvaziamento por agonismo.",
+        "intuitive": "Diminui contrações involuntárias do reservatório.",
+        "technical": "Pode causar boca seca, constipação e retenção; não aumenta esvaziamento por agonismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P08-0494",
+      "number": 494,
+      "topicId": "P08",
+      "text": "Glicopirrolato costuma ter menos efeitos centrais porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Atravessa pouco a barreira hematoencefálica"
+        },
+        {
+          "id": "B",
+          "text": "É inativado exclusivamente antes de entrar no sangue"
+        },
+        {
+          "id": "C",
+          "text": "Liga-se apenas a subtipos periféricos de receptores"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Glicopirrolato costuma ter menos efeitos centrais porque:",
+      "explanations": {
+        "direct": "Atravessa pouco a barreira hematoencefálica. É antimuscarínico quaternário; menor ação central não significa ausência de ação periférica.",
+        "intuitive": "Sua carga limita a entrada cerebral.",
+        "technical": "É antimuscarínico quaternário; menor ação central não significa ausência de ação periférica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P08-0495",
+      "number": 495,
+      "topicId": "P08",
+      "text": "Um risco de antimuscarínicos em hiperplasia prostática com obstrução é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hemólise"
+        },
+        {
+          "id": "B",
+          "text": "Poliúria osmótica obrigatória"
+        },
+        {
+          "id": "C",
+          "text": "Retenção urinária"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Um risco de antimuscarínicos em hiperplasia prostática com obstrução é:",
+      "explanations": {
+        "direct": "Retenção urinária. A indicação depende de contexto e resíduo; não se trata de diurese por glicose.",
+        "intuitive": "O detrusor pode perder força para vencer a saída.",
+        "technical": "A indicação depende de contexto e resíduo; não se trata de diurese por glicose."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P08-0496",
+      "number": 496,
+      "topicId": "P08",
+      "text": "A redução da sudorese por atropina pode causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipotermia obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Hipertermia"
+        },
+        {
+          "id": "C",
+          "text": "Aumento compensatório da sudorese"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A redução da sudorese por atropina pode causar:",
+      "explanations": {
+        "direct": "Hipertermia. Glândulas sudoríparas écrinas recebem simpático colinérgico muscarínico.",
+        "intuitive": "O corpo perde uma via para dissipar calor.",
+        "technical": "Glândulas sudoríparas écrinas recebem simpático colinérgico muscarínico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

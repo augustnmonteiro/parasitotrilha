@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P27",
+    "name": "Farmacologia · 27 · Relaxantes musculares",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 27
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P27-0673",
+      "number": 673,
+      "topicId": "P27",
+      "text": "Succinilcolina pode elevar K⁺ perigosamente em condições com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uso isolado de antiácido"
+        },
+        {
+          "id": "B",
+          "text": "Aumento de receptores extrajuncionais, como certas queimaduras extensas"
+        },
+        {
+          "id": "C",
+          "text": "Qualquer miopia leve"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Succinilcolina pode elevar K⁺ perigosamente em condições com:",
+      "explanations": {
+        "direct": "Aumento de receptores extrajuncionais, como certas queimaduras extensas. O risco depende de condição e tempo após lesão; não é universal em toda pessoa.",
+        "intuitive": "Mais receptores podem liberar grande quantidade de potássio.",
+        "technical": "O risco depende de condição e tempo após lesão; não é universal em toda pessoa."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P27-0674",
+      "number": 674,
+      "topicId": "P27",
+      "text": "Sugamadex reverte certos bloqueadores ao:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloquear receptor muscarínico"
+        },
+        {
+          "id": "B",
+          "text": "Encapsular rocurônio ou vecurônio"
+        },
+        {
+          "id": "C",
+          "text": "Inibir acetilcolinesterase"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Sugamadex reverte certos bloqueadores ao:",
+      "explanations": {
+        "direct": "Encapsular rocurônio ou vecurônio. Não reverte todos os bloqueadores pelo mesmo mecanismo.",
+        "intuitive": "Captura a molécula circulante e reduz sua disponibilidade.",
+        "technical": "Não reverte todos os bloqueadores pelo mesmo mecanismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P27-0675",
+      "number": 675,
+      "topicId": "P27",
+      "text": "Tizanidina age principalmente como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonista GABA_B central"
+        },
+        {
+          "id": "B",
+          "text": "Antagonista Nm periférico"
+        },
+        {
+          "id": "C",
+          "text": "Agonista α2 central"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Tizanidina age principalmente como:",
+      "explanations": {
+        "direct": "Agonista α2 central. Pode causar sedação e hipotensão; não é anticoagulante.",
+        "intuitive": "Reduz sinais excitatórios que sustentam espasticidade.",
+        "technical": "Pode causar sedação e hipotensão; não é anticoagulante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P27-0676",
+      "number": 676,
+      "topicId": "P27",
+      "text": "Rocurônio causa relaxamento por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonismo GABA_A central"
+        },
+        {
+          "id": "B",
+          "text": "Antagonismo competitivo Nm"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio de dor cortical"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Rocurônio causa relaxamento por:",
+      "explanations": {
+        "direct": "Antagonismo competitivo Nm. Não produz por si só inconsciência ou analgesia.",
+        "intuitive": "Interrompe a mensagem entre nervo e músculo.",
+        "technical": "Não produz por si só inconsciência ou analgesia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P27-0677",
+      "number": 677,
+      "topicId": "P27",
+      "text": "Succinilcolina causa bloqueio inicialmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio muscarínico"
+        },
+        {
+          "id": "B",
+          "text": "Antagonismo competitivo puro"
+        },
+        {
+          "id": "C",
+          "text": "Despolarização persistente da placa"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Succinilcolina causa bloqueio inicialmente por:",
+      "explanations": {
+        "direct": "Despolarização persistente da placa. Fasciculações podem preceder paralisia; não é o mesmo mecanismo do rocurônio.",
+        "intuitive": "Ativa o receptor, mas mantém a placa incapaz de responder normalmente.",
+        "technical": "Fasciculações podem preceder paralisia; não é o mesmo mecanismo do rocurônio."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P27-0678",
+      "number": 678,
+      "topicId": "P27",
+      "text": "Neostigmina reverte bloqueio não despolarizante por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar acetilcolina na placa"
+        },
+        {
+          "id": "B",
+          "text": "Destruir fisicamente rocurônio"
+        },
+        {
+          "id": "C",
+          "text": "Ativar diretamente RyR1"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Neostigmina reverte bloqueio não despolarizante por:",
+      "explanations": {
+        "direct": "Aumentar acetilcolina na placa. Pode exigir antimuscarínico concomitante para efeitos periféricos; não é equivalente a sugamadex.",
+        "intuitive": "Mais transmissor compete pelo receptor.",
+        "technical": "Pode exigir antimuscarínico concomitante para efeitos periféricos; não é equivalente a sugamadex."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P27-0679",
+      "number": 679,
+      "topicId": "P27",
+      "text": "Baclofeno reduz espasticidade por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antagonismo Nm na placa motora"
+        },
+        {
+          "id": "B",
+          "text": "Agonismo GABA_B no SNC"
+        },
+        {
+          "id": "C",
+          "text": "Inibição de liberação de Ca²⁺ por RyR1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Baclofeno reduz espasticidade por:",
+      "explanations": {
+        "direct": "Agonismo GABA_B no SNC. Não é um paralisante cirúrgico da placa motora.",
+        "intuitive": "Diminui transmissão excitadora em circuitos espinais.",
+        "technical": "Não é um paralisante cirúrgico da placa motora."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P27-0680",
+      "number": 680,
+      "topicId": "P27",
+      "text": "Bloqueador neuromuscular em pessoa consciente produz:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anestesia completa obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Paralisia sem garantir analgesia ou inconsciência"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de percepção dolorosa por definição"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Bloqueador neuromuscular em pessoa consciente produz:",
+      "explanations": {
+        "direct": "Paralisia sem garantir analgesia ou inconsciência. Sedação, analgesia e suporte ventilatório são questões separadas do bloqueio Nm.",
+        "intuitive": "Impedir movimento não impede sentir.",
+        "technical": "Sedação, analgesia e suporte ventilatório são questões separadas do bloqueio Nm."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

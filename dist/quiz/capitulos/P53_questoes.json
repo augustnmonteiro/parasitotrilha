@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P53",
+    "name": "Farmacologia · 53 · Anti-helmínticos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 53
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P53-0881",
+      "number": 881,
+      "topicId": "P53",
+      "text": "Albendazol atua principalmente ao interferir em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "DNA girase bacteriana"
+        },
+        {
+          "id": "B",
+          "text": "Receptor H1 humano"
+        },
+        {
+          "id": "C",
+          "text": "Microtúbulos do helminto"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Albendazol atua principalmente ao interferir em:",
+      "explanations": {
+        "direct": "Microtúbulos do helminto. Liga β-tubulina; não é anti-histamínico ou quinolona.",
+        "intuitive": "Compromete transporte e aproveitamento de nutrientes.",
+        "technical": "Liga β-tubulina; não é anti-histamínico ou quinolona."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P53-0882",
+      "number": 882,
+      "topicId": "P53",
+      "text": "Ivermectina atua principalmente em canais de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cl⁻ regulados por glutamato em invertebrados"
+        },
+        {
+          "id": "B",
+          "text": "Ca²⁺ tipo L como alvo principal"
+        },
+        {
+          "id": "C",
+          "text": "Na⁺ cardíacos humanos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ivermectina atua principalmente em canais de:",
+      "explanations": {
+        "direct": "Cl⁻ regulados por glutamato em invertebrados. A seletividade e barreira cerebral contribuem para segurança; não é antiviral universal.",
+        "intuitive": "Aumenta inibição e paralisia em parasitas susceptíveis.",
+        "technical": "A seletividade e barreira cerebral contribuem para segurança; não é antiviral universal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P53-0883",
+      "number": 883,
+      "topicId": "P53",
+      "text": "Pirantel provoca:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio de folato humano"
+        },
+        {
+          "id": "B",
+          "text": "Inibição de ergosterol"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio neuromuscular despolarizante no helminto"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Pirantel provoca:",
+      "explanations": {
+        "direct": "Bloqueio neuromuscular despolarizante no helminto. Não é azol nem antifolato; a absorção e o espectro limitam seus usos.",
+        "intuitive": "O verme perde coordenação muscular.",
+        "technical": "Não é azol nem antifolato; a absorção e o espectro limitam seus usos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P53-0884",
+      "number": 884,
+      "topicId": "P53",
+      "text": "Niclosamida tem ação sobretudo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antibacteriana sistêmica"
+        },
+        {
+          "id": "B",
+          "text": "Cerebral contra todas as larvas"
+        },
+        {
+          "id": "C",
+          "text": "Luminal contra certos cestódeos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Niclosamida tem ação sobretudo:",
+      "explanations": {
+        "direct": "Luminal contra certos cestódeos. Não substitui automaticamente tratamento de infecção tecidual por larvas.",
+        "intuitive": "Age onde permanece em maior concentração.",
+        "technical": "Não substitui automaticamente tratamento de infecção tecidual por larvas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P53-0885",
+      "number": 885,
+      "topicId": "P53",
+      "text": "Praziquantel aumenta permeabilidade do parasita a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Albumina"
+        },
+        {
+          "id": "B",
+          "text": "Ca²⁺"
+        },
+        {
+          "id": "C",
+          "text": "Glicose"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Praziquantel aumenta permeabilidade do parasita a:",
+      "explanations": {
+        "direct": "Ca²⁺. É útil contra diversos trematódeos e cestódeos, com diferenças de susceptibilidade.",
+        "intuitive": "A entrada de cálcio causa contração e dano.",
+        "technical": "É útil contra diversos trematódeos e cestódeos, com diferenças de susceptibilidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P53-0886",
+      "number": 886,
+      "topicId": "P53",
+      "text": "Na neurocisticercose, matar parasitas pode piorar sintomas inicialmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento obrigatório da glicose"
+        },
+        {
+          "id": "B",
+          "text": "Ausência completa de reação imune"
+        },
+        {
+          "id": "C",
+          "text": "Resposta inflamatória aos parasitas degenerados"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Na neurocisticercose, matar parasitas pode piorar sintomas inicialmente por:",
+      "explanations": {
+        "direct": "Resposta inflamatória aos parasitas degenerados. A conduta depende de número, localização e viabilidade das lesões; requer avaliação especializada.",
+        "intuitive": "A morte do parasita pode provocar inflamação no local.",
+        "technical": "A conduta depende de número, localização e viabilidade das lesões; requer avaliação especializada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P53-0887",
+      "number": 887,
+      "topicId": "P53",
+      "text": "Uma dose anti-helmíntica não elimina necessariamente todas as fases porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Susceptibilidade e localização variam ao longo do ciclo"
+        },
+        {
+          "id": "B",
+          "text": "Todos os ovos e adultos são idênticos farmacologicamente"
+        },
+        {
+          "id": "C",
+          "text": "A droga sempre alcança qualquer tecido"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Uma dose anti-helmíntica não elimina necessariamente todas as fases porque:",
+      "explanations": {
+        "direct": "Susceptibilidade e localização variam ao longo do ciclo. Esquemas e medidas ambientais dependem da espécie, não apenas do rótulo helminto.",
+        "intuitive": "O parasita muda de forma e de endereço.",
+        "technical": "Esquemas e medidas ambientais dependem da espécie, não apenas do rótulo helminto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P53-0888",
+      "number": 888,
+      "topicId": "P53",
+      "text": "Dietilcarbamazina é associada principalmente ao tratamento de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toda helmintíase intestinal sem distinção"
+        },
+        {
+          "id": "B",
+          "text": "Certas filarioses"
+        },
+        {
+          "id": "C",
+          "text": "Toda infecção por vírus respiratório"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Dietilcarbamazina é associada principalmente ao tratamento de:",
+      "explanations": {
+        "direct": "Certas filarioses. A escolha varia por espécie e coinfecções; não é anti-infeccioso universal.",
+        "intuitive": "Seu espectro é direcionado a determinados parasitas.",
+        "technical": "A escolha varia por espécie e coinfecções; não é anti-infeccioso universal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

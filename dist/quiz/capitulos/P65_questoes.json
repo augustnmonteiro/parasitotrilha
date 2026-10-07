@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P65",
+    "name": "Farmacologia · 65 · Fitoterápicos e suplementos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 65
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P65-0977",
+      "number": 977,
+      "topicId": "P65",
+      "text": "Ginkgo pode merecer cautela com anticoagulantes por possível:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento de risco de sangramento"
+        },
+        {
+          "id": "B",
+          "text": "Produção de fator VIII"
+        },
+        {
+          "id": "C",
+          "text": "Neutralização garantida da varfarina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ginkgo pode merecer cautela com anticoagulantes por possível:",
+      "explanations": {
+        "direct": "Aumento de risco de sangramento. A evidência e produtos variam; registrar uso ajuda a avaliar o risco.",
+        "intuitive": "Efeitos sobre hemostasia podem se somar.",
+        "technical": "A evidência e produtos variam; registrar uso ajuda a avaliar o risco."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P65-0978",
+      "number": 978,
+      "topicId": "P65",
+      "text": "Evidência de efeito em tubo de ensaio prova eficácia clínica de suplemento?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sim, se a molécula for antioxidante"
+        },
+        {
+          "id": "B",
+          "text": "Sim, independentemente da dose atingível"
+        },
+        {
+          "id": "C",
+          "text": "Não, exposição e estudos humanos são necessários"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Evidência de efeito em tubo de ensaio prova eficácia clínica de suplemento?",
+      "explanations": {
+        "direct": "Não, exposição e estudos humanos são necessários. Biodisponibilidade, dose e desfechos clínicos precisam ser considerados.",
+        "intuitive": "Um efeito de laboratório pode não acontecer na pessoa.",
+        "technical": "Biodisponibilidade, dose e desfechos clínicos precisam ser considerados."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P65-0979",
+      "number": 979,
+      "topicId": "P65",
+      "text": "Erva-de-são-joão pode reduzir exposição de outros fármacos por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Induzir enzimas e transportadores"
+        },
+        {
+          "id": "B",
+          "text": "Bloquear toda excreção renal"
+        },
+        {
+          "id": "C",
+          "text": "Neutralizar quimicamente todos os ácidos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Erva-de-são-joão pode reduzir exposição de outros fármacos por:",
+      "explanations": {
+        "direct": "Induzir enzimas e transportadores. Pode interagir com contraceptivos e outros medicamentos; composição e dose variam.",
+        "intuitive": "Aumenta algumas vias de eliminação.",
+        "technical": "Pode interagir com contraceptivos e outros medicamentos; composição e dose variam."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P65-0980",
+      "number": 980,
+      "topicId": "P65",
+      "text": "Erva-de-são-joão junto a serotoninérgicos preocupa por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Proteger contra qualquer síndrome tóxica"
+        },
+        {
+          "id": "B",
+          "text": "Eliminar serotonina de modo garantido"
+        },
+        {
+          "id": "C",
+          "text": "Somar atividade serotoninérgica"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Erva-de-são-joão junto a serotoninérgicos preocupa por:",
+      "explanations": {
+        "direct": "Somar atividade serotoninérgica. Ser fitoterápico não evita interação farmacodinâmica.",
+        "intuitive": "Efeitos sobre a mesma rede podem se acumular.",
+        "technical": "Ser fitoterápico não evita interação farmacodinâmica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P65-0981",
+      "number": 981,
+      "topicId": "P65",
+      "text": "Biotina em altas doses pode interferir em exames por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Impedir qualquer coleta de sangue"
+        },
+        {
+          "id": "B",
+          "text": "Modificar obrigatoriamente toda doença tireoidiana"
+        },
+        {
+          "id": "C",
+          "text": "Alterar certos imunoensaios"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Biotina em altas doses pode interferir em exames por:",
+      "explanations": {
+        "direct": "Alterar certos imunoensaios. O sentido da interferência depende do ensaio; informar uso ao laboratório é relevante.",
+        "intuitive": "O resultado pode mudar sem o organismo ter mudado da mesma forma.",
+        "technical": "O sentido da interferência depende do ensaio; informar uso ao laboratório é relevante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P65-0982",
+      "number": 982,
+      "topicId": "P65",
+      "text": "Padronização de fitoterápicos importa porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Origem natural impede contaminação"
+        },
+        {
+          "id": "B",
+          "text": "Concentração de componentes pode variar entre produtos"
+        },
+        {
+          "id": "C",
+          "text": "Toda planta contém dose fixa universal"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Padronização de fitoterápicos importa porque:",
+      "explanations": {
+        "direct": "Concentração de componentes pode variar entre produtos. Qualidade, composição e contaminantes influenciam benefício e risco.",
+        "intuitive": "O nome da planta não garante a mesma exposição.",
+        "technical": "Qualidade, composição e contaminantes influenciam benefício e risco."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P65-0983",
+      "number": 983,
+      "topicId": "P65",
+      "text": "Alcaçuz em excesso pode causar quadro de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipotensão e hipercalemia obrigatórias"
+        },
+        {
+          "id": "B",
+          "text": "Hipertensão e hipocalemia"
+        },
+        {
+          "id": "C",
+          "text": "Deficiência de cortisol por destruição adrenal"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Alcaçuz em excesso pode causar quadro de:",
+      "explanations": {
+        "direct": "Hipertensão e hipocalemia. Inibição de 11β-HSD2 permite ativação mineralocorticoide; renina e aldosterona podem estar baixas.",
+        "intuitive": "Cortisol pode passar a agir como mineralocorticoide no rim.",
+        "technical": "Inibição de 11β-HSD2 permite ativação mineralocorticoide; renina e aldosterona podem estar baixas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P65-0984",
+      "number": 984,
+      "topicId": "P65",
+      "text": "Suplemento de potássio junto a poupador de K⁺ aumenta risco de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipercalemia"
+        },
+        {
+          "id": "B",
+          "text": "Redução obrigatória de creatinina"
+        },
+        {
+          "id": "C",
+          "text": "Hipocalemia"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Suplemento de potássio junto a poupador de K⁺ aumenta risco de:",
+      "explanations": {
+        "direct": "Hipercalemia. Função renal e outros fármacos modificam risco.",
+        "intuitive": "A entrada aumenta enquanto a saída pode estar reduzida.",
+        "technical": "Função renal e outros fármacos modificam risco."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

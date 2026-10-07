@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P31",
+    "name": "Farmacologia · 31 · Opioides",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 31
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P31-0705",
+      "number": 705,
+      "topicId": "P31",
+      "text": "Receptores opioides μ são acoplados principalmente a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Proteína Gi/o"
+        },
+        {
+          "id": "B",
+          "text": "Proteína Gs"
+        },
+        {
+          "id": "C",
+          "text": "Proteína Gq"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Receptores opioides μ são acoplados principalmente a:",
+      "explanations": {
+        "direct": "Proteína Gi/o. Podem fechar canais de Ca²⁺ e abrir K⁺; não são receptores esteroidais.",
+        "intuitive": "Reduzem transmissão de sinais em várias sinapses.",
+        "technical": "Podem fechar canais de Ca²⁺ e abrir K⁺; não são receptores esteroidais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P31-0706",
+      "number": 706,
+      "topicId": "P31",
+      "text": "Constipação opioide resulta de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Redução da motilidade propulsiva e secreção intestinal"
+        },
+        {
+          "id": "B",
+          "text": "Aumento obrigatório da propulsão"
+        },
+        {
+          "id": "C",
+          "text": "Inibição da absorção de água exclusivamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Constipação opioide resulta de:",
+      "explanations": {
+        "direct": "Redução da motilidade propulsiva e secreção intestinal. A tolerância à constipação costuma ser menor que a outros efeitos; não é diarreia secretora.",
+        "intuitive": "O trânsito fica mais lento.",
+        "technical": "A tolerância à constipação costuma ser menor que a outros efeitos; não é diarreia secretora."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P31-0707",
+      "number": 707,
+      "topicId": "P31",
+      "text": "Naloxona age como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonista μ pleno"
+        },
+        {
+          "id": "B",
+          "text": "Inibidor de acetilcolinesterase"
+        },
+        {
+          "id": "C",
+          "text": "Antagonista opioide"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Naloxona age como:",
+      "explanations": {
+        "direct": "Antagonista opioide. Sua duração pode ser menor que a do agente intoxicante, exigindo observação e medidas adicionais.",
+        "intuitive": "Disputa os receptores e reverte efeitos opioides.",
+        "technical": "Sua duração pode ser menor que a do agente intoxicante, exigindo observação e medidas adicionais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P31-0708",
+      "number": 708,
+      "topicId": "P31",
+      "text": "Buprenorfina é principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antagonista muscarínico"
+        },
+        {
+          "id": "B",
+          "text": "Agonista β2"
+        },
+        {
+          "id": "C",
+          "text": "Agonista parcial μ de alta afinidade"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Buprenorfina é principalmente:",
+      "explanations": {
+        "direct": "Agonista parcial μ de alta afinidade. Pode precipitar abstinência em certas transições; teto relativo não elimina risco respiratório, sobretudo em associações.",
+        "intuitive": "Ativa parcialmente e se liga fortemente ao receptor.",
+        "technical": "Pode precipitar abstinência em certas transições; teto relativo não elimina risco respiratório, sobretudo em associações."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P31-0709",
+      "number": 709,
+      "topicId": "P31",
+      "text": "Opioides reduzem liberação pré-sináptica de transmissores em parte por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar entrada de Ca²⁺ obrigatoriamente"
+        },
+        {
+          "id": "B",
+          "text": "Diminuir entrada de Ca²⁺"
+        },
+        {
+          "id": "C",
+          "text": "Destruir toda vesícula"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Opioides reduzem liberação pré-sináptica de transmissores em parte por:",
+      "explanations": {
+        "direct": "Diminuir entrada de Ca²⁺. Também hiperpolarizam células pós-sinápticas; não exigem destruição estrutural.",
+        "intuitive": "Menos cálcio significa menos liberação de mensagem.",
+        "technical": "Também hiperpolarizam células pós-sinápticas; não exigem destruição estrutural."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P31-0710",
+      "number": 710,
+      "topicId": "P31",
+      "text": "A depressão respiratória opioide decorre sobretudo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Broncoespasmo como mecanismo único"
+        },
+        {
+          "id": "B",
+          "text": "Menor resposta dos centros respiratórios ao CO₂"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio da hemoglobina por CO"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A depressão respiratória opioide decorre sobretudo de:",
+      "explanations": {
+        "direct": "Menor resposta dos centros respiratórios ao CO₂. É efeito central; não equivale a intoxicação por monóxido de carbono.",
+        "intuitive": "O comando para respirar fica menos sensível.",
+        "technical": "É efeito central; não equivale a intoxicação por monóxido de carbono."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P31-0711",
+      "number": 711,
+      "topicId": "P31",
+      "text": "Após resposta inicial à naloxona, pode haver nova depressão porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O opioide pode durar mais que o antagonista"
+        },
+        {
+          "id": "B",
+          "text": "A naloxona apresenta agonismo μ pleno"
+        },
+        {
+          "id": "C",
+          "text": "O antagonismo aumenta a absorção intestinal do opioide"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Após resposta inicial à naloxona, pode haver nova depressão porque:",
+      "explanations": {
+        "direct": "O opioide pode durar mais que o antagonista. Recorrência não implica falha inicial do mecanismo.",
+        "intuitive": "O bloqueio termina enquanto a substância ainda está presente.",
+        "technical": "Recorrência não implica falha inicial do mecanismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P31-0712",
+      "number": 712,
+      "topicId": "P31",
+      "text": "Tramadol pode aumentar risco serotoninérgico porque também:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueia todos os receptores de serotonina"
+        },
+        {
+          "id": "B",
+          "text": "Inibe recaptação de monoaminas"
+        },
+        {
+          "id": "C",
+          "text": "Elimina serotonina irreversivelmente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Tramadol pode aumentar risco serotoninérgico porque também:",
+      "explanations": {
+        "direct": "Inibe recaptação de monoaminas. Interações e risco convulsivo importam; não é um opioide farmacologicamente simples.",
+        "intuitive": "Não atua apenas na via opioide.",
+        "technical": "Interações e risco convulsivo importam; não é um opioide farmacologicamente simples."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P48",
+    "name": "Farmacologia · 48 · Antifúngicos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 48
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P48-0841",
+      "number": 841,
+      "topicId": "P48",
+      "text": "Anfotericina B liga-se a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peptidoglicano"
+        },
+        {
+          "id": "B",
+          "text": "DNA girase"
+        },
+        {
+          "id": "C",
+          "text": "Ergosterol"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Anfotericina B liga-se a:",
+      "explanations": {
+        "direct": "Ergosterol. Pode causar nefrotoxicidade e alterações eletrolíticas; não é betalactâmico.",
+        "intuitive": "Altera a membrana do fungo.",
+        "technical": "Pode causar nefrotoxicidade e alterações eletrolíticas; não é betalactâmico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P48-0842",
+      "number": 842,
+      "topicId": "P48",
+      "text": "Flucitosina é convertida no fungo em metabólitos relacionados a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Morfina"
+        },
+        {
+          "id": "B",
+          "text": "Penicilina"
+        },
+        {
+          "id": "C",
+          "text": "5-fluorouracil"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Flucitosina é convertida no fungo em metabólitos relacionados a:",
+      "explanations": {
+        "direct": "5-fluorouracil. Pode causar mielotoxicidade e desenvolver resistência; não é opioide.",
+        "intuitive": "O fungo transforma a molécula em um antimetabólito.",
+        "technical": "Pode causar mielotoxicidade e desenvolver resistência; não é opioide."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P48-0843",
+      "number": 843,
+      "topicId": "P48",
+      "text": "Azóis inibem síntese de ergosterol pela inibição de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transpeptidase"
+        },
+        {
+          "id": "B",
+          "text": "14α-desmetilase"
+        },
+        {
+          "id": "C",
+          "text": "β-glucano sintase"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Azóis inibem síntese de ergosterol pela inibição de:",
+      "explanations": {
+        "direct": "14α-desmetilase. O alvo é uma enzima dependente de CYP; interações variam entre azóis.",
+        "intuitive": "A membrana fica sem composição normal.",
+        "technical": "O alvo é uma enzima dependente de CYP; interações variam entre azóis."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P48-0844",
+      "number": 844,
+      "topicId": "P48",
+      "text": "Equinocandinas inibem:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Síntese de ácido micólico"
+        },
+        {
+          "id": "B",
+          "text": "Síntese de β-1,3-glucano"
+        },
+        {
+          "id": "C",
+          "text": "Receptor H2"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Equinocandinas inibem:",
+      "explanations": {
+        "direct": "Síntese de β-1,3-glucano. Diferem dos azóis, que atuam na membrana via ergosterol.",
+        "intuitive": "Comprometem um componente da parede fúngica.",
+        "technical": "Diferem dos azóis, que atuam na membrana via ergosterol."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P48-0845",
+      "number": 845,
+      "topicId": "P48",
+      "text": "Terbinafina inibe:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuraminidase"
+        },
+        {
+          "id": "B",
+          "text": "Esqualeno epoxidase"
+        },
+        {
+          "id": "C",
+          "text": "COX-1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Terbinafina inibe:",
+      "explanations": {
+        "direct": "Esqualeno epoxidase. Seu mecanismo difere do dos azóis, embora ambos afetem esteróis.",
+        "intuitive": "Interrompe uma etapa inicial da rota do ergosterol.",
+        "technical": "Seu mecanismo difere do dos azóis, embora ambos afetem esteróis."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P48-0846",
+      "number": 846,
+      "topicId": "P48",
+      "text": "Nistatina é usada principalmente de modo local por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Atividade exclusiva contra vírus"
+        },
+        {
+          "id": "B",
+          "text": "Perfil de absorção e toxicidade que limita uso sistêmico"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de ação em membranas"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Nistatina é usada principalmente de modo local por:",
+      "explanations": {
+        "direct": "Perfil de absorção e toxicidade que limita uso sistêmico. Liga esteróis; não é antiviral.",
+        "intuitive": "Pode tratar superfícies sem grande exposição sistêmica.",
+        "technical": "Liga esteróis; não é antiviral."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P48-0847",
+      "number": 847,
+      "topicId": "P48",
+      "text": "Fluconazol pode causar interações por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Destruir toda albumina"
+        },
+        {
+          "id": "B",
+          "text": "Inibir enzimas metabolizadoras de outros fármacos"
+        },
+        {
+          "id": "C",
+          "text": "Induzir todas as enzimas invariavelmente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Fluconazol pode causar interações por:",
+      "explanations": {
+        "direct": "Inibir enzimas metabolizadoras de outros fármacos. A magnitude varia com substrato e dose; não é interação universal idêntica.",
+        "intuitive": "A limpeza de medicamentos associados pode diminuir.",
+        "technical": "A magnitude varia com substrato e dose; não é interação universal idêntica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P48-0848",
+      "number": 848,
+      "topicId": "P48",
+      "text": "Resistência antifúngica pode envolver:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de membrana em todo fungo"
+        },
+        {
+          "id": "B",
+          "text": "Transformação obrigatória em bactéria"
+        },
+        {
+          "id": "C",
+          "text": "Alteração de alvo e efluxo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Resistência antifúngica pode envolver:",
+      "explanations": {
+        "direct": "Alteração de alvo e efluxo. O espectro e a espécie importam; antifúngicos não são intercambiáveis automaticamente.",
+        "intuitive": "O fungo pode reduzir o acesso ou modificar a rota atacada.",
+        "technical": "O espectro e a espécie importam; antifúngicos não são intercambiáveis automaticamente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

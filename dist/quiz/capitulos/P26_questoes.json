@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P26",
+    "name": "Farmacologia · 26 · Anestesia local",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 26
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P26-0665",
+      "number": 665,
+      "topicId": "P26",
+      "text": "A forma não ionizada do anestésico local facilita:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Travessia da membrana"
+        },
+        {
+          "id": "B",
+          "text": "Excreção de cálcio"
+        },
+        {
+          "id": "C",
+          "text": "Ligação exclusiva a albumina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A forma não ionizada do anestésico local facilita:",
+      "explanations": {
+        "direct": "Travessia da membrana. A forma protonada contribui para ligação ao canal intracelular; ambas importam em etapas distintas.",
+        "intuitive": "Atravessa melhor a barreira lipídica.",
+        "technical": "A forma protonada contribui para ligação ao canal intracelular; ambas importam em etapas distintas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P26-0666",
+      "number": 666,
+      "topicId": "P26",
+      "text": "Adicionar vasoconstritor a certos anestésicos locais pode:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neutralizar todo risco em qualquer local"
+        },
+        {
+          "id": "B",
+          "text": "Reduzir absorção sistêmica e prolongar efeito local"
+        },
+        {
+          "id": "C",
+          "text": "Aumentar obrigatoriamente toxicidade por absorção mais rápida"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Adicionar vasoconstritor a certos anestésicos locais pode:",
+      "explanations": {
+        "direct": "Reduzir absorção sistêmica e prolongar efeito local. A escolha depende do sítio e perfusão; não elimina contraindicações ou necessidade de dose segura.",
+        "intuitive": "O fármaco permanece mais tempo perto do nervo.",
+        "technical": "A escolha depende do sítio e perfusão; não elimina contraindicações ou necessidade de dose segura."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P26-0667",
+      "number": 667,
+      "topicId": "P26",
+      "text": "Bupivacaína tem preocupação especial com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deficiência de fator intrínseco"
+        },
+        {
+          "id": "B",
+          "text": "Cardiotoxicidade"
+        },
+        {
+          "id": "C",
+          "text": "Hepatite viral por mecanismo direto"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Bupivacaína tem preocupação especial com:",
+      "explanations": {
+        "direct": "Cardiotoxicidade. O risco depende de exposição; não é efeito infeccioso ou gástrico primário.",
+        "intuitive": "Pode comprometer seriamente a condução e contratilidade.",
+        "technical": "O risco depende de exposição; não é efeito infeccioso ou gástrico primário."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P26-0668",
+      "number": 668,
+      "topicId": "P26",
+      "text": "Prilocaína e benzocaína podem causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hemofilia hereditária"
+        },
+        {
+          "id": "B",
+          "text": "Metemoglobinemia"
+        },
+        {
+          "id": "C",
+          "text": "Aumento de hemoglobina funcional obrigatório"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Prilocaína e benzocaína podem causar:",
+      "explanations": {
+        "direct": "Metemoglobinemia. Oxidação do ferro para Fe³⁺ compromete transporte; não é deficiência congênita de fator VIII.",
+        "intuitive": "Parte da hemoglobina fica incapaz de carregar O₂ normalmente.",
+        "technical": "Oxidação do ferro para Fe³⁺ compromete transporte; não é deficiência congênita de fator VIII."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P26-0669",
+      "number": 669,
+      "topicId": "P26",
+      "text": "Anestésicos locais bloqueiam principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptores α1"
+        },
+        {
+          "id": "B",
+          "text": "Canais de Na⁺ voltagem-dependentes"
+        },
+        {
+          "id": "C",
+          "text": "Receptores de GABA exclusivamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Anestésicos locais bloqueiam principalmente:",
+      "explanations": {
+        "direct": "Canais de Na⁺ voltagem-dependentes. Atuam no canal pelo lado intracelular; não são apenas vasodilatadores.",
+        "intuitive": "Impedem a propagação do sinal elétrico.",
+        "technical": "Atuam no canal pelo lado intracelular; não são apenas vasodilatadores."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P26-0670",
+      "number": 670,
+      "topicId": "P26",
+      "text": "Meio tecidual ácido pode reduzir eficácia de anestésico local porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Destrói todos os canais de sódio"
+        },
+        {
+          "id": "B",
+          "text": "Aumenta sempre penetração lipídica"
+        },
+        {
+          "id": "C",
+          "text": "Aumenta fração ionizada fora da célula"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Meio tecidual ácido pode reduzir eficácia de anestésico local porque:",
+      "explanations": {
+        "direct": "Aumenta fração ionizada fora da célula. Inflamação tem outros fatores; o pH é um mecanismo importante, não explicação exclusiva.",
+        "intuitive": "Menos molécula consegue entrar no nervo.",
+        "technical": "Inflamação tem outros fatores; o pH é um mecanismo importante, não explicação exclusiva."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P26-0671",
+      "number": 671,
+      "topicId": "P26",
+      "text": "Anestésicos locais do tipo éster são metabolizados principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Esterases plasmáticas"
+        },
+        {
+          "id": "B",
+          "text": "Receptores renais V2"
+        },
+        {
+          "id": "C",
+          "text": "Tireoperoxidase"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Anestésicos locais do tipo éster são metabolizados principalmente por:",
+      "explanations": {
+        "direct": "Esterases plasmáticas. Amidas dependem mais de metabolismo hepático, com diferenças entre agentes.",
+        "intuitive": "Enzimas de hidrólise quebram essa classe.",
+        "technical": "Amidas dependem mais de metabolismo hepático, com diferenças entre agentes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P26-0672",
+      "number": 672,
+      "topicId": "P26",
+      "text": "Toxicidade sistêmica de anestésico local pode causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hiperglicemia obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Convulsões e arritmias"
+        },
+        {
+          "id": "C",
+          "text": "Apenas dormência local sem risco sistêmico"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Toxicidade sistêmica de anestésico local pode causar:",
+      "explanations": {
+        "direct": "Convulsões e arritmias. Sintomas neurológicos e cardiovasculares exigem reconhecimento rápido.",
+        "intuitive": "Se alcançar demais o sangue, atinge cérebro e coração.",
+        "technical": "Sintomas neurológicos e cardiovasculares exigem reconhecimento rápido."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

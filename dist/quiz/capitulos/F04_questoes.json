@@ -1,0 +1,1549 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "F04",
+    "name": "Fisiologia · 04 · Cardiovascular",
+    "book": "Costanzo Physiology, 8ª edição",
+    "chapter": 4
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "F04-0121",
+      "number": 121,
+      "topicId": "F04",
+      "text": "Fração de ejeção corresponde a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Volume sistólico ÷ frequência"
+        },
+        {
+          "id": "B",
+          "text": "Volume sistólico ÷ volume diastólico final"
+        },
+        {
+          "id": "C",
+          "text": "Volume sistólico ÷ pressão sistólica"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Fração de ejeção corresponde a:",
+      "explanations": {
+        "direct": "Volume sistólico ÷ volume diastólico final. FE = (VDF − VSF)/VDF; não é uma medida direta de débito.",
+        "intuitive": "É a parcela do enchimento que foi ejetada.",
+        "technical": "FE = (VDF − VSF)/VDF; não é uma medida direta de débito."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0122",
+      "number": 122,
+      "topicId": "F04",
+      "text": "VDF 120 mL e VSF 48 mL produzem FE de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "60%"
+        },
+        {
+          "id": "B",
+          "text": "40%"
+        },
+        {
+          "id": "C",
+          "text": "72%"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Raciocínio quantitativo",
+      "learningObjective": "VDF 120 mL e VSF 48 mL produzem FE de:",
+      "explanations": {
+        "direct": "60%. 72/120 = 0,60; 40% é a fração residual e 72 é volume, não percentual.",
+        "intuitive": "Saíram 72 dos 120 mL.",
+        "technical": "72/120 = 0,60; 40% é a fração residual e 72 é volume, não percentual."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0123",
+      "number": 123,
+      "topicId": "F04",
+      "text": "A pré-carga ventricular relaciona-se mais diretamente a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Resistência à ejeção apenas"
+        },
+        {
+          "id": "B",
+          "text": "Estiramento ao fim da diástole"
+        },
+        {
+          "id": "C",
+          "text": "Frequência cardíaca isolada"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A pré-carga ventricular relaciona-se mais diretamente a:",
+      "explanations": {
+        "direct": "Estiramento ao fim da diástole. Volume e pressão diastólicos são aproximações dependentes da complacência; pós-carga é outra variável.",
+        "intuitive": "É quanto a fibra foi preenchida e esticada antes de contrair.",
+        "technical": "Volume e pressão diastólicos são aproximações dependentes da complacência; pós-carga é outra variável."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0124",
+      "number": 124,
+      "topicId": "F04",
+      "text": "A pós-carga representa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Carga que se opõe à ejeção"
+        },
+        {
+          "id": "B",
+          "text": "Volume que sempre retorna pela veia cava"
+        },
+        {
+          "id": "C",
+          "text": "Duração exclusiva da onda P"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A pós-carga representa:",
+      "explanations": {
+        "direct": "Carga que se opõe à ejeção. Relaciona-se à tensão parietal e pressão arterial, não apenas ao retorno venoso.",
+        "intuitive": "É a resistência mecânica que o ventrículo precisa vencer.",
+        "technical": "Relaciona-se à tensão parietal e pressão arterial, não apenas ao retorno venoso."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0125",
+      "number": 125,
+      "topicId": "F04",
+      "text": "A válvula aórtica abre quando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pressão ventricular supera aórtica"
+        },
+        {
+          "id": "B",
+          "text": "Pressão atrial supera ventricular"
+        },
+        {
+          "id": "C",
+          "text": "Pressão aórtica supera ventricular"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A válvula aórtica abre quando:",
+      "explanations": {
+        "direct": "Pressão ventricular supera aórtica. A abertura é passiva; o gradiente atrioventricular controla outra válvula.",
+        "intuitive": "A diferença de pressão abre a porta de saída.",
+        "technical": "A abertura é passiva; o gradiente atrioventricular controla outra válvula."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0126",
+      "number": 126,
+      "topicId": "F04",
+      "text": "Na contração isovolumétrica:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mitral e aórtica estão abertas"
+        },
+        {
+          "id": "B",
+          "text": "Todas as válvulas estão fechadas"
+        },
+        {
+          "id": "C",
+          "text": "O volume ventricular cresce rapidamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Na contração isovolumétrica:",
+      "explanations": {
+        "direct": "Todas as válvulas estão fechadas. O volume permanece constante entre fechamento AV e abertura semilunar.",
+        "intuitive": "A pressão sobe com as portas fechadas.",
+        "technical": "O volume permanece constante entre fechamento AV e abertura semilunar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0127",
+      "number": 127,
+      "topicId": "F04",
+      "text": "No relaxamento isovolumétrico:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pressão cai sem mudar o volume"
+        },
+        {
+          "id": "B",
+          "text": "A mitral está plenamente aberta"
+        },
+        {
+          "id": "C",
+          "text": "O volume cai durante ejeção"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "No relaxamento isovolumétrico:",
+      "explanations": {
+        "direct": "A pressão cai sem mudar o volume. As válvulas permanecem fechadas nessa fase; abertura AV inicia enchimento.",
+        "intuitive": "O músculo relaxa antes de começar novo enchimento.",
+        "technical": "As válvulas permanecem fechadas nessa fase; abertura AV inicia enchimento."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0128",
+      "number": 128,
+      "topicId": "F04",
+      "text": "O nó AV retarda condução para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Produzir pressão aórtica diretamente"
+        },
+        {
+          "id": "B",
+          "text": "Impedir qualquer contração atrial"
+        },
+        {
+          "id": "C",
+          "text": "Permitir enchimento ventricular após contração atrial"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O nó AV retarda condução para:",
+      "explanations": {
+        "direct": "Permitir enchimento ventricular após contração atrial. O atraso coordena eventos; não é a fonte direta da pressão de ejeção.",
+        "intuitive": "Dá tempo para o átrio terminar sua contribuição.",
+        "technical": "O atraso coordena eventos; não é a fonte direta da pressão de ejeção."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0129",
+      "number": 129,
+      "topicId": "F04",
+      "text": "A onda P representa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Repolarização ventricular"
+        },
+        {
+          "id": "B",
+          "text": "Despolarização ventricular"
+        },
+        {
+          "id": "C",
+          "text": "Despolarização atrial"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A onda P representa:",
+      "explanations": {
+        "direct": "Despolarização atrial. QRS corresponde à despolarização ventricular; T à repolarização ventricular.",
+        "intuitive": "É a ativação elétrica dos átrios.",
+        "technical": "QRS corresponde à despolarização ventricular; T à repolarização ventricular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0130",
+      "number": 130,
+      "topicId": "F04",
+      "text": "O complexo QRS representa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Repolarização atrial isolada"
+        },
+        {
+          "id": "B",
+          "text": "Despolarização ventricular"
+        },
+        {
+          "id": "C",
+          "text": "Relaxamento mecânico obrigatório"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O complexo QRS representa:",
+      "explanations": {
+        "direct": "Despolarização ventricular. A atividade elétrica precede a mecânica; a repolarização atrial fica geralmente encoberta.",
+        "intuitive": "É a ativação elétrica dos ventrículos.",
+        "technical": "A atividade elétrica precede a mecânica; a repolarização atrial fica geralmente encoberta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0131",
+      "number": 131,
+      "topicId": "F04",
+      "text": "A onda T representa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Repolarização ventricular"
+        },
+        {
+          "id": "B",
+          "text": "Despolarização atrial"
+        },
+        {
+          "id": "C",
+          "text": "Abertura mitral"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A onda T representa:",
+      "explanations": {
+        "direct": "Repolarização ventricular. Não é um evento valvar nem a onda P.",
+        "intuitive": "É a recuperação elétrica ventricular.",
+        "technical": "Não é um evento valvar nem a onda P."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0132",
+      "number": 132,
+      "topicId": "F04",
+      "text": "O longo período refratário cardíaco evita:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Todo aumento da frequência"
+        },
+        {
+          "id": "B",
+          "text": "Toda contração prematura possível"
+        },
+        {
+          "id": "C",
+          "text": "Tetanização sustentada"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O longo período refratário cardíaco evita:",
+      "explanations": {
+        "direct": "Tetanização sustentada. Ele limita somação mecânica; não impede qualquer arritmia nem ajustes fisiológicos de frequência.",
+        "intuitive": "O coração precisa relaxar entre contrações.",
+        "technical": "Ele limita somação mecânica; não impede qualquer arritmia nem ajustes fisiológicos de frequência."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0133",
+      "number": 133,
+      "topicId": "F04",
+      "text": "As arteríolas são importantes principalmente como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maior reservatório de volume"
+        },
+        {
+          "id": "B",
+          "text": "Local exclusivo de hematopoiese"
+        },
+        {
+          "id": "C",
+          "text": "Vasos de resistência"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "As arteríolas são importantes principalmente como:",
+      "explanations": {
+        "direct": "Vasos de resistência. Veias são grandes vasos de capacitância; hematopoiese não é função arteriolar.",
+        "intuitive": "Elas ajustam a dificuldade para o sangue entrar nos tecidos.",
+        "technical": "Veias são grandes vasos de capacitância; hematopoiese não é função arteriolar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0134",
+      "number": 134,
+      "topicId": "F04",
+      "text": "As veias possuem elevada:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Complacência"
+        },
+        {
+          "id": "B",
+          "text": "Resistência maior que todas as arteríolas"
+        },
+        {
+          "id": "C",
+          "text": "Pressão pulsátil igual à aorta"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "As veias possuem elevada:",
+      "explanations": {
+        "direct": "Complacência. Complacência é ΔV/ΔP; não significa pressão arterial elevada.",
+        "intuitive": "Conseguem guardar bastante sangue com pouca elevação de pressão.",
+        "technical": "Complacência é ΔV/ΔP; não significa pressão arterial elevada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0135",
+      "number": 135,
+      "topicId": "F04",
+      "text": "A perfusão coronariana esquerda ocorre predominantemente na:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diástole"
+        },
+        {
+          "id": "B",
+          "text": "Sístole isovolumétrica"
+        },
+        {
+          "id": "C",
+          "text": "Contração atrial exclusivamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A perfusão coronariana esquerda ocorre predominantemente na:",
+      "explanations": {
+        "direct": "Diástole. A sístole comprime especialmente vasos subendocárdicos; taquicardia reduz tempo diastólico.",
+        "intuitive": "O relaxamento libera vasos comprimidos pelo miocárdio.",
+        "technical": "A sístole comprime especialmente vasos subendocárdicos; taquicardia reduz tempo diastólico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0136",
+      "number": 136,
+      "topicId": "F04",
+      "text": "A maior velocidade média do sangue costuma ocorrer em vasos com menor:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Viscosidade necessariamente nula"
+        },
+        {
+          "id": "B",
+          "text": "Pressão oncótica"
+        },
+        {
+          "id": "C",
+          "text": "Área transversal total"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A maior velocidade média do sangue costuma ocorrer em vasos com menor:",
+      "explanations": {
+        "direct": "Área transversal total. v = Q/A; capilares têm enorme área total e baixa velocidade.",
+        "intuitive": "O mesmo fluxo passa mais depressa por área menor.",
+        "technical": "v = Q/A; capilares têm enorme área total e baixa velocidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0137",
+      "number": 137,
+      "topicId": "F04",
+      "text": "O débito cardíaco é calculado por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Volume diastólico ÷ frequência"
+        },
+        {
+          "id": "B",
+          "text": "Frequência × volume sistólico"
+        },
+        {
+          "id": "C",
+          "text": "Pressão × frequência"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Raciocínio quantitativo",
+      "learningObjective": "O débito cardíaco é calculado por:",
+      "explanations": {
+        "direct": "Frequência × volume sistólico. DC = FC × VS; pressão não substitui volume sistólico.",
+        "intuitive": "É quanto sai por batimento vezes quantos batimentos ocorrem.",
+        "technical": "DC = FC × VS; pressão não substitui volume sistólico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0138",
+      "number": 138,
+      "topicId": "F04",
+      "text": "Pela lei de Frank-Starling, maior enchimento fisiológico tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar volume sistólico"
+        },
+        {
+          "id": "B",
+          "text": "Reduzir força em qualquer faixa"
+        },
+        {
+          "id": "C",
+          "text": "Eliminar necessidade de cálcio"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Pela lei de Frank-Starling, maior enchimento fisiológico tende a:",
+      "explanations": {
+        "direct": "Aumentar volume sistólico. É mecanismo dependente do comprimento; não deve ser extrapolado indefinidamente a dilatação patológica.",
+        "intuitive": "A fibra mais preenchida contrai com mais força dentro de limites.",
+        "technical": "É mecanismo dependente do comprimento; não deve ser extrapolado indefinidamente a dilatação patológica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0139",
+      "number": 139,
+      "topicId": "F04",
+      "text": "Maior contratilidade, com pré e pós-carga iguais, tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduzir volume sistólico final"
+        },
+        {
+          "id": "B",
+          "text": "Reduzir fração de ejeção"
+        },
+        {
+          "id": "C",
+          "text": "Aumentar volume sistólico final"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Maior contratilidade, com pré e pós-carga iguais, tende a:",
+      "explanations": {
+        "direct": "Reduzir volume sistólico final. O aumento inotrópico desloca relação pressão-volume sistólica e eleva VS e FE.",
+        "intuitive": "O coração esvazia mais a cada batida.",
+        "technical": "O aumento inotrópico desloca relação pressão-volume sistólica e eleva VS e FE."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0140",
+      "number": 140,
+      "topicId": "F04",
+      "text": "A fase ascendente do potencial nodal depende principalmente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ca²⁺ por canais tipo L"
+        },
+        {
+          "id": "B",
+          "text": "Cl⁻ por canais GABA"
+        },
+        {
+          "id": "C",
+          "text": "Na⁺ rápido como no ventrículo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A fase ascendente do potencial nodal depende principalmente de:",
+      "explanations": {
+        "direct": "Ca²⁺ por canais tipo L. Células nodais diferem de miócitos contráteis, cuja fase 0 usa Na⁺ rápido.",
+        "intuitive": "O marca-passo usa cálcio para seu disparo.",
+        "technical": "Células nodais diferem de miócitos contráteis, cuja fase 0 usa Na⁺ rápido."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0141",
+      "number": 141,
+      "topicId": "F04",
+      "text": "O platô ventricular depende de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de qualquer corrente"
+        },
+        {
+          "id": "B",
+          "text": "Entrada de Ca²⁺ equilibrada por correntes de K⁺"
+        },
+        {
+          "id": "C",
+          "text": "Entrada exclusiva de Cl⁻"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O platô ventricular depende de:",
+      "explanations": {
+        "direct": "Entrada de Ca²⁺ equilibrada por correntes de K⁺. Canais L e correntes repolarizantes prolongam o potencial e o período refratário.",
+        "intuitive": "Correntes opostas sustentam a voltagem por algum tempo.",
+        "technical": "Canais L e correntes repolarizantes prolongam o potencial e o período refratário."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0142",
+      "number": 142,
+      "topicId": "F04",
+      "text": "A pressão arterial média depende aproximadamente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Débito cardíaco × resistência vascular sistêmica"
+        },
+        {
+          "id": "B",
+          "text": "Débito cardíaco ÷ resistência vascular sistêmica"
+        },
+        {
+          "id": "C",
+          "text": "Volume sistólico × complacência arterial"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A pressão arterial média depende aproximadamente de:",
+      "explanations": {
+        "direct": "Débito cardíaco × resistência vascular sistêmica. Mais precisamente PAM − pressão atrial direita = DC × RVS.",
+        "intuitive": "Fluxo e resistência determinam a pressão de propulsão.",
+        "technical": "Mais precisamente PAM − pressão atrial direita = DC × RVS."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0143",
+      "number": 143,
+      "topicId": "F04",
+      "text": "A vasoconstrição venosa tende a aumentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Retorno venoso"
+        },
+        {
+          "id": "B",
+          "text": "Capacitância venosa"
+        },
+        {
+          "id": "C",
+          "text": "Volume venoso não estressado"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A vasoconstrição venosa tende a aumentar:",
+      "explanations": {
+        "direct": "Retorno venoso. Reduz capacitância e aumenta volume estressado e pressão média de enchimento sistêmico.",
+        "intuitive": "Aperta o reservatório e desloca sangue para o coração.",
+        "technical": "Reduz capacitância e aumenta volume estressado e pressão média de enchimento sistêmico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0144",
+      "number": 144,
+      "topicId": "F04",
+      "text": "O retorno venoso depende do gradiente entre:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pressão alveolar e intracraniana"
+        },
+        {
+          "id": "B",
+          "text": "Pressão sistólica e osmótica urinária"
+        },
+        {
+          "id": "C",
+          "text": "Pressão média de enchimento sistêmico e atrial direita"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O retorno venoso depende do gradiente entre:",
+      "explanations": {
+        "direct": "Pressão média de enchimento sistêmico e atrial direita. A resistência ao retorno também importa; os outros gradientes não descrevem essa circulação.",
+        "intuitive": "O sangue volta de onde há mais pressão para onde há menos.",
+        "technical": "A resistência ao retorno também importa; os outros gradientes não descrevem essa circulação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0145",
+      "number": 145,
+      "topicId": "F04",
+      "text": "Taquicardia intensa pode reduzir perfusão coronariana por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar obrigatoriamente hemoglobina"
+        },
+        {
+          "id": "B",
+          "text": "Encurtar diástole"
+        },
+        {
+          "id": "C",
+          "text": "Eliminar pressão intramiocárdica"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Taquicardia intensa pode reduzir perfusão coronariana por:",
+      "explanations": {
+        "direct": "Encurtar diástole. O consumo de O₂ também aumenta; a frequência não garante oferta proporcional.",
+        "intuitive": "Há menos tempo disponível para irrigar o coração.",
+        "technical": "O consumo de O₂ também aumenta; a frequência não garante oferta proporcional."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0146",
+      "number": 146,
+      "topicId": "F04",
+      "text": "A autorregulação metabólica local diante de hipóxia tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dilatar arteríolas sistêmicas do tecido"
+        },
+        {
+          "id": "B",
+          "text": "Fechar capilares por regra universal"
+        },
+        {
+          "id": "C",
+          "text": "Contrair todo vaso sistêmico"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A autorregulação metabólica local diante de hipóxia tende a:",
+      "explanations": {
+        "direct": "Dilatar arteríolas sistêmicas do tecido. A circulação pulmonar tem resposta hipóxica distinta; não generalizar entre leitos.",
+        "intuitive": "O tecido pede mais fluxo quando falta oxigênio.",
+        "technical": "A circulação pulmonar tem resposta hipóxica distinta; não generalizar entre leitos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0147",
+      "number": 147,
+      "topicId": "F04",
+      "text": "O aumento da pressão hidrostática capilar favorece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Redução de edema em qualquer caso"
+        },
+        {
+          "id": "B",
+          "text": "Filtração para o interstício"
+        },
+        {
+          "id": "C",
+          "text": "Reabsorção obrigatória de água"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O aumento da pressão hidrostática capilar favorece:",
+      "explanations": {
+        "direct": "Filtração para o interstício. O resultado depende também de barreira, pressão oncótica e drenagem linfática.",
+        "intuitive": "Maior pressão empurra líquido para fora.",
+        "technical": "O resultado depende também de barreira, pressão oncótica e drenagem linfática."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0148",
+      "number": 148,
+      "topicId": "F04",
+      "text": "A principal via de retorno do excesso de líquido intersticial é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Secreção ativa das células intersticiais para as arteríolas"
+        },
+        {
+          "id": "B",
+          "text": "Reabsorção contínua na extremidade venosa de todos os capilares"
+        },
+        {
+          "id": "C",
+          "text": "Sistema linfático"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A principal via de retorno do excesso de líquido intersticial é:",
+      "explanations": {
+        "direct": "Sistema linfático. No estado estável, linfa é crucial; não se deve supor reabsorção venosa capilar sustentada em todos os tecidos.",
+        "intuitive": "A drenagem recolhe o líquido que saiu dos capilares.",
+        "technical": "No estado estável, linfa é crucial; não se deve supor reabsorção venosa capilar sustentada em todos os tecidos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0149",
+      "number": 149,
+      "topicId": "F04",
+      "text": "Durante exercício dinâmico, músculos ativos tendem a apresentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fluxo idêntico ao repouso"
+        },
+        {
+          "id": "B",
+          "text": "Vasodilatação metabólica"
+        },
+        {
+          "id": "C",
+          "text": "Vasoconstrição máxima mantida"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Durante exercício dinâmico, músculos ativos tendem a apresentar:",
+      "explanations": {
+        "direct": "Vasodilatação metabólica. Metabólitos reduzem resistência local apesar da ativação simpática sistêmica.",
+        "intuitive": "A demanda local abre o suprimento.",
+        "technical": "Metabólitos reduzem resistência local apesar da ativação simpática sistêmica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0150",
+      "number": 150,
+      "topicId": "F04",
+      "text": "Ao inspirar espontaneamente, a queda de pressão intratorácica geralmente favorece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Retorno venoso ao coração direito"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio completo do retorno"
+        },
+        {
+          "id": "C",
+          "text": "Ejeção imediata de todo sangue pulmonar"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ao inspirar espontaneamente, a queda de pressão intratorácica geralmente favorece:",
+      "explanations": {
+        "direct": "Retorno venoso ao coração direito. O efeito depende de condições hemodinâmicas; não implica esvaziamento instantâneo pulmonar.",
+        "intuitive": "A pressão no tórax ajuda a puxar sangue das veias.",
+        "technical": "O efeito depende de condições hemodinâmicas; não implica esvaziamento instantâneo pulmonar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0151",
+      "number": 151,
+      "topicId": "F04",
+      "text": "Hipertrofia concêntrica pode inicialmente reduzir tensão parietal porque aumenta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raio cavitário obrigatoriamente"
+        },
+        {
+          "id": "B",
+          "text": "Espessura da parede"
+        },
+        {
+          "id": "C",
+          "text": "Pressão venosa central exclusivamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Hipertrofia concêntrica pode inicialmente reduzir tensão parietal porque aumenta:",
+      "explanations": {
+        "direct": "Espessura da parede. Pela relação de Laplace, tensão cresce com pressão e raio e cai com espessura.",
+        "intuitive": "Uma parede mais grossa divide melhor a carga.",
+        "technical": "Pela relação de Laplace, tensão cresce com pressão e raio e cai com espessura."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0152",
+      "number": 152,
+      "topicId": "F04",
+      "text": "Pelo princípio de Fick, DC é consumo de O₂ dividido por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Saturação arterial isolada"
+        },
+        {
+          "id": "B",
+          "text": "Pressão sistólica"
+        },
+        {
+          "id": "C",
+          "text": "Diferença arteriovenosa de conteúdo de O₂"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Pelo princípio de Fick, DC é consumo de O₂ dividido por:",
+      "explanations": {
+        "direct": "Diferença arteriovenosa de conteúdo de O₂. A diferença deve ser de conteúdo, com unidades coerentes; saturação isolada não basta.",
+        "intuitive": "Compare quanto foi usado com quanto cada litro entregou.",
+        "technical": "A diferença deve ser de conteúdo, com unidades coerentes; saturação isolada não basta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0153",
+      "number": 153,
+      "topicId": "F04",
+      "text": "Uma fístula arteriovenosa extensa tende a reduzir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Retorno venoso obrigatoriamente"
+        },
+        {
+          "id": "B",
+          "text": "Débito cardíaco obrigatoriamente"
+        },
+        {
+          "id": "C",
+          "text": "Resistência vascular sistêmica"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Uma fístula arteriovenosa extensa tende a reduzir:",
+      "explanations": {
+        "direct": "Resistência vascular sistêmica. Pode aumentar retorno e débito; a queda de resistência não implica queda obrigatória de fluxo.",
+        "intuitive": "Cria um caminho de baixa resistência.",
+        "technical": "Pode aumentar retorno e débito; a queda de resistência não implica queda obrigatória de fluxo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0154",
+      "number": 154,
+      "topicId": "F04",
+      "text": "Com FC 75/min e VS 80 mL, o débito é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "60 L/min"
+        },
+        {
+          "id": "B",
+          "text": "6 L/min"
+        },
+        {
+          "id": "C",
+          "text": "0,94 L/min"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Raciocínio quantitativo",
+      "learningObjective": "Com FC 75/min e VS 80 mL, o débito é:",
+      "explanations": {
+        "direct": "6 L/min. O produto é 6.000 mL/min; dividir ou errar a conversão produz os distratores.",
+        "intuitive": "Multiplique 75 por 80 e converta mililitros em litros.",
+        "technical": "O produto é 6.000 mL/min; dividir ou errar a conversão produz os distratores."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0155",
+      "number": 155,
+      "topicId": "F04",
+      "text": "A primeira bulha associa-se principalmente ao:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Abertura da válvula aórtica"
+        },
+        {
+          "id": "B",
+          "text": "Fechamento das semilunares"
+        },
+        {
+          "id": "C",
+          "text": "Fechamento das válvulas AV"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A primeira bulha associa-se principalmente ao:",
+      "explanations": {
+        "direct": "Fechamento das válvulas AV. B2 corresponde ao fechamento aórtico e pulmonar; abertura normal não produz B1.",
+        "intuitive": "Marca o início da sístole com o fechamento das entradas.",
+        "technical": "B2 corresponde ao fechamento aórtico e pulmonar; abertura normal não produz B1."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0156",
+      "number": 156,
+      "topicId": "F04",
+      "text": "A segunda bulha associa-se ao:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fechamento mitral e tricúspide"
+        },
+        {
+          "id": "B",
+          "text": "Fechamento aórtico e pulmonar"
+        },
+        {
+          "id": "C",
+          "text": "Enchimento atrial inicial"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A segunda bulha associa-se ao:",
+      "explanations": {
+        "direct": "Fechamento aórtico e pulmonar. É o início da diástole ventricular, diferindo do fechamento AV de B1.",
+        "intuitive": "Marca o fim da ejeção.",
+        "technical": "É o início da diástole ventricular, diferindo do fechamento AV de B1."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0157",
+      "number": 157,
+      "topicId": "F04",
+      "text": "Pela lei de Poiseuille, reduzir o raio à metade aumenta resistência por fator:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "16"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Pela lei de Poiseuille, reduzir o raio à metade aumenta resistência por fator:",
+      "explanations": {
+        "direct": "16. R é inversamente proporcional à quarta potência do raio em fluxo laminar ideal.",
+        "intuitive": "Um pequeno estreitamento dificulta muito a passagem.",
+        "technical": "R é inversamente proporcional à quarta potência do raio em fluxo laminar ideal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0158",
+      "number": 158,
+      "topicId": "F04",
+      "text": "Um paciente perde grande quantidade de albumina na urina e desenvolve edema. Qual alteração das forças de troca microvascular contribui para esse achado?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diminuir pressão oncótica plasmática"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar força osmótica intravascular"
+        },
+        {
+          "id": "C",
+          "text": "Bloquear toda filtração capilar"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente perde grande quantidade de albumina na urina e desenvolve edema. Qual alteração das forças de troca microvascular contribui para esse achado?",
+      "explanations": {
+        "direct": "Diminuir pressão oncótica plasmática. Não é aumento de pressão oncótica; outros mecanismos podem coexistir.",
+        "intuitive": "Há menor retenção osmótica de água no plasma.",
+        "technical": "Não é aumento de pressão oncótica; outros mecanismos podem coexistir."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0159",
+      "number": 159,
+      "topicId": "F04",
+      "text": "Um ecocardiograma mostra obstrução importante à ejeção pela válvula aórtica. Para manter o fluxo, o ventrículo esquerdo gera maior pressão. Como se altera sua pós-carga?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diminuir"
+        },
+        {
+          "id": "B",
+          "text": "Desaparecer"
+        },
+        {
+          "id": "C",
+          "text": "Aumentar"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um ecocardiograma mostra obstrução importante à ejeção pela válvula aórtica. Para manter o fluxo, o ventrículo esquerdo gera maior pressão. Como se altera sua pós-carga?",
+      "explanations": {
+        "direct": "Aumentar. Há gradiente entre ventrículo e aorta; não se trata de redução de carga.",
+        "intuitive": "A saída estreita exige maior pressão para ejetar.",
+        "technical": "Há gradiente entre ventrículo e aorta; não se trata de redução de carga."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F04-0160",
+      "number": 160,
+      "topicId": "F04",
+      "text": "Uma pessoa tem hemoglobina de 7 g/dL, saturação arterial de 98% e PaO₂ normal. Qual variável explica a menor oferta potencial de oxigênio apesar da boa saturação?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conteúdo arterial de O₂"
+        },
+        {
+          "id": "B",
+          "text": "Saturação de O₂ obrigatoriamente"
+        },
+        {
+          "id": "C",
+          "text": "Pressão parcial de O₂ obrigatoriamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Uma pessoa tem hemoglobina de 7 g/dL, saturação arterial de 98% e PaO₂ normal. Qual variável explica a menor oferta potencial de oxigênio apesar da boa saturação?",
+      "explanations": {
+        "direct": "Conteúdo arterial de O₂. PaO₂ e saturação podem ser normais; conteúdo depende muito da concentração de hemoglobina.",
+        "intuitive": "Há menos veículos de hemoglobina para carregar oxigênio.",
+        "technical": "PaO₂ e saturação podem ser normais; conteúdo depende muito da concentração de hemoglobina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

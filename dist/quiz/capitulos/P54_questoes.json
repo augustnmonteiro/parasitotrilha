@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P54",
+    "name": "Farmacologia · 54 · Antineoplásicos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 54
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P54-0889",
+      "number": 889,
+      "topicId": "P54",
+      "text": "Metotrexato antineoplásico interfere principalmente no metabolismo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ergosterol"
+        },
+        {
+          "id": "B",
+          "text": "Folato"
+        },
+        {
+          "id": "C",
+          "text": "Ácido micólico"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Metotrexato antineoplásico interfere principalmente no metabolismo de:",
+      "explanations": {
+        "direct": "Folato. Inibe DHFR e outras vias conforme contexto; não é antimicobacteriano por esse alvo.",
+        "intuitive": "Limita recursos para síntese de nucleotídeos.",
+        "technical": "Inibe DHFR e outras vias conforme contexto; não é antimicobacteriano por esse alvo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P54-0890",
+      "number": 890,
+      "topicId": "P54",
+      "text": "5-fluorouracil pode inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timidilato sintase"
+        },
+        {
+          "id": "B",
+          "text": "COX-1"
+        },
+        {
+          "id": "C",
+          "text": "ATP sintase micobacteriana"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "5-fluorouracil pode inibir:",
+      "explanations": {
+        "direct": "Timidilato sintase. Também tem efeitos sobre RNA; não é apenas um antibiótico de parede.",
+        "intuitive": "Compromete a fabricação de componentes do DNA.",
+        "technical": "Também tem efeitos sobre RNA; não é apenas um antibiótico de parede."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P54-0891",
+      "number": 891,
+      "topicId": "P54",
+      "text": "Doxorrubicina exige atenção a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cardiotoxicidade"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de lesão cumulativa"
+        },
+        {
+          "id": "C",
+          "text": "Broncodilatação terapêutica"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Doxorrubicina exige atenção a:",
+      "explanations": {
+        "direct": "Cardiotoxicidade. Intercalação, topoisomerase II e espécies reativas participam de seus efeitos.",
+        "intuitive": "O coração pode sofrer dano dependente de exposição e fatores de risco.",
+        "technical": "Intercalação, topoisomerase II e espécies reativas participam de seus efeitos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P54-0892",
+      "number": 892,
+      "topicId": "P54",
+      "text": "Vincristina age sobre:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor HER2"
+        },
+        {
+          "id": "B",
+          "text": "Microtúbulos, impedindo montagem adequada"
+        },
+        {
+          "id": "C",
+          "text": "Síntese de folato"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Vincristina age sobre:",
+      "explanations": {
+        "direct": "Microtúbulos, impedindo montagem adequada. Neuropatia é toxicidade importante; não é anticorpo monoclonal.",
+        "intuitive": "Interfere no fuso necessário à divisão.",
+        "technical": "Neuropatia é toxicidade importante; não é anticorpo monoclonal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P54-0893",
+      "number": 893,
+      "topicId": "P54",
+      "text": "Paclitaxel difere dos alcaloides da vinca por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibir exclusivamente DHFR"
+        },
+        {
+          "id": "B",
+          "text": "Estabilizar microtúbulos e impedir sua dinâmica normal"
+        },
+        {
+          "id": "C",
+          "text": "Promover desmontagem pelo mesmo modo de ligação"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Paclitaxel difere dos alcaloides da vinca por:",
+      "explanations": {
+        "direct": "Estabilizar microtúbulos e impedir sua dinâmica normal. A função depende da dinâmica, não apenas de ter mais ou menos microtúbulos.",
+        "intuitive": "Manter a estrutura travada também impede divisão normal.",
+        "technical": "A função depende da dinâmica, não apenas de ter mais ou menos microtúbulos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P54-0894",
+      "number": 894,
+      "topicId": "P54",
+      "text": "Imatinibe é exemplo de inibidor dirigido a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tirosina-quinases como BCR-ABL"
+        },
+        {
+          "id": "B",
+          "text": "Síntese de folato pela DHFR"
+        },
+        {
+          "id": "C",
+          "text": "Dinâmica de microtúbulos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Imatinibe é exemplo de inibidor dirigido a:",
+      "explanations": {
+        "direct": "Tirosina-quinases como BCR-ABL. A presença do alvo e mecanismos de resistência condicionam benefício.",
+        "intuitive": "Ataca uma sinalização que pode dirigir o tumor.",
+        "technical": "A presença do alvo e mecanismos de resistência condicionam benefício."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P54-0895",
+      "number": 895,
+      "topicId": "P54",
+      "text": "Leucovorina pode resgatar células após certos esquemas de metotrexato por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloquear receptor de estrogênio"
+        },
+        {
+          "id": "B",
+          "text": "Destruir todo metotrexato imediatamente"
+        },
+        {
+          "id": "C",
+          "text": "Fornecer folato reduzido"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Leucovorina pode resgatar células após certos esquemas de metotrexato por:",
+      "explanations": {
+        "direct": "Fornecer folato reduzido. Tempo e dose importam; não é antídoto indistinto em qualquer contexto.",
+        "intuitive": "Oferece uma via para contornar o bloqueio metabólico.",
+        "technical": "Tempo e dose importam; não é antídoto indistinto em qualquer contexto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P54-0896",
+      "number": 896,
+      "topicId": "P54",
+      "text": "Ciclofosfamida pode causar cistite hemorrágica por metabólito:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Formiato"
+        },
+        {
+          "id": "B",
+          "text": "Acroleína"
+        },
+        {
+          "id": "C",
+          "text": "Morfina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Ciclofosfamida pode causar cistite hemorrágica por metabólito:",
+      "explanations": {
+        "direct": "Acroleína. Mesna pode reduzir toxicidade urotelial em esquemas apropriados; não neutraliza toda toxicidade antineoplásica.",
+        "intuitive": "Um produto da droga irrita a bexiga.",
+        "technical": "Mesna pode reduzir toxicidade urotelial em esquemas apropriados; não neutraliza toda toxicidade antineoplásica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

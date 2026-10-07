@@ -1,0 +1,485 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P06",
+    "name": "Farmacologia · 06 · Farmacologia autonômica",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 6
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P06-0461",
+      "number": 461,
+      "topicId": "P06",
+      "text": "Qual etapa da transmissão colinérgica é bloqueada pela toxina botulínica?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Síntese de noradrenalina"
+        },
+        {
+          "id": "B",
+          "text": "Exocitose de acetilcolina"
+        },
+        {
+          "id": "C",
+          "text": "Ligação da acetilcolina ao receptor"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Qual etapa da transmissão colinérgica é bloqueada pela toxina botulínica?",
+      "explanations": {
+        "direct": "Exocitose de acetilcolina. Clivagem de proteínas SNARE impede fusão vesicular; não é antagonismo direto do receptor.",
+        "intuitive": "A mensagem fica impedida de sair da terminação.",
+        "technical": "Clivagem de proteínas SNARE impede fusão vesicular; não é antagonismo direto do receptor."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P06-0462",
+      "number": 462,
+      "topicId": "P06",
+      "text": "Vesamicol interfere principalmente no:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Armazenamento vesicular de acetilcolina"
+        },
+        {
+          "id": "B",
+          "text": "Receptor muscarínico pós-sináptico"
+        },
+        {
+          "id": "C",
+          "text": "Metabolismo hepático de catecolaminas"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Vesamicol interfere principalmente no:",
+      "explanations": {
+        "direct": "Armazenamento vesicular de acetilcolina. Inibe VAChT; não bloqueia diretamente M ou N.",
+        "intuitive": "A vesícula não recebe acetilcolina adequadamente.",
+        "technical": "Inibe VAChT; não bloqueia diretamente M ou N."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P06-0463",
+      "number": 463,
+      "topicId": "P06",
+      "text": "A tirosina-hidroxilase participa da síntese de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acetilcolina"
+        },
+        {
+          "id": "B",
+          "text": "Histamina"
+        },
+        {
+          "id": "C",
+          "text": "Catecolaminas"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A tirosina-hidroxilase participa da síntese de:",
+      "explanations": {
+        "direct": "Catecolaminas. Converte tirosina em DOPA; colina-acetiltransferase sintetiza acetilcolina.",
+        "intuitive": "É uma etapa inicial na fabricação de dopamina e noradrenalina.",
+        "technical": "Converte tirosina em DOPA; colina-acetiltransferase sintetiza acetilcolina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P06-0464",
+      "number": 464,
+      "topicId": "P06",
+      "text": "Bloqueio autonômico ganglionar atinge receptores:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nm"
+        },
+        {
+          "id": "B",
+          "text": "β2"
+        },
+        {
+          "id": "C",
+          "text": "Nn"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Bloqueio autonômico ganglionar atinge receptores:",
+      "explanations": {
+        "direct": "Nn. Nm pertence à placa motora; β2 é receptor efetor metabotrópico.",
+        "intuitive": "Interrompe a estação intermediária autonômica.",
+        "technical": "Nm pertence à placa motora; β2 é receptor efetor metabotrópico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P06-0465",
+      "number": 465,
+      "topicId": "P06",
+      "text": "Hemicolínio reduz síntese de acetilcolina ao bloquear:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Recaptação de acetilcolina intacta"
+        },
+        {
+          "id": "B",
+          "text": "Entrada de tirosina exclusivamente"
+        },
+        {
+          "id": "C",
+          "text": "Captação de colina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Hemicolínio reduz síntese de acetilcolina ao bloquear:",
+      "explanations": {
+        "direct": "Captação de colina. A etapa de alta afinidade de colina é importante; acetilcolina é hidrolisada na fenda.",
+        "intuitive": "Falta matéria-prima para fabricar a mensagem.",
+        "technical": "A etapa de alta afinidade de colina é importante; acetilcolina é hidrolisada na fenda."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P06-0466",
+      "number": 466,
+      "topicId": "P06",
+      "text": "Reserpina reduz armazenamento de monoaminas ao inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor β1"
+        },
+        {
+          "id": "B",
+          "text": "VMAT"
+        },
+        {
+          "id": "C",
+          "text": "NET exclusivamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Reserpina reduz armazenamento de monoaminas ao inibir:",
+      "explanations": {
+        "direct": "VMAT. Depleção vesicular difere de bloqueio da recaptação na membrana neuronal.",
+        "intuitive": "As vesículas deixam de guardar os transmissores.",
+        "technical": "Depleção vesicular difere de bloqueio da recaptação na membrana neuronal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P06-0467",
+      "number": 467,
+      "topicId": "P06",
+      "text": "Cocaína aumenta noradrenalina sináptica em parte por bloquear:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Recaptação por NET"
+        },
+        {
+          "id": "B",
+          "text": "Liberação de todas as vesículas"
+        },
+        {
+          "id": "C",
+          "text": "Síntese por tirosina-hidroxilase"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Cocaína aumenta noradrenalina sináptica em parte por bloquear:",
+      "explanations": {
+        "direct": "Recaptação por NET. Também inibe outros transportadores e canais de Na⁺; não é apenas um agonista receptor direto.",
+        "intuitive": "A mensagem fica mais tempo fora da célula.",
+        "technical": "Também inibe outros transportadores e canais de Na⁺; não é apenas um agonista receptor direto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P06-0468",
+      "number": 468,
+      "topicId": "P06",
+      "text": "Um simpaticomimético indireto depende mais da integridade de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Produção de surfactante"
+        },
+        {
+          "id": "B",
+          "text": "Receptores muscarínicos da glândula"
+        },
+        {
+          "id": "C",
+          "text": "Estoques de catecolaminas"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Um simpaticomimético indireto depende mais da integridade de:",
+      "explanations": {
+        "direct": "Estoques de catecolaminas. Agonistas diretos podem agir no receptor mesmo com estoques reduzidos.",
+        "intuitive": "Ele usa a mensagem armazenada pelo próprio organismo.",
+        "technical": "Agonistas diretos podem agir no receptor mesmo com estoques reduzidos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P06-0469",
+      "number": 469,
+      "topicId": "P06",
+      "text": "Tiramina pode provocar resposta pressora acentuada durante inibição de MAO porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A MAO transforma tiramina em insulina"
+        },
+        {
+          "id": "B",
+          "text": "A tiramina bloqueia α1"
+        },
+        {
+          "id": "C",
+          "text": "Mais tiramina alcança terminações e libera noradrenalina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Tiramina pode provocar resposta pressora acentuada durante inibição de MAO porque:",
+      "explanations": {
+        "direct": "Mais tiramina alcança terminações e libera noradrenalina. A interação não decorre de antagonismo adrenérgico.",
+        "intuitive": "O filtro metabólico está reduzido e o estímulo indireto aumenta.",
+        "technical": "A interação não decorre de antagonismo adrenérgico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P06-0470",
+      "number": 470,
+      "topicId": "P06",
+      "text": "Atropina não bloqueia paralisia por bloqueador neuromuscular porque atua em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptores Nm exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Enzimas de síntese de actina"
+        },
+        {
+          "id": "C",
+          "text": "Receptores muscarínicos, não Nm"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Atropina não bloqueia paralisia por bloqueador neuromuscular porque atua em:",
+      "explanations": {
+        "direct": "Receptores muscarínicos, não Nm. Atropina reduz efeitos muscarínicos; não reverte diretamente antagonismo nicotínico muscular.",
+        "intuitive": "São fechaduras diferentes.",
+        "technical": "Atropina reduz efeitos muscarínicos; não reverte diretamente antagonismo nicotínico muscular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P06-0471",
+      "number": 471,
+      "topicId": "P06",
+      "text": "A resposta final a uma droga autonômica depende de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente da concentração plasmática total"
+        },
+        {
+          "id": "B",
+          "text": "Somente da divisão autonômica estimulada"
+        },
+        {
+          "id": "C",
+          "text": "Receptores locais e reflexos compensatórios"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A resposta final a uma droga autonômica depende de:",
+      "explanations": {
+        "direct": "Receptores locais e reflexos compensatórios. Por exemplo, vasoconstrição pode gerar bradicardia reflexa mesmo sem agonismo M2.",
+        "intuitive": "O efeito direto pode ser modificado pelos reflexos do organismo.",
+        "technical": "Por exemplo, vasoconstrição pode gerar bradicardia reflexa mesmo sem agonismo M2."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P06-0472",
+      "number": 472,
+      "topicId": "P06",
+      "text": "Um bloqueador de Nn pode causar hipotensão sobretudo por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perda de tônus simpático vascular"
+        },
+        {
+          "id": "B",
+          "text": "Estimulação direta de renina"
+        },
+        {
+          "id": "C",
+          "text": "Aumento de tônus simpático vascular"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Um bloqueador de Nn pode causar hipotensão sobretudo por:",
+      "explanations": {
+        "direct": "Perda de tônus simpático vascular. O efeito depende do tônus dominante; não equivale a agonismo α1.",
+        "intuitive": "Os vasos perdem parte do comando constritor basal.",
+        "technical": "O efeito depende do tônus dominante; não equivale a agonismo α1."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

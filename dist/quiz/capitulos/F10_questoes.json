@@ -1,0 +1,1549 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "F10",
+    "name": "Fisiologia · 10 · Reprodução",
+    "book": "Costanzo Physiology, 8ª edição",
+    "chapter": 10
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "F10-0361",
+      "number": 361,
+      "topicId": "F10",
+      "text": "GnRH é liberado pelo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Testículo"
+        },
+        {
+          "id": "B",
+          "text": "Hipotálamo"
+        },
+        {
+          "id": "C",
+          "text": "Endométrio"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "GnRH é liberado pelo:",
+      "explanations": {
+        "direct": "Hipotálamo. Estimula gonadotrofinas na hipófise; não é um produto principal das gônadas.",
+        "intuitive": "O comando começa no cérebro.",
+        "technical": "Estimula gonadotrofinas na hipófise; não é um produto principal das gônadas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0362",
+      "number": 362,
+      "topicId": "F10",
+      "text": "FSH no testículo atua principalmente em células de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Leydig"
+        },
+        {
+          "id": "B",
+          "text": "Cromafins"
+        },
+        {
+          "id": "C",
+          "text": "Sertoli"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "FSH no testículo atua principalmente em células de:",
+      "explanations": {
+        "direct": "Sertoli. Sertoli respondem com suporte e produtos como inibina B; Leydig respondem a LH.",
+        "intuitive": "Ele sustenta as células que cuidam da formação dos espermatozoides.",
+        "technical": "Sertoli respondem com suporte e produtos como inibina B; Leydig respondem a LH."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0363",
+      "number": 363,
+      "topicId": "F10",
+      "text": "A testosterona é convertida em DHT pela:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5α-redutase"
+        },
+        {
+          "id": "B",
+          "text": "Tireoperoxidase"
+        },
+        {
+          "id": "C",
+          "text": "Aromatase"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A testosterona é convertida em DHT pela:",
+      "explanations": {
+        "direct": "5α-redutase. Aromatase converte andrógenos em estrogênios; TPO atua na tireoide.",
+        "intuitive": "Uma enzima produz um andrógeno mais potente em certos tecidos.",
+        "technical": "Aromatase converte andrógenos em estrogênios; TPO atua na tireoide."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0364",
+      "number": 364,
+      "topicId": "F10",
+      "text": "A aromatase converte andrógenos em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mineralocorticoides"
+        },
+        {
+          "id": "B",
+          "text": "Catecolaminas"
+        },
+        {
+          "id": "C",
+          "text": "Estrogênios"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A aromatase converte andrógenos em:",
+      "explanations": {
+        "direct": "Estrogênios. Não é a enzima que forma DHT nem adrenalina.",
+        "intuitive": "Ela muda a estrutura para produzir estrogênio.",
+        "technical": "Não é a enzima que forma DHT nem adrenalina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0365",
+      "number": 365,
+      "topicId": "F10",
+      "text": "DHT é particularmente importante para desenvolvimento de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Placenta exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Ductos de Müller"
+        },
+        {
+          "id": "C",
+          "text": "Genitália externa masculina e próstata"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "DHT é particularmente importante para desenvolvimento de:",
+      "explanations": {
+        "direct": "Genitália externa masculina e próstata. Testosterona sustenta ductos de Wolff; AMH promove regressão mülleriana.",
+        "intuitive": "Alguns tecidos precisam da versão mais potente do andrógeno.",
+        "technical": "Testosterona sustenta ductos de Wolff; AMH promove regressão mülleriana."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0366",
+      "number": 366,
+      "topicId": "F10",
+      "text": "O hormônio antimülleriano fetal é produzido por células de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Teca ovariana"
+        },
+        {
+          "id": "B",
+          "text": "Leydig testiculares"
+        },
+        {
+          "id": "C",
+          "text": "Sertoli testiculares"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O hormônio antimülleriano fetal é produzido por células de:",
+      "explanations": {
+        "direct": "Sertoli testiculares. Leydig produzem testosterona; no feto masculino, AMH testicular vem de Sertoli.",
+        "intuitive": "Uma célula de suporte orienta a regressão de estruturas embrionárias.",
+        "technical": "Leydig produzem testosterona; no feto masculino, AMH testicular vem de Sertoli."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0367",
+      "number": 367,
+      "topicId": "F10",
+      "text": "Testosterona fetal mantém principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seios paranasais"
+        },
+        {
+          "id": "B",
+          "text": "Ductos de Müller"
+        },
+        {
+          "id": "C",
+          "text": "Ductos de Wolff"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Testosterona fetal mantém principalmente:",
+      "explanations": {
+        "direct": "Ductos de Wolff. DHT tem papel maior na genitália externa; AMH age em Müller.",
+        "intuitive": "O andrógeno preserva precursores dos ductos genitais masculinos.",
+        "technical": "DHT tem papel maior na genitália externa; AMH age em Müller."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0368",
+      "number": 368,
+      "topicId": "F10",
+      "text": "A maturação funcional dos espermatozoides ocorre principalmente no:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Glomérulo"
+        },
+        {
+          "id": "B",
+          "text": "Epidídimo"
+        },
+        {
+          "id": "C",
+          "text": "Ureter"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A maturação funcional dos espermatozoides ocorre principalmente no:",
+      "explanations": {
+        "direct": "Epidídimo. A capacitação final ocorre no trato feminino ou em condições laboratoriais apropriadas.",
+        "intuitive": "Após produzidos, eles passam por uma etapa de preparo.",
+        "technical": "A capacitação final ocorre no trato feminino ou em condições laboratoriais apropriadas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0369",
+      "number": 369,
+      "topicId": "F10",
+      "text": "A capacitação espermática ocorre normalmente no:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Córtex adrenal"
+        },
+        {
+          "id": "B",
+          "text": "Interior de células de Leydig"
+        },
+        {
+          "id": "C",
+          "text": "Trato reprodutivo feminino"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A capacitação espermática ocorre normalmente no:",
+      "explanations": {
+        "direct": "Trato reprodutivo feminino. Não se confunde com produção testicular nem maturação epididimária.",
+        "intuitive": "Mudanças finais tornam o espermatozoide apto a fertilizar.",
+        "technical": "Não se confunde com produção testicular nem maturação epididimária."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0370",
+      "number": 370,
+      "topicId": "F10",
+      "text": "A reação acrossômica permite principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Duplicação do número de cromossomos somáticos"
+        },
+        {
+          "id": "B",
+          "text": "Penetração das barreiras do oócito"
+        },
+        {
+          "id": "C",
+          "text": "Produção de testosterona"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A reação acrossômica permite principalmente:",
+      "explanations": {
+        "direct": "Penetração das barreiras do oócito. Envolve exocitose acrossômica; não é esteroidogênese nem aumento de ploidia.",
+        "intuitive": "O espermatozoide libera recursos para atravessar a cobertura.",
+        "technical": "Envolve exocitose acrossômica; não é esteroidogênese nem aumento de ploidia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0371",
+      "number": 371,
+      "topicId": "F10",
+      "text": "As células da teca interna respondem sobretudo a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "FSH"
+        },
+        {
+          "id": "B",
+          "text": "LH"
+        },
+        {
+          "id": "C",
+          "text": "Prolactina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "As células da teca interna respondem sobretudo a:",
+      "explanations": {
+        "direct": "LH. Granulosa aromatiza esses precursores sob FSH; não é função principal de ADH.",
+        "intuitive": "A teca produz precursores androgênicos.",
+        "technical": "Granulosa aromatiza esses precursores sob FSH; não é função principal de ADH."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0372",
+      "number": 372,
+      "topicId": "F10",
+      "text": "O principal hormônio da fase lútea é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Progesterona"
+        },
+        {
+          "id": "B",
+          "text": "Aldosterona"
+        },
+        {
+          "id": "C",
+          "text": "Tiroxina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O principal hormônio da fase lútea é:",
+      "explanations": {
+        "direct": "Progesterona. Estrogênios também estão presentes; progesterona caracteriza a função lútea.",
+        "intuitive": "Prepara e mantém o endométrio em fase secretora.",
+        "technical": "Estrogênios também estão presentes; progesterona caracteriza a função lútea."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0373",
+      "number": 373,
+      "topicId": "F10",
+      "text": "A hCG inicial mantém:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Folículo dominante para nova ovulação mensal"
+        },
+        {
+          "id": "B",
+          "text": "Descamação endometrial"
+        },
+        {
+          "id": "C",
+          "text": "Corpo lúteo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A hCG inicial mantém:",
+      "explanations": {
+        "direct": "Corpo lúteo. hCG ativa receptor de LH; sustenta progesterona até maior autonomia placentária.",
+        "intuitive": "O embrião sinaliza para preservar a glândula que sustenta a gestação.",
+        "technical": "hCG ativa receptor de LH; sustenta progesterona até maior autonomia placentária."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0374",
+      "number": 374,
+      "topicId": "F10",
+      "text": "A hCG é produzida principalmente pelo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sinciciotrofoblasto"
+        },
+        {
+          "id": "B",
+          "text": "Miométrio"
+        },
+        {
+          "id": "C",
+          "text": "Corpo lúteo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A hCG é produzida principalmente pelo:",
+      "explanations": {
+        "direct": "Sinciciotrofoblasto. O corpo lúteo responde à hCG, mas não é sua principal fonte.",
+        "intuitive": "O tecido trofoblástico envia o sinal de gestação.",
+        "technical": "O corpo lúteo responde à hCG, mas não é sua principal fonte."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0375",
+      "number": 375,
+      "topicId": "F10",
+      "text": "O lactogênio placentário contribui para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de adaptação metabólica"
+        },
+        {
+          "id": "B",
+          "text": "Supressão completa da lipólise"
+        },
+        {
+          "id": "C",
+          "text": "Resistência materna à insulina e disponibilidade de nutrientes"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O lactogênio placentário contribui para:",
+      "explanations": {
+        "direct": "Resistência materna à insulina e disponibilidade de nutrientes. Não significa que toda gestante terá diabetes; adaptações pancreáticas podem compensar.",
+        "intuitive": "Ajusta o metabolismo materno para disponibilizar combustível.",
+        "technical": "Não significa que toda gestante terá diabetes; adaptações pancreáticas podem compensar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0376",
+      "number": 376,
+      "topicId": "F10",
+      "text": "A prolactina promove principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ejeção de leite por contração mioepitelial"
+        },
+        {
+          "id": "B",
+          "text": "Produção de leite"
+        },
+        {
+          "id": "C",
+          "text": "Ovulação por pico de LH"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A prolactina promove principalmente:",
+      "explanations": {
+        "direct": "Produção de leite. Ocitocina contrai células mioepiteliais para ejeção.",
+        "intuitive": "Ela estimula fabricar o leite.",
+        "technical": "Ocitocina contrai células mioepiteliais para ejeção."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0377",
+      "number": 377,
+      "topicId": "F10",
+      "text": "A ocitocina promove ejeção do leite ao contrair:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Células mioepiteliais"
+        },
+        {
+          "id": "B",
+          "text": "Células de Leydig"
+        },
+        {
+          "id": "C",
+          "text": "Neurônios dopaminérgicos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A ocitocina promove ejeção do leite ao contrair:",
+      "explanations": {
+        "direct": "Células mioepiteliais. Não é o principal estímulo de síntese láctea nem de testosterona.",
+        "intuitive": "Aperta as pequenas unidades produtoras para empurrar leite.",
+        "technical": "Não é o principal estímulo de síntese láctea nem de testosterona."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0378",
+      "number": 378,
+      "topicId": "F10",
+      "text": "O feedback positivo da ocitocina no parto envolve:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Distensão cervical, liberação hormonal e maior contração"
+        },
+        {
+          "id": "B",
+          "text": "Supressão de ocitocina a cada contração"
+        },
+        {
+          "id": "C",
+          "text": "Contração uterina reduzindo sempre todo estímulo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O feedback positivo da ocitocina no parto envolve:",
+      "explanations": {
+        "direct": "Distensão cervical, liberação hormonal e maior contração. O ciclo termina com a remoção do estímulo, como o nascimento; difere do feedback negativo homeostático.",
+        "intuitive": "A contração aumenta o estímulo que pede outra contração.",
+        "technical": "O ciclo termina com a remoção do estímulo, como o nascimento; difere do feedback negativo homeostático."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0379",
+      "number": 379,
+      "topicId": "F10",
+      "text": "GnRH pulsátil tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suprimir sempre LH e FSH"
+        },
+        {
+          "id": "B",
+          "text": "Estimular apenas prolactina"
+        },
+        {
+          "id": "C",
+          "text": "Estimular LH e FSH"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "GnRH pulsátil tende a:",
+      "explanations": {
+        "direct": "Estimular LH e FSH. Exposição contínua prolongada pode causar dessensibilização; não equivale ao padrão pulsátil.",
+        "intuitive": "Pulsos mantêm a hipófise responsiva.",
+        "technical": "Exposição contínua prolongada pode causar dessensibilização; não equivale ao padrão pulsátil."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0380",
+      "number": 380,
+      "topicId": "F10",
+      "text": "LH no testículo estimula células de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sertoli intratubulares"
+        },
+        {
+          "id": "B",
+          "text": "Espermatogônias como alvo direto"
+        },
+        {
+          "id": "C",
+          "text": "Leydig intersticiais"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "LH no testículo estimula células de:",
+      "explanations": {
+        "direct": "Leydig intersticiais. FSH atua principalmente nas Sertoli; a espermatogênese depende do ambiente de suporte.",
+        "intuitive": "As células entre os túbulos produzem testosterona.",
+        "technical": "FSH atua principalmente nas Sertoli; a espermatogênese depende do ambiente de suporte."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0381",
+      "number": 381,
+      "topicId": "F10",
+      "text": "A inibina B reduz principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "TSH"
+        },
+        {
+          "id": "B",
+          "text": "ACTH"
+        },
+        {
+          "id": "C",
+          "text": "FSH"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A inibina B reduz principalmente:",
+      "explanations": {
+        "direct": "FSH. O feedback é seletivo sobre FSH, não sobre todos os eixos hipofisários.",
+        "intuitive": "O testículo ou ovário informa que há atividade suficiente.",
+        "technical": "O feedback é seletivo sobre FSH, não sobre todos os eixos hipofisários."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0382",
+      "number": 382,
+      "topicId": "F10",
+      "text": "Na diferenciação masculina, AMH promove regressão dos:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ductos de Müller"
+        },
+        {
+          "id": "B",
+          "text": "Ductos de Wolff"
+        },
+        {
+          "id": "C",
+          "text": "Túbulos seminíferos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Na diferenciação masculina, AMH promove regressão dos:",
+      "explanations": {
+        "direct": "Ductos de Müller. Wolff é mantido por testosterona; AMH não destrói o testículo.",
+        "intuitive": "Ele retira a via precursora de estruturas internas femininas.",
+        "technical": "Wolff é mantido por testosterona; AMH não destrói o testículo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0383",
+      "number": 383,
+      "topicId": "F10",
+      "text": "A espermatogênese depende de temperatura testicular:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Igual à temperatura corporal central"
+        },
+        {
+          "id": "B",
+          "text": "Inferior à temperatura corporal central"
+        },
+        {
+          "id": "C",
+          "text": "Superior à central de modo sustentado"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A espermatogênese depende de temperatura testicular:",
+      "explanations": {
+        "direct": "Inferior à temperatura corporal central. Hipertermia sustentada prejudica a função; o escroto auxilia termorregulação.",
+        "intuitive": "O ambiente mais fresco ajuda a produção de gametas.",
+        "technical": "Hipertermia sustentada prejudica a função; o escroto auxilia termorregulação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0384",
+      "number": 384,
+      "topicId": "F10",
+      "text": "A barreira hematotesticular é formada principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Junções entre células de Sertoli"
+        },
+        {
+          "id": "B",
+          "text": "Junções entre hemácias"
+        },
+        {
+          "id": "C",
+          "text": "Cápsula prostática"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A barreira hematotesticular é formada principalmente por:",
+      "explanations": {
+        "direct": "Junções entre células de Sertoli. Protege o ambiente de células germinativas; não é uma barreira vascular formada por hemácias.",
+        "intuitive": "As células de suporte se unem para separar compartimentos.",
+        "technical": "Protege o ambiente de células germinativas; não é uma barreira vascular formada por hemácias."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0385",
+      "number": 385,
+      "topicId": "F10",
+      "text": "Na fase folicular, FSH estimula granulosa a aumentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aromatase"
+        },
+        {
+          "id": "B",
+          "text": "Pepsinogênio"
+        },
+        {
+          "id": "C",
+          "text": "Renina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Na fase folicular, FSH estimula granulosa a aumentar:",
+      "explanations": {
+        "direct": "Aromatase. No modelo duas células-duas gonadotrofinas, teca produz andrógenos sob LH.",
+        "intuitive": "A granulosa transforma precursores em estrogênios.",
+        "technical": "No modelo duas células-duas gonadotrofinas, teca produz andrógenos sob LH."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0386",
+      "number": 386,
+      "topicId": "F10",
+      "text": "O pico ovulatório de LH depende de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência completa de feedback"
+        },
+        {
+          "id": "B",
+          "text": "Estradiol elevado de modo sustentado"
+        },
+        {
+          "id": "C",
+          "text": "Queda abrupta de estradiol a zero"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O pico ovulatório de LH depende de:",
+      "explanations": {
+        "direct": "Estradiol elevado de modo sustentado. O feedback se torna positivo nessa fase; na maior parte do ciclo predomina negativo.",
+        "intuitive": "Um sinal alto e mantido muda temporariamente o tipo de resposta.",
+        "technical": "O feedback se torna positivo nessa fase; na maior parte do ciclo predomina negativo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0387",
+      "number": 387,
+      "topicId": "F10",
+      "text": "O endométrio proliferativo é estimulado principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estrogênio"
+        },
+        {
+          "id": "B",
+          "text": "Progesterona isolada"
+        },
+        {
+          "id": "C",
+          "text": "Ocitocina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O endométrio proliferativo é estimulado principalmente por:",
+      "explanations": {
+        "direct": "Estrogênio. Progesterona transforma o endométrio previamente estimulado em secretor.",
+        "intuitive": "O revestimento cresce antes da ovulação.",
+        "technical": "Progesterona transforma o endométrio previamente estimulado em secretor."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0388",
+      "number": 388,
+      "topicId": "F10",
+      "text": "O endométrio secretor depende principalmente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estrogênio isolado após a ovulação"
+        },
+        {
+          "id": "B",
+          "text": "Progesterona após estímulo estrogênico"
+        },
+        {
+          "id": "C",
+          "text": "FSH por ação direta no endométrio"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O endométrio secretor depende principalmente de:",
+      "explanations": {
+        "direct": "Progesterona após estímulo estrogênico. É ação esteroidal; FSH atua predominantemente no ovário.",
+        "intuitive": "O tecido preparado passa a secretar e se tornar receptivo.",
+        "technical": "É ação esteroidal; FSH atua predominantemente no ovário."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0389",
+      "number": 389,
+      "topicId": "F10",
+      "text": "O muco cervical próximo da ovulação tende a ser:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mais espesso por domínio progestagênico"
+        },
+        {
+          "id": "B",
+          "text": "Ausente em todas as pessoas"
+        },
+        {
+          "id": "C",
+          "text": "Mais fluido e filante"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O muco cervical próximo da ovulação tende a ser:",
+      "explanations": {
+        "direct": "Mais fluido e filante. Progesterona após ovulação torna o muco mais espesso.",
+        "intuitive": "O estrogênio facilita a passagem dos espermatozoides.",
+        "technical": "Progesterona após ovulação torna o muco mais espesso."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0390",
+      "number": 390,
+      "topicId": "F10",
+      "text": "Na menopausa, FSH tende a aumentar por redução de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liberação hipotalâmica de GnRH"
+        },
+        {
+          "id": "B",
+          "text": "Feedback ovariano e inibina"
+        },
+        {
+          "id": "C",
+          "text": "Sensibilidade hipofisária ao GnRH"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Na menopausa, FSH tende a aumentar por redução de:",
+      "explanations": {
+        "direct": "Feedback ovariano e inibina. Depleção folicular reduz esteroides e inibina; não é falha primária da tireoide.",
+        "intuitive": "O comando aumenta porque o ovário responde menos.",
+        "technical": "Depleção folicular reduz esteroides e inibina; não é falha primária da tireoide."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0391",
+      "number": 391,
+      "topicId": "F10",
+      "text": "Sucção mamilar estimula:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prolactina e ocitocina por reflexos neuroendócrinos"
+        },
+        {
+          "id": "B",
+          "text": "Apenas aldosterona"
+        },
+        {
+          "id": "C",
+          "text": "Apenas glucagon"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Sucção mamilar estimula:",
+      "explanations": {
+        "direct": "Prolactina e ocitocina por reflexos neuroendócrinos. As duas respostas têm mecanismos distintos, incluindo redução dopaminérgica e ativação de neurônios ocitocinérgicos.",
+        "intuitive": "O ato de mamar pede produção e liberação.",
+        "technical": "As duas respostas têm mecanismos distintos, incluindo redução dopaminérgica e ativação de neurônios ocitocinérgicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0392",
+      "number": 392,
+      "topicId": "F10",
+      "text": "GnRH contínuo após estímulo inicial tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eliminar feedback gonadal"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar indefinidamente gonadotrofinas"
+        },
+        {
+          "id": "C",
+          "text": "Reduzir secreção de gonadotrofinas"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "GnRH contínuo após estímulo inicial tende a:",
+      "explanations": {
+        "direct": "Reduzir secreção de gonadotrofinas. Downregulation e dessensibilização explicam supressão após flare inicial.",
+        "intuitive": "Uma mensagem sem pausa faz o receptor responder menos.",
+        "technical": "Downregulation e dessensibilização explicam supressão após flare inicial."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0393",
+      "number": 393,
+      "topicId": "F10",
+      "text": "A ovulação ocorre em associação com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Supressão absoluta de LH"
+        },
+        {
+          "id": "B",
+          "text": "Pico isolado de calcitonina"
+        },
+        {
+          "id": "C",
+          "text": "Pico de LH"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A ovulação ocorre em associação com:",
+      "explanations": {
+        "direct": "Pico de LH. Não é suficiente atribuir ovulação a qualquer oscilação de outro hormônio.",
+        "intuitive": "O pico desencadeia os eventos de ruptura folicular.",
+        "technical": "Não é suficiente atribuir ovulação a qualquer oscilação de outro hormônio."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0394",
+      "number": 394,
+      "topicId": "F10",
+      "text": "Após ovulação, o folículo transforma-se em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Corpo lúteo"
+        },
+        {
+          "id": "B",
+          "text": "Endométrio"
+        },
+        {
+          "id": "C",
+          "text": "Placenta imediatamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Após ovulação, o folículo transforma-se em:",
+      "explanations": {
+        "direct": "Corpo lúteo. Produz progesterona e estrogênios; placenta exige gestação e desenvolvimento trofoblástico.",
+        "intuitive": "A estrutura restante vira uma glândula temporária.",
+        "technical": "Produz progesterona e estrogênios; placenta exige gestação e desenvolvimento trofoblástico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0395",
+      "number": 395,
+      "topicId": "F10",
+      "text": "Sem gestação, a menstruação é desencadeada sobretudo por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pico de hCG"
+        },
+        {
+          "id": "B",
+          "text": "Elevação sustentada de progesterona"
+        },
+        {
+          "id": "C",
+          "text": "Queda de progesterona e estrogênio"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Sem gestação, a menstruação é desencadeada sobretudo por:",
+      "explanations": {
+        "direct": "Queda de progesterona e estrogênio. Luteólise precede a queda; hCG mantém o corpo lúteo na gestação inicial.",
+        "intuitive": "O suporte hormonal cai e o revestimento se desprende.",
+        "technical": "Luteólise precede a queda; hCG mantém o corpo lúteo na gestação inicial."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0396",
+      "number": 396,
+      "topicId": "F10",
+      "text": "A temperatura basal após ovulação tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Subir discretamente"
+        },
+        {
+          "id": "B",
+          "text": "Cair a níveis incompatíveis com vida"
+        },
+        {
+          "id": "C",
+          "text": "Permanecer sem qualquer influência hormonal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A temperatura basal após ovulação tende a:",
+      "explanations": {
+        "direct": "Subir discretamente. A mudança é retrospectiva e variável; não é um aumento febril obrigatório.",
+        "intuitive": "A progesterona aumenta um pouco o ajuste térmico.",
+        "technical": "A mudança é retrospectiva e variável; não é um aumento febril obrigatório."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0397",
+      "number": 397,
+      "topicId": "F10",
+      "text": "Na insuficiência ovariana primária, o padrão típico é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estradiol alto e FSH suprimido obrigatoriamente"
+        },
+        {
+          "id": "B",
+          "text": "Estradiol baixo e gonadotrofinas elevadas"
+        },
+        {
+          "id": "C",
+          "text": "Estradiol baixo e gonadotrofinas sempre suprimidas"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Na insuficiência ovariana primária, o padrão típico é:",
+      "explanations": {
+        "direct": "Estradiol baixo e gonadotrofinas elevadas. Causas centrais produzem gonadotrofinas baixas ou inadequadamente normais.",
+        "intuitive": "A hipófise insiste, mas o ovário não entrega.",
+        "technical": "Causas centrais produzem gonadotrofinas baixas ou inadequadamente normais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0398",
+      "number": 398,
+      "topicId": "F10",
+      "text": "Durante a gestação, progesterona favorece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ovulação mensal obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Manutenção endometrial e menor excitabilidade uterina"
+        },
+        {
+          "id": "C",
+          "text": "Descamação endometrial contínua"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Durante a gestação, progesterona favorece:",
+      "explanations": {
+        "direct": "Manutenção endometrial e menor excitabilidade uterina. Seu efeito contrasta com retirada hormonal da menstruação; ovulação é suprimida.",
+        "intuitive": "Ajuda a manter um ambiente estável para a gestação.",
+        "technical": "Seu efeito contrasta com retirada hormonal da menstruação; ovulação é suprimida."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0399",
+      "number": 399,
+      "topicId": "F10",
+      "text": "Após o parto, a queda de estrogênio e progesterona permite:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maior ação lactogênica da prolactina"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio permanente da lactação"
+        },
+        {
+          "id": "C",
+          "text": "Pico obrigatório de FSH ovulatório imediato"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Após o parto, a queda de estrogênio e progesterona permite:",
+      "explanations": {
+        "direct": "Maior ação lactogênica da prolactina. Durante gestação, altos esteroides restringem secreção láctea apesar de prolactina elevada.",
+        "intuitive": "Sai uma inibição que limitava a produção abundante de leite.",
+        "technical": "Durante gestação, altos esteroides restringem secreção láctea apesar de prolactina elevada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F10-0400",
+      "number": 400,
+      "topicId": "F10",
+      "text": "Uma paciente com prolactina persistentemente elevada apresenta amenorreia e redução da atividade gonadal, sem evidência de destruição ovariana. Qual mecanismo explica o quadro?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Supressão do eixo GnRH-gonadotrofinas"
+        },
+        {
+          "id": "B",
+          "text": "Destruição direta de todos os folículos"
+        },
+        {
+          "id": "C",
+          "text": "Aumento obrigatório do pico de LH"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Uma paciente com prolactina persistentemente elevada apresenta amenorreia e redução da atividade gonadal, sem evidência de destruição ovariana. Qual mecanismo explica o quadro?",
+      "explanations": {
+        "direct": "Supressão do eixo GnRH-gonadotrofinas. É uma inibição funcional do eixo, não necessariamente lesão ovariana estrutural.",
+        "intuitive": "O sinal elevado interfere no comando reprodutivo.",
+        "technical": "É uma inibição funcional do eixo, não necessariamente lesão ovariana estrutural."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

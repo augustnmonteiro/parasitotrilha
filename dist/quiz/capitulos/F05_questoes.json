@@ -1,0 +1,1549 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "F05",
+    "name": "Fisiologia · 05 · Respiratória",
+    "book": "Costanzo Physiology, 8ª edição",
+    "chapter": 5
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "F05-0161",
+      "number": 161,
+      "topicId": "F05",
+      "text": "A expiração tranquila em condições normais é principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ativa por contração diafragmática"
+        },
+        {
+          "id": "B",
+          "text": "Passiva por recuo elástico"
+        },
+        {
+          "id": "C",
+          "text": "Dependente de contração glótica contínua"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A expiração tranquila em condições normais é principalmente:",
+      "explanations": {
+        "direct": "Passiva por recuo elástico. Expiração forçada recruta músculos; a tranquila não exige essa atividade intensa.",
+        "intuitive": "O sistema retorna ao seu tamanho de repouso.",
+        "technical": "Expiração forçada recruta músculos; a tranquila não exige essa atividade intensa."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0162",
+      "number": 162,
+      "topicId": "F05",
+      "text": "Complacência pulmonar é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fluxo dividido pela frequência"
+        },
+        {
+          "id": "B",
+          "text": "Variação de pressão por variação de volume"
+        },
+        {
+          "id": "C",
+          "text": "Variação de volume por variação de pressão"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Complacência pulmonar é:",
+      "explanations": {
+        "direct": "Variação de volume por variação de pressão. ΔV/ΔP define complacência; a razão inversa é elastância.",
+        "intuitive": "Mede quanto o pulmão se expande para uma pressão aplicada.",
+        "technical": "ΔV/ΔP define complacência; a razão inversa é elastância."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0163",
+      "number": 163,
+      "topicId": "F05",
+      "text": "No enfisema, a complacência pulmonar geralmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Desaparece"
+        },
+        {
+          "id": "B",
+          "text": "Aumenta"
+        },
+        {
+          "id": "C",
+          "text": "Diminui"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "No enfisema, a complacência pulmonar geralmente:",
+      "explanations": {
+        "direct": "Aumenta. Destruição de tecido elástico reduz recuo e favorece aprisionamento aéreo.",
+        "intuitive": "O pulmão expande facilmente, mas perde capacidade de recolher.",
+        "technical": "Destruição de tecido elástico reduz recuo e favorece aprisionamento aéreo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0164",
+      "number": 164,
+      "topicId": "F05",
+      "text": "Pela lei de Laplace, sem variação da tensão, alvéolo menor exige:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pressão independente do raio"
+        },
+        {
+          "id": "B",
+          "text": "Maior pressão para permanecer aberto"
+        },
+        {
+          "id": "C",
+          "text": "Menor pressão"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Pela lei de Laplace, sem variação da tensão, alvéolo menor exige:",
+      "explanations": {
+        "direct": "Maior pressão para permanecer aberto. P = 2T/r para modelo esférico; surfactante modifica a tensão e estabiliza unidades.",
+        "intuitive": "Uma bolha pequena precisa de mais pressão se a tensão for igual.",
+        "technical": "P = 2T/r para modelo esférico; surfactante modifica a tensão e estabiliza unidades."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0165",
+      "number": 165,
+      "topicId": "F05",
+      "text": "Qual volume não é medido diretamente por espirometria simples?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Volume corrente"
+        },
+        {
+          "id": "B",
+          "text": "Volume residual"
+        },
+        {
+          "id": "C",
+          "text": "Capacidade vital"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Qual volume não é medido diretamente por espirometria simples?",
+      "explanations": {
+        "direct": "Volume residual. VR e capacidades que o incluem exigem outros métodos; volumes mobilizáveis podem ser medidos.",
+        "intuitive": "O ar que nunca sai não entra na medida do aparelho.",
+        "technical": "VR e capacidades que o incluem exigem outros métodos; volumes mobilizáveis podem ser medidos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0166",
+      "number": 166,
+      "topicId": "F05",
+      "text": "Capacidade residual funcional corresponde a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Volume residual + reserva expiratória"
+        },
+        {
+          "id": "B",
+          "text": "Volume corrente + reserva inspiratória"
+        },
+        {
+          "id": "C",
+          "text": "Capacidade vital − volume residual"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Capacidade residual funcional corresponde a:",
+      "explanations": {
+        "direct": "Volume residual + reserva expiratória. Inclui volume não mobilizável; não equivale à capacidade inspiratória.",
+        "intuitive": "É o ar que permanece após expiração tranquila.",
+        "technical": "Inclui volume não mobilizável; não equivale à capacidade inspiratória."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0167",
+      "number": 167,
+      "topicId": "F05",
+      "text": "Na restrição pulmonar confirmada, a capacidade pulmonar total está:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sempre aumentada"
+        },
+        {
+          "id": "B",
+          "text": "Reduzida"
+        },
+        {
+          "id": "C",
+          "text": "Obrigatoriamente normal"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Na restrição pulmonar confirmada, a capacidade pulmonar total está:",
+      "explanations": {
+        "direct": "Reduzida. CVF baixa isolada não confirma restrição; medir CPT diferencia padrões.",
+        "intuitive": "O pulmão comporta menos volume total.",
+        "technical": "CVF baixa isolada não confirma restrição; medir CPT diferencia padrões."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0168",
+      "number": 168,
+      "topicId": "F05",
+      "text": "A maior parte do CO₂ no sangue é transportada como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "CO₂ dissolvido"
+        },
+        {
+          "id": "B",
+          "text": "Carboxiemoglobina"
+        },
+        {
+          "id": "C",
+          "text": "Bicarbonato"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A maior parte do CO₂ no sangue é transportada como:",
+      "explanations": {
+        "direct": "Bicarbonato. Carboxiemoglobina contém CO, não CO₂; formas dissolvida e carbamino são minoritárias.",
+        "intuitive": "O organismo converte grande parte do gás em bicarbonato.",
+        "technical": "Carboxiemoglobina contém CO, não CO₂; formas dissolvida e carbamino são minoritárias."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0169",
+      "number": 169,
+      "topicId": "F05",
+      "text": "A anidrase carbônica acelera:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Interconversão entre CO₂ e ácido carbônico"
+        },
+        {
+          "id": "B",
+          "text": "Ligação irreversível de O₂ à hemoglobina"
+        },
+        {
+          "id": "C",
+          "text": "Conversão direta de lactato em bicarbonato"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A anidrase carbônica acelera:",
+      "explanations": {
+        "direct": "Interconversão entre CO₂ e ácido carbônico. Não transporta O₂ nem produz N₂; aumenta a velocidade sem alterar o equilíbrio final.",
+        "intuitive": "Ela facilita a transformação química usada no transporte de CO₂.",
+        "technical": "Não transporta O₂ nem produz N₂; aumenta a velocidade sem alterar o equilíbrio final."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0170",
+      "number": 170,
+      "topicId": "F05",
+      "text": "A curva de dissociação da hemoglobina desloca-se à direita com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento de temperatura e CO₂"
+        },
+        {
+          "id": "B",
+          "text": "Queda de 2,3-BPG"
+        },
+        {
+          "id": "C",
+          "text": "Queda de temperatura e CO₂"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A curva de dissociação da hemoglobina desloca-se à direita com:",
+      "explanations": {
+        "direct": "Aumento de temperatura e CO₂. Menor afinidade aumenta liberação; frio e redução de CO₂ deslocam à esquerda.",
+        "intuitive": "O tecido ativo facilita a entrega de oxigênio.",
+        "technical": "Menor afinidade aumenta liberação; frio e redução de CO₂ deslocam à esquerda."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0171",
+      "number": 171,
+      "topicId": "F05",
+      "text": "O efeito Bohr descreve a influência de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hemoglobina sobre pressão pleural"
+        },
+        {
+          "id": "B",
+          "text": "H⁺ e CO₂ sobre afinidade por O₂"
+        },
+        {
+          "id": "C",
+          "text": "O₂ sobre transporte de CO₂ exclusivamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O efeito Bohr descreve a influência de:",
+      "explanations": {
+        "direct": "H⁺ e CO₂ sobre afinidade por O₂. O efeito Haldane trata da influência da oxigenação sobre transporte de CO₂.",
+        "intuitive": "Acidez e CO₂ ajudam a hemoglobina a soltar oxigênio.",
+        "technical": "O efeito Haldane trata da influência da oxigenação sobre transporte de CO₂."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0172",
+      "number": 172,
+      "topicId": "F05",
+      "text": "Um alvéolo perfundido sem ventilação tem V/Q igual a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dez obrigatoriamente"
+        },
+        {
+          "id": "B",
+          "text": "Zero"
+        },
+        {
+          "id": "C",
+          "text": "Infinito"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um alvéolo perfundido sem ventilação tem V/Q igual a:",
+      "explanations": {
+        "direct": "Zero. Representa shunt; espaço morto é a situação oposta.",
+        "intuitive": "Chega sangue, mas falta ar novo.",
+        "technical": "Representa shunt; espaço morto é a situação oposta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0173",
+      "number": 173,
+      "topicId": "F05",
+      "text": "Hipoxemia por shunt importante responde ao oxigênio suplementar de forma:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melhor que qualquer outro mecanismo"
+        },
+        {
+          "id": "B",
+          "text": "Sempre completa e imediata"
+        },
+        {
+          "id": "C",
+          "text": "Menos completa que a de baixo V/Q"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Hipoxemia por shunt importante responde ao oxigênio suplementar de forma:",
+      "explanations": {
+        "direct": "Menos completa que a de baixo V/Q. O₂ melhora unidades ventiladas, mas não oxigena diretamente o fluxo desviado.",
+        "intuitive": "Parte do sangue passa sem encontrar alvéolos ventilados.",
+        "technical": "O₂ melhora unidades ventiladas, mas não oxigena diretamente o fluxo desviado."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0174",
+      "number": 174,
+      "topicId": "F05",
+      "text": "A hipóxia alveolar provoca nos vasos pulmonares locais:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vasoconstrição"
+        },
+        {
+          "id": "B",
+          "text": "Aumento de permeabilidade como resposta vasomotora principal"
+        },
+        {
+          "id": "C",
+          "text": "Vasodilatação"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A hipóxia alveolar provoca nos vasos pulmonares locais:",
+      "explanations": {
+        "direct": "Vasoconstrição. Difere da vasodilatação hipóxica em muitos tecidos sistêmicos.",
+        "intuitive": "O sangue é desviado de áreas mal ventiladas.",
+        "technical": "Difere da vasodilatação hipóxica em muitos tecidos sistêmicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0175",
+      "number": 175,
+      "topicId": "F05",
+      "text": "Quimiorreceptores centrais respondem sobretudo a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "H⁺ no líquido extracelular cerebral gerado por CO₂"
+        },
+        {
+          "id": "B",
+          "text": "Queda da PaO₂ como principal estímulo direto"
+        },
+        {
+          "id": "C",
+          "text": "PaO₂ baixa diretamente como único estímulo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Quimiorreceptores centrais respondem sobretudo a:",
+      "explanations": {
+        "direct": "H⁺ no líquido extracelular cerebral gerado por CO₂. H⁺ sanguíneo atravessa menos livremente; hipóxia é detectada principalmente perifericamente.",
+        "intuitive": "CO₂ atravessa a barreira e muda a acidez ao redor dos sensores.",
+        "technical": "H⁺ sanguíneo atravessa menos livremente; hipóxia é detectada principalmente perifericamente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0176",
+      "number": 176,
+      "topicId": "F05",
+      "text": "Aclimatação à altitude inclui aumento de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fração atmosférica de O₂"
+        },
+        {
+          "id": "B",
+          "text": "Pressão barométrica"
+        },
+        {
+          "id": "C",
+          "text": "Eritropoietina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Aclimatação à altitude inclui aumento de:",
+      "explanations": {
+        "direct": "Eritropoietina. A fração de O₂ permanece próxima de 21%; a pressão barométrica continua reduzida.",
+        "intuitive": "O organismo aumenta a capacidade de transporte.",
+        "technical": "A fração de O₂ permanece próxima de 21%; a pressão barométrica continua reduzida."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0177",
+      "number": 177,
+      "topicId": "F05",
+      "text": "A inspiração tranquila é produzida principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Contração abdominal máxima"
+        },
+        {
+          "id": "B",
+          "text": "Relaxamento ativo do diafragma"
+        },
+        {
+          "id": "C",
+          "text": "Contração do diafragma"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A inspiração tranquila é produzida principalmente por:",
+      "explanations": {
+        "direct": "Contração do diafragma. A queda de pressão alveolar gera entrada de ar; abdominais predominam na expiração forçada.",
+        "intuitive": "O diafragma desce e amplia o tórax.",
+        "technical": "A queda de pressão alveolar gera entrada de ar; abdominais predominam na expiração forçada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0178",
+      "number": 178,
+      "topicId": "F05",
+      "text": "Pressão transpulmonar é a diferença entre:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pressão arterial e venosa"
+        },
+        {
+          "id": "B",
+          "text": "Pressão atmosférica e arterial"
+        },
+        {
+          "id": "C",
+          "text": "Pressão alveolar e pleural"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Pressão transpulmonar é a diferença entre:",
+      "explanations": {
+        "direct": "Pressão alveolar e pleural. Ptp = Palv − Ppl; não é um gradiente da circulação sistêmica.",
+        "intuitive": "É a pressão que mantém o pulmão aberto.",
+        "technical": "Ptp = Palv − Ppl; não é um gradiente da circulação sistêmica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0179",
+      "number": 179,
+      "topicId": "F05",
+      "text": "O surfactante é produzido principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pneumócitos tipo I"
+        },
+        {
+          "id": "B",
+          "text": "Macrófagos alveolares"
+        },
+        {
+          "id": "C",
+          "text": "Pneumócitos tipo II"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O surfactante é produzido principalmente por:",
+      "explanations": {
+        "direct": "Pneumócitos tipo II. Tipo I fornece grande área de troca; macrófagos fazem defesa.",
+        "intuitive": "Células especializadas fabricam o agente que reduz tensão superficial.",
+        "technical": "Tipo I fornece grande área de troca; macrófagos fazem defesa."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0180",
+      "number": 180,
+      "topicId": "F05",
+      "text": "O surfactante reduz:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Complacência pulmonar"
+        },
+        {
+          "id": "B",
+          "text": "Difusão de O₂ obrigatoriamente"
+        },
+        {
+          "id": "C",
+          "text": "Tensão superficial alveolar"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O surfactante reduz:",
+      "explanations": {
+        "direct": "Tensão superficial alveolar. Aumenta complacência e reduz tendência ao colapso; não bloqueia a troca gasosa.",
+        "intuitive": "Ele facilita manter pequenos alvéolos abertos.",
+        "technical": "Aumenta complacência e reduz tendência ao colapso; não bloqueia a troca gasosa."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0181",
+      "number": 181,
+      "topicId": "F05",
+      "text": "A relação VEF1/CVF tipicamente diminui em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento isolado de hemoglobina"
+        },
+        {
+          "id": "B",
+          "text": "Restrição pura com fluxo proporcional"
+        },
+        {
+          "id": "C",
+          "text": "Doença obstrutiva"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A relação VEF1/CVF tipicamente diminui em:",
+      "explanations": {
+        "direct": "Doença obstrutiva. Na restrição, ambos caem com razão geralmente normal ou elevada.",
+        "intuitive": "A saída rápida do ar fica especialmente prejudicada.",
+        "technical": "Na restrição, ambos caem com razão geralmente normal ou elevada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0182",
+      "number": 182,
+      "topicId": "F05",
+      "text": "Ventilação alveolar é calculada por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frequência × volume residual"
+        },
+        {
+          "id": "B",
+          "text": "Frequência × (volume corrente − espaço morto)"
+        },
+        {
+          "id": "C",
+          "text": "Volume corrente ÷ espaço morto"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Raciocínio quantitativo",
+      "learningObjective": "Ventilação alveolar é calculada por:",
+      "explanations": {
+        "direct": "Frequência × (volume corrente − espaço morto). Ventilação minuto inclui espaço morto; ventilação alveolar o desconta.",
+        "intuitive": "Só conta o ar que chega às áreas de troca.",
+        "technical": "Ventilação minuto inclui espaço morto; ventilação alveolar o desconta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0183",
+      "number": 183,
+      "topicId": "F05",
+      "text": "Respiração rápida e superficial pode diminuir ventilação alveolar porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maior fração ventila espaço morto"
+        },
+        {
+          "id": "B",
+          "text": "A frequência deixa de influenciar ventilação"
+        },
+        {
+          "id": "C",
+          "text": "O espaço morto vira alvéolo funcional"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Respiração rápida e superficial pode diminuir ventilação alveolar porque:",
+      "explanations": {
+        "direct": "Maior fração ventila espaço morto. O efeito depende de volume corrente e frequência; minuto normal não garante ventilação alveolar normal.",
+        "intuitive": "Muito do ar vai e volta apenas nas vias de condução.",
+        "technical": "O efeito depende de volume corrente e frequência; minuto normal não garante ventilação alveolar normal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0184",
+      "number": 184,
+      "topicId": "F05",
+      "text": "Mantida produção de CO₂, duplicar ventilação alveolar tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduzir PaCO₂ à metade"
+        },
+        {
+          "id": "B",
+          "text": "Manter PaCO₂ invariável"
+        },
+        {
+          "id": "C",
+          "text": "Duplicar PaCO₂"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Mantida produção de CO₂, duplicar ventilação alveolar tende a:",
+      "explanations": {
+        "direct": "Reduzir PaCO₂ à metade. PaCO₂ é inversamente proporcional à ventilação alveolar em estado estável.",
+        "intuitive": "Mais ventilação remove mais gás carbônico.",
+        "technical": "PaCO₂ é inversamente proporcional à ventilação alveolar em estado estável."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0185",
+      "number": 185,
+      "topicId": "F05",
+      "text": "O efeito Haldane significa que desoxigenação facilita:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transporte de CO₂ e tamponamento de H⁺"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio de bicarbonato"
+        },
+        {
+          "id": "C",
+          "text": "Formação de surfactante"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O efeito Haldane significa que desoxigenação facilita:",
+      "explanations": {
+        "direct": "Transporte de CO₂ e tamponamento de H⁺. Favorece captação tecidual e liberação pulmonar de CO₂; não é efeito sobre tensão superficial.",
+        "intuitive": "Hemoglobina sem O₂ carrega melhor parte da carga de CO₂.",
+        "technical": "Favorece captação tecidual e liberação pulmonar de CO₂; não é efeito sobre tensão superficial."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0186",
+      "number": 186,
+      "topicId": "F05",
+      "text": "Hemoglobina fetal tem maior afinidade por O₂ em parte porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liga mais 2,3-BPG"
+        },
+        {
+          "id": "B",
+          "text": "Não possui grupos heme"
+        },
+        {
+          "id": "C",
+          "text": "Liga menos 2,3-BPG"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Hemoglobina fetal tem maior afinidade por O₂ em parte porque:",
+      "explanations": {
+        "direct": "Liga menos 2,3-BPG. As cadeias gama reduzem ligação a BPG; o heme continua essencial.",
+        "intuitive": "Consegue captar oxigênio em pressões menores.",
+        "technical": "As cadeias gama reduzem ligação a BPG; o heme continua essencial."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0187",
+      "number": 187,
+      "topicId": "F05",
+      "text": "Um alvéolo ventilado sem perfusão tem V/Q tendendo a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Infinito"
+        },
+        {
+          "id": "B",
+          "text": "Um obrigatoriamente"
+        },
+        {
+          "id": "C",
+          "text": "Zero"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Um alvéolo ventilado sem perfusão tem V/Q tendendo a:",
+      "explanations": {
+        "direct": "Infinito. É espaço morto alveolar; shunt é perfusão sem ventilação.",
+        "intuitive": "Chega ar, mas não chega sangue para receber o gás.",
+        "technical": "É espaço morto alveolar; shunt é perfusão sem ventilação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0188",
+      "number": 188,
+      "topicId": "F05",
+      "text": "A difusão alveolocapilar piora quando aumenta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Espessura da barreira"
+        },
+        {
+          "id": "B",
+          "text": "Área de troca"
+        },
+        {
+          "id": "C",
+          "text": "Gradiente de pressão do gás"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A difusão alveolocapilar piora quando aumenta:",
+      "explanations": {
+        "direct": "Espessura da barreira. Pela lei de Fick, área e gradiente aumentam difusão; espessura a reduz.",
+        "intuitive": "Uma barreira mais grossa dificulta a travessia.",
+        "technical": "Pela lei de Fick, área e gradiente aumentam difusão; espessura a reduz."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0189",
+      "number": 189,
+      "topicId": "F05",
+      "text": "A capacidade de difusão para CO costuma diminuir no enfisema por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Espessamento uniforme como único mecanismo típico"
+        },
+        {
+          "id": "B",
+          "text": "Aumento de área de superfície capilar"
+        },
+        {
+          "id": "C",
+          "text": "Perda de área alveolocapilar"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A capacidade de difusão para CO costuma diminuir no enfisema por:",
+      "explanations": {
+        "direct": "Perda de área alveolocapilar. Destruição septal reduz DLCO; anemia também pode reduzi-la por outro mecanismo.",
+        "intuitive": "Há menos superfície disponível para troca.",
+        "technical": "Destruição septal reduz DLCO; anemia também pode reduzi-la por outro mecanismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0190",
+      "number": 190,
+      "topicId": "F05",
+      "text": "Quimiorreceptores carotídeos aumentam muito resposta hipóxica quando PaO₂ cai aproximadamente abaixo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "260 mmHg"
+        },
+        {
+          "id": "B",
+          "text": "160 mmHg"
+        },
+        {
+          "id": "C",
+          "text": "60 mmHg"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Quimiorreceptores carotídeos aumentam muito resposta hipóxica quando PaO₂ cai aproximadamente abaixo de:",
+      "explanations": {
+        "direct": "60 mmHg. O limiar não é abrupto, mas a curva de resposta se intensifica em baixas PaO₂.",
+        "intuitive": "A falta importante de oxigênio aciona um alarme ventilatório.",
+        "technical": "O limiar não é abrupto, mas a curva de resposta se intensifica em baixas PaO₂."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0191",
+      "number": 191,
+      "topicId": "F05",
+      "text": "Na altitude, a hiperventilação inicial tende a produzir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acidose metabólica hiperclorêmica obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Alcalose respiratória"
+        },
+        {
+          "id": "C",
+          "text": "Acidose respiratória"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Na altitude, a hiperventilação inicial tende a produzir:",
+      "explanations": {
+        "direct": "Alcalose respiratória. A compensação renal posterior reduz bicarbonato; não é retenção inicial de CO₂.",
+        "intuitive": "Respirar mais elimina CO₂.",
+        "technical": "A compensação renal posterior reduz bicarbonato; não é retenção inicial de CO₂."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0192",
+      "number": 192,
+      "topicId": "F05",
+      "text": "Durante exercício saudável, a ventilação aumenta e PaCO₂ costuma:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Subir proporcionalmente ao consumo de O₂"
+        },
+        {
+          "id": "B",
+          "text": "Permanecer próxima do normal em esforço moderado"
+        },
+        {
+          "id": "C",
+          "text": "Cair obrigatoriamente a zero"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Durante exercício saudável, a ventilação aumenta e PaCO₂ costuma:",
+      "explanations": {
+        "direct": "Permanecer próxima do normal em esforço moderado. O ajuste mantém homeostase; esforço muito intenso pode causar hiperventilação compensatória.",
+        "intuitive": "A ventilação acompanha a produção de CO₂.",
+        "technical": "O ajuste mantém homeostase; esforço muito intenso pode causar hiperventilação compensatória."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0193",
+      "number": 193,
+      "topicId": "F05",
+      "text": "Em hipoventilação alveolar pura, o gradiente alvéolo-arterial de O₂ tende a ser:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Normal ou pouco alterado"
+        },
+        {
+          "id": "B",
+          "text": "Sempre muito aumentado"
+        },
+        {
+          "id": "C",
+          "text": "Negativo obrigatoriamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Em hipoventilação alveolar pura, o gradiente alvéolo-arterial de O₂ tende a ser:",
+      "explanations": {
+        "direct": "Normal ou pouco alterado. Defeitos V/Q, shunt e difusão ampliam o gradiente; hipoventilação reduz PAO₂ e PaO₂ juntas.",
+        "intuitive": "O problema é renovar pouco ar, não necessariamente trocar mal.",
+        "technical": "Defeitos V/Q, shunt e difusão ampliam o gradiente; hipoventilação reduz PAO₂ e PaO₂ juntas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0194",
+      "number": 194,
+      "topicId": "F05",
+      "text": "Após perfuração da pleura, ar entra no espaço pleural e a pressão local aproxima-se da atmosférica. Por que o pulmão tende a retrair?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pressão pleural fica mais negativa"
+        },
+        {
+          "id": "B",
+          "text": "Aumenta sempre o surfactante"
+        },
+        {
+          "id": "C",
+          "text": "Diminui o gradiente transpulmonar"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Após perfuração da pleura, ar entra no espaço pleural e a pressão local aproxima-se da atmosférica. Por que o pulmão tende a retrair?",
+      "explanations": {
+        "direct": "Diminui o gradiente transpulmonar. Entrada de ar pleural aproxima pressão pleural da atmosférica; recuo pulmonar favorece colapso.",
+        "intuitive": "Perde-se a diferença de pressão que o sustentava.",
+        "technical": "Entrada de ar pleural aproxima pressão pleural da atmosférica; recuo pulmonar favorece colapso."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0195",
+      "number": 195,
+      "topicId": "F05",
+      "text": "Um paciente com fibrose precisa gerar grande variação de pressão para obter pequena expansão pulmonar. Como está a complacência?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fica infinita"
+        },
+        {
+          "id": "B",
+          "text": "Aumenta"
+        },
+        {
+          "id": "C",
+          "text": "Diminui"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente com fibrose precisa gerar grande variação de pressão para obter pequena expansão pulmonar. Como está a complacência?",
+      "explanations": {
+        "direct": "Diminui. A elastância aumenta; isso difere do enfisema.",
+        "intuitive": "O pulmão rígido exige mais esforço para expandir.",
+        "technical": "A elastância aumenta; isso difere do enfisema."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0196",
+      "number": 196,
+      "topicId": "F05",
+      "text": "Com VC 500 mL, espaço morto 150 mL e FR 12/min, ventilação alveolar é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "4,2 L/min"
+        },
+        {
+          "id": "B",
+          "text": "6 L/min"
+        },
+        {
+          "id": "C",
+          "text": "1,8 L/min"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Raciocínio quantitativo",
+      "learningObjective": "Com VC 500 mL, espaço morto 150 mL e FR 12/min, ventilação alveolar é:",
+      "explanations": {
+        "direct": "4,2 L/min. 350 × 12 = 4.200 mL/min; 6 L é ventilação minuto e 1,8 L é ventilação do espaço morto.",
+        "intuitive": "Cada respiração renova 350 mL úteis.",
+        "technical": "350 × 12 = 4.200 mL/min; 6 L é ventilação minuto e 1,8 L é ventilação do espaço morto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0197",
+      "number": 197,
+      "topicId": "F05",
+      "text": "Uma pessoa exposta a fumaça apresenta carboxiemoglobina elevada, mas PaO₂ dentro da referência. O que a PaO₂ mede que explica essa aparente discrepância?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quantidade de monóxido de carbono"
+        },
+        {
+          "id": "B",
+          "text": "Oxigênio dissolvido"
+        },
+        {
+          "id": "C",
+          "text": "Todo oxigênio ligado à hemoglobina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Uma pessoa exposta a fumaça apresenta carboxiemoglobina elevada, mas PaO₂ dentro da referência. O que a PaO₂ mede que explica essa aparente discrepância?",
+      "explanations": {
+        "direct": "Oxigênio dissolvido. O conteúdo de O₂ cai e a curva desloca-se à esquerda; PaO₂ isolada não exclui intoxicação.",
+        "intuitive": "A pressão não conta quantos lugares da hemoglobina foram ocupados por CO.",
+        "technical": "O conteúdo de O₂ cai e a curva desloca-se à esquerda; PaO₂ isolada não exclui intoxicação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0198",
+      "number": 198,
+      "topicId": "F05",
+      "text": "Uma embolia obstrui o fluxo sanguíneo para alvéolos que continuam recebendo ar. Qual alteração funcional predomina nessa região?",
+      "options": [
+        {
+          "id": "A",
+          "text": "V/Q necessariamente zero"
+        },
+        {
+          "id": "B",
+          "text": "Shunt puro por falta de ar"
+        },
+        {
+          "id": "C",
+          "text": "Aumento de espaço morto"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Uma embolia obstrui o fluxo sanguíneo para alvéolos que continuam recebendo ar. Qual alteração funcional predomina nessa região?",
+      "explanations": {
+        "direct": "Aumento de espaço morto. Redução de perfusão eleva V/Q; obstrução de ventilação é outro mecanismo.",
+        "intuitive": "O ar chega a uma área cujo sangue foi bloqueado.",
+        "technical": "Redução de perfusão eleva V/Q; obstrução de ventilação é outro mecanismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0199",
+      "number": 199,
+      "topicId": "F05",
+      "text": "Em um pulmão saudável na posição ereta, ventilação e perfusão variam com a altura, mas a perfusão varia proporcionalmente mais. Em qual região a relação V/Q é maior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Base pulmonar"
+        },
+        {
+          "id": "B",
+          "text": "Ápice pulmonar"
+        },
+        {
+          "id": "C",
+          "text": "Mesmo valor em todas as regiões"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Em um pulmão saudável na posição ereta, ventilação e perfusão variam com a altura, mas a perfusão varia proporcionalmente mais. Em qual região a relação V/Q é maior?",
+      "explanations": {
+        "direct": "Ápice pulmonar. Ventilação e perfusão aumentam para a base, mas perfusão varia mais.",
+        "intuitive": "No ápice, o fluxo sanguíneo cai proporcionalmente mais que a ventilação.",
+        "technical": "Ventilação e perfusão aumentam para a base, mas perfusão varia mais."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F05-0200",
+      "number": 200,
+      "topicId": "F05",
+      "text": "Hipóxia alveolar difusa crônica pode causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipotensão pulmonar obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Hipertensão pulmonar"
+        },
+        {
+          "id": "C",
+          "text": "Abolição do ventrículo direito"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Hipóxia alveolar difusa crônica pode causar:",
+      "explanations": {
+        "direct": "Hipertensão pulmonar. Aumento de resistência sobrecarrega o ventrículo direito; não é simples redistribuição localizada.",
+        "intuitive": "Quando todo o pulmão contrai vasos, a resistência total sobe.",
+        "technical": "Aumento de resistência sobrecarrega o ventrículo direito; não é simples redistribuição localizada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

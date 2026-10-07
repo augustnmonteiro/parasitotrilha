@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P62",
+    "name": "Farmacologia · 62 · Fármacos gastrointestinais",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 62
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P62-0953",
+      "number": 953,
+      "topicId": "P62",
+      "text": "Aprepitanto previne certos vômitos ao bloquear:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor NK1 de substância P"
+        },
+        {
+          "id": "B",
+          "text": "Receptor H2"
+        },
+        {
+          "id": "C",
+          "text": "Receptor 5-HT3"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Aprepitanto previne certos vômitos ao bloquear:",
+      "explanations": {
+        "direct": "Receptor NK1 de substância P. Pode compor esquemas combinados; alvos distintos não são intercambiáveis automaticamente.",
+        "intuitive": "Interrompe uma via diferente da usada pela ondansetrona.",
+        "technical": "Pode compor esquemas combinados; alvos distintos não são intercambiáveis automaticamente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P62-0954",
+      "number": 954,
+      "topicId": "P62",
+      "text": "Omeprazol reduz ácido por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pepsina por ligação direta principal"
+        },
+        {
+          "id": "B",
+          "text": "H⁺/K⁺-ATPase"
+        },
+        {
+          "id": "C",
+          "text": "Receptor H1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Omeprazol reduz ácido por inibir:",
+      "explanations": {
+        "direct": "H⁺/K⁺-ATPase. É pró-droga ativada em ambiente ácido; não é apenas anti-histamínico.",
+        "intuitive": "Bloqueia a etapa final de secreção ácida.",
+        "technical": "É pró-droga ativada em ambiente ácido; não é apenas anti-histamínico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P62-0955",
+      "number": 955,
+      "topicId": "P62",
+      "text": "O efeito de um inibidor de bomba pode durar mais que sua meia-vida plasmática porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O receptor H2 é destruído em todos os tecidos"
+        },
+        {
+          "id": "B",
+          "text": "O plasma nunca elimina a droga"
+        },
+        {
+          "id": "C",
+          "text": "A bomba é inativada de modo prolongado"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O efeito de um inibidor de bomba pode durar mais que sua meia-vida plasmática porque:",
+      "explanations": {
+        "direct": "A bomba é inativada de modo prolongado. Recuperação depende de bombas funcionais e novas; não exige concentração plasmática constante.",
+        "intuitive": "O alvo continua inativo mesmo após a molécula cair no sangue.",
+        "technical": "Recuperação depende de bombas funcionais e novas; não exige concentração plasmática constante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P62-0956",
+      "number": 956,
+      "topicId": "P62",
+      "text": "Sucralfato protege mucosa principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Formar barreira aderente em áreas lesadas"
+        },
+        {
+          "id": "B",
+          "text": "Bloquear irreversivelmente COX"
+        },
+        {
+          "id": "C",
+          "text": "Ativar secreção ácida"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Sucralfato protege mucosa principalmente por:",
+      "explanations": {
+        "direct": "Formar barreira aderente em áreas lesadas. Pode interferir na absorção de outros medicamentos; não é AINE.",
+        "intuitive": "Cria uma cobertura protetora local.",
+        "technical": "Pode interferir na absorção de outros medicamentos; não é AINE."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P62-0957",
+      "number": 957,
+      "topicId": "P62",
+      "text": "Metoclopramida tem ação procinética em parte por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antagonismo D2 e facilitação colinérgica"
+        },
+        {
+          "id": "B",
+          "text": "Antagonismo muscarínico puro"
+        },
+        {
+          "id": "C",
+          "text": "Agonismo μ"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Metoclopramida tem ação procinética em parte por:",
+      "explanations": {
+        "direct": "Antagonismo D2 e facilitação colinérgica. Pode causar efeitos extrapiramidais; não é equivalente a opioide antidiarreico.",
+        "intuitive": "Remove um freio sobre a motilidade.",
+        "technical": "Pode causar efeitos extrapiramidais; não é equivalente a opioide antidiarreico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P62-0958",
+      "number": 958,
+      "topicId": "P62",
+      "text": "Loperamida reduz diarreia ao ativar principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptores H2 gástricos"
+        },
+        {
+          "id": "B",
+          "text": "Receptores β2 pulmonares"
+        },
+        {
+          "id": "C",
+          "text": "Receptores μ intestinais"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Loperamida reduz diarreia ao ativar principalmente:",
+      "explanations": {
+        "direct": "Receptores μ intestinais. Não trata toda causa infecciosa e tem limitações de segurança, especialmente em uso excessivo.",
+        "intuitive": "Desacelera o trânsito intestinal.",
+        "technical": "Não trata toda causa infecciosa e tem limitações de segurança, especialmente em uso excessivo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P62-0959",
+      "number": 959,
+      "topicId": "P62",
+      "text": "Laxantes osmóticos atuam por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibir diretamente ácido gástrico"
+        },
+        {
+          "id": "B",
+          "text": "Reter água na luz intestinal"
+        },
+        {
+          "id": "C",
+          "text": "Bloquear receptores de ADH no rim"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Laxantes osmóticos atuam por:",
+      "explanations": {
+        "direct": "Reter água na luz intestinal. Não são diuréticos nem inibidores de bomba de prótons.",
+        "intuitive": "Partículas atraem água e amolecem o conteúdo.",
+        "technical": "Não são diuréticos nem inibidores de bomba de prótons."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P62-0960",
+      "number": 960,
+      "topicId": "P62",
+      "text": "Lactulose pode reduzir absorção de amônia porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueia produção hepática de ureia completamente"
+        },
+        {
+          "id": "B",
+          "text": "Acidifica conteúdo colônico e favorece aprisionamento como NH₄⁺"
+        },
+        {
+          "id": "C",
+          "text": "Aumenta pH e forma NH₃ livre"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Lactulose pode reduzir absorção de amônia porque:",
+      "explanations": {
+        "direct": "Acidifica conteúdo colônico e favorece aprisionamento como NH₄⁺. Efeito laxativo e microbiota também contribuem; não corrige toda causa de encefalopatia.",
+        "intuitive": "Uma forma carregada atravessa menos facilmente a mucosa.",
+        "technical": "Efeito laxativo e microbiota também contribuem; não corrige toda causa de encefalopatia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P35",
+    "name": "Farmacologia · 35 · Dislipidemias",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 35
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P35-0737",
+      "number": 737,
+      "topicId": "P35",
+      "text": "Fibratos ativam principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor H1"
+        },
+        {
+          "id": "B",
+          "text": "Receptor β1"
+        },
+        {
+          "id": "C",
+          "text": "PPAR-α"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Fibratos ativam principalmente:",
+      "explanations": {
+        "direct": "PPAR-α. Reduzem principalmente triglicerídeos; não são estatinas.",
+        "intuitive": "Mudam expressão de genes do metabolismo lipídico.",
+        "technical": "Reduzem principalmente triglicerídeos; não são estatinas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P35-0738",
+      "number": 738,
+      "topicId": "P35",
+      "text": "Resinas sequestradoras de ácidos biliares atuam:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Na luz intestinal ligando ácidos biliares"
+        },
+        {
+          "id": "B",
+          "text": "No núcleo bloqueando HMG-CoA redutase"
+        },
+        {
+          "id": "C",
+          "text": "Na medula óssea"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Resinas sequestradoras de ácidos biliares atuam:",
+      "explanations": {
+        "direct": "Na luz intestinal ligando ácidos biliares. Podem interferir na absorção de outros fármacos e elevar triglicerídeos em alguns contextos.",
+        "intuitive": "Impedem parte da reciclagem da bile.",
+        "technical": "Podem interferir na absorção de outros fármacos e elevar triglicerídeos em alguns contextos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P35-0739",
+      "number": 739,
+      "topicId": "P35",
+      "text": "Estatinas inibem:",
+      "options": [
+        {
+          "id": "A",
+          "text": "HMG-CoA redutase"
+        },
+        {
+          "id": "B",
+          "text": "NPC1L1 diretamente"
+        },
+        {
+          "id": "C",
+          "text": "Lipase pancreática"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Estatinas inibem:",
+      "explanations": {
+        "direct": "HMG-CoA redutase. O fígado aumenta receptores de LDL, favorecendo remoção plasmática.",
+        "intuitive": "Reduzem uma etapa da síntese hepática de colesterol.",
+        "technical": "O fígado aumenta receptores de LDL, favorecendo remoção plasmática."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P35-0740",
+      "number": 740,
+      "topicId": "P35",
+      "text": "A queda de LDL com estatina depende em parte de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio da reciclagem do receptor de LDL"
+        },
+        {
+          "id": "B",
+          "text": "Aumento de receptores hepáticos de LDL"
+        },
+        {
+          "id": "C",
+          "text": "Inibição direta da absorção intestinal por NPC1L1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A queda de LDL com estatina depende em parte de:",
+      "explanations": {
+        "direct": "Aumento de receptores hepáticos de LDL. Não é digestão intestinal de LDL circulante.",
+        "intuitive": "O fígado passa a recolher mais partículas do sangue.",
+        "technical": "Não é digestão intestinal de LDL circulante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P35-0741",
+      "number": 741,
+      "topicId": "P35",
+      "text": "Ezetimiba reduz absorção intestinal de colesterol por bloquear:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ENaC"
+        },
+        {
+          "id": "B",
+          "text": "SGLT2"
+        },
+        {
+          "id": "C",
+          "text": "NPC1L1"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Ezetimiba reduz absorção intestinal de colesterol por bloquear:",
+      "explanations": {
+        "direct": "NPC1L1. Não bloqueia transporte renal de glicose ou sódio por esses alvos.",
+        "intuitive": "Fecha uma rota de entrada de colesterol.",
+        "technical": "Não bloqueia transporte renal de glicose ou sódio por esses alvos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P35-0742",
+      "number": 742,
+      "topicId": "P35",
+      "text": "Inibidores de PCSK9 aumentam disponibilidade de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptores Nm"
+        },
+        {
+          "id": "B",
+          "text": "Canais de Cl⁻"
+        },
+        {
+          "id": "C",
+          "text": "Receptores de LDL"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Inibidores de PCSK9 aumentam disponibilidade de:",
+      "explanations": {
+        "direct": "Receptores de LDL. A ação favorece depuração de LDL; não é antagonismo muscular.",
+        "intuitive": "Mais receptores são reciclados em vez de degradados.",
+        "technical": "A ação favorece depuração de LDL; não é antagonismo muscular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P35-0743",
+      "number": 743,
+      "topicId": "P35",
+      "text": "Miopatia é um risco relevante com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ezetimiba por mecanismo obrigatório em todos"
+        },
+        {
+          "id": "B",
+          "text": "Qualquer vitamina em dose alimentar"
+        },
+        {
+          "id": "C",
+          "text": "Estatinas, especialmente em certas interações"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Miopatia é um risco relevante com:",
+      "explanations": {
+        "direct": "Estatinas, especialmente em certas interações. Sintomas e contexto orientam avaliação; não significa que todo usuário terá rabdomiólise.",
+        "intuitive": "Exposição e associações podem aumentar lesão muscular.",
+        "technical": "Sintomas e contexto orientam avaliação; não significa que todo usuário terá rabdomiólise."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P35-0744",
+      "number": 744,
+      "topicId": "P35",
+      "text": "Niacina pode causar rubor mediado em parte por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio de receptores de insulina"
+        },
+        {
+          "id": "B",
+          "text": "Hemólise"
+        },
+        {
+          "id": "C",
+          "text": "Prostaglandinas"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Niacina pode causar rubor mediado em parte por:",
+      "explanations": {
+        "direct": "Prostaglandinas. O efeito não é necessariamente alergia; seu papel terapêutico depende de benefício e tolerabilidade.",
+        "intuitive": "Vasos da pele dilatam e dão sensação de calor.",
+        "technical": "O efeito não é necessariamente alergia; seu papel terapêutico depende de benefício e tolerabilidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P56",
+    "name": "Farmacologia · 56 · Toxicologia ambiental",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 56
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P56-0905",
+      "number": 905,
+      "topicId": "P56",
+      "text": "Cianeto causa hipóxia celular ao inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anidrase carbônica"
+        },
+        {
+          "id": "B",
+          "text": "Citocromo c oxidase"
+        },
+        {
+          "id": "C",
+          "text": "Na⁺/glicose cotransportador"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Cianeto causa hipóxia celular ao inibir:",
+      "explanations": {
+        "direct": "Citocromo c oxidase. É hipóxia histotóxica por bloqueio da cadeia respiratória.",
+        "intuitive": "O oxigênio pode chegar, mas a célula não consegue utilizá-lo adequadamente.",
+        "technical": "É hipóxia histotóxica por bloqueio da cadeia respiratória."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P56-0906",
+      "number": 906,
+      "topicId": "P56",
+      "text": "Organofosforado ambiental causa toxíndrome:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Colinérgica"
+        },
+        {
+          "id": "B",
+          "text": "Antimuscarínica"
+        },
+        {
+          "id": "C",
+          "text": "Opioide puro"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Organofosforado ambiental causa toxíndrome:",
+      "explanations": {
+        "direct": "Colinérgica. Miose e secreções aumentadas diferem do padrão seco e midriático antimuscarínico.",
+        "intuitive": "A acetilcolina se acumula em múltiplos locais.",
+        "technical": "Miose e secreções aumentadas diferem do padrão seco e midriático antimuscarínico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P56-0907",
+      "number": 907,
+      "topicId": "P56",
+      "text": "Toxicidade depende principalmente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente origem natural ou sintética"
+        },
+        {
+          "id": "B",
+          "text": "Dose, exposição, via e susceptibilidade"
+        },
+        {
+          "id": "C",
+          "text": "Somente a potência do princípio ativo"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Toxicidade depende principalmente de:",
+      "explanations": {
+        "direct": "Dose, exposição, via e susceptibilidade. Uma substância natural não é automaticamente segura; exposição é parte central do risco.",
+        "intuitive": "O perigo depende de quanto chega, por onde e a quem.",
+        "technical": "Uma substância natural não é automaticamente segura; exposição é parte central do risco."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P56-0908",
+      "number": 908,
+      "topicId": "P56",
+      "text": "Monóxido de carbono reduz transporte de O₂ por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Converter hemoglobina em ferritina"
+        },
+        {
+          "id": "B",
+          "text": "Causar apenas broncoespasmo"
+        },
+        {
+          "id": "C",
+          "text": "Formar carboxiemoglobina e alterar liberação de O₂"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Monóxido de carbono reduz transporte de O₂ por:",
+      "explanations": {
+        "direct": "Formar carboxiemoglobina e alterar liberação de O₂. PaO₂ pode ser normal; conteúdo e função da hemoglobina estão comprometidos.",
+        "intuitive": "Ocupa os lugares de transporte e dificulta entregar o restante.",
+        "technical": "PaO₂ pode ser normal; conteúdo e função da hemoglobina estão comprometidos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P56-0909",
+      "number": 909,
+      "topicId": "P56",
+      "text": "Solventes lipossolúveis podem afetar SNC porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Atuam somente na luz intestinal"
+        },
+        {
+          "id": "B",
+          "text": "Distribuem-se em membranas e tecido nervoso"
+        },
+        {
+          "id": "C",
+          "text": "Nunca atravessam barreiras biológicas"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Solventes lipossolúveis podem afetar SNC porque:",
+      "explanations": {
+        "direct": "Distribuem-se em membranas e tecido nervoso. Efeitos dependem da substância; não se pode tratar todos os solventes como equivalentes.",
+        "intuitive": "A afinidade por lipídios facilita atingir o cérebro.",
+        "technical": "Efeitos dependem da substância; não se pode tratar todos os solventes como equivalentes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P56-0910",
+      "number": 910,
+      "topicId": "P56",
+      "text": "Risco difere de perigo porque considera:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente gravidade máxima teórica"
+        },
+        {
+          "id": "B",
+          "text": "Apenas capacidade intrínseca de causar dano"
+        },
+        {
+          "id": "C",
+          "text": "Probabilidade de dano nas condições de exposição"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Risco difere de perigo porque considera:",
+      "explanations": {
+        "direct": "Probabilidade de dano nas condições de exposição. Perigo descreve potencial; risco incorpora exposição e probabilidade.",
+        "intuitive": "Uma substância perigosa pode ter riscos distintos conforme o uso.",
+        "technical": "Perigo descreve potencial; risco incorpora exposição e probabilidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P56-0911",
+      "number": 911,
+      "topicId": "P56",
+      "text": "Exposição crônica a pequenas doses pode causar dano porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pode haver acúmulo ou lesão cumulativa"
+        },
+        {
+          "id": "B",
+          "text": "Dose pequena exclui qualquer toxicidade"
+        },
+        {
+          "id": "C",
+          "text": "Toda substância é eliminada instantaneamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Exposição crônica a pequenas doses pode causar dano porque:",
+      "explanations": {
+        "direct": "Pode haver acúmulo ou lesão cumulativa. O resultado depende de cinética, reparo e mecanismo, não apenas de cada dose isolada.",
+        "intuitive": "Pequenas parcelas podem se somar no tempo.",
+        "technical": "O resultado depende de cinética, reparo e mecanismo, não apenas de cada dose isolada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P56-0912",
+      "number": 912,
+      "topicId": "P56",
+      "text": "Biomarcador de exposição indica necessariamente doença clínica?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Não, exposição e efeito são conceitos distintos"
+        },
+        {
+          "id": "B",
+          "text": "Sim, mesmo sem validação do teste"
+        },
+        {
+          "id": "C",
+          "text": "Sim, independentemente da dose"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Biomarcador de exposição indica necessariamente doença clínica?",
+      "explanations": {
+        "direct": "Não, exposição e efeito são conceitos distintos. Interpretação requer relação temporal, dose, referência e avaliação de efeito.",
+        "intuitive": "Encontrar contato não mede sozinho o dano.",
+        "technical": "Interpretação requer relação temporal, dose, referência e avaliação de efeito."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

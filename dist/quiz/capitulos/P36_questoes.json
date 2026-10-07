@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P36",
+    "name": "Farmacologia · 36 · Inflamação e gota",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 36
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P36-0745",
+      "number": 745,
+      "topicId": "P36",
+      "text": "Lesão gástrica por AINE envolve redução de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prostaglandinas protetoras"
+        },
+        {
+          "id": "B",
+          "text": "Histamina plasmática exclusivamente"
+        },
+        {
+          "id": "C",
+          "text": "Produção de ácido em todos os casos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Lesão gástrica por AINE envolve redução de:",
+      "explanations": {
+        "direct": "Prostaglandinas protetoras. Muco, bicarbonato e perfusão podem diminuir; não se trata apenas de irritação física local.",
+        "intuitive": "A mucosa perde parte de sua proteção.",
+        "technical": "Muco, bicarbonato e perfusão podem diminuir; não se trata apenas de irritação física local."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P36-0746",
+      "number": 746,
+      "topicId": "P36",
+      "text": "Paracetamol tem ação principal:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uricosúrica obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Analgésica e antipirética, com pouca ação anti-inflamatória periférica"
+        },
+        {
+          "id": "C",
+          "text": "Anticoagulante potente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Paracetamol tem ação principal:",
+      "explanations": {
+        "direct": "Analgésica e antipirética, com pouca ação anti-inflamatória periférica. Sua toxicidade hepática em excesso depende de metabólito reativo e glutationa.",
+        "intuitive": "Ajuda em dor e febre sem reproduzir todo perfil dos AINEs.",
+        "technical": "Sua toxicidade hepática em excesso depende de metabólito reativo e glutationa."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P36-0747",
+      "number": 747,
+      "topicId": "P36",
+      "text": "AINEs reduzem dor e inflamação principalmente por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ciclo-oxigenases"
+        },
+        {
+          "id": "B",
+          "text": "Lipoxigenase em todos os agentes"
+        },
+        {
+          "id": "C",
+          "text": "Receptores opioides μ"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "AINEs reduzem dor e inflamação principalmente por inibir:",
+      "explanations": {
+        "direct": "Ciclo-oxigenases. Não são todos seletivos para a mesma COX nem bloqueadores de leucotrienos.",
+        "intuitive": "Diminuem formação de prostanoides.",
+        "technical": "Não são todos seletivos para a mesma COX nem bloqueadores de leucotrienos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P36-0748",
+      "number": 748,
+      "topicId": "P36",
+      "text": "AINE em hipovolemia pode reduzir TFG por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Retirar vasodilatação aferente mediada por prostaglandinas"
+        },
+        {
+          "id": "B",
+          "text": "Dilatar eferente por bloqueio AT1 direto"
+        },
+        {
+          "id": "C",
+          "text": "Aumentar sempre fluxo renal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "AINE em hipovolemia pode reduzir TFG por:",
+      "explanations": {
+        "direct": "Retirar vasodilatação aferente mediada por prostaglandinas. O risco cresce em dependência de prostaglandinas; não é o mesmo alvo de IECA.",
+        "intuitive": "O rim perde um mecanismo de defesa da perfusão.",
+        "technical": "O risco cresce em dependência de prostaglandinas; não é o mesmo alvo de IECA."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P36-0749",
+      "number": 749,
+      "topicId": "P36",
+      "text": "Colchicina reduz inflamação na gota ao afetar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Síntese de ácido úrico diretamente como alopurinol"
+        },
+        {
+          "id": "B",
+          "text": "Receptor μ"
+        },
+        {
+          "id": "C",
+          "text": "Microtúbulos e funções de neutrófilos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Colchicina reduz inflamação na gota ao afetar:",
+      "explanations": {
+        "direct": "Microtúbulos e funções de neutrófilos. Não reduz urato pelo mesmo mecanismo dos inibidores de xantina oxidase.",
+        "intuitive": "Dificulta atividades celulares do ataque inflamatório.",
+        "technical": "Não reduz urato pelo mesmo mecanismo dos inibidores de xantina oxidase."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P36-0750",
+      "number": 750,
+      "topicId": "P36",
+      "text": "Alopurinol reduz produção de ácido úrico por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Xantina oxidase"
+        },
+        {
+          "id": "B",
+          "text": "PDE5"
+        },
+        {
+          "id": "C",
+          "text": "COX-1"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Alopurinol reduz produção de ácido úrico por inibir:",
+      "explanations": {
+        "direct": "Xantina oxidase. Não é analgésico imediato da crise e interage com tiopurinas.",
+        "intuitive": "Bloqueia uma etapa de formação de urato.",
+        "technical": "Não é analgésico imediato da crise e interage com tiopurinas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P36-0751",
+      "number": 751,
+      "topicId": "P36",
+      "text": "Inibidores de TNF aumentam atenção a infecções porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eliminam apenas células tumorais"
+        },
+        {
+          "id": "B",
+          "text": "TNF participa da defesa e manutenção de granulomas"
+        },
+        {
+          "id": "C",
+          "text": "Aumentam sempre imunidade celular"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Inibidores de TNF aumentam atenção a infecções porque:",
+      "explanations": {
+        "direct": "TNF participa da defesa e manutenção de granulomas. Triagem e monitoramento dependem do agente e contexto, incluindo tuberculose.",
+        "intuitive": "Bloquear inflamação também pode enfraquecer proteção.",
+        "technical": "Triagem e monitoramento dependem do agente e contexto, incluindo tuberculose."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P36-0752",
+      "number": 752,
+      "topicId": "P36",
+      "text": "Metotrexato em doença inflamatória exige atenção à periodicidade porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Não causa toxicidade hematológica"
+        },
+        {
+          "id": "B",
+          "text": "Toda indicação usa obrigatoriamente dose diária"
+        },
+        {
+          "id": "C",
+          "text": "Esquemas semanais podem ser confundidos perigosamente com diários"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Metotrexato em doença inflamatória exige atenção à periodicidade porque:",
+      "explanations": {
+        "direct": "Esquemas semanais podem ser confundidos perigosamente com diários. O regime depende da indicação; não extrapolar esquemas de oncologia ou reumatologia.",
+        "intuitive": "Um erro de frequência pode multiplicar muito a exposição.",
+        "technical": "O regime depende da indicação; não extrapolar esquemas de oncologia ou reumatologia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

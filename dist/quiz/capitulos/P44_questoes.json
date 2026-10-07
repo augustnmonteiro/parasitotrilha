@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P44",
+    "name": "Farmacologia · 44 · Síntese proteica bacteriana",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 44
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P44-0809",
+      "number": 809,
+      "topicId": "P44",
+      "text": "Macrolídeos atuam principalmente na:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membrana por despolarização"
+        },
+        {
+          "id": "B",
+          "text": "DNA girase"
+        },
+        {
+          "id": "C",
+          "text": "Subunidade 50S"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Macrolídeos atuam principalmente na:",
+      "explanations": {
+        "direct": "Subunidade 50S. Não são quinolonas nem daptomicina.",
+        "intuitive": "Interferem na montagem da proteína bacteriana.",
+        "technical": "Não são quinolonas nem daptomicina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P44-0810",
+      "number": 810,
+      "topicId": "P44",
+      "text": "Alguns macrolídeos podem prolongar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tempo de coagulação por bloqueio obrigatório de vitamina K"
+        },
+        {
+          "id": "B",
+          "text": "Intervalo QT"
+        },
+        {
+          "id": "C",
+          "text": "Volume pulmonar residual como mecanismo principal"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Alguns macrolídeos podem prolongar:",
+      "explanations": {
+        "direct": "Intervalo QT. Risco depende do agente, exposição e associações.",
+        "intuitive": "Também podem afetar a repolarização cardíaca.",
+        "technical": "Risco depende do agente, exposição e associações."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P44-0811",
+      "number": 811,
+      "topicId": "P44",
+      "text": "A síndrome do bebê cinzento relaciona-se a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acúmulo de cloranfenicol por metabolismo imaturo"
+        },
+        {
+          "id": "B",
+          "text": "Excesso de surfactante"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio β1 por penicilina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A síndrome do bebê cinzento relaciona-se a:",
+      "explanations": {
+        "direct": "Acúmulo de cloranfenicol por metabolismo imaturo. Imaturidade de conjugação contribui; não se extrapola para todos os antibióticos.",
+        "intuitive": "O recém-nascido pode eliminar mal o medicamento.",
+        "technical": "Imaturidade de conjugação contribui; não se extrapola para todos os antibióticos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P44-0812",
+      "number": 812,
+      "topicId": "P44",
+      "text": "Tetraciclinas inibem síntese proteica ao ligar-se à:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Subunidade 30S"
+        },
+        {
+          "id": "B",
+          "text": "Subunidade 60S humana como alvo principal"
+        },
+        {
+          "id": "C",
+          "text": "Parede D-Ala-D-Ala"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Tetraciclinas inibem síntese proteica ao ligar-se à:",
+      "explanations": {
+        "direct": "Subunidade 30S. Não têm o mesmo alvo da vancomicina.",
+        "intuitive": "Dificultam entrada do aminoacil-tRNA no ribossomo.",
+        "technical": "Não têm o mesmo alvo da vancomicina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P44-0813",
+      "number": 813,
+      "topicId": "P44",
+      "text": "Leite, antiácidos ou ferro podem reduzir absorção de tetraciclinas por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indução de anticorpos"
+        },
+        {
+          "id": "B",
+          "text": "Quelação com cátions"
+        },
+        {
+          "id": "C",
+          "text": "Ativação de 30S"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Leite, antiácidos ou ferro podem reduzir absorção de tetraciclinas por:",
+      "explanations": {
+        "direct": "Quelação com cátions. O efeito depende de formulação e intervalo; não é alergia alimentar.",
+        "intuitive": "Formam complexos menos absorvidos.",
+        "technical": "O efeito depende de formulação e intervalo; não é alergia alimentar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P44-0814",
+      "number": 814,
+      "topicId": "P44",
+      "text": "Linezolida inibe síntese proteica e também tem ação de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ativação de vitamina K"
+        },
+        {
+          "id": "B",
+          "text": "Agonismo β2"
+        },
+        {
+          "id": "C",
+          "text": "Inibição reversível de MAO"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Linezolida inibe síntese proteica e também tem ação de:",
+      "explanations": {
+        "direct": "Inibição reversível de MAO. Associações serotoninérgicas e mielossupressão exigem atenção.",
+        "intuitive": "Seu perfil cria interações além do alvo bacteriano.",
+        "technical": "Associações serotoninérgicas e mielossupressão exigem atenção."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P44-0815",
+      "number": 815,
+      "topicId": "P44",
+      "text": "Clindamicina está associada a risco de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Infecção por Clostridioides difficile"
+        },
+        {
+          "id": "B",
+          "text": "Hipoglicemia obrigatória"
+        },
+        {
+          "id": "C",
+          "text": "Prevenção garantida de toda diarreia"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Clindamicina está associada a risco de:",
+      "explanations": {
+        "direct": "Infecção por Clostridioides difficile. Esse risco não é exclusivo da clindamicina, mas é uma associação importante.",
+        "intuitive": "Alterar a microbiota pode permitir proliferação de um patógeno.",
+        "technical": "Esse risco não é exclusivo da clindamicina, mas é uma associação importante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P44-0816",
+      "number": 816,
+      "topicId": "P44",
+      "text": "Cloranfenicol pode causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Broncodilatação seletiva"
+        },
+        {
+          "id": "B",
+          "text": "Toxicidade medular"
+        },
+        {
+          "id": "C",
+          "text": "Estimulação obrigatória da eritropoiese"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Cloranfenicol pode causar:",
+      "explanations": {
+        "direct": "Toxicidade medular. Há toxicidade dose-relacionada e reação aplástica rara; não é agente hematopoiético.",
+        "intuitive": "A síntese de células sanguíneas pode ser prejudicada.",
+        "technical": "Há toxicidade dose-relacionada e reação aplástica rara; não é agente hematopoiético."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

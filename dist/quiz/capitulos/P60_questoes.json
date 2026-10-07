@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P60",
+    "name": "Farmacologia · 60 · Geriatria",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 60
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P60-0937",
+      "number": 937,
+      "topicId": "P60",
+      "text": "No envelhecimento, creatinina plasmática aparentemente normal pode ocultar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Filtração obrigatoriamente aumentada"
+        },
+        {
+          "id": "B",
+          "text": "Redução da função renal com menor massa muscular"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de qualquer risco de acúmulo"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "No envelhecimento, creatinina plasmática aparentemente normal pode ocultar:",
+      "explanations": {
+        "direct": "Redução da função renal com menor massa muscular. Estimativas e contexto são necessários; valor isolado não garante depuração preservada.",
+        "intuitive": "Menos músculo produz menos creatinina.",
+        "technical": "Estimativas e contexto são necessários; valor isolado não garante depuração preservada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P60-0938",
+      "number": 938,
+      "topicId": "P60",
+      "text": "Aumento relativo de gordura corporal pode prolongar permanência de fármacos:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lipofílicos"
+        },
+        {
+          "id": "B",
+          "text": "Hidrossolúveis em todos os casos"
+        },
+        {
+          "id": "C",
+          "text": "Eliminados sem distribuição"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Aumento relativo de gordura corporal pode prolongar permanência de fármacos:",
+      "explanations": {
+        "direct": "Lipofílicos. Maior Vd pode prolongar meia-vida se depuração não aumentar proporcionalmente.",
+        "intuitive": "A gordura pode funcionar como reservatório.",
+        "technical": "Maior Vd pode prolongar meia-vida se depuração não aumentar proporcionalmente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P60-0939",
+      "number": 939,
+      "topicId": "P60",
+      "text": "Polifarmácia é problemática especialmente quando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nunca há indicação de múltiplos fármacos"
+        },
+        {
+          "id": "B",
+          "text": "Aumenta interações e tratamentos sem benefício proporcional"
+        },
+        {
+          "id": "C",
+          "text": "Todo número acima de um é inadequado"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Polifarmácia é problemática especialmente quando:",
+      "explanations": {
+        "direct": "Aumenta interações e tratamentos sem benefício proporcional. Múltiplos medicamentos podem ser necessários; adequação importa além da contagem.",
+        "intuitive": "O conjunto precisa ser justificado, não apenas cada receita isolada.",
+        "technical": "Múltiplos medicamentos podem ser necessários; adequação importa além da contagem."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P60-0940",
+      "number": 940,
+      "topicId": "P60",
+      "text": "Cascata de prescrição ocorre quando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Efeito adverso é tratado como nova doença sem reconhecer a causa"
+        },
+        {
+          "id": "B",
+          "text": "A dose é ajustada por função renal"
+        },
+        {
+          "id": "C",
+          "text": "Todo tratamento é suspenso simultaneamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Cascata de prescrição ocorre quando:",
+      "explanations": {
+        "direct": "Efeito adverso é tratado como nova doença sem reconhecer a causa. Reconhecer causalidade pode evitar medicação desnecessária.",
+        "intuitive": "Um remédio gera sintoma e outro é acrescentado para tratá-lo.",
+        "technical": "Reconhecer causalidade pode evitar medicação desnecessária."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P60-0941",
+      "number": 941,
+      "topicId": "P60",
+      "text": "Desprescrição deve considerar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Benefício, risco, objetivos e necessidade de retirada gradual"
+        },
+        {
+          "id": "B",
+          "text": "Suspensão abrupta de todos os agentes"
+        },
+        {
+          "id": "C",
+          "text": "Apenas custo, ignorando indicação"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Desprescrição deve considerar:",
+      "explanations": {
+        "direct": "Benefício, risco, objetivos e necessidade de retirada gradual. Alguns fármacos geram abstinência ou rebote; não há regra universal de interrupção imediata.",
+        "intuitive": "Retirar também é uma decisão clínica planejada.",
+        "technical": "Alguns fármacos geram abstinência ou rebote; não há regra universal de interrupção imediata."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P60-0942",
+      "number": 942,
+      "topicId": "P60",
+      "text": "Benzodiazepínicos podem aumentar quedas por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sedação e prejuízo psicomotor"
+        },
+        {
+          "id": "B",
+          "text": "Aumento garantido de força muscular"
+        },
+        {
+          "id": "C",
+          "text": "Correção universal do equilíbrio"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Benzodiazepínicos podem aumentar quedas por:",
+      "explanations": {
+        "direct": "Sedação e prejuízo psicomotor. Sensibilidade e eliminação podem mudar; não é risco exclusivo de doses muito altas.",
+        "intuitive": "Menor alerta e coordenação dificultam caminhar.",
+        "technical": "Sensibilidade e eliminação podem mudar; não é risco exclusivo de doses muito altas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P60-0943",
+      "number": 943,
+      "topicId": "P60",
+      "text": "A estratégia de iniciar com cautela em idoso não deve significar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Manter indefinidamente dose ineficaz sem reavaliação"
+        },
+        {
+          "id": "B",
+          "text": "Titular conforme resposta e risco"
+        },
+        {
+          "id": "C",
+          "text": "Revisar função orgânica"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A estratégia de iniciar com cautela em idoso não deve significar:",
+      "explanations": {
+        "direct": "Manter indefinidamente dose ineficaz sem reavaliação. Subtratamento também causa dano; individualizar é diferente de evitar toda terapia.",
+        "intuitive": "Cautela precisa vir com acompanhamento do benefício.",
+        "technical": "Subtratamento também causa dano; individualizar é diferente de evitar toda terapia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P60-0944",
+      "number": 944,
+      "topicId": "P60",
+      "text": "Carga anticolinérgica elevada no idoso aumenta risco de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diarreia por agonismo M3"
+        },
+        {
+          "id": "B",
+          "text": "Melhora garantida da memória"
+        },
+        {
+          "id": "C",
+          "text": "Confusão, constipação e retenção urinária"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Carga anticolinérgica elevada no idoso aumenta risco de:",
+      "explanations": {
+        "direct": "Confusão, constipação e retenção urinária. Não depende apenas de um medicamento rotulado como anticolinérgico.",
+        "intuitive": "Vários pequenos bloqueios podem se somar.",
+        "technical": "Não depende apenas de um medicamento rotulado como anticolinérgico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

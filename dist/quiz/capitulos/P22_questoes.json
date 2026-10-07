@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P22",
+    "name": "Farmacologia · 22 · Sedativos e hipnóticos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 22
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P22-0633",
+      "number": 633,
+      "topicId": "P22",
+      "text": "Flumazenil antagoniza:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sítio benzodiazepínico de GABA_A"
+        },
+        {
+          "id": "B",
+          "text": "Receptores muscarínicos"
+        },
+        {
+          "id": "C",
+          "text": "Receptores opioides μ"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Flumazenil antagoniza:",
+      "explanations": {
+        "direct": "Sítio benzodiazepínico de GABA_A. Não reverte diretamente opioides ou todos os sedativos.",
+        "intuitive": "Bloqueia o local de ação dos benzodiazepínicos.",
+        "technical": "Não reverte diretamente opioides ou todos os sedativos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P22-0634",
+      "number": 634,
+      "topicId": "P22",
+      "text": "Flumazenil pode provocar convulsões especialmente em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toda pessoa saudável obrigatoriamente"
+        },
+        {
+          "id": "B",
+          "text": "Uso isolado de antiácido"
+        },
+        {
+          "id": "C",
+          "text": "Dependência de benzodiazepínicos ou intoxicação mista predisponente"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Flumazenil pode provocar convulsões especialmente em:",
+      "explanations": {
+        "direct": "Dependência de benzodiazepínicos ou intoxicação mista predisponente. Por isso não é antídoto indiscriminado para qualquer coma.",
+        "intuitive": "Retirar abruptamente a inibição pode ser perigoso.",
+        "technical": "Por isso não é antídoto indiscriminado para qualquer coma."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P22-0635",
+      "number": 635,
+      "topicId": "P22",
+      "text": "Zolpidem atua principalmente em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptores de melatonina exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Receptores GABA_A no sítio benzodiazepínico"
+        },
+        {
+          "id": "C",
+          "text": "Receptores β1"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Zolpidem atua principalmente em:",
+      "explanations": {
+        "direct": "Receptores GABA_A no sítio benzodiazepínico. Não pertence estruturalmente aos benzodiazepínicos, mas compartilha o alvo funcional.",
+        "intuitive": "Favorece sono por modulação inibitória.",
+        "technical": "Não pertence estruturalmente aos benzodiazepínicos, mas compartilha o alvo funcional."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P22-0636",
+      "number": 636,
+      "topicId": "P22",
+      "text": "Ramelteona atua em receptores de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melatonina"
+        },
+        {
+          "id": "B",
+          "text": "Orexina como antagonista principal"
+        },
+        {
+          "id": "C",
+          "text": "Dopamina D2"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ramelteona atua em receptores de:",
+      "explanations": {
+        "direct": "Melatonina. Não é benzodiazepínico nem antagonista dopaminérgico.",
+        "intuitive": "Imita um sinal ligado ao horário do sono.",
+        "technical": "Não é benzodiazepínico nem antagonista dopaminérgico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P22-0637",
+      "number": 637,
+      "topicId": "P22",
+      "text": "Benzodiazepínicos aumentam efeito de GABA_A por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonismo direto de NMDA"
+        },
+        {
+          "id": "B",
+          "text": "Modulação alostérica positiva"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio de síntese de GABA"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Benzodiazepínicos aumentam efeito de GABA_A por:",
+      "explanations": {
+        "direct": "Modulação alostérica positiva. Em doses usuais dependem de GABA; não são antagonistas glutamatérgicos NMDA.",
+        "intuitive": "Tornam mais eficaz uma mensagem inibitória já presente.",
+        "technical": "Em doses usuais dependem de GABA; não são antagonistas glutamatérgicos NMDA."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P22-0638",
+      "number": 638,
+      "topicId": "P22",
+      "text": "O efeito clássico dos benzodiazepínicos sobre o canal é aumentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Duração de abertura como descrição clássica dos barbitúricos"
+        },
+        {
+          "id": "B",
+          "text": "Frequência de abertura associada ao GABA"
+        },
+        {
+          "id": "C",
+          "text": "Saída obrigatória de todo cloreto"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "O efeito clássico dos benzodiazepínicos sobre o canal é aumentar:",
+      "explanations": {
+        "direct": "Frequência de abertura associada ao GABA. A descrição é funcional e simplificada; a direção da corrente depende do gradiente iônico.",
+        "intuitive": "O canal responde mais frequentemente ao neurotransmissor.",
+        "technical": "A descrição é funcional e simplificada; a direção da corrente depende do gradiente iônico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P22-0639",
+      "number": 639,
+      "topicId": "P22",
+      "text": "Barbitúricos tendem a aumentar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Duração de abertura de GABA_A"
+        },
+        {
+          "id": "B",
+          "text": "Atividade da acetilcolinesterase"
+        },
+        {
+          "id": "C",
+          "text": "Liberação de insulina exclusivamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Barbitúricos tendem a aumentar:",
+      "explanations": {
+        "direct": "Duração de abertura de GABA_A. Em altas exposições podem ter efeitos adicionais e maior depressão respiratória.",
+        "intuitive": "Prolongam a ação inibitória do canal.",
+        "technical": "Em altas exposições podem ter efeitos adicionais e maior depressão respiratória."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P22-0640",
+      "number": 640,
+      "topicId": "P22",
+      "text": "Associar benzodiazepínico a opioide aumenta risco de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Broncodilatação protetora"
+        },
+        {
+          "id": "B",
+          "text": "Eliminação acelerada de ambos sempre"
+        },
+        {
+          "id": "C",
+          "text": "Depressão respiratória"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Associar benzodiazepínico a opioide aumenta risco de:",
+      "explanations": {
+        "direct": "Depressão respiratória. A interação pode ser farmacodinâmica mesmo sem mudança de concentração.",
+        "intuitive": "Duas ações depressoras podem se somar.",
+        "technical": "A interação pode ser farmacodinâmica mesmo sem mudança de concentração."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

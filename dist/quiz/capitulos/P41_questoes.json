@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P41",
+    "name": "Farmacologia · 41 · Diabetes",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 41
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P41-0785",
+      "number": 785,
+      "topicId": "P41",
+      "text": "Insulina regular intravenosa tem utilidade quando se deseja:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Depósito subcutâneo de vários dias"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de risco de hipoglicemia"
+        },
+        {
+          "id": "C",
+          "text": "Efeito titulável em contexto monitorado"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Insulina regular intravenosa tem utilidade quando se deseja:",
+      "explanations": {
+        "direct": "Efeito titulável em contexto monitorado. A monitorização continua essencial; via IV não elimina eventos adversos.",
+        "intuitive": "A via permite ajustar rapidamente a exposição.",
+        "technical": "A monitorização continua essencial; via IV não elimina eventos adversos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P41-0786",
+      "number": 786,
+      "topicId": "P41",
+      "text": "Pioglitazona atua como agonista de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor μ"
+        },
+        {
+          "id": "B",
+          "text": "GLP-1R"
+        },
+        {
+          "id": "C",
+          "text": "PPAR-γ"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Pioglitazona atua como agonista de:",
+      "explanations": {
+        "direct": "PPAR-γ. Pode causar edema e ganho de peso; não é secretagogo de ação imediata.",
+        "intuitive": "Muda expressão gênica para melhorar sensibilidade à insulina.",
+        "technical": "Pode causar edema e ganho de peso; não é secretagogo de ação imediata."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P41-0787",
+      "number": 787,
+      "topicId": "P41",
+      "text": "Inibidores de DPP-4 prolongam ação de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Incretinas endógenas"
+        },
+        {
+          "id": "B",
+          "text": "Catecolaminas exclusivamente"
+        },
+        {
+          "id": "C",
+          "text": "Hormônios tireoidianos exclusivamente"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Inibidores de DPP-4 prolongam ação de:",
+      "explanations": {
+        "direct": "Incretinas endógenas. Não bloqueiam diretamente reabsorção renal de glicose.",
+        "intuitive": "Diminuem a quebra dos sinais intestinais de refeição.",
+        "technical": "Não bloqueiam diretamente reabsorção renal de glicose."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P41-0788",
+      "number": 788,
+      "topicId": "P41",
+      "text": "Insulina reduz potássio plasmático principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar excreção renal de K⁺ como mecanismo imediato principal"
+        },
+        {
+          "id": "B",
+          "text": "Reduzir a reabsorção intestinal de K⁺ como mecanismo imediato principal"
+        },
+        {
+          "id": "C",
+          "text": "Promover entrada de K⁺ nas células"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Insulina reduz potássio plasmático principalmente por:",
+      "explanations": {
+        "direct": "Promover entrada de K⁺ nas células. Não remove necessariamente potássio do organismo; isso distingue redistribuição de eliminação.",
+        "intuitive": "Redistribui potássio para o interior celular.",
+        "technical": "Não remove necessariamente potássio do organismo; isso distingue redistribuição de eliminação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P41-0789",
+      "number": 789,
+      "topicId": "P41",
+      "text": "Metformina reduz glicemia principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduzir produção hepática de glicose"
+        },
+        {
+          "id": "B",
+          "text": "Bloquear absorção de toda proteína"
+        },
+        {
+          "id": "C",
+          "text": "Estimular secreção de insulina independentemente de glicose"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Metformina reduz glicemia principalmente por:",
+      "explanations": {
+        "direct": "Reduzir produção hepática de glicose. O mecanismo é multifatorial; isoladamente tem baixo risco de hipoglicemia.",
+        "intuitive": "Diminui o excesso de glicose liberado pelo fígado.",
+        "technical": "O mecanismo é multifatorial; isoladamente tem baixo risco de hipoglicemia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P41-0790",
+      "number": 790,
+      "topicId": "P41",
+      "text": "Sulfonilureias estimulam insulina ao:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fechar KATP na célula beta"
+        },
+        {
+          "id": "B",
+          "text": "Bloquear receptor de insulina"
+        },
+        {
+          "id": "C",
+          "text": "Abrir KATP"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Sulfonilureias estimulam insulina ao:",
+      "explanations": {
+        "direct": "Fechar KATP na célula beta. Por estimular secreção, podem causar hipoglicemia e ganho de peso.",
+        "intuitive": "A célula despolariza e libera insulina.",
+        "technical": "Por estimular secreção, podem causar hipoglicemia e ganho de peso."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P41-0791",
+      "number": 791,
+      "topicId": "P41",
+      "text": "Inibidores de SGLT2 podem favorecer:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de cetose com qualquer glicemia"
+        },
+        {
+          "id": "B",
+          "text": "Infecções micóticas genitais e cetoacidose em situações predisponentes"
+        },
+        {
+          "id": "C",
+          "text": "Hipercalcemia obrigatória"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Inibidores de SGLT2 podem favorecer:",
+      "explanations": {
+        "direct": "Infecções micóticas genitais e cetoacidose em situações predisponentes. Cetoacidose pode ocorrer sem hiperglicemia muito acentuada; contexto é fundamental.",
+        "intuitive": "A glicose urinária e mudanças metabólicas criam riscos específicos.",
+        "technical": "Cetoacidose pode ocorrer sem hiperglicemia muito acentuada; contexto é fundamental."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P41-0792",
+      "number": 792,
+      "topicId": "P41",
+      "text": "Acarbose reduz picos pós-prandiais por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lipase pancreática exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Receptor de insulina"
+        },
+        {
+          "id": "C",
+          "text": "α-glicosidases intestinais"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Acarbose reduz picos pós-prandiais por inibir:",
+      "explanations": {
+        "direct": "α-glicosidases intestinais. Pode causar gases e desconforto; não impede toda absorção de carboidrato.",
+        "intuitive": "Atrasa a quebra de carboidratos para absorção.",
+        "technical": "Pode causar gases e desconforto; não impede toda absorção de carboidrato."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

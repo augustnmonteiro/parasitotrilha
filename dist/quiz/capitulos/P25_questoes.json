@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P25",
+    "name": "Farmacologia · 25 · Anestesia geral",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 25
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P25-0657",
+      "number": 657,
+      "topicId": "P25",
+      "text": "Propofol produz hipnose principalmente por potencializar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor nicotínico Nm"
+        },
+        {
+          "id": "B",
+          "text": "Receptor β2"
+        },
+        {
+          "id": "C",
+          "text": "GABA_A"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Propofol produz hipnose principalmente por potencializar:",
+      "explanations": {
+        "direct": "GABA_A. Não fornece analgesia confiável suficiente por si só nem bloqueio neuromuscular.",
+        "intuitive": "Aumenta sinalização inibitória cerebral.",
+        "technical": "Não fornece analgesia confiável suficiente por si só nem bloqueio neuromuscular."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P25-0658",
+      "number": 658,
+      "topicId": "P25",
+      "text": "Um efeito hemodinâmico comum do propofol é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de vasodilatação"
+        },
+        {
+          "id": "B",
+          "text": "Hipertensão obrigatória"
+        },
+        {
+          "id": "C",
+          "text": "Hipotensão"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um efeito hemodinâmico comum do propofol é:",
+      "explanations": {
+        "direct": "Hipotensão. Vasodilatação e depressão cardiovascular contribuem; requer titulação e monitoramento.",
+        "intuitive": "A sedação pode vir acompanhada de queda de pressão.",
+        "technical": "Vasodilatação e depressão cardiovascular contribuem; requer titulação e monitoramento."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P25-0659",
+      "number": 659,
+      "topicId": "P25",
+      "text": "Cetamina atua principalmente como antagonista de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "GABA_B"
+        },
+        {
+          "id": "B",
+          "text": "NMDA"
+        },
+        {
+          "id": "C",
+          "text": "H2"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Cetamina atua principalmente como antagonista de:",
+      "explanations": {
+        "direct": "NMDA. Produz anestesia dissociativa e analgesia; não é anti-histamínico gástrico.",
+        "intuitive": "Reduz uma via excitatória do glutamato.",
+        "technical": "Produz anestesia dissociativa e analgesia; não é anti-histamínico gástrico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P25-0660",
+      "number": 660,
+      "topicId": "P25",
+      "text": "Etomidato exige atenção por suprimir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Síntese de hemoglobina imediatamente"
+        },
+        {
+          "id": "B",
+          "text": "Síntese adrenal de corticosteroides"
+        },
+        {
+          "id": "C",
+          "text": "Produção de surfactante exclusivamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Etomidato exige atenção por suprimir:",
+      "explanations": {
+        "direct": "Síntese adrenal de corticosteroides. Inibição de 11β-hidroxilase é relevante; não é efeito comum a todos os indutores.",
+        "intuitive": "Pode interferir numa enzima da produção de cortisol.",
+        "technical": "Inibição de 11β-hidroxilase é relevante; não é efeito comum a todos os indutores."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P25-0661",
+      "number": 661,
+      "topicId": "P25",
+      "text": "Menor concentração alveolar mínima indica:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maior segurança em qualquer pessoa"
+        },
+        {
+          "id": "B",
+          "text": "Maior potência anestésica"
+        },
+        {
+          "id": "C",
+          "text": "Menor potência"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Menor concentração alveolar mínima indica:",
+      "explanations": {
+        "direct": "Maior potência anestésica. CAM não mede sozinha segurança, analgesia ou velocidade de indução.",
+        "intuitive": "É necessária menor concentração para o mesmo desfecho populacional.",
+        "technical": "CAM não mede sozinha segurança, analgesia ou velocidade de indução."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P25-0662",
+      "number": 662,
+      "topicId": "P25",
+      "text": "Menor coeficiente sangue/gás de anestésico inalatório favorece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maior solubilidade sanguínea"
+        },
+        {
+          "id": "B",
+          "text": "Indução sempre mais lenta"
+        },
+        {
+          "id": "C",
+          "text": "Mudanças mais rápidas da pressão alveolar e do efeito"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Menor coeficiente sangue/gás de anestésico inalatório favorece:",
+      "explanations": {
+        "direct": "Mudanças mais rápidas da pressão alveolar e do efeito. Solubilidade influencia velocidade; potência é mais relacionada à CAM.",
+        "intuitive": "Menos anestésico fica retido no sangue antes de equilibrar.",
+        "technical": "Solubilidade influencia velocidade; potência é mais relacionada à CAM."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P25-0663",
+      "number": 663,
+      "topicId": "P25",
+      "text": "Hipertermia maligna pode ser desencadeada por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Soro fisiológico"
+        },
+        {
+          "id": "B",
+          "text": "Todos os anestésicos locais obrigatoriamente"
+        },
+        {
+          "id": "C",
+          "text": "Anestésicos voláteis e succinilcolina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Hipertermia maligna pode ser desencadeada por:",
+      "explanations": {
+        "direct": "Anestésicos voláteis e succinilcolina. É suscetibilidade farmacogenética; não é sinônimo de qualquer febre durante cirurgia.",
+        "intuitive": "Certos agentes desencadeiam liberação descontrolada de cálcio.",
+        "technical": "É suscetibilidade farmacogenética; não é sinônimo de qualquer febre durante cirurgia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P25-0664",
+      "number": 664,
+      "topicId": "P25",
+      "text": "Dantroleno combate hipertermia maligna por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloquear receptor de dopamina"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar liberação de Ca²⁺"
+        },
+        {
+          "id": "C",
+          "text": "Reduzir liberação de Ca²⁺ via RyR1"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Dantroleno combate hipertermia maligna por:",
+      "explanations": {
+        "direct": "Reduzir liberação de Ca²⁺ via RyR1. É diferente de antitérmico convencional e exige manejo emergencial completo.",
+        "intuitive": "Freia a fonte do excesso de contração e calor.",
+        "technical": "É diferente de antitérmico convencional e exige manejo emergencial completo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

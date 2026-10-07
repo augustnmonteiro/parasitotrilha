@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P51",
+    "name": "Farmacologia · 51 · Uso de antimicrobianos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 51
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P51-0865",
+      "number": 865,
+      "topicId": "P51",
+      "text": "CIM é a menor concentração que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibe crescimento visível em condições padronizadas"
+        },
+        {
+          "id": "B",
+          "text": "Mata obrigatoriamente toda população"
+        },
+        {
+          "id": "C",
+          "text": "Garante concentração suficiente no tecido infectado"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "CIM é a menor concentração que:",
+      "explanations": {
+        "direct": "Inibe crescimento visível em condições padronizadas. Não é concentração bactericida mínima nem garantia de exposição no sítio infeccioso.",
+        "intuitive": "É uma medida laboratorial de inibição.",
+        "technical": "Não é concentração bactericida mínima nem garantia de exposição no sítio infeccioso."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P51-0866",
+      "number": 866,
+      "topicId": "P51",
+      "text": "A escolha de antibiótico deve integrar susceptibilidade e:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas amplitude máxima de espectro"
+        },
+        {
+          "id": "B",
+          "text": "Exposição no sítio, paciente e foco"
+        },
+        {
+          "id": "C",
+          "text": "Apenas preço por comprimido"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A escolha de antibiótico deve integrar susceptibilidade e:",
+      "explanations": {
+        "direct": "Exposição no sítio, paciente e foco. Atividade in vitro não assegura eficácia se penetração, dose ou controle do foco forem inadequados.",
+        "intuitive": "A droga precisa chegar onde a infecção está.",
+        "technical": "Atividade in vitro não assegura eficácia se penetração, dose ou controle do foco forem inadequados."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P51-0867",
+      "number": 867,
+      "topicId": "P51",
+      "text": "Bactericida e bacteriostático descrevem:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Garantia de que bactericida sempre é melhor"
+        },
+        {
+          "id": "B",
+          "text": "Propriedades independentes da espécie e da exposição"
+        },
+        {
+          "id": "C",
+          "text": "Efeitos em condições específicas, não superioridade clínica universal"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Bactericida e bacteriostático descrevem:",
+      "explanations": {
+        "direct": "Efeitos em condições específicas, não superioridade clínica universal. Espécie, exposição e sítio modificam o efeito; resultados clínicos dependem de múltiplos fatores.",
+        "intuitive": "Matar e impedir crescimento são descrições contextuais.",
+        "technical": "Espécie, exposição e sítio modificam o efeito; resultados clínicos dependem de múltiplos fatores."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P51-0868",
+      "number": 868,
+      "topicId": "P51",
+      "text": "Ajuste renal de um antimicrobiano busca:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ignorar volume de distribuição"
+        },
+        {
+          "id": "B",
+          "text": "Reduzir sempre a dose a zero"
+        },
+        {
+          "id": "C",
+          "text": "Exposição eficaz sem acúmulo tóxico"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ajuste renal de um antimicrobiano busca:",
+      "explanations": {
+        "direct": "Exposição eficaz sem acúmulo tóxico. Dose de ataque e manutenção podem exigir considerações diferentes.",
+        "intuitive": "Equilibra o que precisa agir com o que o corpo consegue eliminar.",
+        "technical": "Dose de ataque e manutenção podem exigir considerações diferentes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P51-0869",
+      "number": 869,
+      "topicId": "P51",
+      "text": "Descalonamento significa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adicionar classes sem justificativa"
+        },
+        {
+          "id": "B",
+          "text": "Restringir terapia conforme dados microbiológicos e clínicos"
+        },
+        {
+          "id": "C",
+          "text": "Interromper todo tratamento em qualquer cultura positiva"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Descalonamento significa:",
+      "explanations": {
+        "direct": "Restringir terapia conforme dados microbiológicos e clínicos. Não é abandono do tratamento, mas ajuste orientado por evidência.",
+        "intuitive": "Depois de conhecer o alvo, pode-se reduzir cobertura desnecessária.",
+        "technical": "Não é abandono do tratamento, mas ajuste orientado por evidência."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P51-0870",
+      "number": 870,
+      "topicId": "P51",
+      "text": "Drenar um abscesso pode ser necessário porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antibióticos nunca funcionam em tecidos"
+        },
+        {
+          "id": "B",
+          "text": "Toda infecção exige cirurgia"
+        },
+        {
+          "id": "C",
+          "text": "Controle do foco melhora condições para cura"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Drenar um abscesso pode ser necessário porque:",
+      "explanations": {
+        "direct": "Controle do foco melhora condições para cura. Perfusão, carga microbiana e ambiente influenciam resposta; não generalizar cirurgia.",
+        "intuitive": "Remover a coleção pode ser tão importante quanto escolher a droga.",
+        "technical": "Perfusão, carga microbiana e ambiente influenciam resposta; não generalizar cirurgia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P51-0871",
+      "number": 871,
+      "topicId": "P51",
+      "text": "Uso desnecessário de antibiótico favorece resistência por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Selecionar microrganismos menos susceptíveis"
+        },
+        {
+          "id": "B",
+          "text": "Eliminar preferencialmente as subpopulações resistentes"
+        },
+        {
+          "id": "C",
+          "text": "Induzir a mesma mutação protetora em todas as bactérias expostas"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Uso desnecessário de antibiótico favorece resistência por:",
+      "explanations": {
+        "direct": "Selecionar microrganismos menos susceptíveis. Mutação e transferência genética fornecem variabilidade; exposição exerce seleção.",
+        "intuitive": "Os sobreviventes resistentes ganham vantagem.",
+        "technical": "Mutação e transferência genética fornecem variabilidade; exposição exerce seleção."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P51-0872",
+      "number": 872,
+      "topicId": "P51",
+      "text": "Uma amostra de um sítio potencialmente colonizado revela crescimento microbiano, mas não há sinais clínicos de infecção. Qual interpretação deve ser considerada antes de prescrever?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pode representar colonização, conforme sítio e contexto"
+        },
+        {
+          "id": "B",
+          "text": "Infecção obrigatória em todo caso"
+        },
+        {
+          "id": "C",
+          "text": "Necessidade universal de três antibióticos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Uma amostra de um sítio potencialmente colonizado revela crescimento microbiano, mas não há sinais clínicos de infecção. Qual interpretação deve ser considerada antes de prescrever?",
+      "explanations": {
+        "direct": "Pode representar colonização, conforme sítio e contexto. Exceções e populações específicas existem; interpretar clínica e qualidade da amostra.",
+        "intuitive": "Encontrar microrganismo não prova que ele esteja causando doença.",
+        "technical": "Exceções e populações específicas existem; interpretar clínica e qualidade da amostra."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

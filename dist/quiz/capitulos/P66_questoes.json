@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P66",
+    "name": "Farmacologia · 66 · Prescrição racional",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 66
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P66-0985",
+      "number": 985,
+      "topicId": "P66",
+      "text": "Ao escolher um fármaco, é necessário comparar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas potência molecular"
+        },
+        {
+          "id": "B",
+          "text": "Somente popularidade"
+        },
+        {
+          "id": "C",
+          "text": "Eficácia, segurança, adequação e custo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ao escolher um fármaco, é necessário comparar:",
+      "explanations": {
+        "direct": "Eficácia, segurança, adequação e custo. Mais potente não significa necessariamente mais útil ou seguro.",
+        "intuitive": "A melhor escolha precisa funcionar para aquela pessoa.",
+        "technical": "Mais potente não significa necessariamente mais útil ou seguro."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P66-0986",
+      "number": 986,
+      "topicId": "P66",
+      "text": "Reconciliação medicamentosa busca:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Excluir suplementos da entrevista"
+        },
+        {
+          "id": "B",
+          "text": "Copiar apenas a última receita"
+        },
+        {
+          "id": "C",
+          "text": "Identificar o que a pessoa realmente usa e resolver discrepâncias"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Reconciliação medicamentosa busca:",
+      "explanations": {
+        "direct": "Identificar o que a pessoa realmente usa e resolver discrepâncias. Inclui medicamentos sem receita e produtos complementares.",
+        "intuitive": "A lista real pode diferir dos registros.",
+        "technical": "Inclui medicamentos sem receita e produtos complementares."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P66-0987",
+      "number": 987,
+      "topicId": "P66",
+      "text": "Uma prescrição clara deve especificar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fármaco, dose, via, frequência e duração quando aplicável"
+        },
+        {
+          "id": "B",
+          "text": "Fármaco, quantidade total e diagnóstico, sem posologia"
+        },
+        {
+          "id": "C",
+          "text": "Fármaco e dose diária, sem via ou frequência"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uma prescrição clara deve especificar:",
+      "explanations": {
+        "direct": "Fármaco, dose, via, frequência e duração quando aplicável. Concentração e quantidade também podem ser necessárias; ambiguidade aumenta erro.",
+        "intuitive": "Quem recebe precisa saber exatamente como usar.",
+        "technical": "Concentração e quantidade também podem ser necessárias; ambiguidade aumenta erro."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P66-0988",
+      "number": 988,
+      "topicId": "P66",
+      "text": "Decisão compartilhada envolve:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Explicar opções e considerar valores do paciente"
+        },
+        {
+          "id": "B",
+          "text": "Transferir toda responsabilidade sem informação"
+        },
+        {
+          "id": "C",
+          "text": "Impor tratamento sem discutir objetivos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Decisão compartilhada envolve:",
+      "explanations": {
+        "direct": "Explicar opções e considerar valores do paciente. Não elimina responsabilidade técnica nem necessidade de recomendação fundamentada.",
+        "intuitive": "A pessoa participa com compreensão dos benefícios e riscos.",
+        "technical": "Não elimina responsabilidade técnica nem necessidade de recomendação fundamentada."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P66-0989",
+      "number": 989,
+      "topicId": "P66",
+      "text": "Ausência de melhora deve levar primeiro a reavaliar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumentar indefinidamente a dose"
+        },
+        {
+          "id": "B",
+          "text": "Acrescentar três fármacos automaticamente"
+        },
+        {
+          "id": "C",
+          "text": "Diagnóstico, adesão, exposição e adequação do tratamento"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Ausência de melhora deve levar primeiro a reavaliar:",
+      "explanations": {
+        "direct": "Diagnóstico, adesão, exposição e adequação do tratamento. Falha aparente pode ter causas diferentes, com soluções distintas.",
+        "intuitive": "Antes de intensificar, entenda por que não funcionou.",
+        "technical": "Falha aparente pode ter causas diferentes, com soluções distintas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P66-0990",
+      "number": 990,
+      "topicId": "P66",
+      "text": "Prescrição racional começa por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adicionar medicamento a todo sintoma sem avaliação"
+        },
+        {
+          "id": "B",
+          "text": "Definir problema e objetivo terapêutico"
+        },
+        {
+          "id": "C",
+          "text": "Escolher a marca mais nova"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Prescrição racional começa por:",
+      "explanations": {
+        "direct": "Definir problema e objetivo terapêutico. A escolha depende de benefício, risco, contexto e alternativas.",
+        "intuitive": "Primeiro é preciso saber o que se quer melhorar.",
+        "technical": "A escolha depende de benefício, risco, contexto e alternativas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P66-0991",
+      "number": 991,
+      "topicId": "P66",
+      "text": "Unidades e casas decimais exigem cuidado porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Não alteram exposição real"
+        },
+        {
+          "id": "B",
+          "text": "São importantes apenas em pesquisa"
+        },
+        {
+          "id": "C",
+          "text": "Erros de leitura podem multiplicar a dose"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Unidades e casas decimais exigem cuidado porque:",
+      "explanations": {
+        "direct": "Erros de leitura podem multiplicar a dose. Padronização e clareza reduzem erros; não é apenas questão estética.",
+        "intuitive": "Um pequeno sinal escrito pode mudar muito a quantidade.",
+        "technical": "Padronização e clareza reduzem erros; não é apenas questão estética."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P66-0992",
+      "number": 992,
+      "topicId": "P66",
+      "text": "Monitorar tratamento significa avaliar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente se a receita foi impressa"
+        },
+        {
+          "id": "B",
+          "text": "Apenas concentração plasmática de todos os fármacos"
+        },
+        {
+          "id": "C",
+          "text": "Benefício, eventos adversos e adesão"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Monitorar tratamento significa avaliar:",
+      "explanations": {
+        "direct": "Benefício, eventos adversos e adesão. Nem toda droga exige nível sérico; monitoramento deve ser pertinente.",
+        "intuitive": "É preciso verificar se o plano funcionou e a que custo.",
+        "technical": "Nem toda droga exige nível sérico; monitoramento deve ser pertinente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

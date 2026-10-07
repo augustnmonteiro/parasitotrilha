@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P50",
+    "name": "Farmacologia · 50 · Antissépticos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 50
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P50-0857",
+      "number": 857,
+      "topicId": "P50",
+      "text": "Metronidazol é ativado em microrganismos susceptíveis para formar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibidores de parede D-Ala-D-Ala"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueadores de 30S"
+        },
+        {
+          "id": "C",
+          "text": "Intermediários que danificam DNA"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Metronidazol é ativado em microrganismos susceptíveis para formar:",
+      "explanations": {
+        "direct": "Intermediários que danificam DNA. Atua contra certos anaeróbios e protozoários; não tem espectro universal.",
+        "intuitive": "O ambiente microbiano converte a droga em espécies reativas.",
+        "technical": "Atua contra certos anaeróbios e protozoários; não tem espectro universal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P50-0858",
+      "number": 858,
+      "topicId": "P50",
+      "text": "Um antisséptico destinado a pele não é automaticamente seguro em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pele íntegra em toda formulação"
+        },
+        {
+          "id": "B",
+          "text": "Superfície externa conforme indicação"
+        },
+        {
+          "id": "C",
+          "text": "Olhos, ouvido médio ou tecidos profundos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um antisséptico destinado a pele não é automaticamente seguro em:",
+      "explanations": {
+        "direct": "Olhos, ouvido médio ou tecidos profundos. Concentração, veículo e local determinam segurança; não extrapolar uso entre superfícies.",
+        "intuitive": "O tecido exposto muda o risco.",
+        "technical": "Concentração, veículo e local determinam segurança; não extrapolar uso entre superfícies."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P50-0859",
+      "number": 859,
+      "topicId": "P50",
+      "text": "Nitrofurantoína é mais adequada a determinadas infecções urinárias baixas porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Concentra-se na urina e tem exposição tecidual limitada"
+        },
+        {
+          "id": "B",
+          "text": "Atinge sempre níveis ótimos no parênquima renal"
+        },
+        {
+          "id": "C",
+          "text": "É exclusivamente antiviral"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Nitrofurantoína é mais adequada a determinadas infecções urinárias baixas porque:",
+      "explanations": {
+        "direct": "Concentra-se na urina e tem exposição tecidual limitada. Não é escolha farmacocinética equivalente para pielonefrite ou infecção sistêmica.",
+        "intuitive": "O local alcançado importa tanto quanto a bactéria.",
+        "technical": "Não é escolha farmacocinética equivalente para pielonefrite ou infecção sistêmica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P50-0860",
+      "number": 860,
+      "topicId": "P50",
+      "text": "Fosfomicina inibe uma etapa inicial de síntese de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peptidoglicano"
+        },
+        {
+          "id": "B",
+          "text": "Ácido fólico"
+        },
+        {
+          "id": "C",
+          "text": "Ergosterol"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Fosfomicina inibe uma etapa inicial de síntese de:",
+      "explanations": {
+        "direct": "Peptidoglicano. Inibe MurA; não tem o mesmo alvo dos azóis ou sulfonamidas.",
+        "intuitive": "Bloqueia a fabricação de um precursor da parede.",
+        "technical": "Inibe MurA; não tem o mesmo alvo dos azóis ou sulfonamidas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P50-0861",
+      "number": 861,
+      "topicId": "P50",
+      "text": "Clorexidina age principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alterar membranas microbianas"
+        },
+        {
+          "id": "B",
+          "text": "Inibir transcriptase reversa"
+        },
+        {
+          "id": "C",
+          "text": "Bloquear seletivamente ribossomo 50S"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Clorexidina age principalmente por:",
+      "explanations": {
+        "direct": "Alterar membranas microbianas. É antisséptico; concentrações e sítios de uso têm limites de segurança.",
+        "intuitive": "Compromete a integridade celular por contato.",
+        "technical": "É antisséptico; concentrações e sítios de uso têm limites de segurança."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P50-0862",
+      "number": 862,
+      "topicId": "P50",
+      "text": "Álcool como antisséptico atua principalmente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloquear apenas DNA girase"
+        },
+        {
+          "id": "B",
+          "text": "Estimular anticorpos imediatamente"
+        },
+        {
+          "id": "C",
+          "text": "Desnaturar proteínas e alterar membranas"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Álcool como antisséptico atua principalmente por:",
+      "explanations": {
+        "direct": "Desnaturar proteínas e alterar membranas. Não garante esterilização nem eliminação de todos os esporos.",
+        "intuitive": "O contato compromete estruturas essenciais.",
+        "technical": "Não garante esterilização nem eliminação de todos os esporos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P50-0863",
+      "number": 863,
+      "topicId": "P50",
+      "text": "Esterilização difere de desinfecção por visar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente redução de bactérias vegetativas"
+        },
+        {
+          "id": "B",
+          "text": "Apenas remoção de sujeira visível"
+        },
+        {
+          "id": "C",
+          "text": "Eliminação de todas as formas microbianas viáveis, inclusive esporos"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Esterilização difere de desinfecção por visar:",
+      "explanations": {
+        "direct": "Eliminação de todas as formas microbianas viáveis, inclusive esporos. Limpeza remove matéria; desinfecção tem níveis e não equivale automaticamente a esterilidade.",
+        "intuitive": "O padrão de eliminação é mais abrangente.",
+        "technical": "Limpeza remove matéria; desinfecção tem níveis e não equivale automaticamente a esterilidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P50-0864",
+      "number": 864,
+      "topicId": "P50",
+      "text": "Matéria orgânica pode reduzir eficácia de desinfetantes porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transforma todos os agentes em antibióticos"
+        },
+        {
+          "id": "B",
+          "text": "Aumenta sempre atividade química"
+        },
+        {
+          "id": "C",
+          "text": "Protege microrganismos e consome parte do agente"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Matéria orgânica pode reduzir eficácia de desinfetantes porque:",
+      "explanations": {
+        "direct": "Protege microrganismos e consome parte do agente. Limpeza prévia e condições de uso são importantes; não basta escolher um nome de produto.",
+        "intuitive": "A sujeira pode impedir o contato eficaz.",
+        "technical": "Limpeza prévia e condições de uso são importantes; não basta escolher um nome de produto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

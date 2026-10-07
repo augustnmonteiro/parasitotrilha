@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P17",
+    "name": "Farmacologia · 17 · Peptídeos vasoativos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 17
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P17-0593",
+      "number": 593,
+      "topicId": "P17",
+      "text": "Bradicinina costuma causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vasoconstrição universal e secura"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio neuromuscular"
+        },
+        {
+          "id": "C",
+          "text": "Vasodilatação e aumento de permeabilidade"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Bradicinina costuma causar:",
+      "explanations": {
+        "direct": "Vasodilatação e aumento de permeabilidade. NO e prostanoides participam; não é antagonista Nm.",
+        "intuitive": "Ela facilita relaxamento vascular e extravasamento.",
+        "technical": "NO e prostanoides participam; não é antagonista Nm."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P17-0594",
+      "number": 594,
+      "topicId": "P17",
+      "text": "Icatibanto antagoniza receptores de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Angiotensina AT1"
+        },
+        {
+          "id": "B",
+          "text": "Vasopressina V2"
+        },
+        {
+          "id": "C",
+          "text": "Bradicinina B2"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Icatibanto antagoniza receptores de:",
+      "explanations": {
+        "direct": "Bradicinina B2. Não é um bloqueador geral de todas as causas de edema.",
+        "intuitive": "Bloqueia um receptor importante no edema mediado por bradicinina.",
+        "technical": "Não é um bloqueador geral de todas as causas de edema."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P17-0595",
+      "number": 595,
+      "topicId": "P17",
+      "text": "Endotelina-1 é principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonista nicotínica"
+        },
+        {
+          "id": "B",
+          "text": "Anticoagulante enzimática"
+        },
+        {
+          "id": "C",
+          "text": "Potente vasoconstritora"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Endotelina-1 é principalmente:",
+      "explanations": {
+        "direct": "Potente vasoconstritora. Seus efeitos dependem do receptor e tecido; o perfil dominante vascular é constritor.",
+        "intuitive": "É um sinal forte para contrair vasos.",
+        "technical": "Seus efeitos dependem do receptor e tecido; o perfil dominante vascular é constritor."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P17-0596",
+      "number": 596,
+      "topicId": "P17",
+      "text": "Bosentana atua bloqueando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptores de endotelina"
+        },
+        {
+          "id": "B",
+          "text": "Receptores de insulina"
+        },
+        {
+          "id": "C",
+          "text": "Canais de Na⁺ bacterianos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Bosentana atua bloqueando:",
+      "explanations": {
+        "direct": "Receptores de endotelina. Tem riscos como hepatotoxicidade e teratogenicidade; não é antibiótico.",
+        "intuitive": "Retira parte do estímulo constritor pulmonar.",
+        "technical": "Tem riscos como hepatotoxicidade e teratogenicidade; não é antibiótico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P17-0597",
+      "number": 597,
+      "topicId": "P17",
+      "text": "Desmopressina tem predominância de ação:",
+      "options": [
+        {
+          "id": "A",
+          "text": "V2 antidiurética"
+        },
+        {
+          "id": "B",
+          "text": "α1 vasoconstritora"
+        },
+        {
+          "id": "C",
+          "text": "V1 vasoconstritora"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Desmopressina tem predominância de ação:",
+      "explanations": {
+        "direct": "V2 antidiurética. Pode causar hiponatremia; seletividade é relativa e não elimina outros usos hemostáticos.",
+        "intuitive": "Favorece retenção de água com menor efeito vascular relativo.",
+        "technical": "Pode causar hiponatremia; seletividade é relativa e não elimina outros usos hemostáticos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P17-0598",
+      "number": 598,
+      "topicId": "P17",
+      "text": "Angiotensina II exerce grande parte de seus efeitos vasculares por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "H1"
+        },
+        {
+          "id": "B",
+          "text": "AT1"
+        },
+        {
+          "id": "C",
+          "text": "D2"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Angiotensina II exerce grande parte de seus efeitos vasculares por:",
+      "explanations": {
+        "direct": "AT1. AT1 também favorece aldosterona; não é receptor histamínico ou dopaminérgico.",
+        "intuitive": "Um receptor transmite o comando de contrair e reter sal.",
+        "technical": "AT1 também favorece aldosterona; não é receptor histamínico ou dopaminérgico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P17-0599",
+      "number": 599,
+      "topicId": "P17",
+      "text": "Vasopressina causa vasoconstrição principalmente via:",
+      "options": [
+        {
+          "id": "A",
+          "text": "β2"
+        },
+        {
+          "id": "B",
+          "text": "V1"
+        },
+        {
+          "id": "C",
+          "text": "V2"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Vasopressina causa vasoconstrição principalmente via:",
+      "explanations": {
+        "direct": "V1. V1 usa sobretudo Gq; V2 usa Gs no rim.",
+        "intuitive": "Um subtipo controla vasos, outro água renal.",
+        "technical": "V1 usa sobretudo Gq; V2 usa Gs no rim."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P17-0600",
+      "number": 600,
+      "topicId": "P17",
+      "text": "Angioedema associado a IECA envolve frequentemente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deficiência de dopamina"
+        },
+        {
+          "id": "B",
+          "text": "Acúmulo de bradicinina"
+        },
+        {
+          "id": "C",
+          "text": "Excesso de vitamina K"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Angioedema associado a IECA envolve frequentemente:",
+      "explanations": {
+        "direct": "Acúmulo de bradicinina. O mecanismo não é obrigatoriamente alergia IgE e pode ocorrer sem urticária.",
+        "intuitive": "Um mediador vasoativo é degradado menos.",
+        "technical": "O mecanismo não é obrigatoriamente alergia IgE e pode ocorrer sem urticária."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P57",
+    "name": "Farmacologia · 57 · Metais e quelantes",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 57
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P57-0913",
+      "number": 913,
+      "topicId": "P57",
+      "text": "A quelação busca:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloquear apenas receptores de dor"
+        },
+        {
+          "id": "B",
+          "text": "Formar complexo que facilite remoção do metal"
+        },
+        {
+          "id": "C",
+          "text": "Transformar todo metal em nutriente seguro no local"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A quelação busca:",
+      "explanations": {
+        "direct": "Formar complexo que facilite remoção do metal. Escolha depende do metal e contexto; quelantes também podem causar toxicidade.",
+        "intuitive": "Um ligante prende o metal para ajudar sua eliminação.",
+        "technical": "Escolha depende do metal e contexto; quelantes também podem causar toxicidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P57-0914",
+      "number": 914,
+      "topicId": "P57",
+      "text": "Dimercaprol possui grupos que ligam determinados metais, mas:",
+      "options": [
+        {
+          "id": "A",
+          "text": "É suplemento mineral de rotina"
+        },
+        {
+          "id": "B",
+          "text": "Não é apropriado para todos os metais"
+        },
+        {
+          "id": "C",
+          "text": "Serve igualmente para qualquer intoxicação"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Dimercaprol possui grupos que ligam determinados metais, mas:",
+      "explanations": {
+        "direct": "Não é apropriado para todos os metais. Indicação e via exigem avaliação especializada; universalizar quelação é incorreto.",
+        "intuitive": "A química do metal muda qual ligante é útil.",
+        "technical": "Indicação e via exigem avaliação especializada; universalizar quelação é incorreto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P57-0915",
+      "number": 915,
+      "topicId": "P57",
+      "text": "Penicilamina pode aumentar excreção de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lítio"
+        },
+        {
+          "id": "B",
+          "text": "Cobre"
+        },
+        {
+          "id": "C",
+          "text": "Potássio"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Penicilamina pode aumentar excreção de:",
+      "explanations": {
+        "direct": "Cobre. Tem toxicidades próprias; não é um diurético tubular clássico.",
+        "intuitive": "Ajuda a remover cobre em indicações específicas.",
+        "technical": "Tem toxicidades próprias; não é um diurético tubular clássico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P57-0916",
+      "number": 916,
+      "topicId": "P57",
+      "text": "Mercúrio apresenta toxicidade variável porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente a massa do frasco importa"
+        },
+        {
+          "id": "B",
+          "text": "Formas químicas têm distribuição e absorção diferentes"
+        },
+        {
+          "id": "C",
+          "text": "Todo composto de mercúrio se comporta identicamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Mercúrio apresenta toxicidade variável porque:",
+      "explanations": {
+        "direct": "Formas químicas têm distribuição e absorção diferentes. Mercúrio elementar, inorgânico e orgânico não são farmacocineticamente equivalentes.",
+        "intuitive": "A forma da substância muda por onde ela passa e onde se acumula.",
+        "technical": "Mercúrio elementar, inorgânico e orgânico não são farmacocineticamente equivalentes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P57-0917",
+      "number": 917,
+      "topicId": "P57",
+      "text": "Remover a fonte de exposição durante quelação é importante porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Evita reposição contínua da carga tóxica"
+        },
+        {
+          "id": "B",
+          "text": "A exposição deixa de influenciar o organismo"
+        },
+        {
+          "id": "C",
+          "text": "O quelante torna nova exposição inofensiva"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Remover a fonte de exposição durante quelação é importante porque:",
+      "explanations": {
+        "direct": "Evita reposição contínua da carga tóxica. Controle ambiental e acompanhamento são parte do manejo, não apenas o antídoto.",
+        "intuitive": "Não adianta esvaziar enquanto a entrada continua.",
+        "technical": "Controle ambiental e acompanhamento são parte do manejo, não apenas o antídoto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P57-0918",
+      "number": 918,
+      "topicId": "P57",
+      "text": "Chumbo pode causar anemia ao interferir na síntese de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heme"
+        },
+        {
+          "id": "B",
+          "text": "Albumina"
+        },
+        {
+          "id": "C",
+          "text": "Insulina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Chumbo pode causar anemia ao interferir na síntese de:",
+      "explanations": {
+        "direct": "Heme. Inibe enzimas como ALA-desidratase e ferroquelatase; também tem toxicidade neurológica.",
+        "intuitive": "Prejudica a fabricação do grupo que carrega oxigênio.",
+        "technical": "Inibe enzimas como ALA-desidratase e ferroquelatase; também tem toxicidade neurológica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P57-0919",
+      "number": 919,
+      "topicId": "P57",
+      "text": "Deferoxamina é associada principalmente à quelação de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sódio"
+        },
+        {
+          "id": "B",
+          "text": "Ferro"
+        },
+        {
+          "id": "C",
+          "text": "Lítio"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Deferoxamina é associada principalmente à quelação de:",
+      "explanations": {
+        "direct": "Ferro. Não é método universal de remoção de todos os íons.",
+        "intuitive": "Liga ferro em excesso em indicações específicas.",
+        "technical": "Não é método universal de remoção de todos os íons."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P57-0920",
+      "number": 920,
+      "topicId": "P57",
+      "text": "Succímer é usado em certos casos de intoxicação por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Monóxido de carbono"
+        },
+        {
+          "id": "B",
+          "text": "Paracetamol"
+        },
+        {
+          "id": "C",
+          "text": "Chumbo"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Succímer é usado em certos casos de intoxicação por:",
+      "explanations": {
+        "direct": "Chumbo. Não substitui oxigenação na intoxicação por CO nem N-acetilcisteína para paracetamol.",
+        "intuitive": "É um quelante para metais específicos.",
+        "technical": "Não substitui oxigenação na intoxicação por CO nem N-acetilcisteína para paracetamol."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P67",
+    "name": "Farmacologia · 67 · Interações farmacológicas",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 67
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P67-0993",
+      "number": 993,
+      "topicId": "P67",
+      "text": "Interação farmacocinética altera:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente preferência do paciente"
+        },
+        {
+          "id": "B",
+          "text": "Absorção, distribuição, metabolismo ou eliminação"
+        },
+        {
+          "id": "C",
+          "text": "Apenas resposta no mesmo receptor"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Interação farmacocinética altera:",
+      "explanations": {
+        "direct": "Absorção, distribuição, metabolismo ou eliminação. Interação farmacodinâmica muda efeito sem necessariamente alterar concentração.",
+        "intuitive": "Muda quanto medicamento chega e permanece.",
+        "technical": "Interação farmacodinâmica muda efeito sem necessariamente alterar concentração."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P67-0994",
+      "number": 994,
+      "topicId": "P67",
+      "text": "Interação farmacodinâmica pode ocorrer com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Modificação exclusiva da fração absorvida"
+        },
+        {
+          "id": "B",
+          "text": "Concentrações inalteradas, mas efeitos somados"
+        },
+        {
+          "id": "C",
+          "text": "Mudança obrigatória de meia-vida"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Interação farmacodinâmica pode ocorrer com:",
+      "explanations": {
+        "direct": "Concentrações inalteradas, mas efeitos somados. Sedativos associados são exemplo de risco aditivo funcional.",
+        "intuitive": "Duas ações podem convergir mesmo sem mudar os níveis.",
+        "technical": "Sedativos associados são exemplo de risco aditivo funcional."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P67-0995",
+      "number": 995,
+      "topicId": "P67",
+      "text": "Uma lista eletrônica de interações deve ser interpretada considerando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gravidade, evidência, dose, paciente e alternativas"
+        },
+        {
+          "id": "B",
+          "text": "Apenas quantidade de alertas"
+        },
+        {
+          "id": "C",
+          "text": "Obrigatoriedade de suspender todos os medicamentos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uma lista eletrônica de interações deve ser interpretada considerando:",
+      "explanations": {
+        "direct": "Gravidade, evidência, dose, paciente e alternativas. Nem toda interação exige a mesma ação; priorizar riscos concretos evita alarmes indiscriminados.",
+        "intuitive": "O alerta inicia a análise, não a substitui.",
+        "technical": "Nem toda interação exige a mesma ação; priorizar riscos concretos evita alarmes indiscriminados."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P67-0996",
+      "number": 996,
+      "topicId": "P67",
+      "text": "Rifampicina pode reduzir efeito de contraceptivo hormonal por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indução de vias de eliminação"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio direto de receptor de progesterona"
+        },
+        {
+          "id": "C",
+          "text": "Inibição de todo metabolismo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Rifampicina pode reduzir efeito de contraceptivo hormonal por:",
+      "explanations": {
+        "direct": "Indução de vias de eliminação. A conduta depende do método e contexto; não é simples antagonismo receptor.",
+        "intuitive": "O hormônio pode ser removido mais rapidamente.",
+        "technical": "A conduta depende do método e contexto; não é simples antagonismo receptor."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P67-0997",
+      "number": 997,
+      "topicId": "P67",
+      "text": "Claritromicina pode elevar exposição a certos substratos de CYP3A por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloquear absorção de água"
+        },
+        {
+          "id": "B",
+          "text": "Inibir metabolismo"
+        },
+        {
+          "id": "C",
+          "text": "Induzir metabolismo de modo dominante"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Claritromicina pode elevar exposição a certos substratos de CYP3A por:",
+      "explanations": {
+        "direct": "Inibir metabolismo. O risco é específico do substrato; alguns esquemas combinados são inadequados.",
+        "intuitive": "A remoção do parceiro fica mais lenta.",
+        "technical": "O risco é específico do substrato; alguns esquemas combinados são inadequados."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P67-0998",
+      "number": 998,
+      "topicId": "P67",
+      "text": "Varfarina com AINE aumenta sangramento por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neutralização da anticoagulação"
+        },
+        {
+          "id": "B",
+          "text": "Aumento obrigatório de plaquetas"
+        },
+        {
+          "id": "C",
+          "text": "Somação de efeitos na hemostasia e lesão gastrointestinal"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Varfarina com AINE aumenta sangramento por:",
+      "explanations": {
+        "direct": "Somação de efeitos na hemostasia e lesão gastrointestinal. O risco pode aumentar mesmo sem grande alteração do INR.",
+        "intuitive": "A coagulação fica reduzida e outras defesas também podem ser comprometidas.",
+        "technical": "O risco pode aumentar mesmo sem grande alteração do INR."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P67-0999",
+      "number": 999,
+      "topicId": "P67",
+      "text": "Um paciente em IECA e diurético torna-se desidratado e usa AINE. A creatinina aumenta. Qual combinação de mecanismos explica a redução da filtração?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio exclusivo de secreção de glicose"
+        },
+        {
+          "id": "B",
+          "text": "Aumento garantido de perfusão glomerular"
+        },
+        {
+          "id": "C",
+          "text": "Alterações de volume e hemodinâmica aferente/eferente"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente em IECA e diurético torna-se desidratado e usa AINE. A creatinina aumenta. Qual combinação de mecanismos explica a redução da filtração?",
+      "explanations": {
+        "direct": "Alterações de volume e hemodinâmica aferente/eferente. Depleção de volume, perda de prostaglandinas e dilatação eferente podem reduzir TFG.",
+        "intuitive": "O filtro perde vários apoios ao mesmo tempo.",
+        "technical": "Depleção de volume, perda de prostaglandinas e dilatação eferente podem reduzir TFG."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P67-1000",
+      "number": 1000,
+      "topicId": "P67",
+      "text": "Alopurinol com azatioprina pode causar toxicidade por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduzir metabolismo de metabólitos de tiopurina"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar eliminação de tiopurina"
+        },
+        {
+          "id": "C",
+          "text": "Bloquear receptor H2"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Alopurinol com azatioprina pode causar toxicidade por:",
+      "explanations": {
+        "direct": "Reduzir metabolismo de metabólitos de tiopurina. A associação exige ajuste especializado; não é interação sem relevância clínica.",
+        "intuitive": "A droga imunossupressora pode alcançar exposição tóxica.",
+        "technical": "A associação exige ajuste especializado; não é interação sem relevância clínica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

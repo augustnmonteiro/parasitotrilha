@@ -1,0 +1,1549 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "F07",
+    "name": "Fisiologia · 07 · Equilíbrio acidobásico",
+    "book": "Costanzo Physiology, 8ª edição",
+    "chapter": 7
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "F07-0241",
+      "number": 241,
+      "topicId": "F07",
+      "text": "O pH expressa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Concentração direta de bicarbonato"
+        },
+        {
+          "id": "B",
+          "text": "Logaritmo negativo da atividade de H⁺"
+        },
+        {
+          "id": "C",
+          "text": "Pressão parcial de CO₂"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O pH expressa:",
+      "explanations": {
+        "direct": "Logaritmo negativo da atividade de H⁺. É escala logarítmica; bicarbonato e CO₂ influenciam H⁺, mas não são a definição.",
+        "intuitive": "Quanto mais H⁺, menor o pH.",
+        "technical": "É escala logarítmica; bicarbonato e CO₂ influenciam H⁺, mas não são a definição."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0242",
+      "number": 242,
+      "topicId": "F07",
+      "text": "O principal órgão que regula rapidamente CO₂ é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pulmão"
+        },
+        {
+          "id": "B",
+          "text": "Fígado"
+        },
+        {
+          "id": "C",
+          "text": "Rim"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O principal órgão que regula rapidamente CO₂ é:",
+      "explanations": {
+        "direct": "Pulmão. O rim regula bicarbonato e ácidos não voláteis; baço e tireoide não controlam ventilação diretamente.",
+        "intuitive": "Ventilar remove o componente volátil do ácido.",
+        "technical": "O rim regula bicarbonato e ácidos não voláteis; baço e tireoide não controlam ventilação diretamente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0243",
+      "number": 243,
+      "topicId": "F07",
+      "text": "Alcalose é definida como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "PaCO₂ sempre baixa"
+        },
+        {
+          "id": "B",
+          "text": "Processo que tende a elevar o pH"
+        },
+        {
+          "id": "C",
+          "text": "pH obrigatoriamente acima de 7,45"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Alcalose é definida como:",
+      "explanations": {
+        "direct": "Processo que tende a elevar o pH. Pode coexistir com acidose; alcalemia descreve o pH final elevado.",
+        "intuitive": "É uma força empurrando o pH para cima.",
+        "technical": "Pode coexistir com acidose; alcalemia descreve o pH final elevado."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0244",
+      "number": 244,
+      "topicId": "F07",
+      "text": "Na acidose metabólica, a compensação respiratória é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apneia sustentada"
+        },
+        {
+          "id": "B",
+          "text": "Hiperventilação"
+        },
+        {
+          "id": "C",
+          "text": "Hipoventilação"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Na acidose metabólica, a compensação respiratória é:",
+      "explanations": {
+        "direct": "Hiperventilação. Compensação não elimina a causa nem normalmente ultrapassa o pH para o lado oposto.",
+        "intuitive": "Eliminar CO₂ ajuda a reduzir a acidez.",
+        "technical": "Compensação não elimina a causa nem normalmente ultrapassa o pH para o lado oposto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0245",
+      "number": 245,
+      "topicId": "F07",
+      "text": "A hipoalbuminemia pode:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduzir ânion gap e mascarar sua elevação"
+        },
+        {
+          "id": "B",
+          "text": "Elevar obrigatoriamente ânion gap"
+        },
+        {
+          "id": "C",
+          "text": "Impedir qualquer acidose"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A hipoalbuminemia pode:",
+      "explanations": {
+        "direct": "Reduzir ânion gap e mascarar sua elevação. Interpretar gap exige considerar albumina; um valor aparentemente normal pode esconder aumento de outros ácidos.",
+        "intuitive": "Há menos ânions de albumina não medidos.",
+        "technical": "Interpretar gap exige considerar albumina; um valor aparentemente normal pode esconder aumento de outros ácidos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0246",
+      "number": 246,
+      "topicId": "F07",
+      "text": "Cetoacidose eleva o ânion gap pelo acúmulo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bicarbonato em excesso"
+        },
+        {
+          "id": "B",
+          "text": "Ânions de cetoácidos"
+        },
+        {
+          "id": "C",
+          "text": "Cloreto isoladamente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Cetoacidose eleva o ânion gap pelo acúmulo de:",
+      "explanations": {
+        "direct": "Ânions de cetoácidos. Bicarbonato é consumido; não se trata apenas de troca por cloreto.",
+        "intuitive": "Novos ácidos deixam seus ânions no sangue.",
+        "technical": "Bicarbonato é consumido; não se trata apenas de troca por cloreto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0247",
+      "number": 247,
+      "topicId": "F07",
+      "text": "Na fórmula de Winter, PaCO₂ esperada é aproximadamente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "HCO₃⁻ + 40 sem margem"
+        },
+        {
+          "id": "B",
+          "text": "1,5 × HCO₃⁻ + 8, com margem de 2"
+        },
+        {
+          "id": "C",
+          "text": "2 × Na⁺ − Cl⁻"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Raciocínio quantitativo",
+      "learningObjective": "Na fórmula de Winter, PaCO₂ esperada é aproximadamente:",
+      "explanations": {
+        "direct": "1,5 × HCO₃⁻ + 8, com margem de 2. Aplica-se à acidose metabólica; não é fórmula universal para qualquer distúrbio.",
+        "intuitive": "A fórmula estima quanto o pulmão deve compensar.",
+        "technical": "Aplica-se à acidose metabólica; não é fórmula universal para qualquer distúrbio."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0248",
+      "number": 248,
+      "topicId": "F07",
+      "text": "Em acidose metabólica com PaCO₂ abaixo da prevista, suspeita-se de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acidose respiratória associada"
+        },
+        {
+          "id": "B",
+          "text": "Alcalose metabólica necessariamente isolada"
+        },
+        {
+          "id": "C",
+          "text": "Alcalose respiratória associada"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Em acidose metabólica com PaCO₂ abaixo da prevista, suspeita-se de:",
+      "explanations": {
+        "direct": "Alcalose respiratória associada. Isso indica distúrbio respiratório alcalinizante adicional.",
+        "intuitive": "O pulmão elimina mais CO₂ que a compensação prevista.",
+        "technical": "Isso indica distúrbio respiratório alcalinizante adicional."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0249",
+      "number": 249,
+      "topicId": "F07",
+      "text": "Um pH normal exclui distúrbio acidobásico?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sim, se houver sintomas leves"
+        },
+        {
+          "id": "B",
+          "text": "Não, processos opostos podem se equilibrar"
+        },
+        {
+          "id": "C",
+          "text": "Sim, todos os componentes estarão normais"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Um pH normal exclui distúrbio acidobásico?",
+      "explanations": {
+        "direct": "Não, processos opostos podem se equilibrar. É necessário avaliar PaCO₂, bicarbonato, compensações e contexto.",
+        "intuitive": "Duas alterações podem esconder uma à outra.",
+        "technical": "É necessário avaliar PaCO₂, bicarbonato, compensações e contexto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0250",
+      "number": 250,
+      "topicId": "F07",
+      "text": "A excreção de NH₄⁺ permite ao rim:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eliminar apenas água sem solutos"
+        },
+        {
+          "id": "B",
+          "text": "Eliminar ácido e gerar bicarbonato novo"
+        },
+        {
+          "id": "C",
+          "text": "Impedir qualquer excreção de H⁺"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A excreção de NH₄⁺ permite ao rim:",
+      "explanations": {
+        "direct": "Eliminar ácido e gerar bicarbonato novo. Amoniogênese a partir de glutamina aumenta em acidose; não é só conservação do bicarbonato filtrado.",
+        "intuitive": "A amônia ajuda a carregar ácido para fora.",
+        "technical": "Amoniogênese a partir de glutamina aumenta em acidose; não é só conservação do bicarbonato filtrado."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0251",
+      "number": 251,
+      "topicId": "F07",
+      "text": "O principal tampão urinário titulável é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fosfato"
+        },
+        {
+          "id": "B",
+          "text": "Surfactante"
+        },
+        {
+          "id": "C",
+          "text": "Hemoglobina"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O principal tampão urinário titulável é:",
+      "explanations": {
+        "direct": "Fosfato. Hemoglobina não é tampão urinário normal; surfactante é pulmonar.",
+        "intuitive": "O fosfato recebe H⁺ dentro do túbulo.",
+        "technical": "Hemoglobina não é tampão urinário normal; surfactante é pulmonar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0252",
+      "number": 252,
+      "topicId": "F07",
+      "text": "Na acidose tubular renal distal clássica, há dificuldade de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acidificar adequadamente a urina"
+        },
+        {
+          "id": "B",
+          "text": "Secretar insulina"
+        },
+        {
+          "id": "C",
+          "text": "Filtrar toda a água"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Na acidose tubular renal distal clássica, há dificuldade de:",
+      "explanations": {
+        "direct": "Acidificar adequadamente a urina. Pode haver pH urinário inadequadamente alto apesar de acidose sistêmica e hipocalemia.",
+        "intuitive": "A região distal não elimina H⁺ como deveria.",
+        "technical": "Pode haver pH urinário inadequadamente alto apesar de acidose sistêmica e hipocalemia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0253",
+      "number": 253,
+      "topicId": "F07",
+      "text": "A perda proximal de bicarbonato pode produzir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alcalose respiratória primária"
+        },
+        {
+          "id": "B",
+          "text": "Acidose metabólica com gap normal"
+        },
+        {
+          "id": "C",
+          "text": "Alcalose metabólica persistente"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A perda proximal de bicarbonato pode produzir:",
+      "explanations": {
+        "direct": "Acidose metabólica com gap normal. Na acidose tubular proximal, o néfron distal pode ainda acidificar a urina após cair o bicarbonato plasmático.",
+        "intuitive": "Perder base aumenta a acidez.",
+        "technical": "Na acidose tubular proximal, o néfron distal pode ainda acidificar a urina após cair o bicarbonato plasmático."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0254",
+      "number": 254,
+      "topicId": "F07",
+      "text": "Na acidose mineral, uma tendência possível é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de qualquer alteração de K⁺"
+        },
+        {
+          "id": "B",
+          "text": "Entrada obrigatória de todo K⁺ nas células"
+        },
+        {
+          "id": "C",
+          "text": "Deslocamento de K⁺ para fora das células"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Na acidose mineral, uma tendência possível é:",
+      "explanations": {
+        "direct": "Deslocamento de K⁺ para fora das células. O efeito varia com o tipo de acidose; não deve ser extrapolado igualmente a todos os ácidos orgânicos.",
+        "intuitive": "O equilíbrio entre compartimentos pode elevar o potássio sanguíneo.",
+        "technical": "O efeito varia com o tipo de acidose; não deve ser extrapolado igualmente a todos os ácidos orgânicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0255",
+      "number": 255,
+      "topicId": "F07",
+      "text": "Uma PaCO₂ elevada indica necessariamente acidemia?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sim, independentemente do bicarbonato"
+        },
+        {
+          "id": "B",
+          "text": "Sim, se a pessoa estiver acordada"
+        },
+        {
+          "id": "C",
+          "text": "Não, bicarbonato elevado pode compensar ou coexistir"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Uma PaCO₂ elevada indica necessariamente acidemia?",
+      "explanations": {
+        "direct": "Não, bicarbonato elevado pode compensar ou coexistir. CO₂ alto pode ocorrer como compensação de alcalose metabólica ou em distúrbios mistos.",
+        "intuitive": "O pH depende da relação entre base e CO₂.",
+        "technical": "CO₂ alto pode ocorrer como compensação de alcalose metabólica ou em distúrbios mistos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0256",
+      "number": 256,
+      "topicId": "F07",
+      "text": "Compensação fisiológica simples costuma:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aproximar pH do normal sem inverter o distúrbio"
+        },
+        {
+          "id": "B",
+          "text": "Ultrapassar sempre para o extremo oposto"
+        },
+        {
+          "id": "C",
+          "text": "Corrigir obrigatoriamente a doença causal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Compensação fisiológica simples costuma:",
+      "explanations": {
+        "direct": "Aproximar pH do normal sem inverter o distúrbio. Um desvio oposto excessivo sugere distúrbio associado, não compensação habitual.",
+        "intuitive": "Ela reduz o impacto, mas não elimina a origem.",
+        "technical": "Um desvio oposto excessivo sugere distúrbio associado, não compensação habitual."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0257",
+      "number": 257,
+      "topicId": "F07",
+      "text": "A excreção ácida líquida renal é aproximadamente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "NH₄⁺ + ácido titulável − bicarbonato urinário"
+        },
+        {
+          "id": "B",
+          "text": "Sódio urinário − potássio"
+        },
+        {
+          "id": "C",
+          "text": "Bicarbonato urinário + glicose"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "A excreção ácida líquida renal é aproximadamente:",
+      "explanations": {
+        "direct": "NH₄⁺ + ácido titulável − bicarbonato urinário. A fórmula diferencia eliminação líquida de ácido de simples concentração urinária de H⁺.",
+        "intuitive": "Some o ácido eliminado e desconte a base perdida.",
+        "technical": "A fórmula diferencia eliminação líquida de ácido de simples concentração urinária de H⁺."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0258",
+      "number": 258,
+      "topicId": "F07",
+      "text": "Em hiperventilação aguda por ansiedade, a alteração primária provável é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Queda primária de bicarbonato por diarreia"
+        },
+        {
+          "id": "B",
+          "text": "Aumento de PaCO₂"
+        },
+        {
+          "id": "C",
+          "text": "Queda de PaCO₂"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Em hiperventilação aguda por ansiedade, a alteração primária provável é:",
+      "explanations": {
+        "direct": "Queda de PaCO₂. O quadro pode produzir alcalose respiratória; causas orgânicas de hiperventilação também precisam ser consideradas.",
+        "intuitive": "Respirar além da produção de CO₂ o remove em excesso.",
+        "technical": "O quadro pode produzir alcalose respiratória; causas orgânicas de hiperventilação também precisam ser consideradas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0259",
+      "number": 259,
+      "topicId": "F07",
+      "text": "No sistema bicarbonato, o pH depende principalmente da razão:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Na⁺/K⁺"
+        },
+        {
+          "id": "B",
+          "text": "HCO₃⁻/CO₂ dissolvido"
+        },
+        {
+          "id": "C",
+          "text": "Hemoglobina/albumina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "No sistema bicarbonato, o pH depende principalmente da razão:",
+      "explanations": {
+        "direct": "HCO₃⁻/CO₂ dissolvido. Henderson-Hasselbalch usa HCO₃⁻/(0,03 × PaCO₂), não eletrólitos isolados.",
+        "intuitive": "Importa o equilíbrio entre a base e o componente ácido.",
+        "technical": "Henderson-Hasselbalch usa HCO₃⁻/(0,03 × PaCO₂), não eletrólitos isolados."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0260",
+      "number": 260,
+      "topicId": "F07",
+      "text": "Um tampão atua imediatamente por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aceitar ou doar H⁺"
+        },
+        {
+          "id": "B",
+          "text": "Produzir nova hemoglobina"
+        },
+        {
+          "id": "C",
+          "text": "Eliminar todo ácido do organismo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Um tampão atua imediatamente por:",
+      "explanations": {
+        "direct": "Aceitar ou doar H⁺. Tamponamento redistribui H⁺; excreção líquida requer pulmões ou rins.",
+        "intuitive": "Ele amortece a mudança enquanto outros sistemas corrigem a carga.",
+        "technical": "Tamponamento redistribui H⁺; excreção líquida requer pulmões ou rins."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0261",
+      "number": 261,
+      "topicId": "F07",
+      "text": "A eliminação de ácido não volátil depende sobretudo do:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pulmão, por difusão alveolar"
+        },
+        {
+          "id": "B",
+          "text": "Fígado, por secreção biliar"
+        },
+        {
+          "id": "C",
+          "text": "Rim, por excreção ácida"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A eliminação de ácido não volátil depende sobretudo do:",
+      "explanations": {
+        "direct": "Rim, por excreção ácida. Pulmões eliminam CO₂; não excretam diretamente a carga fixa de ácido.",
+        "intuitive": "Ácidos que não viram gás precisam sair principalmente na urina.",
+        "technical": "Pulmões eliminam CO₂; não excretam diretamente a carga fixa de ácido."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0262",
+      "number": 262,
+      "topicId": "F07",
+      "text": "Acidemia significa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "pH sanguíneo abaixo da faixa normal"
+        },
+        {
+          "id": "B",
+          "text": "Bicarbonato sempre baixo"
+        },
+        {
+          "id": "C",
+          "text": "Qualquer processo acidificante mesmo com pH normal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Acidemia significa:",
+      "explanations": {
+        "direct": "pH sanguíneo abaixo da faixa normal. Acidose é um processo; distúrbios mistos podem gerar pH normal ou alcalêmico.",
+        "intuitive": "É o resultado medido no sangue.",
+        "technical": "Acidose é um processo; distúrbios mistos podem gerar pH normal ou alcalêmico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0263",
+      "number": 263,
+      "topicId": "F07",
+      "text": "Na alcalose metabólica, a compensação respiratória tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zerar bicarbonato imediatamente"
+        },
+        {
+          "id": "B",
+          "text": "Eliminar CO₂ em excesso"
+        },
+        {
+          "id": "C",
+          "text": "Reter CO₂"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Na alcalose metabólica, a compensação respiratória tende a:",
+      "explanations": {
+        "direct": "Reter CO₂. A hipoventilação é limitada pela necessidade de oxigenação.",
+        "intuitive": "Respirar menos ajuda a reter o componente ácido.",
+        "technical": "A hipoventilação é limitada pela necessidade de oxigenação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0264",
+      "number": 264,
+      "topicId": "F07",
+      "text": "O ânion gap sem potássio é calculado por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Na⁺ + Cl⁻ + HCO₃⁻"
+        },
+        {
+          "id": "B",
+          "text": "HCO₃⁻ − Na⁺"
+        },
+        {
+          "id": "C",
+          "text": "Na⁺ − (Cl⁻ + HCO₃⁻)"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Raciocínio quantitativo",
+      "learningObjective": "O ânion gap sem potássio é calculado por:",
+      "explanations": {
+        "direct": "Na⁺ − (Cl⁻ + HCO₃⁻). Representa ânions não medidos indiretamente; não é ausência de eletroneutralidade.",
+        "intuitive": "Compara o cátion principal com dois ânions medidos.",
+        "technical": "Representa ânions não medidos indiretamente; não é ausência de eletroneutralidade."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0265",
+      "number": 265,
+      "topicId": "F07",
+      "text": "Recuperar bicarbonato filtrado é diferente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transportar sódio junto em parte do processo"
+        },
+        {
+          "id": "B",
+          "text": "Adicionar bicarbonato novo ao organismo"
+        },
+        {
+          "id": "C",
+          "text": "Evitar perda de base"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Recuperar bicarbonato filtrado é diferente de:",
+      "explanations": {
+        "direct": "Adicionar bicarbonato novo ao organismo. Novo bicarbonato se associa à excreção líquida de ácido como NH₄⁺ e ácido titulável.",
+        "intuitive": "Devolver o que já existia não é fabricar uma reserva adicional.",
+        "technical": "Novo bicarbonato se associa à excreção líquida de ácido como NH₄⁺ e ácido titulável."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0266",
+      "number": 266,
+      "topicId": "F07",
+      "text": "A alcalemia pode reduzir cálcio ionizado porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduz a ligação do cálcio à albumina"
+        },
+        {
+          "id": "B",
+          "text": "Aumenta sua ligação à albumina"
+        },
+        {
+          "id": "C",
+          "text": "Reduz a concentração de albumina"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "A alcalemia pode reduzir cálcio ionizado porque:",
+      "explanations": {
+        "direct": "Aumenta sua ligação à albumina. O cálcio total pode permanecer normal; a fração livre reduzida pode favorecer parestesias e tetania.",
+        "intuitive": "Mais cálcio fica preso à proteína.",
+        "technical": "O cálcio total pode permanecer normal; a fração livre reduzida pode favorecer parestesias e tetania."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0267",
+      "number": 267,
+      "topicId": "F07",
+      "text": "Cair de pH 7 para 6 significa H⁺ aproximadamente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Duas vezes maior"
+        },
+        {
+          "id": "B",
+          "text": "Dez vezes menor"
+        },
+        {
+          "id": "C",
+          "text": "Dez vezes maior"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Cair de pH 7 para 6 significa H⁺ aproximadamente:",
+      "explanations": {
+        "direct": "Dez vezes maior. A escala não é linear; queda de pH significa aumento de acidez.",
+        "intuitive": "Uma unidade representa uma diferença de dez vezes.",
+        "technical": "A escala não é linear; queda de pH significa aumento de acidez."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0268",
+      "number": 268,
+      "topicId": "F07",
+      "text": "Um paciente apresenta pH arterial 7,25, HCO₃⁻ 12 mEq/L e PaCO₂ 28 mmHg. Considerando a direção das alterações, qual processo primário está presente?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acidose metabólica"
+        },
+        {
+          "id": "B",
+          "text": "Acidose respiratória isolada"
+        },
+        {
+          "id": "C",
+          "text": "Alcalose metabólica"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente apresenta pH arterial 7,25, HCO₃⁻ 12 mEq/L e PaCO₂ 28 mmHg. Considerando a direção das alterações, qual processo primário está presente?",
+      "explanations": {
+        "direct": "Acidose metabólica. A PaCO₂ baixa é compensatória; acidose respiratória primária elevaria CO₂.",
+        "intuitive": "O bicarbonato baixo acompanha a acidez.",
+        "technical": "A PaCO₂ baixa é compensatória; acidose respiratória primária elevaria CO₂."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0269",
+      "number": 269,
+      "topicId": "F07",
+      "text": "pH 7,50, HCO₃⁻ 34 e PaCO₂ 46 sugerem processo primário:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alcalose metabólica"
+        },
+        {
+          "id": "B",
+          "text": "Acidose metabólica"
+        },
+        {
+          "id": "C",
+          "text": "Acidose respiratória isolada"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "pH 7,50, HCO₃⁻ 34 e PaCO₂ 46 sugerem processo primário:",
+      "explanations": {
+        "direct": "Alcalose metabólica. CO₂ mais alto pode compensar; não explica sozinho alcalemia.",
+        "intuitive": "A base aumentou e elevou o pH.",
+        "technical": "CO₂ mais alto pode compensar; não explica sozinho alcalemia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0270",
+      "number": 270,
+      "topicId": "F07",
+      "text": "pH 7,28 e PaCO₂ 60, com bicarbonato discretamente elevado, sugerem:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alcalose metabólica isolada"
+        },
+        {
+          "id": "B",
+          "text": "Alcalose respiratória"
+        },
+        {
+          "id": "C",
+          "text": "Acidose respiratória"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "pH 7,28 e PaCO₂ 60, com bicarbonato discretamente elevado, sugerem:",
+      "explanations": {
+        "direct": "Acidose respiratória. A retenção de CO₂ é primária; bicarbonato pode subir por tamponamento e compensação.",
+        "intuitive": "CO₂ retido aumenta a acidez.",
+        "technical": "A retenção de CO₂ é primária; bicarbonato pode subir por tamponamento e compensação."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0271",
+      "number": 271,
+      "topicId": "F07",
+      "text": "pH 7,52 e PaCO₂ 25, com bicarbonato reduzido, sugerem:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alcalose respiratória"
+        },
+        {
+          "id": "B",
+          "text": "Acidose respiratória"
+        },
+        {
+          "id": "C",
+          "text": "Alcalose metabólica isolada"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "pH 7,52 e PaCO₂ 25, com bicarbonato reduzido, sugerem:",
+      "explanations": {
+        "direct": "Alcalose respiratória. A queda compensatória de bicarbonato limita, mas não causa, a alcalemia.",
+        "intuitive": "CO₂ foi eliminado em excesso.",
+        "technical": "A queda compensatória de bicarbonato limita, mas não causa, a alcalemia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0272",
+      "number": 272,
+      "topicId": "F07",
+      "text": "Na acidose respiratória crônica, o rim tende a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eliminar bicarbonato em excesso"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar bicarbonato plasmático"
+        },
+        {
+          "id": "C",
+          "text": "Parar de excretar ácido"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Na acidose respiratória crônica, o rim tende a:",
+      "explanations": {
+        "direct": "Aumentar bicarbonato plasmático. A adaptação leva dias e difere do tamponamento agudo.",
+        "intuitive": "O rim aumenta a base para compensar o CO₂ retido.",
+        "technical": "A adaptação leva dias e difere do tamponamento agudo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0273",
+      "number": 273,
+      "topicId": "F07",
+      "text": "Uma pessoa permanece vários dias com PaCO₂ reduzida por hiperventilação sustentada. Qual ajuste renal ajuda a limitar a elevação do pH?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Produzir CO₂ alveolar diretamente"
+        },
+        {
+          "id": "B",
+          "text": "Aumentar excreção de bicarbonato"
+        },
+        {
+          "id": "C",
+          "text": "Reter mais bicarbonato"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Uma pessoa permanece vários dias com PaCO₂ reduzida por hiperventilação sustentada. Qual ajuste renal ajuda a limitar a elevação do pH?",
+      "explanations": {
+        "direct": "Aumentar excreção de bicarbonato. A compensação renal não é instantânea e não controla diretamente a produção alveolar.",
+        "intuitive": "Perder base reduz a elevação do pH.",
+        "technical": "A compensação renal não é instantânea e não controla diretamente a produção alveolar."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0274",
+      "number": 274,
+      "topicId": "F07",
+      "text": "Na⁺ 140, Cl⁻ 104 e HCO₃⁻ 12 dão ânion gap de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "48 mEq/L"
+        },
+        {
+          "id": "B",
+          "text": "24 mEq/L"
+        },
+        {
+          "id": "C",
+          "text": "12 mEq/L"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Na⁺ 140, Cl⁻ 104 e HCO₃⁻ 12 dão ânion gap de:",
+      "explanations": {
+        "direct": "24 mEq/L. 140 − (104 + 12) = 24; referências variam com laboratório e albumina.",
+        "intuitive": "Subtraia 116 de 140.",
+        "technical": "140 − (104 + 12) = 24; referências variam com laboratório e albumina."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0275",
+      "number": 275,
+      "topicId": "F07",
+      "text": "Após diarreia volumosa, uma pessoa apresenta bicarbonato baixo, cloreto elevado e ânion gap dentro da referência. Qual distúrbio é compatível com a perda intestinal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alcalose respiratória isolada"
+        },
+        {
+          "id": "B",
+          "text": "Acidose metabólica hiperclorêmica"
+        },
+        {
+          "id": "C",
+          "text": "Alcalose metabólica hipoclorêmica"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Após diarreia volumosa, uma pessoa apresenta bicarbonato baixo, cloreto elevado e ânion gap dentro da referência. Qual distúrbio é compatível com a perda intestinal?",
+      "explanations": {
+        "direct": "Acidose metabólica hiperclorêmica. A perda de base é compensada eletricamente por cloreto; vômitos gástricos tendem ao padrão oposto.",
+        "intuitive": "As fezes podem levar embora bicarbonato.",
+        "technical": "A perda de base é compensada eletricamente por cloreto; vômitos gástricos tendem ao padrão oposto."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0276",
+      "number": 276,
+      "topicId": "F07",
+      "text": "Um paciente com vômitos gástricos persistentes desenvolve hipocloremia e aumento de bicarbonato plasmático. Qual distúrbio primário é mais provável?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acidose metabólica obrigatória"
+        },
+        {
+          "id": "B",
+          "text": "Alcalose metabólica"
+        },
+        {
+          "id": "C",
+          "text": "Acidose respiratória primária"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente com vômitos gástricos persistentes desenvolve hipocloremia e aumento de bicarbonato plasmático. Qual distúrbio primário é mais provável?",
+      "explanations": {
+        "direct": "Alcalose metabólica. Depleção de volume, cloreto e potássio pode manter a alcalose.",
+        "intuitive": "Perder ácido do estômago deixa mais base no organismo.",
+        "technical": "Depleção de volume, cloreto e potássio pode manter a alcalose."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0277",
+      "number": 277,
+      "topicId": "F07",
+      "text": "Hipoperfusão grave pode causar acidose láctica por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Retenção isolada de bicarbonato"
+        },
+        {
+          "id": "B",
+          "text": "Perda exclusiva de ácido gástrico"
+        },
+        {
+          "id": "C",
+          "text": "Produção e depuração inadequadamente equilibradas de lactato"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Hipoperfusão grave pode causar acidose láctica por:",
+      "explanations": {
+        "direct": "Produção e depuração inadequadamente equilibradas de lactato. Hipóxia pode contribuir, mas hiperlactatemia tem outros mecanismos; vômitos tendem à alcalose.",
+        "intuitive": "O lactato se acumula quando produção supera remoção.",
+        "technical": "Hipóxia pode contribuir, mas hiperlactatemia tem outros mecanismos; vômitos tendem à alcalose."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0278",
+      "number": 278,
+      "topicId": "F07",
+      "text": "Com HCO₃⁻ 10, a PaCO₂ compensatória esperada é aproximadamente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 mmHg"
+        },
+        {
+          "id": "B",
+          "text": "40 mmHg"
+        },
+        {
+          "id": "C",
+          "text": "23 mmHg"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Com HCO₃⁻ 10, a PaCO₂ compensatória esperada é aproximadamente:",
+      "explanations": {
+        "direct": "23 mmHg. A faixa esperada é cerca de 21–25; valores fora sugerem componente respiratório adicional.",
+        "intuitive": "Use 1,5 vezes 10 mais 8.",
+        "technical": "A faixa esperada é cerca de 21–25; valores fora sugerem componente respiratório adicional."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0279",
+      "number": 279,
+      "topicId": "F07",
+      "text": "Um paciente tem acidose metabólica com HCO₃⁻ 10 mEq/L. Pela fórmula de Winter, a PaCO₂ esperada é 23 ± 2 mmHg, mas a medida é 38 mmHg. Qual processo adicional deve ser considerado?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alcalose respiratória associada"
+        },
+        {
+          "id": "B",
+          "text": "Acidose respiratória associada"
+        },
+        {
+          "id": "C",
+          "text": "Compensação excessiva normal"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Caso e aplicação",
+      "learningObjective": "Um paciente tem acidose metabólica com HCO₃⁻ 10 mEq/L. Pela fórmula de Winter, a PaCO₂ esperada é 23 ± 2 mmHg, mas a medida é 38 mmHg. Qual processo adicional deve ser considerado?",
+      "explanations": {
+        "direct": "Acidose respiratória associada. Compensação inadequada para cima indica componente acidificante respiratório.",
+        "intuitive": "O pulmão está eliminando menos CO₂ que o esperado.",
+        "technical": "Compensação inadequada para cima indica componente acidificante respiratório."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "F07-0280",
+      "number": 280,
+      "topicId": "F07",
+      "text": "A acidose tubular renal tipo 4 associa-se frequentemente a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipercalcemia e excesso de ADH"
+        },
+        {
+          "id": "B",
+          "text": "Hipercalemia e menor ação de aldosterona"
+        },
+        {
+          "id": "C",
+          "text": "Hipocalemia e excesso de aldosterona"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "A acidose tubular renal tipo 4 associa-se frequentemente a:",
+      "explanations": {
+        "direct": "Hipercalemia e menor ação de aldosterona. Hipercalemia reduz amoniogênese; não é o padrão clássico de perda de K⁺ das outras formas.",
+        "intuitive": "Falta de ação mineralocorticoide prejudica potássio e excreção de ácido.",
+        "technical": "Hipercalemia reduz amoniogênese; não é o padrão clássico de perda de K⁺ das outras formas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

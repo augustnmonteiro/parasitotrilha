@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P20",
+    "name": "Farmacologia · 20 · Asma e DPOC",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 20
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P20-0617",
+      "number": 617,
+      "topicId": "P20",
+      "text": "Corticosteroides inalados na asma atuam principalmente como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anti-inflamatórios"
+        },
+        {
+          "id": "B",
+          "text": "Broncodilatadores imediatos puros"
+        },
+        {
+          "id": "C",
+          "text": "Antibióticos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Corticosteroides inalados na asma atuam principalmente como:",
+      "explanations": {
+        "direct": "Anti-inflamatórios. Não substituem por mecanismo um broncodilatador rápido em broncoespasmo agudo.",
+        "intuitive": "Reduzem o processo que mantém a via aérea reativa.",
+        "technical": "Não substituem por mecanismo um broncodilatador rápido em broncoespasmo agudo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P20-0618",
+      "number": 618,
+      "topicId": "P20",
+      "text": "Formoterol combina:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio de receptores β2"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de broncodilatação"
+        },
+        {
+          "id": "C",
+          "text": "Início relativamente rápido e longa duração"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Formoterol combina:",
+      "explanations": {
+        "direct": "Início relativamente rápido e longa duração. Seu uso em estratégias com corticoide depende da formulação e orientação clínica.",
+        "intuitive": "Duração longa não significa necessariamente início lento.",
+        "technical": "Seu uso em estratégias com corticoide depende da formulação e orientação clínica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P20-0619",
+      "number": 619,
+      "topicId": "P20",
+      "text": "Omalizumabe atua principalmente contra:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receptor de acetilcolina Nm"
+        },
+        {
+          "id": "B",
+          "text": "DNA bacteriano"
+        },
+        {
+          "id": "C",
+          "text": "IgE livre"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Omalizumabe atua principalmente contra:",
+      "explanations": {
+        "direct": "IgE livre. É terapia de perfil específico; não é broncodilatador de resgate universal.",
+        "intuitive": "Reduz uma peça da resposta alérgica.",
+        "technical": "É terapia de perfil específico; não é broncodilatador de resgate universal."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P20-0620",
+      "number": 620,
+      "topicId": "P20",
+      "text": "Candidíase oral com corticoide inalado decorre de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aumento de acidez renal"
+        },
+        {
+          "id": "B",
+          "text": "Efeito imunológico local na mucosa"
+        },
+        {
+          "id": "C",
+          "text": "Bloqueio β2"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Candidíase oral com corticoide inalado decorre de:",
+      "explanations": {
+        "direct": "Efeito imunológico local na mucosa. Técnica de uso e enxágue podem reduzir depósito; não é efeito de antagonismo beta.",
+        "intuitive": "Parte do medicamento fica na boca e altera defesa local.",
+        "technical": "Técnica de uso e enxágue podem reduzir depósito; não é efeito de antagonismo beta."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P20-0621",
+      "number": 621,
+      "topicId": "P20",
+      "text": "Salmeterol se caracteriza por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonismo β2 prolongado"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueio de IgE"
+        },
+        {
+          "id": "C",
+          "text": "Antagonismo M3 irreversível"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Salmeterol se caracteriza por:",
+      "explanations": {
+        "direct": "Agonismo β2 prolongado. Não é equivalente a fármaco de resgate rápido; na asma, LABA não deve ser usado isoladamente sem componente anti-inflamatório apropriado.",
+        "intuitive": "Mantém broncodilatação por mais tempo.",
+        "technical": "Não é equivalente a fármaco de resgate rápido; na asma, LABA não deve ser usado isoladamente sem componente anti-inflamatório apropriado."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P20-0622",
+      "number": 622,
+      "topicId": "P20",
+      "text": "Mepolizumabe bloqueia:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Imunoglobulina E"
+        },
+        {
+          "id": "B",
+          "text": "Interleucina 5"
+        },
+        {
+          "id": "C",
+          "text": "Receptor de IL-4/IL-13"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Mepolizumabe bloqueia:",
+      "explanations": {
+        "direct": "Interleucina 5. A seleção depende de fenótipo; não trata toda asma pelo mesmo mecanismo.",
+        "intuitive": "Reduz sinal importante para eosinófilos.",
+        "technical": "A seleção depende de fenótipo; não trata toda asma pelo mesmo mecanismo."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P20-0623",
+      "number": 623,
+      "topicId": "P20",
+      "text": "Teofilina exige atenção por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Margem terapêutica estreita e interações"
+        },
+        {
+          "id": "B",
+          "text": "Ausência de efeitos cardíacos"
+        },
+        {
+          "id": "C",
+          "text": "Eliminação independente de metabolismo"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Teofilina exige atenção por:",
+      "explanations": {
+        "direct": "Margem terapêutica estreita e interações. Pode causar arritmias e convulsões; não é uma xantina sem toxicidade sistêmica.",
+        "intuitive": "Pequenas mudanças de exposição podem ser importantes.",
+        "technical": "Pode causar arritmias e convulsões; não é uma xantina sem toxicidade sistêmica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P20-0624",
+      "number": 624,
+      "topicId": "P20",
+      "text": "Roflumilaste inibe:",
+      "options": [
+        {
+          "id": "A",
+          "text": "COX irreversivelmente"
+        },
+        {
+          "id": "B",
+          "text": "PDE4"
+        },
+        {
+          "id": "C",
+          "text": "PDE5"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Roflumilaste inibe:",
+      "explanations": {
+        "direct": "PDE4. É modulador inflamatório usado em contextos específicos de DPOC, não broncodilatador imediato.",
+        "intuitive": "Aumenta AMPc em células inflamatórias.",
+        "technical": "É modulador inflamatório usado em contextos específicos de DPOC, não broncodilatador imediato."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

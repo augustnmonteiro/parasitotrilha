@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P30",
+    "name": "Farmacologia · 30 · Antidepressivos",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 30
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P30-0697",
+      "number": 697,
+      "topicId": "P30",
+      "text": "O atraso do benefício antidepressivo apesar de bloqueio rápido de SERT sugere:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Participação de adaptações de circuitos"
+        },
+        {
+          "id": "B",
+          "text": "Necessidade de atingir o pico plasmático apenas após semanas"
+        },
+        {
+          "id": "C",
+          "text": "Ausência de qualquer ação farmacológica inicial"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "O atraso do benefício antidepressivo apesar de bloqueio rápido de SERT sugere:",
+      "explanations": {
+        "direct": "Participação de adaptações de circuitos. O tempo clínico não é explicado apenas por absorção ou concentração imediata.",
+        "intuitive": "Mudar o transporte é rápido; reorganizar a resposta leva mais tempo.",
+        "technical": "O tempo clínico não é explicado apenas por absorção ou concentração imediata."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P30-0698",
+      "number": 698,
+      "topicId": "P30",
+      "text": "ISRS aumentam serotonina sináptica por inibir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transportador SERT"
+        },
+        {
+          "id": "B",
+          "text": "Receptor 5-HT3"
+        },
+        {
+          "id": "C",
+          "text": "Enzima MAO-A"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "ISRS aumentam serotonina sináptica por inibir:",
+      "explanations": {
+        "direct": "Transportador SERT. Isso não equivale a agonismo de todos os receptores serotoninérgicos.",
+        "intuitive": "A mensagem é recolhida mais lentamente.",
+        "technical": "Isso não equivale a agonismo de todos os receptores serotoninérgicos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P30-0699",
+      "number": 699,
+      "topicId": "P30",
+      "text": "Efeitos de boca seca e constipação de tricíclicos decorrem de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibição exclusiva de SERT"
+        },
+        {
+          "id": "B",
+          "text": "Antagonismo muscarínico"
+        },
+        {
+          "id": "C",
+          "text": "Agonismo M3"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Efeitos de boca seca e constipação de tricíclicos decorrem de:",
+      "explanations": {
+        "direct": "Antagonismo muscarínico. O perfil não se limita à recaptação de monoaminas.",
+        "intuitive": "Há bloqueio de funções parassimpáticas.",
+        "technical": "O perfil não se limita à recaptação de monoaminas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P30-0700",
+      "number": 700,
+      "topicId": "P30",
+      "text": "Bupropiona exige cautela em predisposição a convulsões porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pode reduzir limiar convulsivo"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueia irreversivelmente NMDA"
+        },
+        {
+          "id": "C",
+          "text": "É anticonvulsivante universal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Bupropiona exige cautela em predisposição a convulsões porque:",
+      "explanations": {
+        "direct": "Pode reduzir limiar convulsivo. Não deve ser confundida com fármacos antiepilépticos.",
+        "intuitive": "Seu perfil de risco inclui crises em situações predisponentes.",
+        "technical": "Não deve ser confundida com fármacos antiepilépticos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P30-0701",
+      "number": 701,
+      "topicId": "P30",
+      "text": "Tricíclicos em intoxicação podem causar arritmias por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloqueio de canais cardíacos de Na⁺"
+        },
+        {
+          "id": "B",
+          "text": "Inibição de fator Xa"
+        },
+        {
+          "id": "C",
+          "text": "Ativação de ENaC renal"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Tricíclicos em intoxicação podem causar arritmias por:",
+      "explanations": {
+        "direct": "Bloqueio de canais cardíacos de Na⁺. Alargamento de QRS é relevante; não é um anticoagulante.",
+        "intuitive": "Além de monoaminas, atingem a condução cardíaca.",
+        "technical": "Alargamento de QRS é relevante; não é um anticoagulante."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P30-0702",
+      "number": 702,
+      "topicId": "P30",
+      "text": "Mirtazapina pode causar sedação em parte por bloquear:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Histamina H1"
+        },
+        {
+          "id": "B",
+          "text": "Acetilcolina Nm"
+        },
+        {
+          "id": "C",
+          "text": "Dopamina D2"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Mirtazapina pode causar sedação em parte por bloquear:",
+      "explanations": {
+        "direct": "Histamina H1. Também atua em receptores adrenérgicos e serotoninérgicos; não é apenas anti-H1.",
+        "intuitive": "A ação histamínica central favorece sonolência.",
+        "technical": "Também atua em receptores adrenérgicos e serotoninérgicos; não é apenas anti-H1."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P30-0703",
+      "number": 703,
+      "topicId": "P30",
+      "text": "Associar IMAO a fármaco fortemente serotoninérgico pode causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de interação"
+        },
+        {
+          "id": "B",
+          "text": "Deficiência obrigatória de serotonina"
+        },
+        {
+          "id": "C",
+          "text": "Síndrome serotoninérgica"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Associar IMAO a fármaco fortemente serotoninérgico pode causar:",
+      "explanations": {
+        "direct": "Síndrome serotoninérgica. As combinações e intervalos de troca exigem avaliação específica.",
+        "intuitive": "Produção de sinal aumenta enquanto sua remoção fica comprometida.",
+        "technical": "As combinações e intervalos de troca exigem avaliação específica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P30-0704",
+      "number": 704,
+      "topicId": "P30",
+      "text": "Sintomas após interrupção abrupta de certos antidepressivos podem representar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prova automática de dependência com compulsão"
+        },
+        {
+          "id": "B",
+          "text": "Infecção bacteriana obrigatória"
+        },
+        {
+          "id": "C",
+          "text": "Síndrome de descontinuação"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Sintomas após interrupção abrupta de certos antidepressivos podem representar:",
+      "explanations": {
+        "direct": "Síndrome de descontinuação. Descontinuação e transtorno por uso de substância não são conceitos equivalentes.",
+        "intuitive": "O organismo pode reagir à mudança rápida de exposição.",
+        "technical": "Descontinuação e transtorno por uso de substância não são conceitos equivalentes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

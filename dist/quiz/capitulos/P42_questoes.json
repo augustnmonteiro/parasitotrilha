@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P42",
+    "name": "Farmacologia · 42 · Metabolismo ósseo",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 42
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P42-0793",
+      "number": 793,
+      "topicId": "P42",
+      "text": "Denosumabe neutraliza:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Calcitriol"
+        },
+        {
+          "id": "B",
+          "text": "PTH diretamente"
+        },
+        {
+          "id": "C",
+          "text": "RANKL"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Denosumabe neutraliza:",
+      "explanations": {
+        "direct": "RANKL. Não é análogo de PTH nem inibidor de absorção intestinal de cálcio.",
+        "intuitive": "Impede um sinal necessário à formação e atividade osteoclástica.",
+        "technical": "Não é análogo de PTH nem inibidor de absorção intestinal de cálcio."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P42-0794",
+      "number": 794,
+      "topicId": "P42",
+      "text": "Teriparatida em exposição intermitente pode:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estimular formação óssea"
+        },
+        {
+          "id": "B",
+          "text": "Bloquear receptor de PTH"
+        },
+        {
+          "id": "C",
+          "text": "Inibir obrigatoriamente todos os osteoblastos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Teriparatida em exposição intermitente pode:",
+      "explanations": {
+        "direct": "Estimular formação óssea. Exposição contínua ao PTH tem perfil diferente; mecanismo depende do regime.",
+        "intuitive": "O padrão de pulsos muda o efeito no osso.",
+        "technical": "Exposição contínua ao PTH tem perfil diferente; mecanismo depende do regime."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P42-0795",
+      "number": 795,
+      "topicId": "P42",
+      "text": "Cinacalcete atua como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antagonista de vitamina D"
+        },
+        {
+          "id": "B",
+          "text": "Modulador positivo do receptor sensor de cálcio"
+        },
+        {
+          "id": "C",
+          "text": "Agonista de PTH"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Cinacalcete atua como:",
+      "explanations": {
+        "direct": "Modulador positivo do receptor sensor de cálcio. Isso reduz secreção de PTH; pode baixar cálcio plasmático.",
+        "intuitive": "A paratireoide percebe cálcio com maior sensibilidade.",
+        "technical": "Isso reduz secreção de PTH; pode baixar cálcio plasmático."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P42-0796",
+      "number": 796,
+      "topicId": "P42",
+      "text": "Raloxifeno apresenta ação estrogênica útil no:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tecido mamário"
+        },
+        {
+          "id": "B",
+          "text": "Endométrio"
+        },
+        {
+          "id": "C",
+          "text": "Osso"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Raloxifeno apresenta ação estrogênica útil no:",
+      "explanations": {
+        "direct": "Osso. Pode aumentar risco tromboembólico; não é anabolizante androgênico.",
+        "intuitive": "O mesmo modulador pode agir diferentemente conforme o tecido.",
+        "technical": "Pode aumentar risco tromboembólico; não é anabolizante androgênico."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P42-0797",
+      "number": 797,
+      "topicId": "P42",
+      "text": "Bisfosfonatos reduzem reabsorção óssea por agir principalmente sobre:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Osteoclastos"
+        },
+        {
+          "id": "B",
+          "text": "Osteoblastos como estimuladores diretos exclusivos"
+        },
+        {
+          "id": "C",
+          "text": "Condroblastos"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Bisfosfonatos reduzem reabsorção óssea por agir principalmente sobre:",
+      "explanations": {
+        "direct": "Osteoclastos. Os nitrogenados interferem na via do mevalonato; não são simples suplementos de cálcio.",
+        "intuitive": "Diminuem a atividade das células que retiram osso.",
+        "technical": "Os nitrogenados interferem na via do mevalonato; não são simples suplementos de cálcio."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P42-0798",
+      "number": 798,
+      "topicId": "P42",
+      "text": "Calcitriol aumenta cálcio em parte por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bloquear todos os transportadores de cálcio"
+        },
+        {
+          "id": "B",
+          "text": "Eliminar cálcio na bile como ação principal"
+        },
+        {
+          "id": "C",
+          "text": "Aumentar absorção intestinal"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Calcitriol aumenta cálcio em parte por:",
+      "explanations": {
+        "direct": "Aumentar absorção intestinal. Excesso pode causar hipercalcemia e hiperfosfatemia; não é inerte.",
+        "intuitive": "Ajuda a captar mineral dos alimentos.",
+        "technical": "Excesso pode causar hipercalcemia e hiperfosfatemia; não é inerte."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P42-0799",
+      "number": 799,
+      "topicId": "P42",
+      "text": "Alendronato oral pode causar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hiperglicemia por agonismo β2"
+        },
+        {
+          "id": "B",
+          "text": "Broncodilatação"
+        },
+        {
+          "id": "C",
+          "text": "Irritação esofágica"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Alendronato oral pode causar:",
+      "explanations": {
+        "direct": "Irritação esofágica. Técnica de administração e contraindicações esofágicas são relevantes.",
+        "intuitive": "A exposição local pode irritar o esôfago.",
+        "technical": "Técnica de administração e contraindicações esofágicas são relevantes."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P42-0800",
+      "number": 800,
+      "topicId": "P42",
+      "text": "Um risco de denosumabe, especialmente em situações predisponentes, é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hipocalcemia"
+        },
+        {
+          "id": "B",
+          "text": "Hipercalcemia obrigatória"
+        },
+        {
+          "id": "C",
+          "text": "Hipernatremia por bloqueio V2"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Um risco de denosumabe, especialmente em situações predisponentes, é:",
+      "explanations": {
+        "direct": "Hipocalcemia. Função renal, vitamina D e balanço mineral modificam risco.",
+        "intuitive": "Menos reabsorção óssea pode reduzir cálcio disponível.",
+        "technical": "Função renal, vitamina D e balanço mineral modificam risco."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}

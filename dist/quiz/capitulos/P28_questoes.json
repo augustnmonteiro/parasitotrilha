@@ -1,0 +1,333 @@
+{
+  "version": "1.0-a4cbd595c06c",
+  "topic": {
+    "id": "P28",
+    "name": "Farmacologia · 28 · Parkinsonismo",
+    "book": "Katzung — Basic & Clinical Pharmacology, 16ª edição",
+    "chapter": 28
+  },
+  "sourcePolicy": "Questões originais geradas a partir de conhecimento geral de fisiologia e farmacologia. Nenhum livro integral foi fornecido ou consultado. Foram consultados os sumários oficiais das editoras para mapear os capítulos. A indicação do livro é uma referência de organização e estudo, não uma citação de suporte verificada para cada item. Não há reprodução de questões, páginas ou citações textuais dos livros.",
+  "references": [
+    {
+      "title": "Costanzo Physiology, 8ª edição — Elsevier",
+      "url": "https://shop.elsevier.com/books/costanzo-physiology/costanzo/978-0-443-26461-0",
+      "use": "Sumário oficial consultado para identificar os 10 capítulos. Conteúdo integral não consultado."
+    },
+    {
+      "title": "Katzung — Basic & Clinical Pharmacology, 16ª edição — McGraw Hill",
+      "url": "https://accessmedicine.mhmedical.com/book.aspx?bookid=3382",
+      "use": "Página editorial consultada para identificar a obra e sua organização geral."
+    },
+    {
+      "title": "Katzung — Farmacología Básica y Clínica, 16ª edição — McGraw Hill",
+      "url": "https://www.mheducation.com.mx/katzung-farmacologia-basica-y-clinica-9786071523716-latam",
+      "use": "Sumário oficial da tradução espanhola consultado para conferir os 67 capítulos numerados; títulos de filtro abreviados em português."
+    }
+  ],
+  "questions": [
+    {
+      "id": "P28-0681",
+      "number": 681,
+      "topicId": "P28",
+      "text": "Selegilina atua principalmente inibindo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "MAO-B"
+        },
+        {
+          "id": "B",
+          "text": "Acetilcolinesterase"
+        },
+        {
+          "id": "C",
+          "text": "COX-1"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Selegilina atua principalmente inibindo:",
+      "explanations": {
+        "direct": "MAO-B. Seletividade depende de dose; interações devem ser consideradas.",
+        "intuitive": "Reduz degradação dopaminérgica.",
+        "technical": "Seletividade depende de dose; interações devem ser consideradas."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P28-0682",
+      "number": 682,
+      "topicId": "P28",
+      "text": "Pramipexol é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agonista dopaminérgico"
+        },
+        {
+          "id": "B",
+          "text": "Inibidor de síntese de dopamina"
+        },
+        {
+          "id": "C",
+          "text": "Antagonista D2"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Fundamentos",
+      "questionType": "Conceito",
+      "learningObjective": "Pramipexol é:",
+      "explanations": {
+        "direct": "Agonista dopaminérgico. Pode causar sonolência e transtornos do controle de impulsos.",
+        "intuitive": "Estimula diretamente receptores do sistema dopaminérgico.",
+        "technical": "Pode causar sonolência e transtornos do controle de impulsos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P28-0683",
+      "number": 683,
+      "topicId": "P28",
+      "text": "Levodopa é usada porque:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dopamina oral atravessa livremente em quantidade ideal"
+        },
+        {
+          "id": "B",
+          "text": "Bloqueia receptores D2"
+        },
+        {
+          "id": "C",
+          "text": "Atravessa a barreira cerebral e vira dopamina"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Levodopa é usada porque:",
+      "explanations": {
+        "direct": "Atravessa a barreira cerebral e vira dopamina. Dopamina atravessa pouco a barreira; levodopa utiliza transportadores de aminoácidos.",
+        "intuitive": "É um precursor capaz de chegar ao local necessário.",
+        "technical": "Dopamina atravessa pouco a barreira; levodopa utiliza transportadores de aminoácidos."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P28-0684",
+      "number": 684,
+      "topicId": "P28",
+      "text": "Carbidopa aumenta utilidade da levodopa por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inibir descarboxilação periférica"
+        },
+        {
+          "id": "B",
+          "text": "Bloquear toda conversão cerebral"
+        },
+        {
+          "id": "C",
+          "text": "Estimular degradação por COMT"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Carbidopa aumenta utilidade da levodopa por:",
+      "explanations": {
+        "direct": "Inibir descarboxilação periférica. Penetra pouco no SNC; reduz efeitos periféricos e aumenta disponibilidade central.",
+        "intuitive": "Menos precursor é desperdiçado fora do cérebro.",
+        "technical": "Penetra pouco no SNC; reduz efeitos periféricos e aumenta disponibilidade central."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P28-0685",
+      "number": 685,
+      "topicId": "P28",
+      "text": "Entacapona inibe:",
+      "options": [
+        {
+          "id": "A",
+          "text": "MAO-A exclusivamente"
+        },
+        {
+          "id": "B",
+          "text": "Tirosina-hidroxilase"
+        },
+        {
+          "id": "C",
+          "text": "COMT"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Entacapona inibe:",
+      "explanations": {
+        "direct": "COMT. É adjuvante, não reposição direta de dopamina isoladamente.",
+        "intuitive": "Diminui uma via de metabolismo da levodopa.",
+        "technical": "É adjuvante, não reposição direta de dopamina isoladamente."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P28-0686",
+      "number": 686,
+      "topicId": "P28",
+      "text": "Flutuação de fim de dose com levodopa significa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cura permanente seguida de outra doença"
+        },
+        {
+          "id": "B",
+          "text": "Retorno de sintomas antes da próxima dose"
+        },
+        {
+          "id": "C",
+          "text": "Alergia IgE obrigatória"
+        }
+      ],
+      "correctOptionId": "B",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Flutuação de fim de dose com levodopa significa:",
+      "explanations": {
+        "direct": "Retorno de sintomas antes da próxima dose. Relaciona-se à farmacocinética e perda de reserva dopaminérgica; não prova alergia.",
+        "intuitive": "O efeito não dura até a administração seguinte.",
+        "technical": "Relaciona-se à farmacocinética e perda de reserva dopaminérgica; não prova alergia."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P28-0687",
+      "number": 687,
+      "topicId": "P28",
+      "text": "Antimuscarínicos no parkinsonismo podem ajudar tremor, mas preocupam por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Confusão, retenção urinária e boca seca"
+        },
+        {
+          "id": "B",
+          "text": "Miose e diarreia colinérgicas"
+        },
+        {
+          "id": "C",
+          "text": "Hipoglicemia como efeito obrigatório"
+        }
+      ],
+      "correctOptionId": "A",
+      "difficulty": "Mecanismos",
+      "questionType": "Mecanismo",
+      "learningObjective": "Antimuscarínicos no parkinsonismo podem ajudar tremor, mas preocupam por:",
+      "explanations": {
+        "direct": "Confusão, retenção urinária e boca seca. São especialmente problemáticos em pessoas vulneráveis a carga anticolinérgica.",
+        "intuitive": "O benefício motor pode custar efeitos centrais e periféricos.",
+        "technical": "São especialmente problemáticos em pessoas vulneráveis a carga anticolinérgica."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    },
+    {
+      "id": "P28-0688",
+      "number": 688,
+      "topicId": "P28",
+      "text": "Discinesias associadas à levodopa representam:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ausência de qualquer ação central"
+        },
+        {
+          "id": "B",
+          "text": "Fraqueza por bloqueio Nm"
+        },
+        {
+          "id": "C",
+          "text": "Movimentos involuntários relacionados ao tratamento"
+        }
+      ],
+      "correctOptionId": "C",
+      "difficulty": "Aplicação",
+      "questionType": "Aplicação e comparação",
+      "learningObjective": "Discinesias associadas à levodopa representam:",
+      "explanations": {
+        "direct": "Movimentos involuntários relacionados ao tratamento. Diferem de paralisia periférica e exigem interpretação do momento em relação à dose.",
+        "intuitive": "A estimulação motora pode ultrapassar o desejado.",
+        "technical": "Diferem de paralisia periférica e exigem interpretação do momento em relação à dose."
+      },
+      "source": {
+        "type": "general_subject_knowledge",
+        "description": "Conteúdo autoral gerado a partir de conhecimento geral. Sumário editorial usado para organizar a cobertura; não é questão extraída da obra."
+      },
+      "provenance": {
+        "label": "Questão autoral",
+        "bookChapterMapping": true,
+        "extractedFromBook": false
+      }
+    }
+  ]
+}
